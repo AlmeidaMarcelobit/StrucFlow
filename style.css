@@ -23,6 +23,7 @@ article {
 img{
     width: 191px;
     height: 291px;
+    border-radius: 7px;
 }
 h2 {
     margin-left: 10px;
@@ -51,4 +52,11 @@ footer p {
 
 .equipamento {
     margin-bottom: 20px;
+    padding: 0 0 0 10px;;
+    border: 1px solid #ccc;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.serial{
+    text-transform: uppercase;
 }
