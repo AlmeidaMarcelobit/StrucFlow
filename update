@@ -1,0 +1,26 @@
+10.0.0
+
+- Migração das páginas do site de HTML para PHP.
+- Refatoração do código para utilizar semântica correta, substituindo elementos <div> por tags semânticas apropriadas, como <header>, <article>, <section>, <nav>, <aside>, <footer>, entre outras. Isso melhora a acessibilidade e a organização do código, tornando-o mais legível e compreensível para desenvolvedores e máquinas.
+- Adição de uma área de observação nos colaboradores para lidar com dados não encontrados ou termos faltantes.
+- Implementação de menu dinâmico utilizando PHP include para garantir atualização automática em todas as páginas.
+- Implementação de footer dinâmico utilizando PHP include para garantir atualização em massa.
+- Adição de página contendo uma lista completa de todos os centros de custo.
+- Adição de arquivo CSS para estilização dos centros de custo.
+- Refatoração completa da página Atendimento ao Cliente.
+- Refatoração completa da página Consultoria.
+- Refatoração completa da página Pessoas e Cultura.
+- Correção na área de equipamento para incluir IMEI.
+- Correção de títulos de páginas.
+
+9.2.1
+
+- Correção de fechado de tag pagina consultoria.
+
+9.2.0
+
+- Correção de div sem classe em colaborador na página Pessoas e Cultura.
+- Criação da página de consultoria.
+- Adição de registro de colaboradores e fotos.
+- Correção de links de fotos incorretos.
+- Criação de arquivo com histórico de updates.

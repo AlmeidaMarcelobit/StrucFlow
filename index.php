@@ -8,11 +8,10 @@
 		<title>Colaboradores Ativos</title>
 	</head>
 	<body>
-		<div class="sidebar-menu">
-            <a href="departamentos/Atendimento ao Cliente.html">Atendimento ao Cliente</a>
-            <a href="departamentos/Pessoas e Cultura.html">Pessoas e Cultura</a>
-        </div>
-		<div class="main">
+		<?php
+		include 'header.php';
+		?>
+		<main>
 			<header>
 				<h1>COLABORADORES ATIVOS</h1>
 			</header>
@@ -2015,10 +2014,10 @@
             </div>
         </div>
     </article>
-
-        <footer>
-            <p>&copy; Reservado APEX.inc</p>
-        </footer>
     </div>
+	</main>
+	<?php
+		include 'footer.php';
+		?>
 </body>
 </html>

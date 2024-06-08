@@ -6,22 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
-    <title>Colaboradores Ativos</title>
+    <title>Pessoas e Cultura</title>
 </head>
 
 <body>
-    <div class="sidebar-menu">
-        <a href="Atendimento ao Cliente.html">Atendimento ao Cliente</a>
-        <a href="Pessoas e Cultura.html">Pessoas e Cultura</a>
-        <a href="Consultoria.html">Consultoria</a>
-    </div>
-    <div class="main">
+<?php
+		include 'header.php';
+		?>
+    <main>
         <header>
             <h1>COLABORADORES ATIVOS</h1>
         </header>
-        <article class="colaborador-verificar">
+        <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/DANIEL VIEIRA.JPG" alt="Foto de Daniel Morais Vieira" class="foto" />
                 </div>
                 <div class="colaborador-details">
@@ -35,8 +33,9 @@
                     <p><strong>CPF: </strong>888.237.501-30</p>
                     <p><strong>Data de Entrada: </strong>15.janeiro.2024</p>
                     <p><strong>Centro de Custo: </strong> 11000 - Diretoria - CEO</p>
+                    <p><strong>Termo de Entrega de Equipamento: </strong> Not Found</p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS DOS EQUIPAMENTOS</h2>
             <div class="equipamentos-info">
                 <div class="equipamento">
@@ -72,16 +71,19 @@
                     <p><strong>Marca/Modelo:</strong> Logitech H390</p>
                 </div>
             </div>
-            <div class="ticket">
+            <section class="ticket">
                 <p><strong>ID Ticket:</strong> #1465</p>
                 <p><strong>Equipamento:</strong> Headset, Notebook, Suporte, Telcado e Mouse</p>
                 <p><strong>ID Ticket:</strong> #13006</p>
                 <p><strong>Equipamento:</strong> Monitor</p>
-            </div>
+            </section>
+            <section class="obs">
+                <p><strong>Obserservação: </strong>Termo do colaborador não encontrado</p>
+            </section>
         </article>
-        <article class="colaborador-verificar">
+        <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img">
                     <img src="../foto_colaboradores/SEM FOTO.jpg" alt="Foto de Lara Alves de Souza" class="foto" />
                 </div>
@@ -95,12 +97,11 @@
                     <p><strong>Data da Entrada: </strong>20.maio.2024</p>
                     <p><strong>Centro de Custo: </strong>3006 - Pessoas & Cultura
                     </p>
-                    <p><strong>Termo de Entrega do Equipamento:
-                            </strong></p>
+                    <p><strong>Termo de Entrega do Equipamento:</strong>Not Found</p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS DOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo:</strong> Notebook Win-11 i5-1135G7 8GB
                     </p>
@@ -139,15 +140,18 @@
                     <p class="serial"><strong>S/N:</strong> 2329GG15JK8</p>
                     <p><strong>Marca/Modelo:</strong> LogiTecH390</p>
                 </div>
-            </div>
-            <div class="ticket">
+            </section>
+            <section class="ticket">
                 <p><strong>ID Ticket: </strong>#37472</p>
                 <p><strong>Equipamento: </strong>Headset, Notebook, Monitor, Suporte, Telcado e Mouse</p>
-            </div>
+            </section>
+            <section class="obs">
+                <p><strong>Oberservação: </strong>Solicitar termo para Bruna Brizzoti</p>
+            </section>
         </article>
         <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img">
                     <img src="../foto_colaboradores/Leandro Montenegro.jfif" alt="Foto de Leandro Tosta Montenegro" class="foto" />
                 </div>
@@ -166,9 +170,9 @@
                     <p><strong>Termo de Entrega do Equipamento: </strong><a href="https://drive.google.com/file/d/11sO6ZrjQjT_K3i-DTt2yyikSlsFpanIV/view?usp=sharing" target="_blank">Termo 01</a></p>
                     <p><strong>Subtituição: </strong>Bianca Duzzi</p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Notebook</p>
                     <p><strong>Patrimônio: </strong>250</p>
@@ -208,17 +212,17 @@
                     <p><strong>IMEI 2: </strong>359796405393182/01</p>
                     <p><strong>Marca/Modelo: </strong>Galaxy A03</p>
                 </div>
-            </div>
-            <div class="ticket">
+            </section>
+            <section class="ticket">
                 <p><strong>ID Ticket: </strong>#23022</p>
                 <p><strong>Equipamento: </strong>Noteebook Win-11 i5-1135G7 8GB, Fone, Teclado e Mouse, Suporte, Monitor, Celular
                 </p>
-            </div>
+            </section>
         </article>
-        <article class="colaborador-verificar">
+        <article>
             <!-- Sem termo dos equipamentos -->
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/Ana Almeida.jfif" alt="Foto de Ana Clara Lourenço de Almeida" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Ana Clara Lourenço de Almeida
@@ -234,9 +238,9 @@
                                 01</a></p>
                     <p><strong>Subtituição: </strong>Isabella Biscaro Vieira De Sousa</p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Suporte</p>
                     <p><strong>Patrimônio: </strong>984</p>
@@ -261,15 +265,18 @@
                     <p class="serial"><strong>S/N: </strong>2334CE2DE758</p>
                     <p><strong>Marca/Modelo: </strong>MK270</p>
                 </div>
-            </div>
-            <div class="ticket">
+            </section>
+            <section class="ticket">
                 <p><strong>ID Ticket: </strong>#28137</p>
                 <p><strong>Equipamento: </strong>Teclado e Mouse, Fone, Notebook, Suporte</p>
-            </div>
+            </section>
+            <section class="obs">
+                <p><strong>Oberservação: </strong>Sem termo dos equipamentos apenas, Somente termo do suporte encontrado</p>
+            </section>
         </article>
         <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/Iara Ribeiro.jfif" alt="Foto de Iara Cristina Moraes Ribeiro" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Iara Cristina Moraes Ribeiro
@@ -286,9 +293,9 @@
                                 01</a><a target="_blank" href="https://drive.google.com/file/d/11Xj43b3nlQCNRc829MOOFqka7ijQf4Hw/view?usp=sharing">Termo
                                 02</a></p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Monitor</p>
                     <p><strong>Patrimônio: </strong>1467</p>
@@ -322,17 +329,17 @@
                     <p class="serial"><strong>S/N: </strong></p>
                     <p><strong>Marca/Modelo: </strong>Alumínio</p>
                 </div>
-            </div>
-            <div>
+            </section>
+            <section>
                 <div class="ticket">
                     <p><strong>ID Ticket: </strong>#25325</p>
                     <p><strong>Equipamento: </strong>Suporte, Monitor, Notebook, Fone, Teclado e Mouse</p>
                 </div>
+            </section>
         </article>
-        <article class="colaborador-verificar">
-            <!-- Sem termo do Monitor na Base -->
+        <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/Wendell Oliveira.jfif" alt="Foto de Wendell Alessandro Candido Oliveira" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Wendell Alessandro Candido Oliveira</p>
@@ -349,9 +356,9 @@
                                 </strong><a target="_blank" href="https://drive.google.com/file/d/11xdalIwy5dhJ92ppko91rHodGkmNXOYz/view?usp=sharing">Termo
                                     01</a></p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Notebook</p>
                     <p><strong>Patrimônio: </strong>1446</p>
@@ -379,7 +386,7 @@
                     <p class="serial"><strong>S/N: </strong></p>
                     <p><strong>Marca/Modelo: </strong>Alumínio</p>
                 </div>
-                <div class="equipamento-danificados">
+                <div class="equipamento">
                     <p><strong>Tipo: </strong>Monitor</p>
                     <p><strong>Patrimônio: </strong>1517</p>
                     <p class="serial"><strong>S/N:
@@ -395,17 +402,19 @@
                     <p><strong>IMEI 2: </strong>359340983540185/05</p>
                     <p><strong>Marca/Modelo: </strong></p>
                 </div>
-            </div>
-            <div class="ticket">
+            </section>
+            <section class="ticket">
                 <p><strong>ID Ticket: </strong>#24560</p>
                 <p><strong>Equipamento: </strong>Celular, Monitor, Suporte, Teclado e Mouse, Fone, Notebook</p>
-
-            </div>
+            </section>
+            <section class="obs">
+                <p><strong>Oberservação: </strong>Sem termo do monitor</p>
+            </section>
         </article>
-        <article class="colaborador-verificar">
+        <article>
             <!-- verificar telcado e mouse -->
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/Leticia Silva.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Letícia Godoy da Silva
@@ -423,9 +432,9 @@
                                 </strong><a href="https://drive.google.com/file/d/1HrG5BblltOOflAO7pSeuZwRzhXiaqHeF/view?usp=sharing" target="_blank">Termo 01</a></p>
                     <p><strong>Subtituição: </strong>Juliana Souza</p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Notebook</p>
                     <p><strong>Patrimônio: </strong>230</p>
@@ -455,11 +464,16 @@
                     <p><strong>IMEI 2: </strong>354654236991887/01</p>
                     <p><strong>Marca/Modelo: </strong>Galaxy A03</p>
                 </div>
+            </section>
+            <section class="obs">
+                <p><strong>
+                    Observação: 
+                </strong>Verificar qual Teclado e Mouse esta usando</p>
+            </section>
         </article>
-        <article class="colaborador-verificar">
-            <!-- verificar telcado e mouse -->
+        <article>
             <h2>DADOS DO COLABORADOR</h2>
-            <div class="colaborador-info">
+            <section class="colaborador-info">
                 <div class="colaborador-img"> <img src="../foto_colaboradores/Ana Julia Bujardi.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Ana Julia Bujardi
@@ -475,9 +489,9 @@
                     <p><strong>Termo de Entrega do Equipamento:
                                     </strong><a href="https://drive.google.com/file/d/10slIb4kWAnw1L2ASTU2rVx5TCJZ61_L8/view?usp=sharing" target="_blank">Termo 01</a></p>
                 </div>
-            </div>
+            </section>
             <h2>DADOS EQUIPAMENTOS</h2>
-            <div class="equipamentos-info">
+            <section class="equipamentos-info">
                 <div class="equipamento">
                     <p><strong>Tipo: </strong>Notebook</p>
                     <p><strong>Patrimônio: </strong>1454</p>
@@ -514,13 +528,16 @@
                     <p><strong>Patrimônio:</strong>958</p>
                     <p><strong>Marca/Modelo: </strong>Alumínio</p>
                 </div>
-            </div>
-            <div class="ticket">
+            </section>
+            <section class="ticket">
                 <p><strong>ID Ticket: </strong>#27813</p>
                 <p><strong>Equipamento: </strong>Monitor, Notebook, Teclado e Mouse, Suporte, Headset</p>
-            </div>
+            </section>
         </article>
-        </div>
+    </main>
+    <?php
+		include '../footer.php';
+		?>
 </body>
 
 </html>
