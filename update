@@ -1,3 +1,8 @@
+10.0.1
+
+- Correção de fechamento de tags e correção de class
+- Ajuste correçoes no arquivo style.css
+
 10.0.0
 
 - Migração das páginas do site de HTML para PHP.
