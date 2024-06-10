@@ -104,6 +104,8 @@
 					</p>
 				</div>
 				<h3>EQUIPAMENTOS DANIFICADOS</h3>
+
+             <p class="obs"></p>
 				<div class="equipamentos-info">
 					<div class="equipamento-danificados">
 						<p><strong>Tipo: </strong>Smartphone</p>
