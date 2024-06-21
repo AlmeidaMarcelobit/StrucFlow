@@ -1,3 +1,18 @@
+10.4.0
+
+- Criação de classe para maquina "in-stock" e "out-of-stock"
+- Alteração de nome da pagina estoque para Maquina reserva
+- Alteração no nome style_estoque para style_m_reserva
+- Adição de novos kits da pagina kit prontos
+- Correção nos estilo da pagina.
+- Atualização de title das paginas do sites
+- Criação da pagina CRM e Tech
+- Criação da pagina com o registros das kits prontos para colaboradores
+- Correção nas classe style.css
+- Adição de novos registro de computadores reserva.
+- Adição de registro de colaboradores e fotos.
+
+
 10.3.1
 
 - Correção na ordem de registro de notebook reserva na pagina estoque

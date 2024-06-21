@@ -80,3 +80,19 @@ article {
 .sidebar-menu a:hover {
     background-color: #575757;
 }
+/*Estilo dos status do stock*/
+.in-stock{
+    background-color: #90ee90;
+}
+.off{
+    background-color: #eb3131;
+}
+/*Estilo para rodape da pagina*/
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
