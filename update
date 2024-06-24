@@ -1,3 +1,8 @@
+10.5.0
+
+ - Criação de pagina coms ID das caixa.
+ - Renomear paagina Kit Prontos para Estoque.
+
 10.4.0
 
 - Criação de classe para maquina "in-stock" e "out-of-stock"
