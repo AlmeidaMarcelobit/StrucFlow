@@ -1,11 +1,13 @@
 11.0.0
- - Refatorado pagina inicial.
+ - Alteração da estrutura da pagina.
+ - Retirado dados duplicados
+ - Remoção de tag quebradas
+ - Realizado a indentação das paginas no site
 
-10.6.1
-
-- Retirado dados duplicados
-- Remoção de tag quebradas
-- Paginas Identadas.
+10.7.0
+    
+ - Alteração de menus
+ - Adição de dados de colaborador
 
 10.6.0
 
