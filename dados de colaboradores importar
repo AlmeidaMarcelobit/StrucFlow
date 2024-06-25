@@ -6,7 +6,7 @@ Amanda Reis
 
 
 
-
+ID Caixa:
 Colaborador:
 Email:
 Cargo:
@@ -20,61 +20,84 @@ Tipo:
 Marca/Modelo:
 S/N:
 Patrimonio:
+
+ID Ticket: #49273
+Equipamento:
 ##################################################
-Caixa: 59103
-Colaborador:
+ID Caixa: 83512
+Colaborador: Tatiane Coelho da Luz
 Email:
-Cargo: Assistente
-Departamento: Canais Digital e  Relacionamente
-CPF:
-Centro de Custo: 22005 - Operação Canais Digitais
+Cargo: Consultor de Operações
+Departamento: Operações
+CPF: 346.405.008-40
+Datada Entrada: 15/07/2024
+Subtituição: Luiz Assumpção
+Centro de Custo: 12006 - Regional 1
 Termo de Entrega de Equipamento:
 
 
-Tipo: Notebook Win-11 i5-1235 8GB
-Marca/Modelo: Lenovo V15 G3 IAO
-S/N: PE0C4EE0
-Patrimonio:1551
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 15 3510
+S/N: 62KLOV3
+Patrimonio: 224
 
 Tipo: Teclado e Mouse
 Marca/Modelo: Logitech MK270
-S/N: 2347ce270458
-Patrimonio: 1550
+S/N: 2251CE5DBA8
+Patrimonio: 262
 
 Tipo: Fone
-Marca/Modelo: Logitech H390
-S/N: 2316gg00asz8
-Patrimonio: 1244
+Marca/Modelo: Jabra HSC016
+S/N: 00273964058
+Patrimonio: 669
 
-Tipo:  Suporte
+Tipo: Celular
+Marca/Modelo:
+S/N: r9xta0efpll
+Patrimonio: 667
+IMEI 1: 350916877023195/01
+IMEI 2: 354654237023193/01
+
+Tipo: Suporte
 Marca/Modelo: Aluminio
 S/N:
-Patrimonio: 1329
+Patrimonio: 819
 
-ID Ticket:
-Equipanmento: Headset, Notebook 8G, Suporte para notebook, Tecladoe  Mouse, Monitor
+ID Ticket: #49273
+Equipamento: notebook, Teclado e Mouse. Fone, Celular, Suporte
 ##################################################
-Colaborador: EDMAR DE ALMEIDA
-Email:
-Cargo: ASSISTENTE ADMINISTRATIVO
-Departamento: Pessoas e Cultura
-CPF: ASSISTENTE ADMINISTRATIVO
-Centro de Custo:
+ID Caixa: 61739
+Colaborador: Lucilene Santos Matias
+Email: lucilene.matias@amorsaude.com
+Cargo: Consultor de Operações
+Departamento: Operações
+CPF: 219.665.528-74
+Centro de Custo: 12006 - Regional 1
+Subtituição:  Karen Loureiro
 Termo de Entrega de Equipamento:
 
 
-DESCRIÇÃO	MARCA/MODELO	S/N 	IMEI 1 E 2	PATRIMONIO
-Notebook	Dell/vostro 15 3510 p112f	p112f03	 	056
-Headset	Logitech/h390	2125me0jypm	 	755
- Monitor
-Smartphone	Samsung/galax a03	r9xt2035jkk	354985980164119/01	756
- 	 	 	355106270164110/01
- Teclado	LOGITECHW K270 	2320CE162688 2316LXX3G0E8		491
- Kit teclado/mouse	Mk235/ Logitech 	2211CE0A2F89
- 	Mouse570/teclado181
- Suporte para noteboo
- Tablete TB310XU    HND2BN2P Patrimonio: 1552
+Tipo: Celular
+Marca/Modelo: Samsung Galaxy A03
+S/N: R9XT700F6NK
+Patrimonio: 582
+IMEI 1: 354985988580910/01
+IMEI 2: 355106278590811/01
 
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2316ME027FK9
+Patrimonio: 879
 
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 826
 
-#####################################################
+Tipo: Teclado e Mouse
+Marca/Modelo: Dell KM5221W
+S/N: CN-ONCRCC-L0300-331-KOUH-A01
+Patrimonio: 325
+
+ID Ticket: #39681
+Equipamentos: Notebook, Teclado e Mouse, Suporte, Celular, Fone
