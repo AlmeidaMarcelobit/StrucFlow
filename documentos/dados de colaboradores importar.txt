@@ -24,6 +24,44 @@ Patrimonio:
 ID Ticket:
 Equipamento:
 ##################################################
+ID Caixa: 49268
+Colaborador: Leandro Alves Hernandes
+Email:  leandro.hernandes
+Cargo: Gerente Regional De Operações
+Departamento:
+CPF: Dir. Operações
+Centro de Custo: 	12000 - Dir. Operações
+Termo de Entrega de Equipamento:
+
+
+Tipo:  Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2243CE258169 2240LZN1KFW8
+Patrimonio: 259
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 15 3510
+S/N: 53KLOV3
+Patrimonio: 216
+
+Tipo: Fone
+Marca/Modelo: Jabra HSC016
+S/N: 273964312
+Patrimonio: 651
+
+Tipo: Celular
+Marca/Modelo: Galaxy A03
+S/N: R9xta03gbwf
+Patrimonio: 658
+IMEI 1: 350916877030216/01
+IMEi 2: 354654237030214/01
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 822
+##################################################
+##################################################
 ID Caixa: 75014
 Colaborador: Lucas Guidetti Rocha
 Email: lucas.rocha@amorsaude.com
