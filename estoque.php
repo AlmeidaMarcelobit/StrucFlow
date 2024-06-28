@@ -1,7 +1,7 @@
 <head xmlns="http://www.w3.org/1999/html">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="../css/all.css">
+    <link rel="stylesheet" href="css/all.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
@@ -9,24 +9,84 @@
 </head>
 
 <body>
-<header><img src="../icones/LOGO_RGB_AMORSAUDE_FINAL_HORIZONTAL.png" alt="LOGO AMORSAUDE"></header>
+<header><img src="icones/LOGO_RGB_AMORSAUDE_FINAL_HORIZONTAL.png" alt="LOGO AMORSAUDE"></header>
 <div class="container">
     <aside>
         <nav>
             <ul>
-                <li><a href="../home.php">Home</a></li>
+                <li><a href="home.php">Home</a></li>
                 <li><a href="">Operação</a></li>
                 <li><a href="">Atendimento ao Cliente</a></li>
                 <li><a href="">Pessoas e Cultura</a></li>
                 <li><a href="">Financeiro</a></li>
                 <li><a href="">CRM</a></li>
                 <li><a href="">Maquina Reserva</a></li>
-                <li><a href="departamentos/estoque.php">Estoque</a></li>
-                <li><a href="../centro_custo.php">Lista Centro de Custo</a></li>
+                <li><a href="#">Estoque</a></li>
+                <li><a href="centro_custo.php">Lista Centro de Custo</a></li>
             </ul>
         </nav>
     </aside>
     <main>
+        <article>
+            <h2>Dados do colaborador</h2>
+            <section class="colaborador-info">
+                <div class="colaborador-details">
+                    <p><strong>ID Caixa:</strong> 16035</p>
+                    <p><strong>Colaborador:</strong> Jade Rodrigues</p>
+                    <p><strong>Email:</strong> jade.rodrigues@amorsaude.com</p>
+                    <p><strong>Cargo:</strong> Analista</p>
+                    <p><strong>Departamento:</strong> Comercial</p>
+                    <p><strong>CPF:</strong> 435.810.868-75</p>
+                    <p><strong>Promoção</strong>01/07/2024</p>
+                    <p><strong>Centro de Custo:</strong> 33009 - Coordenação Clientes</p>
+                </div>
+            </section>
+            <h2>Dados equipamentos</h2>
+            <section class="equipamentos-info">
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Notebook</p>
+                    <p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
+                    <p class="serial"><strong>S/N:</strong> JN3MOT3</p>
+                    <p><strong>Patrimônio:</strong> 268</p>
+                </div>
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Monitor</p>
+                    <p><strong>Marca/Modelo:</strong> (Não fornecido)</p>
+                    <p class="serial"><strong>S/N:</strong> (Não fornecido)</p>
+                    <p><strong>Patrimônio:</strong> (Não fornecido)</p>
+                </div>
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                    <p><strong>Marca/Modelo:</strong> Logite MK270</p>
+                    <p class="serial"><strong>S/N:</strong> 2347CE267FE8, 2344LZBQG08</p>
+                    <p><strong>Patrimônio:</strong> 1549</p>
+                </div>
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Fone</p>
+                    <p><strong>Marca/Modelo:</strong> Logitech H390</p>
+                    <p class="serial"><strong>S/N:</strong> 2232ME02UL99</p>
+                    <p><strong>Patrimônio:</strong> 1031</p>
+                </div>
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Suporte</p>
+                    <p><strong>Marca/Modelo:</strong> Teclado e Mouse</p>
+                    <p class="serial"><strong>S/N:</strong> (Não fornecido)</p>
+                    <p><strong>Patrimônio:</strong> 1202</p>
+                </div>
+                <div class="equipamento">
+                    <p><strong>Tipo:</strong> Celular</p>
+                    <p><strong>Marca/Modelo:</strong> Moto E22</p>
+                    <p class="serial"><strong>S/N:</strong> zf5242k6hs</p>
+                    <p><strong>Patrimônio:</strong> 1201</p>
+                    <p><strong>IMEI 1:</strong> 353689478471017/05</p>
+                    <p><strong>IMEI 2:</strong> 353689478471025/05</p>
+                </div>
+            </section>
+            <section class="ticket">
+                <p><strong>ID Ticket:</strong> #48427</p>
+                <p><strong>Equipamentos:</strong> Headset, Notebook 8G, Suporte para notebook, Teclado e Mouse, Celular, Monitor extra</p>
+            </section>
+        </article>
         <article>
             <h2>Dados do colaborador</h2>
             <section class="colaborador-info">
@@ -523,9 +583,13 @@
             <section class="colaborador-info">
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>47658</p>
-                    <p><strong>Colaborador:</strong>Consultor 1</p>
-                    <p><strong>Departamento:</strong>Consultoria</p>
+                    <p><strong>Colaborador:</strong>Paulo Victor Borges</p>
+                    <p><strong>Departamento:</strong>Consultoria</p>]
+                    <p><strong>Cargo: </strong>Consultor de Operações</p>
+                    <p><stronf>CPF: </stronf>P370.549.518-67</p>
+                    <p><strong>Data da Entrada:</strong> 15/07/2024</p>
                     <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
+                    <p><strong>Termo de Entrega de Equipamento:</strong></p>
                 </div>
             </section>
             <h2>Dados equipamentos</h2>
@@ -727,7 +791,7 @@
         <article>
             <h2>Dados do colaborador</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>18274</p>
                     <p><strong>Colaborador:</strong>Suporte 03</p>
@@ -774,7 +838,7 @@
         <article>
             <h2>Dados do colaborador</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>59103</p>
                     <p><strong>Colaborador:</strong></p>
@@ -821,7 +885,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>34827</p>
                     <p><strong>Colaborador:</strong></p>
@@ -868,7 +932,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>69543</p>
                     <p><strong>Colaborador:</strong></p>
@@ -915,7 +979,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>71359</p>
                     <p><strong>Colaborador:</strong></p>
@@ -962,7 +1026,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>84720</p>
                     <p><strong>Colaborador:</strong></p>
@@ -1009,7 +1073,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Foto_Quem.jpg" alt="imagem de quem"></div>
                 <div class="colaborador-details">
                     <p><strong>ID Caixa:</strong>23851</p>
                     <p><strong>Colaborador:</strong></p>
