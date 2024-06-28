@@ -6,27 +6,30 @@ Amanda Reis
 
 
 
-ID Caixa:
-Colaborador:
+ID Caixa:  27598
+Colaborador: Lucas Claudino de Oliveira Ramalho
 Email:
-Cargo:
+Cargo: Desenvolvedor Jr
 Departamento:
-CPF:
-Centro de Custo:
+CPF: 702.183.482-90
+Data Entranda: 01/07/2024
+Centro de Custo: 13012 - Desenvolvimento
+Subtituição: Bruno Oliveira
 Termo de Entrega de Equipamento:
 
 
-Tipo:
-Marca/Modelo:
-S/N:
-Patrimonio:
+Tipo: Notebook Win-11 i5-1135G7 16GB
+Marca/Modelo:  Dell Latitude 3420
+S/N: 571781747
+Patrimonio: 258
 
-ID Ticket:
-Equipamento:
+ID Ticket: #32126
+Equipamento: Notebook
 ##################################################
 
 Localizar Mouse de Conjunto
 Tipo: Teclado e Mouse
+
 Marca/Modelo: Logitech MK270
 S/N: 2243CE258109 - 2240LZN1KFU8
 Patrimonio: 292
