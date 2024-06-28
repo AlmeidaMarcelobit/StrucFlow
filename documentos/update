@@ -1,3 +1,13 @@
+11.0.0
+
+- Reestruturação das tags nos arquivos .php
+- Modificação no CSS:
+  - Novas classes criadas
+  - Modificação na fonte principal
+  - Modificação de cores
+  - Ajuste de tamanhos
+- Reestruturação da ordem dos arquivos na pasta 'files'
+- Arquivos renomeados
 
 10.8.1
 

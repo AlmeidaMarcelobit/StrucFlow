@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
     <title>Financeiro</title>
 </head>
@@ -19,7 +19,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/FABRICIO FREITAS.jpeg" alt="Foto de Francisco Fabricio De Lima Freitas" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/FABRICIO FREITAS.jpeg" alt="Foto de Francisco Fabricio De Lima Freitas" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Francisco Fabricio De Lima Freitas</p>
                 <p><strong>Email: </strong>fabricio.freitas@amorsaude.com</p>
@@ -70,7 +70,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Lucas Pedro Pereira.jpeg" alt="Foto de Lucas Pedro Pereira" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Lucas Pedro Pereira.jpeg" alt="Foto de Lucas Pedro Pereira" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador:</strong> Lucas Pedro Pereira</p>
                 <p><strong>Email:</strong> lucas.pereira@amorsaude.com</p>
@@ -129,7 +129,7 @@ include 'header.php';
     </article><article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Andreia%20Lopes.jpg" alt="Foto de Andreia Lopes" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Andreia Lopes.jpg" alt="Foto de Andreia Lopes" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador:</strong> Andreia dos Anjos Lopes</p>
                 <p><strong>Email:</strong> lucas.pereira@amorsaude.com</p>
@@ -177,7 +177,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Murillo%20Zanine.jpg" alt="Foto de Murillo Zanine" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Murillo Zanine.jpg" alt="Foto de Murillo Zanine" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Murillo Zanine</p>
                 <p><strong>Email: </strong>murillo.zanine@amorsaude.com</p>
@@ -220,7 +220,7 @@ include 'header.php';
     <article>
         <section class="colaborador-info">
             <div class="colaborador-img">
-                <img src="../foto_colaboradores/Marco%20Bizarri.jpg" alt="Foto Marco Aurélio Bizarri">
+                <img src="foto_colaboradores/Marco Bizarri.jpg" alt="Foto Marco Aurélio Bizarri">
             </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Marco Aurélio Bizarri</p>
@@ -280,7 +280,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Gabriela%20Georgete.jpg" alt="Foto de Gabriela Georgete da Cruz" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Gabriela Georgete.jpg" alt="Foto de Gabriela Georgete da Cruz" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Gabriela Georgete da Cruz</p>
                 <p><strong>Email: </strong>gabriela.georgete@amorsaude.com</p>
@@ -331,7 +331,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Cinthia%20Viana.jpg" alt="Foto de Cinthia Viana" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Cinthia Viana.jpg" alt="Foto de Cinthia Viana" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Cinthia Viana</p>
                 <p><strong>Email: </strong>cinthia.viana@amorsaude.com</p>
@@ -379,7 +379,7 @@ include 'header.php';
     </article>    <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Claudia%20Ornela.jpg" alt="Foto de Claudia Ornela" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Claudia Ornela.jpg" alt="Foto de Claudia Ornela" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador: </strong>Claudia Matos Ornela</p>
                 <p><strong>Email: </strong>claudia.ornela@amorsaude.com</p>
@@ -438,7 +438,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Barbara%20Bidurin.jpeg" alt="Foto de Barbara Bidurin" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Barbara Bidurin.jpeg" alt="Foto de Barbara Bidurin" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador:</strong> Barbara Bidurin</p>
                 <p><strong>Email:</strong> barbara.bidurin@amorsaude.com</p>
@@ -485,7 +485,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Isabelle%20Castilho.jpeg" alt="Foto de Isabelle Carorile Salvadego Castilho" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Isabelle Castilho.jpeg" alt="Foto de Isabelle Carorile Salvadego Castilho" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador:</strong> Isabelle Carorile Salvadego Castilho</p>
                 <p><strong>Email:</strong> isabelle.castilho@amorsaude.com</p>
@@ -521,7 +521,7 @@ include 'header.php';
     <article>
         <h2>DADOS DO COLABORADOR</h2>
         <section class="colaborador-info">
-            <div class="colaborador-img"> <img src="../foto_colaboradores/Lauriele%20Santos.jpeg" alt="Foto de Lauriele Santos" class="foto" /> </div>
+            <div class="colaborador-img"> <img src="foto_colaboradores/Lauriele Santos.jpeg" alt="Foto de Lauriele Santos" class="foto" /> </div>
             <div class="colaborador-details">
                 <p><strong>Colaborador:</strong> Lauriele Santos</p>
                 <p><strong>Email:</strong> laurielesantos@amorsaude.com</p>

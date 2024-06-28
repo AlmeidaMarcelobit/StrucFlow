@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
     <title>Pessoas e Cultura</title>
@@ -21,7 +21,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/DANIEL VIEIRA.JPG" alt="Foto de Daniel Morais Vieira" class="foto" />
+                <div class="colaborador-img"> <img src="foto_colaboradores/DANIEL VIEIRA.JPG" alt="Foto de Daniel Morais Vieira" class="foto" />
                 </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong> Daniel Morais Vieira
@@ -86,7 +86,7 @@
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
                 <div class="colaborador-img">
-                    <img src="../foto_colaboradores/SEM FOTO.jpg" alt="Foto de Lara Alves de Souza" class="foto" />
+                    <img src="foto_colaboradores/SEM FOTO.jpg" alt="Foto de Lara Alves de Souza" class="foto" />
                 </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Lara Alves de Souza</p>
@@ -154,7 +154,7 @@
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
                 <div class="colaborador-img">
-                    <img src="../foto_colaboradores/Leandro Montenegro.jfif" alt="Foto de Leandro Tosta Montenegro" class="foto" />
+                    <img src="foto_colaboradores/Leandro Montenegro.jfif" alt="Foto de Leandro Tosta Montenegro" class="foto" />
                 </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Leandro Tosta Montenegro
@@ -224,7 +224,7 @@
             <!-- Sem termo dos equipamentos -->
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Ana Almeida.jfif" alt="Foto de Ana Clara Lourenço de Almeida" class="foto" /> </div>
+                <div class="colaborador-img"> <img src="foto_colaboradores/Ana Almeida.jfif" alt="Foto de Ana Clara Lourenço de Almeida" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Ana Clara Lourenço de Almeida
                     </p>
@@ -278,7 +278,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Iara Ribeiro.jfif" alt="Foto de Iara Cristina Moraes Ribeiro" class="foto" /> </div>
+                <div class="colaborador-img"> <img src="foto_colaboradores/Iara Ribeiro.jfif" alt="Foto de Iara Cristina Moraes Ribeiro" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Iara Cristina Moraes Ribeiro
                     </p>
@@ -341,7 +341,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Wendell Oliveira.jfif" alt="Foto de Wendell Alessandro Candido Oliveira" class="foto" /> </div>
+                <div class="colaborador-img"> <img src="foto_colaboradores/Wendell Oliveira.jfif" alt="Foto de Wendell Alessandro Candido Oliveira" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Wendell Alessandro Candido Oliveira</p>
                     <p><strong>Email:
@@ -416,7 +416,7 @@
             <!-- verificar telcado e mouse -->
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Leticia Silva.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
+                <div class="colaborador-img"> <img src="foto_colaboradores/Leticia Silva.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Letícia Godoy da Silva
                     </p>
@@ -475,7 +475,7 @@
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Ana Julia Bujardi.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
+                <div class="colaborador-img"> <img src="foto_colaboradores/Ana Julia Bujardi.jfif" alt="Foto de Letícia Godoy da Silva" class="foto" /> </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador: </strong>Ana Julia Bujardi
                     </p>

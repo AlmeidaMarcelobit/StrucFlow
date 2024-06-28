@@ -1,0 +1,269 @@
+Mundança de Centro de Custo - 22004 - Custo Assistencial para 22001 - Consulta Assistida
+aline.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
+sandra.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
+bruna.emilio@amorsaude.com - e-mail ainda não bloqueado 20/06/2024
+Amanda Reis
+
+
+
+ID Caixa:
+Colaborador:
+Email:
+Cargo:
+Departamento:
+CPF:
+Centro de Custo:
+Termo de Entrega de Equipamento:
+
+
+Tipo:
+Marca/Modelo:
+S/N:
+Patrimonio:
+
+ID Ticket:
+Equipamento:
+##################################################
+ID Caixa: 75014
+Colaborador: Lucas Guidetti Rocha
+Email: lucas.rocha@amorsaude.com
+Cargo: Assistente de Canais Digitais e Relacionamento
+Departamento: Telemedicina
+CPF: 460.375.988-60
+Subtituição: Lorraine Moreno Machado
+Data da Entranda: 19/02/2024
+Centro de Custo: 22001 - Consulta Assistida
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook Win-11 i5-1135G7 8GB
+Marca/Modelo:  Dell Vostro 3520
+S/N: 4J32JZ3
+Patrimonio: 449
+
+Teclado e Mouse	456	2230LZX1R868	Logitech K270 - M185
+Fone	954	2323GGO15J98	Logitech H390
+Monitor	242	303AZJT96660	22mpp410-b
+Suporte	935		Aluminio
+##############################################
+ID Caixa: 39107
+Colaborador: Livia Marcolino Paula
+Email: livia.paula@amorsaude.com
+Cargo: Assistente Administrativo
+Departamento: Administrativo
+CPF:  438.725.158-10
+Centro de Custo: 32001
+Termo de Entrega de Equipamento:
+
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N:  2330A4042098
+Patrimonio: 971
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2334CE2DA898
+Patrimonio: 1450
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 726
+########################################################
+ID Caixa: 39107
+Colaborador:  Juliana Braz Paula Magalhães
+Email: juliana.magalhaes@amorsaude.com
+Cargo: Consultoria
+Departamento: Consultor(a) de Operações Externo
+CPF: 018.694.713-50
+Data da Entranda: 01/01/2024
+Centro de Custo:  12006 - Regional 1
+Termo de Entrega de Equipamento:
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2332ME01YRP8
+Patrimonio: 938
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 3520
+S/N: 9832JZ3
+Patrimonio: 483
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK290
+S/N:  2232CE1CFB28 - 2230LZX1RAX8
+Patrimonio: 482
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 937
+################################################################
+ID Caixa: . 67485
+Colaborador: Bruno de Moraes Dias
+Email: bruno.dias@amorsaude.com
+Cargo: Analista De Projetos Sr
+Departamento: Projetos / Processos
+CPF: 345.319.798-42
+Centro de Custo: 13004
+Termo de Entrega de Equipa mento:
+
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 820
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 224Ce258419 - 2241LX3P1G8
+Patrimonio: 281
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 15 3510
+S/N: GP3MOT3
+Patrimonio: 267
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2309ME01AQW9
+Patrimonio: 831
+###########################################
+Tipo: suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 950
+
+Tipo: Teclado e Mouse
+Marca/Modelo: MK270
+S/N:  2238CE66388
+Patrimonio: 362
+
+Tipo: Notebook Win-10 i5-1135G7 8GB
+Marca/Modelo: Dell Vostro 15 3510
+S/N: CSFQXW3
+Patrimonio: 383
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2235ME00yaj9
+Patrimonio: 387
+
+Tipo: Celular
+Marca/Modelo: Samsumg Galaxy A03
+S/N: R9Xw20CHGWN
+Patrimonio:
+IMEI 1: 35830223539235/01
+IMEI 2: 35976053925831/01
+##################################################
+ID Caixa:
+Colaborador: Sandra Andreia de Oliveira
+Email:
+Cargo: Gerente de Pessoas
+Departamento: Pessoas e Cultura
+CPF: 175.483.388-80
+Centro de Custo: 13021 - Gerência Pessoas e Cultura
+Data da Saide: 24/06/2026
+Termo de Entrega de Equipamento:
+
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro P11f
+S/N: JTJYXP3
+Patrimonio: 109
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2316ME02F888
+Patrimonio: 892
+
+Tipo: Monitor
+Marca/Modelo: LG222Mp410
+S/N: 3074zafmod555
+Patrimonio: 472
+
+Tipo: Celular
+Marca/Modelo: Samsung Galaxy A03
+S/N: R9XT2013C3l
+Patrimonio: 538
+IMEI 1: 354985980030500/01
+IMEI 2: 355106270030501/01
+###############################################
+ID Caixa: 83512
+Colaborador: Tatiane Coelho da Luz
+Email:
+Cargo: Consultor de Operações
+Departamento: Operações
+CPF: 346.405.008-40
+Datada Entrada: 15/07/2024
+Subtituição: Luiz Assumpção
+Centro de Custo: 12006 - Regional 1
+Termo de Entrega de Equipamento:
+
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 15 3510
+S/N: 62KLOV3
+Patrimonio: 224
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2251CE5DBA8
+Patrimonio: 262
+
+Tipo: Fone
+Marca/Modelo: Jabra HSC016
+S/N: 00273964058
+Patrimonio: 669
+
+Tipo: Celular
+Marca/Modelo:
+S/N: r9xta0efpll
+Patrimonio: 667
+IMEI 1: 350916877023195/01
+IMEI 2: 354654237023193/01
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 819
+
+ID Ticket: #49273
+Equipamento: notebook, Teclado e Mouse. Fone, Celular, Suporte
+##################################################
+ID Caixa: 61739
+Colaborador: Lucilene Santos Matias
+Email: lucilene.matias@amorsaude.com
+Cargo: Consultor de Operações
+Departamento: Operações
+CPF: 219.665.528-74
+Centro de Custo: 12006 - Regional 1
+Subtituição:  Karen Loureiro
+Termo de Entrega de Equipamento:
+
+
+Tipo: Celular
+Marca/Modelo: Samsung Galaxy A03
+S/N: R9XT700F6NK
+Patrimonio: 582
+IMEI 1: 354985988580910/01
+IMEI 2: 355106278590811/01
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2316ME027FK9
+Patrimonio: 879
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 826
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Dell KM5221W
+S/N: CN-ONCRCC-L0300-331-KOUH-A01
+Patrimonio: 325
+
+ID Ticket: #39681
+Equipamentos: Notebook, Teclado e Mouse, Suporte, Celular, Fone

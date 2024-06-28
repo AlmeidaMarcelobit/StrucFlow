@@ -2,7 +2,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
     <title>CRM</title>
 </head>
@@ -18,7 +18,7 @@ include 'header.php';
     <article>
       <h2>DADOS DO COLABORADOR</h2>
       <section class="colaborador-info">
-        <div class="colaborador-img"> <img src="../foto_colaboradores/Alexy%20Divino.jpeg" alt="Foto de Alexy Chiodi Divino" class="foto" />
+        <div class="colaborador-img"> <img src="foto_colaboradores/Alexy Divino.jpeg" alt="Foto de Alexy Chiodi Divino" class="foto" />
         </div>
         <div class="colaborador-details">
           <p><strong>Colaborador:</strong>Alexy Chiodi Divino</p>
@@ -64,7 +64,7 @@ include 'header.php';
       <article>
           <h2>DADOS DO COLABORADOR</h2>
           <section class="colaborador-info">
-              <div class="colaborador-img"> <img src="../foto_colaboradores/Caique%20Picolo.jpeg" alt="Foto de Alexy Chiodi Divino" class="foto" />
+              <div class="colaborador-img"> <img src="foto_colaboradores/Caique Picolo.jpeg" alt="Foto de Alexy Chiodi Divino" class="foto" />
               </div>
               <div class="colaborador-details">
                   <p><strong>Colaborador:</strong>Caique Picolo Dal Picolo</p>
@@ -111,7 +111,7 @@ include 'header.php';
       <article>
           <h2>DADOS DO COLABORADOR</h2>
           <section class="colaborador-info">
-              <div class="colaborador-img"><img src="../foto_colaboradores/Victor%20Lima.jpeg" alt="Victor Lima"></div>
+              <div class="colaborador-img"><img src="foto_colaboradores/Victor Lima.jpeg" alt="Victor Lima"></div>
               <div class="colaborador-details">
                   <p><strong>Colaborador:</strong> Victor Lima</p>
                   <p><strong>Email:</strong> victor.lima@amorsaude.com</p>
@@ -165,7 +165,7 @@ include 'header.php';
       <article>
           <h2>DADOS DO COLABORADOR</h2>
           <section class="colaborador-info">
-              <div class="colaborador-img"><img src="../foto_colaboradores/Emanuela%20Santos.jpeg" alt="Emanuela Santos"></div>
+              <div class="colaborador-img"><img src="foto_colaboradores/Emanuela Santos.jpeg" alt="Emanuela Santos"></div>
               <div class="colaborador-details">
                   <p><strong>Colaborador:</strong> Emanuela Santos</p>
                   <p><strong>Email:</strong> emanuela.santos@amorsaude.com</p>
@@ -203,7 +203,7 @@ include 'header.php';
           <article>
               <h2>DADOS DO COLABORADOR</h2>
               <section class="colaborador-info">
-                  <div class="colaborador-img"><img src="../foto_colaboradores/Beatriz%20Rezende.jpeg" alt="Beatriz Rezende"></div>
+                  <div class="colaborador-img"><img src="foto_colaboradores/Beatriz Rezende.jpeg" alt="Beatriz Rezende"></div>
                   <div class="colaborador-details">
                       <p><strong>Colaborador:</strong> Beatriz Rezende</p>
                       <p><strong>Email:</strong> beatriz.rezende@amorsaude.com</p>
@@ -242,7 +242,7 @@ include 'header.php';
 
 
       <?php
-include '../footer.php'
+      include '../footer.php'
 ?>
 </main>
 </body>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
     <title>Consultoria</title>
 </head>
@@ -19,7 +19,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"> <img src="../foto_colaboradores/Bruna%20Emilio.jpg" alt="Foto de Daniel Morais Vieira" class="foto" />
+                <div class="colaborador-img"> <img src="foto_colaboradores/Bruna Emilio.jpg" alt="Foto de Daniel Morais Vieira" class="foto" />
                 </div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong> Bruna Rafaela Emilio
@@ -80,7 +80,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Yago Mariano.jfif" alt="Miguel Silverio"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Yago Mariano.jfif" alt="Miguel Silverio"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>Yago dos Anjos Mariano</p>
                     <p><strong>Email:</strong>yago.mariano@amorsaude.com</p>
@@ -147,7 +147,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Rafael Gomes.jfif" alt="Foto de Rafael Rodrigues Cordeiro Gomes" class="foto"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Rafael Gomes.jfif" alt="Foto de Rafael Rodrigues Cordeiro Gomes" class="foto"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>Rafael Rodrigues Cordeiro Gomes</p>
                     <p><strong>Email:</strong>rafael.gomes@amorsaude.com</p>
@@ -204,7 +204,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Lucas Colbacho.jfif" alt="Foto de Lucas Colbacho" class="foto"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Lucas Colbacho.jfif" alt="Foto de Lucas Colbacho" class="foto"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>Lucas Colbacho</p>
                     <p><strong>Email:</strong>lucas.colbacho@amorsaude.com</p>
@@ -262,7 +262,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Andre Rigobello.jfif" alt="Foto de André Rigobello Pinto" class="foto"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Andre Rigobello.jfif" alt="Foto de André Rigobello Pinto" class="foto"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>André Rigobello Pinto</p>
                     <p><strong>Email:</strong>andre.rigobello@amorsaude.com</p>
@@ -326,7 +326,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Maria Medieros.jfif" alt="Foto de Maria Caroline Dantas De Medeiros" class="foto"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Maria Medieros.jfif" alt="Foto de Maria Caroline Dantas De Medeiros" class="foto"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>Maria Caroline Dantas De Medeiros</p>
                     <p><strong>Email:</strong>maria.medeiros@amorsaude.com</p>
@@ -377,7 +377,7 @@ include 'header.php';
         <article>
             <h2>DADOS DO COLABORADOR</h2>
             <section class="colaborador-info">
-                <div class="colaborador-img"><img src="../foto_colaboradores/Gabriel Carvalho.jfif" alt="Foto de Gabriel Carrasco De Carvalho" class="foto"></div>
+                <div class="colaborador-img"><img src="foto_colaboradores/Gabriel Carvalho.jfif" alt="Foto de Gabriel Carrasco De Carvalho" class="foto"></div>
                 <div class="colaborador-details">
                     <p><strong>Colaborador:</strong>Gabriel Carrasco De Carvalho</p>
                     <p><strong>Email:</strong>gabriel.carvalho@amorsaude.com</p>

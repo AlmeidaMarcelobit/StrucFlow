@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet" />
     <title>Atendimento ao Cliente</title>
 </head>
@@ -26,7 +26,7 @@
 
                     <section class="colaborador-info">
                         <div class="colaborador-img">
-                            <img src="../foto_colaboradores/ESTEFANIA BRONDI.jpeg" alt="Foto de Estefania Camilo Brondi Paes" class="foto" /> </div>
+                            <img src="foto_colaboradores/ESTEFANIA BRONDI.jpeg" alt="Foto de Estefania Camilo Brondi Paes" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador: </strong>Estefania Camilo Brondi Paes</p>
                             <p><strong>Email: </strong>estefania.brondi@amorsaude.com</p>
@@ -87,7 +87,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/SEM FOTO.jpg" alt="Malinda Gonçalves de Oliveira"> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/SEM FOTO.jpg" alt="Malinda Gonçalves de Oliveira"> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador: </strong>Malinda Gonçalves de Oliveira</p>
                             <p><strong>Email: </strong>malinda.oliveira@amorsaude.com</p>
@@ -133,7 +133,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/SEM FOTO.jpg" alt="Foto de Ana Celeste de Souza Rosa" class="foto" /> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/SEM FOTO.jpg" alt="Foto de Ana Celeste de Souza Rosa" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador:</strong> Ana Celeste de Souza Rosa</p>
                             <p><strong>Email:</strong> ana.rosa@amorsaude.com</p>
@@ -201,7 +201,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/SEM FOTO.jpg" alt="Foto de Katia Tatiana Tomaz Marcondes" class="foto" /> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/SEM FOTO.jpg" alt="Foto de Katia Tatiana Tomaz Marcondes" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador:</strong> Katia Tatiana Tomaz Marcondes</p>
                             <p><strong>Email:</strong> katia.marcondes@amorsaude.com</p>
@@ -262,7 +262,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/RUBIA ALBUQUERQUE.jpeg" alt="Foto de Rubia Camila Albuquerque Dos Santos" class="foto" /> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/RUBIA ALBUQUERQUE.jpeg" alt="Foto de Rubia Camila Albuquerque Dos Santos" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador: </strong>Rubia Camila Albuquerque Dos Santos</p>
                             <p><strong>Email: </strong>rubia.albuquerque@amorsaude.com</p>
@@ -323,7 +323,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/JULIA SILVA.jpeg" alt="Foto de Julia Carolina da Silva" class="foto" /> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/JULIA SILVA.jpeg" alt="Foto de Julia Carolina da Silva" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador: </strong>Julia Carolia da Silva</p>
                             <p><strong>Email: </strong>julia.silva@amorsaude.com</p>
@@ -389,7 +389,7 @@
                 <article>
                     <h2>DADOS DO COLABORADOR</h2>
                     <section class="colaborador-info">
-                        <div class="colaborador-img"> <img src="../foto_colaboradores/ISADORA MARQUES.jpeg" alt="Foto de Isadora Soares Marques" class="foto" /> </div>
+                        <div class="colaborador-img"> <img src="foto_colaboradores/ISADORA MARQUES.jpeg" alt="Foto de Isadora Soares Marques" class="foto" /> </div>
                         <div class="colaborador-details">
                             <p><strong>Colaborador: </strong>Isadora Soares Marques</p>
                             <p><strong>Email: </strong>isadora.marques@amorsaude.com</p>
