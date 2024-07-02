@@ -6,25 +6,99 @@ Amanda Reis
 
 
 
-ID Caixa:  27598
-Colaborador: Lucas Claudino de Oliveira Ramalho
+ID Caixa:
+Colaborador:
 Email:
-Cargo: Desenvolvedor Jr
+Cargo:
 Departamento:
-CPF: 702.183.482-90
-Data Entranda: 01/07/2024
-Centro de Custo: 13012 - Desenvolvimento
-Subtituição: Bruno Oliveira
+CPF:
+Data Entranda:
+Centro de Custo:
+Subtituição:
 Termo de Entrega de Equipamento:
 
+Tipo:
+Marca/Modelo:
+S/N:
+Patrimonio:
+##################################################
+ID Caixa:
+Colaborador: Jade Rodrigues
+Email: jade.cunha@amorsaude.com
+Cargo: Consultora de Operações
+Departamento: Operação
+CPF: 435.810.868-75
+Data Entranda:
+Centro de Custo: 33009 - Coordenação Clientes
+Termo de Entrega de Equipamento:
 
-Tipo: Notebook Win-11 i5-1135G7 16GB
-Marca/Modelo:  Dell Latitude 3420
-S/N: 571781747
-Patrimonio: 258
+Tipo: Smarphone
+Marca/Modelo: Galaxy A03s
+S/N: r9xt9088nbh
+Patrimonio: 647
+IMEI 1: 353541243428394/01
+IMEI 2: 354183763428394/01
 
-ID Ticket: #32126
-Equipamento: Notebook
+Tipo: Notebook
+Marca/Modelo: Lenovo V15 G2
+S/N: PE09eek
+Patrimonio: 212
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N:  2243CE258139 - 2240LZN1KF38
+Patrimonio: 364
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2330YA032628
+Patrimonio: 985
+
+Antigo
+Tipo: Fone
+Marca/Modelo: Jabra HSC015
+S/N: 22283153100317
+Patrimonio: 792
+
+Antigo defeito
+Tipo: Fone
+Marca/Modelo: Jabra
+S/N: 260310937
+Patrimonio: 529
+##################################################
+ID Caixa: 83469
+Colaborador: Estagiario
+Email:
+Cargo: Estagiaro
+Departamento: BackOffice - Documentações
+CPF:
+Data Entranda:
+Centro de Custo: 12005 - BackOffice
+Subtituição:
+Termo de Entrega de Equipamento:
+
+Tipo: Noteboow Win-11 i5-1235U 8GB
+Marca/Modelo: Lenovo V15 G3 IAP
+S/N: PE0C4SMZ
+Patrimonio: 1548
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2347CE26FD8 - 2344LZXBR4P8
+Patrimonio: 1557
+
+Tipo: Suporte
+Marca/Modelo:  Aluminio
+S/N:
+Patrimonio: 1200
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2316GGAT09
+Patrimonio: 1199
+
+ID Ticket: #48557
+Equipamento: Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado, Monitor
 ##################################################
 
 Localizar Mouse de Conjunto
