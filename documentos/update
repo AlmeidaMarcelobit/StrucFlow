@@ -1,13 +1,24 @@
-11.0.2
+# Histórico de Updates
 
+## 11.2.1
+- Correção no título da página dp_operaçaão para Operação
+- Correção na estrutura da página (Atendimento ao Cliente, Pessoas e Cultura, Financeiro, CRM)
+- Exclusão da página style.css
+- Correção do link de menu que leva à página de Pessoas e Cultura
+- Página Pessoas e Cultura indentada corretamente
+- Atualização dos updates na página updates
+- Ajuste nas classes img das fotos dos colaboradores necessários
+- Correção de erro na página dp_operação na área Jade Roguies
+- Adição de formatação a todas as tags h2 e h3 para correção de minúsculas e maiúsculas
+- Correção no arquivo update.
+
+## 11.0.2
 - Remoção da pasta "departamentos", com arquivos alocados no diretório principal
 
-11.0.1
+## 11.0.1
+- Finalização da página estoque
 
-- Finalização da pagina estoque.
-
-11.0.0
-
+## 11.0.0
 - Reestruturação das tags nos arquivos .php
 - Modificação no CSS:
   - Novas classes criadas
@@ -17,94 +28,80 @@
 - Reestruturação da ordem dos arquivos na pasta 'files'
 - Arquivos renomeados
 
-10.8.1
+## 10.8.1
+- Remoção de tags quebradas
+- Retirada de dados duplicados e relocação de dados para mitigação
+- Ajuste nos nomes de fotos de colaboradores
 
- - Remoção de tag quebradas
- - Retirado dados duplicados e relocados dados para mitigação
- - Ajustado nomes de foto de colaboradores
+## 10.8.0
+- Criação da pasta documentos
+- Movimentação dos arquivos (ID Caixas, Update, Analisar Dados, Anotação, Dados de Colaboradores) para Documentos
 
-10.8.0
+## 10.7.0
+- Alteração de menus
+- Adição de dados de colaborador
 
- - Criação da pasta documentos
- - Movimentação dos arquviso( ID Caixas, Update, Analisar Dados, Anotação, Dados de Colaboradores) para Documentos
+## 10.6.0
+- Nome da página Consultoria alterada para Operações
+- Adição de registro de colaboradores
+- Adição de novos IDs de caixas
+- Alterado lado do menu
 
-10.7.0
+## 10.5.0
+- Criação de página com IDs das caixas
+- Renomear página Kit Prontos para Estoque
 
- - Alteração de menus
- - Adição de dados de colaborador
+## 10.4.0
+- Criação de classe para máquina "in-stock" e "out-of-stock"
+- Alteração do nome da página estoque para Máquina reserva
+- Alteração do nome style_estoque para style_m_reserva
+- Adição de novos kits na página kit prontos
+- Correção nos estilos da página
+- Atualização de titles das páginas do site
+- Criação da página CRM e Tech
+- Criação da página com os registros dos kits prontos para colaboradores
+- Correção nas classes style.css
+- Adição de novos registros de computadores reserva
+- Adição de registro de colaboradores e fotos
 
-10.6.0
+## 10.3.1
+- Correção na ordem de registro de notebooks reserva na página estoque
 
- - Nome da pagina Cosultoria alterada Operações
- - Adição de registro de colaboradores.
- - Adição de novos ID de caixas
- - Alterado lado do menu
+## 10.3.0
+- Adição de novos registros de computadores reserva
+- Indentação da página estoque
 
-10.5.0
-
- - Criação de pagina coms ID das caixa.
- - Renomear paagina Kit Prontos para Estoque.
-
-10.4.0
-
-- Criação de classe para maquina "in-stock" e "out-of-stock"
-- Alteração de nome da pagina estoque para Maquina reserva
-- Alteração no nome style_estoque para style_m_reserva
-- Adição de novos kits da pagina kit prontos
-- Correção nos estilo da pagina.
-- Atualização de title das paginas do sites
-- Criação da pagina CRM e Tech
-- Criação da pagina com o registros das kits prontos para colaboradores
-- Correção nas classe style.css
-- Adição de novos registro de computadores reserva.
-- Adição de registro de colaboradores e fotos.
-
-
-10.3.1
-
-- Correção na ordem de registro de notebook reserva na pagina estoque
-
-10.3.0
-
-- Adição de novos registro de computadores reserva.
-- Endentação da pagina estoque.
-
-10.2.0
-
+## 10.2.0
 - Criação da página de estoque
 - Criação de arquivo CSS para a página de estoque
 - Alterações nos menus
 - Adição do registro de colaborador
-- Criação de pasta icones
+- Criação de pasta ícones
 
-10.0.1
+## 10.0.1
+- Correção de fechamento de tags e correção de classes
+- Ajustes e correções no arquivo style.css
 
-- Correção de fechamento de tags e correção de class
-- Ajuste correçoes no arquivo style.css
+## 10.0.0
+- Migração das páginas do site de HTML para PHP
+- Refatoração do código para utilizar semântica correta, substituindo elementos <div> por tags semânticas apropriadas, como <header>, <article>, <section>, <nav>, <aside>, <footer>, entre outras. Isso melhora a acessibilidade e a organização do código, tornando-o mais legível e compreensível para desenvolvedores e máquinas
+- Adição de uma área de observação nos colaboradores para lidar com dados não encontrados ou termos faltantes
+- Implementação de menu dinâmico utilizando PHP include para garantir atualização automática em todas as páginas
+- Implementação de footer dinâmico utilizando PHP include para garantir atualização em massa
+- Adição de página contendo uma lista completa de todos os centros de custo
+- Adição de arquivo CSS para estilização dos centros de custo
+- Refatoração completa da página Atendimento ao Cliente
+- Refatoração completa da página Consultoria
+- Refatoração completa da página Pessoas e Cultura
+- Correção na área de equipamento para incluir IMEI
+- Correção de títulos de páginas
 
-10.0.0
+## 9.2.1
+- Correção de fechamento de tag na página consultoria
 
-- Migração das páginas do site de HTML para PHP.
-- Refatoração do código para utilizar semântica correta, substituindo elementos <div> por tags semânticas apropriadas, como <header>, <article>, <section>, <nav>, <aside>, <footer>, entre outras. Isso melhora a acessibilidade e a organização do código, tornando-o mais legível e compreensível para desenvolvedores e máquinas.
-- Adição de uma área de observação nos colaboradores para lidar com dados não encontrados ou termos faltantes.
-- Implementação de menu dinâmico utilizando PHP include para garantir atualização automática em todas as páginas.
-- Implementação de footer dinâmico utilizando PHP include para garantir atualização em massa.
-- Adição de página contendo uma lista completa de todos os centros de custo.
-- Adição de arquivo CSS para estilização dos centros de custo.
-- Refatoração completa da página Atendimento ao Cliente.
-- Refatoração completa da página Consultoria.
-- Refatoração completa da página Pessoas e Cultura.
-- Correção na área de equipamento para incluir IMEI.
-- Correção de títulos de páginas.
-
-9.2.1
-
-- Correção de fechado de tag pagina consultoria.
-
-9.2.0
-
-- Correção de div sem classe em colaborador na página Pessoas e Cultura.
-- Criação da página de consultoria.
-- Adição de registro de colaboradores e fotos.
-- Correção de links de fotos incorretos.
-- Criação de arquivo com histórico de updates.
+## 9.2.0
+- Correção de div sem classe em colaborador na página Pessoas e Cultura
+- Criação da página de consultoria
+- Adição de registro de colaboradores e fotos
+- Correção de links de fotos incorretos
+- Criação de arquivo com histórico de updates
