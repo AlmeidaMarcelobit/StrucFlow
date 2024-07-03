@@ -1,3 +1,4 @@
+Katia Tatiana Tomaz Marcondes - 12002 - SAC - 317.842.138-61 - Data do desligamento:  01/07/2024
 Mundança de Centro de Custo - 22004 - Custo Assistencial para 22001 - Consulta Assistida
 aline.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
 sandra.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
@@ -21,6 +22,117 @@ Tipo:
 Marca/Modelo:
 S/N:
 Patrimonio:
+
+Tipo:
+Marca/Modelo:
+S/N:
+Patrimonio:
+
+Tipo:
+Marca/Modelo:
+S/N:
+Patrimonio:
+
+Tipo:
+Marca/Modelo:
+S/N:
+Patrimonio:
+##################################################
+ID Caixa:
+Colaborador: Amanda Gazetta Amigo
+Email: amanda.gazetta@amorsaude.com
+Cargo: Coordernadora de Operação
+Departamento: Regional 2
+CPF: 418.310.088-74
+Data Entranda: 4-set.-2023
+Centro de Custo:
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook Ideapad3 15alc6
+Marca/Modelo:
+S/N: PE09781x
+Patrimonio: 166
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2315Ay07AC39
+Patrimonio: 876
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio:
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK235
+S/N: 2207LZX4F248
+Patrimonio: 185 -578
+
+Tipo: Celular
+Marca/Modelo: R9qt403wmhp
+S/N:
+Patrimonio: 511
+IMEI 1: 35198927132251/01
+IMEI 2: 35327223192257/01
+
+Danificado
+
+Tipo: Adaptador-Rede
+Marca/Modelo: Fy-684
+S/N:
+Patrimonio: 933
+##################################################
+ID Caixa:
+Colaborador: Thiago Isaac da Silva
+Email: thiago.silva@amorsaude.com
+Cargo: Analista De Suporte Pl
+Departamento: Suporte
+CPF: 436.577.728-98
+Data Entranda: 22-ago.-2023
+Centro de Custo: 13019 - Suporte
+Subtituição:
+
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook
+Marca/Modelo: Dell Latitude 3420
+S/N: DTZHY3
+Patrimonio: 312
+
+Tipo: Teclado e Mouse
+Marca/Modelo: KM5221W
+S/N: 331-KOUI-AO1
+Patrimonio: 318-851
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 862
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2316gg00at18
+Patrimonio: 1198
+##################################################
+ID Caixa:
+Colaborador: Ana Luisa Rezende Machado Fumagalli
+Email: analuisa.fumagalli@amorsaude.com
+Cargo: Coordenadora de Backoffice
+Departamento: Gerencia Operações
+CPF: 430.792.958-62
+Data Entranda: 7/ago/2023
+Centro de Custo: 12005 - BackOffice
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook Win-10 i5-1135G7 8GB
+Marca/Modelo: Dell Vostro 15 3510
+S/N: CNZ64R3
+Patrimonio: 257
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2347CE268028
+Patrimonio: 1553
 ##################################################
 ID Caixa:
 Colaborador: Jade Rodrigues
