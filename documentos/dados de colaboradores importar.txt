@@ -7,36 +7,38 @@ Amanda Reis
 
 
 
-ID Caixa:
+ID Caixa: 01
 Colaborador:
 Email:
-Cargo:
-Departamento:
+Cargo: Estagiario
+Departamento: BackOffice - Documentações
 CPF:
 Data Entranda:
-Centro de Custo:
-Subtituição:
+Centro de Custo: 12005 - BackOffice
 Termo de Entrega de Equipamento:
 
-Tipo:
-Marca/Modelo:
-S/N:
-Patrimonio:
+Tipo: Notebook Win-11 i5-1235u 8GB
+Marca/Modelo: Lenovo V15 G3 IAP
+S/N: PE0C2WYY
+Patrimonio: 1556
 
-Tipo:
-Marca/Modelo:
-S/N:
-Patrimonio:
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2412AY00K6F9
+Patrimonio: 1197
 
-Tipo:
-Marca/Modelo:
+Tipo: Suporte
+Marca/Modelo: Aluminio
 S/N:
-Patrimonio:
+Patrimonio: 1196
 
-Tipo:
-Marca/Modelo:
-S/N:
-Patrimonio:
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2347CE268058
+Patrimonio: 1554
+
+ID Ticket: #52291
+Equipamento: Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado
 ##################################################
 ID Caixa:
 Colaborador: Amanda Gazetta Amigo
