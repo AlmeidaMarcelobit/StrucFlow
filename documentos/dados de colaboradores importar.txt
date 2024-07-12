@@ -5,8 +5,209 @@ sandra.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
 bruna.emilio@amorsaude.com - e-mail ainda não bloqueado 20/06/2024
 Amanda Reis
 
+ID Caixa: 
+Colaborador:
+Email:
+Cargo: 
+Departamento: 
+CPF:
+Data Entranda:
+Centro de Custo: 
+Termo de Entrega de Equipamento:
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo:  
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N:
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+ID Ticket: 
+Equipamento:
+-----------------------------------------------------------------------------------
+Colaborador: Josiane Renata dos Santos da Mata
+Email: josiane.santos@amorsaude.com
+Cargo: 
+Departamento: Produto
+CPF:
+Data Entranda:
+Centro de Custo: 13013 - Produto
+Termo de Entrega de Equipamento:
+
+Tipo: Monitor
+Marca/Modelo: LG 22MP410-B
+S/N: 404AZYEAK426
+Patrimonio: 1563
+
+Tipo: Fone
+Marca/Modelo:  Logitech H390
+S/N: 2412AY00NUZ9
+Patrimonio: 1194
 
 
+ID Ticket: #57356
+Equipamento: Fone, Monitor
+-----------------------------------------------------------------------------------
+Tipo: Ubiquiti
+Marca/Modelo: U6-Pro
+S/N: SWX-U6PROR
+Patrimonio: 1021
+
+------------------------------------------------------------------------------
+ID Caixa: 
+Colaborador:
+Email:
+Cargo: 
+Departamento: 
+CPF:
+Data Entranda:
+Centro de Custo: 
+Termo de Entrega de Equipamento:
+
+
+
+Tipo: 
+Marca/Modelo:  
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N:
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+ID Ticket: 
+Equipamento:
+
+------------------------------------------------------------------------------
+ID Caixa: 04
+Colaborador:
+Email:
+Cargo: Assistente
+Departamento: Relacionamento com Cliente
+CPF:
+Data Entranda:
+Centro de Custo: 72023 - Relacionamento com Cliente / Retenção
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook Win-11 i5-1235U 8GB
+Marca/Modelo: Lenovo V15 G3 IAP
+S/N: PE9012326044-82UM0007BR-PE0CB4ZP
+Patrimonio: 1555
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2412AYOONXEB
+Patrimonio: 1164
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2347CE268038 - 2344LZXBR4M8
+Patrimonio: 1560 - 1195
+
+Tipo: Suporte
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+ID Ticket: #55872
+Equipamento: Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado
+
+------------------------------------------------------------------------------
+
+ID Caixa: 03
+Colaborador: 
+Email:
+Cargo: Assistente
+Departamento: Relacionamento com cliente
+CPF:
+Data Entranda:
+Centro de Custo: 72023 - Relacionamento com Cliente / Retenção
+Termo de Entrega de Equipamento:
+
+Tipo: Notebool Win-11 i5-1235U 8GB
+Marca/Modelo: Lenovo V15 G3 IAP
+S/N: PE9014216040-82UM0007BR-PE0C2WXT
+Patrimonio: 1564
+
+Tipo: Fone
+Marca/Modelo:  Logitech H390
+S/N: 2412AYooNX68
+Patrimonio: 1143
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2320CE1626C8 -2240LZN1KF18
+Patrimonio: 447 - 1142
+
+Tipo: Suporte 
+Marca/Modelo: Aluminio
+S/N: 
+Patrimonio: 1144
+
+ID Ticket: #55866
+Equipamento: Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado
+
+------------------------------------------------------------------------------
+ID Caixa: 02
+Colaborador: 
+Email:
+Cargo: Consultor
+Departamento: Operação
+CPF:
+Data Entranda:
+Centro de Custo: 12006 - Regional 1
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook Win-11 i5-1235U 8GB
+Marca/Modelo: Lenovo V15 G3 IAP
+S/N: PE0C2WYM-82UM007BR-JKCN42WW
+Patrimonio: 1558
+
+Tipo:  Teclado e Mouse
+Marca/Modelo:  Logitech MK279
+S/N: 2344LZXBR448 - 2347CE268068
+Patrimonio: 1120 -1559
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2412AY00NR38
+Patrimonio: 1153
+
+Tipo: Suporte
+Marca/Modelo:  Aluminio
+S/N: 
+Patrimonio: 1154
+
+<article>
+	<p>ID Caixa: 01</P>
+    <p><strong>Tipo:</strong>Monitor</p>
+    <p><strong>Marca/Modelo:</strong>LG22MP410-B</p>
+    <p class="serial"><strong>S/N:</strong>304AZCQ6Z283</p>
+    <p><strong>Patrimônio:</strong>427</p>
+</article>
+
+ID Ticket: #52554
+Equipamento: Celular, Monitor, Notebook, Teclado e Mouse, Suporte, Fone.
+------------------------------------------------------------------------------
 ID Caixa: 01
 Colaborador:
 Email:
