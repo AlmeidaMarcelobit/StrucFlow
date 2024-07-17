@@ -1,14 +1,15 @@
 # Histórico de Updates
-## 11.2.3
- - Correção de dados na pagina estoque
- - Correção sematica na pagina estoque
- - Adicionado class na fotos pagina estoque
+
+## 11.2.4
+- Correção de falta de fotos em colaboradores
+- Criação de pagina para observação de melhorias
+- Remoção de arquivos dublicados
 
 ## 11.2.2
  - Correção no title da pagina tech
  - Correção na fotos da pagina tech
  - Correção na pagina operação
- - Adição de fotos de coloboradores
+ - Adição de dados e fotos de coloboradores
  - Criação da pagina da dp_telemedicina
 
 ## 11.2.1
