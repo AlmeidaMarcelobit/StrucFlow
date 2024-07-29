@@ -40,3 +40,10 @@ Gabriela Fritz
  - sandra.oliveira@amorsaude.com - e-mail somente bloqueado 20/06/2024
  - bruna.emilio@amorsaude.com - e-mail ainda não bloqueado 20/06/2024
  - Amanda Reis -
+
+ ###Dados do celular Amanda 
+
+ Galaxy A03 Core
+R9QW800QQ6R
+350589197094384
+1130

@@ -1,9 +1,17 @@
 # Histórico de Updates
+##11.2.5
+ - Correção de tags quebradas na página de operação.
+ - uplaod de imagens para novos colaboradores que ainda não possuem.
+ - update de dados corrigidos de colaboradores
+ - Upload de dados de novos colaboradores
+ - Correção de fechamento de tag no estoque
 
-## 11.2.4
+##11.2.4
+ - Atualização de dados duplicados
+
+## 11.2.3
 - Correção de falta de fotos em colaboradores
-- Criação de pagina para observação de melhorias
-- Remoção de arquivos dublicados
+
 
 ## 11.2.2
  - Correção no title da pagina tech
