@@ -1,5 +1,8 @@
 # Histórico de Updates
 ##Duplicate data
+  ##11.2.8.2
+   - Update de dados de maquinas reserva
+   - Correção de class para maquinas reserva
   ##11.2.8.1
   - Criação de branche para tratamentento de dadas duplicatos
   - Criado link de acesso para pagina dados duplicados.
