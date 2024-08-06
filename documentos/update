@@ -1,7 +1,28 @@
 # Histórico de Updates
+##11.2.8.4
+ - Correção de dados na pagina estoque, Operação, Financeiro, Backoffice.
+ - Atualização no tamanho do menu.
+ - Criação de class de usuarios desativados.
+
+##11.2.8.3
+ - Update de dados
+
+##11.2.8.2
+ - Update de dados de maquinas reserva
+ - Correção de class para maquinas reserva
+
+##11.2.8.1
+ - Criação de branche para tratamentento de dadas duplicatos
+ - Criado link de acesso para pagina dados duplicados.
+ - Deletado pagina ID caixa
+  
+##11.2.8
+ - Correão de informação das maquinas reserva
+
 ##Estoque
     11.2.7.1
      - Update de dados de colaborador
+
 ##11.2.7
  - Identado o codigo corregatamente
  - update status de maquina no stock
