@@ -43,7 +43,7 @@ Gabriela Fritz
 
  ###Dados do celular Amanda 
 
- Galaxy A03 Core
+Galaxy A03 Core
 R9QW800QQ6R
 350589197094384
 1130

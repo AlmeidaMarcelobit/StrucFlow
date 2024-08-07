@@ -1,4 +1,10 @@
 # Histórico de Updates
+##12.1.0
+   - Criação da pagina Administrativo Laboratório.
+   - Update de dados de colaborador
+   - Criação da pagina Consulturia
+   - Transferencia de dados da pagina Operação para Regional 1 e Regional 2
+   - Criação de class sub-menus
 ##12.0.0
   - Renomeação do arquivo all.css para principal.css
   - Remoção da classe container
