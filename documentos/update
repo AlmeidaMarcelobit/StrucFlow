@@ -1,4 +1,13 @@
 # Histórico de Updates
+##12.0.0
+  - Renomeação do arquivo all.css para principal.css
+  - Remoção da classe container
+  - Exclusão da <div> com a classe aside e seus elementos filhos
+  - Atualização da estrutura dos menus para o formato dropdown
+  - Ajuste das propriedades CSS do elemento main
+  - Criação das classes CSS necessárias para o menu dropdown
+  - Remoção do padding aplicado ao main
+
 ##11.2.8.4
  - Correção de dados na pagina estoque, Operação, Financeiro, Backoffice.
  - Atualização no tamanho do menu.
