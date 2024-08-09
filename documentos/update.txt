@@ -1,4 +1,9 @@
 # Histórico de Updates
+##12.2.0
+    - Criação da pagina maquinas backups
+    - Correção tag na paginas maquinas backups
+    - Adição de link nos menus
+    - Upload de dados e fotos de colaboradores
 ##12.1.0
    - Criação da pagina Administrativo Laboratório.
    - Update de dados de colaborador
