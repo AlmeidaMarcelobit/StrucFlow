@@ -1,4 +1,7 @@
 # Histórico de Updates
+##12.2.1
+    - Identação da paginas centro de custo, administrativo laboratorio, atendimento ao cliente e backoffice.
+    - Correção de titulos da pagina backoffice.
 ##12.2.0
     - Criação da pagina maquinas backups
     - Correção tag na paginas maquinas backups
