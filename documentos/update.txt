@@ -1,4 +1,10 @@
 # Histórico de Updates
+##12.2.2
+    - Identação da pagina canais digitas relacionamento, CRM, Experiência do Cliente, Financeiro, Inteligencia de Negocios, Pessoas e Cultura, Telemedicina, Tech.
+    - Remoção da pagina monitores.html
+    - Correção do bugs
+    - Upload de dados de usuario.
+    - Correção das falta da tag h1 nas paginas nescesarias
 ##12.2.1
     - Identação da paginas centro de custo, administrativo laboratorio, atendimento ao cliente e backoffice.
     - Correção de titulos da pagina backoffice.
