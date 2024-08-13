@@ -1,4 +1,8 @@
 # Histórico de Updates
+##12.3.0
+    - Fusão da pagina dp_experiecia_do_cliente com a pagina dp_atendimento_ao_cliente.php
+    - Exclusão da pagina experiecia_do_cliente.
+    - Atualizaçãos dos link dos menus e ordem
 ##12.2.2
     - Identação da pagina canais digitas relacionamento, CRM, Experiência do Cliente, Financeiro, Inteligencia de Negocios, Pessoas e Cultura, Telemedicina, Tech.
     - Remoção da pagina monitores.html

@@ -4,17 +4,11 @@
         <li class="dropdown">
             <a href="#" class="dropbtn">Departamentos</a>
             <div class="dropdown-content">
-                <a href="regional_2.php">Operação</a>
-                <a href="dp_atendimento_ao_cliente.php">Atendimento ao Cliente</a>
-                <a href="dp_pessoas_e_cultura.php">Pessoas e Cultura</a>
-                <a href="dp_financeiro.php">Financeiro</a>
-                <a href="dp_crm.php">CRM</a>
-                <a href="dp_backoffice.php">BackOffice</a>
-                <a href="dp_tech.php">Tech</a>
-                <a href="dp_telemedicina.php">Telemedicina</a>
-                <a href="dp_experiecia_do_cliente.php">Experiência do Cliente</a>
-                <a href="dp_inteligencia_de_negocios.php">Inteligência de Negócios</a>
                 <a href="dp_administrativo_laboratório.php">Administrativo Laboratório</a>
+                <a href="dp_atendimento_ao_cliente.php">Atendimento ao Cliente</a>
+                <a href="dp_backoffice.php">BackOffice</a>
+
+                <a href="dp_canais_digitais_relacionamento.php">Canais digitais relacionamento</a>
                 <div class="dropdown">
                     <a href="#" class="dropbtn">Consultoria</a>
                     <div class="dropdown-content">
@@ -22,6 +16,12 @@
                         <a href="regional_2.php">Regional 2</a>
                     </div>
                 </div>
+                <a href="dp_crm.php">CRM</a>
+                <a href="dp_financeiro.php">Financeiro</a>
+                <a href="dp_inteligencia_de_negocios.php">Inteligência de Negócios</a>
+                <a href="dp_pessoas_e_cultura.php">Pessoas e Cultura</a>
+                <a href="dp_tech.php">Tecnologia</a>
+                <a href="dp_telemedicina.php">Telemedicina</a>
             </div>
         </li>
         <li class="dropdown">
