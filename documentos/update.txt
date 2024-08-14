@@ -1,4 +1,9 @@
 # Histórico de Updates
+##12.4.0
+    - Criado pagina de fones
+    - Adicionado link para pagina fones no menu
+    - Colado no footer indicação da versão do site
+    - Update do arquivo principal.css
 ##12.3.1
     - Upload de novo foto de colaborador e dados
     - Update de daddos de colaborador
