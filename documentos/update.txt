@@ -1,4 +1,7 @@
 # Histórico de Updates
+##12.3.1
+    - Upload de novo foto de colaborador e dados
+    - Update de daddos de colaborador
 ##12.3.0
     - Fusão da pagina dp_experiecia_do_cliente com a pagina dp_atendimento_ao_cliente.php
     - Exclusão da pagina experiecia_do_cliente.
