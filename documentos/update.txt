@@ -1,4 +1,7 @@
 # Histórico de Updates
+##12.4.1
+    - Upload de dados monitores
+    - Remoção de dados fones
 ##12.4.0
     - Criado pagina de fones
     - Adicionado link para pagina fones no menu
