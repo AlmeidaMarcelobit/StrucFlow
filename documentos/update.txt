@@ -1,4 +1,24 @@
 # Histórico de Updates
+##12.5.1
+    - Atualização dos dados de colaborador: transferidos de "dados duplicados" para "dados brutos"
+    - Alteração na pasta de "dados de colaborador" para "dados brutos"
+    - Criação de diretórios dentro de "dados brutos" para as seguintes áreas:
+      - BackOffice
+      - Cirurgias
+      - Dados
+      - Desenvolvimento
+      - Dir_Operações
+      - Louzada
+      - Parcerias
+      - Pessoas e Cultura
+      - Qualidade de Processos
+      - Regional 2
+      - Relacionamento com Cliente
+      - Relacionamento com Profissionais da Saúde
+      - SAC
+      - Suporte
+      - Telemedicina
+   - Paginas Dados duplicados deletados
 ##12.5.0
     - Remoção da pagina dados.html
     - Remoção da pagina dados de colaborares.txt
