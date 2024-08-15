@@ -26,11 +26,3 @@ Tipo:
 Marca/Modelo:
 S/N:
 Patrimonio:
-
-ID Ticket:
-Equipamento:
------------------------------------------------------------------------------------
-Tipo: Ubiquiti
-Marca/Modelo: U6-Pro
-S/N: SWX-U6PROR
-Patrimonio: 1021

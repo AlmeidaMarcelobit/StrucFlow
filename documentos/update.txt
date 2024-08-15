@@ -1,4 +1,13 @@
 # Histórico de Updates
+##12.5.0
+    - Remoção da pagina dados.html
+    - Remoção da pagina dados de colaborares.txt
+    - Criado diretorio dados colaborador para arquivos .txt para dados de colaborador brutos
+    - Criação de diretorio infraestrutura para armazenamento .txt de dados brutos de equipamentos
+    - Exclusão da diretorio departamento
+    - Alterado nomes de icones
+    - Alteração de nome do arquivo dados de colaboradores importar.txt para dados exporter
+    - Alteração no nome APEX.inc par SkyTeck.inc no footer
 ##12.4.2
     - Update de dados na pagina maquina reserva
     - Upload de dados de colaborador
