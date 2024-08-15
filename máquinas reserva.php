@@ -15,7 +15,7 @@
 include 'header.php';
 ?>
 <main>
-    <article class="">
+    <article class="in-stock">
         <section class="notebooks-info">
             <div class="img">
                 <img src="icones/laptop.png" alt="icone laptop">
@@ -75,7 +75,7 @@ include 'header.php';
             </div>
         </section>
     </article>
-    <article class="">
+    <article class="in-stock">
         <section class="notebooks-info">
             <div class="img">
                 <img src="icones/laptop.png" alt="icone laptop">

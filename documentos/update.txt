@@ -1,4 +1,7 @@
 # Histórico de Updates
+##12.4.2
+    - Update de dados na pagina maquina reserva
+    - Upload de dados de colaborador
 ##12.4.1
     - Upload de dados monitores
     - Remoção de dados fones
