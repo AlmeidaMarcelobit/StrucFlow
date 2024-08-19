@@ -1,4 +1,12 @@
 # Histórico de Updates
+##12.6.0
+    - Update de dados de colaborador
+    - Remoção da pagina dados duplicados
+    - Remoção do link para pagina dados dublicados
+    - Criado pagina observação
+    - Update de dados de colaborador
+    - Corrigido erro nos dados do Artur Ferreira Morais Mello
+    -
 ##12.5.1
     - Atualização dos dados de colaborador: transferidos de "dados duplicados" para "dados brutos"
     - Alteração na pasta de "dados de colaborador" para "dados brutos"
