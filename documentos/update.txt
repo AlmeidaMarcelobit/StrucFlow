@@ -1,4 +1,11 @@
 # Histórico de Updates
+##12.7.0
+    - Desmembramento do menu 'Tecnologia' em submenus
+    - Criado pagina produtos.php
+    - Criado pagina dados.php
+    - Criado link em menu para acesso da pagina (dp_produtos.php, dp_dados.php)
+    - Corrigido title da pagina observação
+    - Upload de dados de colaborador
 ##12.6.1
     - Exclusão da pagina dados.html
     - Upload de dados de colaborador
