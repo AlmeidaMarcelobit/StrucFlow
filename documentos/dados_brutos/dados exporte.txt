@@ -3,7 +3,7 @@ Email:
 Cargo:
 Departamento:
 CPF:
-Data Entranda:
+Data admissão: 
 Centro de Custo:
 Termo de Entrega de Equipamento:
 

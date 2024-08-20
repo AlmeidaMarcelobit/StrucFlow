@@ -1,4 +1,9 @@
 # Histórico de Updates
+##12.6.1
+    - Exclusão da pagina dados.html
+    - Upload de dados de colaborador
+    - Alteração de data de entrada para data de admissão em fichas de colaboradores
+    - Alteração de data de saida para data de desligamento em fichas de colaboradores
 ##12.6.0
     - Update de dados de colaborador
     - Remoção da pagina dados duplicados
@@ -6,7 +11,6 @@
     - Criado pagina observação
     - Update de dados de colaborador
     - Corrigido erro nos dados do Artur Ferreira Morais Mello
-    -
 ##12.5.1
     - Atualização dos dados de colaborador: transferidos de "dados duplicados" para "dados brutos"
     - Alteração na pasta de "dados de colaborador" para "dados brutos"
