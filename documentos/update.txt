@@ -1,4 +1,6 @@
 # Histórico de Updates
+##12.7.2
+    - Update de dados e fotos de colaboradores
 ##12.7.1
     - Upload de dados brutos de colaboradores no sistema
     - Update de informação no footer

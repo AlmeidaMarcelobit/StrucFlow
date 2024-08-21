@@ -15,7 +15,7 @@ R9QW800QQ6R             #
 
 
 Maicon Facirolli - 16.08.2024
-Bianca Inacia 19.08.2024
+
 Dione dos Santos - Data do desligamento: 19/08/2024
 Helena Bugliani - 19/08/2024
 Yasmin Silva - 19/08/2024
