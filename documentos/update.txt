@@ -1,4 +1,8 @@
+# Futuros de Updates
+    - Correção menu na pagina lista de centro de custo
 # Histórico de Updates
+##12.7.3
+    - Upload de dados brutos
 ##12.7.2
     - Update de dados e fotos de colaboradores
 ##12.7.1
