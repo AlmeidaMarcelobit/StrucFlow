@@ -1,4 +1,6 @@
 # Histórico de Updates
+##12.9.1
+    - Ajuste de altura na logo da pagina
 ##12.9.0
     - Alteração da pagina agina observacao.html para agina observacao.php
 ##12.8.0
