@@ -1,4 +1,7 @@
 # Histórico de Updates
+##Minify
+    1.0.0
+    - Paginas minify (dp_administrativo_laboratório.php, dp_amorcirurgias.php, dp_atendimento_ao_cliente.php, dp_backoffice.php e dp_canais_digitais_relacionamento.php)
 ##12.10.0
     - Criação das paginas(dp_amorcirurgias, dp_relacionamento_com_client)
     - Migração e update de dados do back_kits_prontos para front_kits_prontos
