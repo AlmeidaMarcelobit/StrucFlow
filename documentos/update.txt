@@ -1,6 +1,8 @@
-# Futuros de Updates
-    - Correção menu na pagina lista de centro de custo
 # Histórico de Updates
+##Atualização
+    - Apenas arquivamento de dados na pasta dados brutos
+    - Renomeado kits_prontos.php para back_kits_prontos.php
+    - Criado front_kits_prontos.php para auditoria do estoque
 ##12.7.3
     - Upload de dados brutos
 ##12.7.2
