@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -170,6 +171,9 @@
 >>>>>>> e61bfd9 (1.0.0)
 =======
 >>>>>>> 8bc7a39 (1.0.1)
+=======
+##Minify
+>>>>>>> eb82601 (1.0.0)
     1.0.0
     - Paginas minify (dp_administrativo_laboratório.php, dp_amorcirurgias.php, dp_atendimento_ao_cliente.php, dp_backoffice.php e dp_canais_digitais_relacionamento.php)
 ##12.10.0
