@@ -1,0 +1,10 @@
+Colaborador: Allan Magrini
+Email: allan.magrini@amorsaude.com
+Cargo: Desenvolvedor Plsql
+Departamento: Desenvolvimento
+CPF: 266.169.148-01
+Data de admissão: 6.nov.2023
+Data de desligamento:
+Centro de Custo: 13012
+Termo de Entrega de Equipamento:
+Substituição: Aumento de Quadro

@@ -1,0 +1,10 @@
+Colaborador: Lucas Ramalho
+Email: lucas.ramalho@amorsaude.com
+Cargo: Desenvolvedor Jr
+Departamento: Desenvolvimento
+CPF:
+Data de admissão:
+Data de desligamento:
+Centro de Custo: 13012
+Termo de Entrega de Equipamento:
+Substituição:

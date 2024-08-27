@@ -1,0 +1,65 @@
+
+Aqui está a lista atualizada com as datas no formato numérico para os meses:
+
+Colaborador: Thais Dias Martins
+Email: thais.martins@amorsaude.com
+Cargo: Consultor(A) De Operações
+Departamento: Regional 2
+CPF: 184.666.578-78
+Data de admissão: 07.08.2023
+Centro de Custo: 12006
+Substituição: Não
+
+Colaborador: Viviane De Carvalho
+Email: viviane.carvalho@amorsaude.com
+Cargo: Consultor(A) De Operações
+Departamento: Regional 2
+CPF: 339.344.308-99
+Data de admissão: 17.07.2023
+Centro de Custo: 12007
+Substituição: Não
+
+Colaborador: Fernando Vinicius Silva
+Email: fernando.silva@amorsaude.com
+Cargo: Consultor De Operações
+Departamento: Regional 2
+CPF: 373.868.358-50
+Data de admissão: 16.10.2023
+Centro de Custo: 12007
+Substituição: Sim
+
+Colaborador: Karen Loureiro
+Email: karen.loureiro@amorsaude.com
+Cargo: Consultor(A) De Operações
+Departamento: Regional 2
+CPF: 387.565.348-33
+Data de admissão: 18.09.2023
+Centro de Custo: 12006
+Substituição: Não
+
+Colaborador: Camilla Cruz Alves De Sousa
+Email: camilla.sousa@amorsaude.com
+Cargo: Consultor(A) De Operações
+Departamento: Regional 2
+CPF: 402.292.918-99
+Data de admissão: 18.09.2023
+Centro de Custo: 12007
+Substituição: Não
+
+Colaborador: Rafael Rodrigues Cordeiro Gomes
+Email: rafael.gomes@amorsaude.com
+Cargo: Consultor de Operações
+Departamento: Regional 2
+CPF: 402.847.248-23
+Data de admissão: 18.03.2024
+Centro de Custo: 12007
+Substituição: Não
+
+Colaborador: Amanda Gazetta Amigo
+Email: amanda.gazetta@amorsaude.com
+Cargo: Coordenador(A) De Operações
+Departamento: Regional 2
+CPF: 418.310.088-74
+Data de admissão: 04.09.2023
+Centro de Custo: Regional 2
+Substituição: Sim

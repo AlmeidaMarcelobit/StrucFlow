@@ -1,0 +1,8 @@
+Colaborador: Thiago Isaac Da Silva
+CPF: 436.577.728-98
+Cargo: Analista de Suporte Pl
+Departamento: Suporte/Tech
+Centro de Custo: 13019
+Data de Admissão: 22.ago.2023
+Email: thiago.silva@amorsaude.com
+

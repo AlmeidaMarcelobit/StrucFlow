@@ -1,0 +1,33 @@
+Colaborador:Leticia Yumi Osone
+Email:leticia.osone@amorsaude.com
+Cargo:Analista De Experiência Do Cliente
+Departamento:Qualidade Processo
+CPF:362.189.578-70
+Data de Entrada:4.09.2023
+Termo de Entrega do Equipamento:
+Centro de Custo: 12004 - Experiência do Cliente
+
+Tipo:Monitor
+Patrimônio:485
+S/N:308AZWS8S585
+Marca/Modelo:LG22MP410-B
+
+Tipo:Notebook
+Patrimônio:211
+S/N:pe09xvkt
+Marca/Modelo:Lenovo V15 G2
+
+Tipo:Headset
+Patrimônio:868
+S/N:2315AY078409
+Marca/Modelo:Logitech H390
+
+Tipo:Suporte
+Patrimônio:874
+S/N:
+Marca/Modelo:Alumínio
+
+Tipo:teclado e Mouse
+Patrimônio:421
+S/N:cn-oncrcc-lo300-331-k14w=a01
+Marca/Modelo:Logitech MK235

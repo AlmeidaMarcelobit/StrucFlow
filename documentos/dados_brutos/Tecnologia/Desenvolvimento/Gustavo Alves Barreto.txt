@@ -1,0 +1,11 @@
+Colaborador: Gustavo Alves Barreto
+Email: gustavo.barreto@amorsaude.com
+Cargo: Desenvolvedor Fullstack Pl
+Departamento: Desenvolvimento
+CPF: 186.537.787-21
+Data de admissão: 21.nov.2023
+Data de desligamento:
+Centro de Custo: 13012
+Termo de Entrega de Equipamento:
+Substituição: Aumento de Quadro
+

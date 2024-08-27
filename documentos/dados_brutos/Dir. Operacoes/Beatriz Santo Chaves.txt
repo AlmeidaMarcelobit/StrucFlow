@@ -1,0 +1,51 @@
+Colaborador:Beatriz Santo Chaves
+Email:beatriz.chaves@amorsaude.com
+Cargo:Coordenador De Experiência Do Cliente
+Departamento:Dir. Operações
+CPF:331.770.148-09
+Data da admissão: 02.01.2023
+Centro de Custo:12004 - Experiência do Cliente
+
+Tipo:Fone
+Patrimônio:1007
+S/N:2350ay05d59
+Marca/Modelo:Logitech H390
+
+Tipo:Suporte
+Patrimônio:731
+S/N:
+Marca/Modelo:Alumínio
+
+Tipo:Teclado e Mouse
+Patrimônio:337 - 338
+S/N:2234ce182199 2230lznoznu8
+Marca/Modelo:Logitech MK270
+
+Tipo:Notebook
+Patrimônio:188
+S/N:pe09fttm
+Marca/Modelo:LENOVO IdeaPad 3-15ALC6
+
+Tipo:Mouse
+Patrimônio:ne
+S/N:ne
+Marca/Modelo:MultilaseMo300
+
+Tipo:Celular
+Patrimônio:588
+S/N:R9XT703H6LE
+IMEI 1:354985898154293/01
+IMEI 2:355106279154294/01
+Marca/Modelo:Samsung Galaxy A03
+
+Tipo:Adaptador Rede
+Patrimônio:611
+S/N:ne
+Marca/Modelo:Nova VOO
+
+EQUIPAMENTOS DANIFICADOS
+
+Tipo:Fone
+Marca/Modelo:Jabra HSC016
+S/N:265441762
+Patrimônio:598

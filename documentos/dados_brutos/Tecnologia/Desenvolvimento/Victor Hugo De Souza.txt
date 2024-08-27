@@ -1,0 +1,7 @@
+Colaborador: Victor Hugo De Souza
+CPF: 478.319.538-25
+Cargo: Estagiário(a) Dev
+Departamento: Tech
+Centro de Custo: 13012
+Data de Admissão: 20.jun.2023
+Email: victor.hugo@amorsaude.com

@@ -1,0 +1,10 @@
+Colaborador: Vitor Magno
+Email: vitor.magno@amorsaude.com
+Cargo: Desenvolvedor JR
+Departamento: Desenvolvimento
+CPF:
+Data de admissão:
+Data de desligamento:
+Centro de Custo: 13012
+Termo de Entrega de Equipamento:
+Substituição:

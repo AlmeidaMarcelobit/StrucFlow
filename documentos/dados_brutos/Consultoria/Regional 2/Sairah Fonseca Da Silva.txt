@@ -1,0 +1,49 @@
+Colaborador:Sairah Fonseca da Silva
+Email:sairah.silva@amorsaude.com
+Cargo:Consultor de operações
+Departamento:Regional 2
+CPF:096.801.206-00
+Centro de Custo:12007
+Termo de Entrega de Equipamento:Termo 01Termo 02Termo 03
+
+Tipo:Fone
+Patrimônio:1203
+S/N:2331AY037208
+Marca\Modelo:Logitech H390
+
+Tipo:Notebook
+Patrimônio:220
+S/N:52klov3
+Marca/Modelo:Dell Vostro 15 3510
+
+Tipo:Suporte
+Patrimônio:727
+S/N:
+Marca/Modelo:Alumínio
+
+Tipo:Celular
+Patrimônio:665
+S/N:R9XTA0ECN2T
+Marca/Modelo:Galaxy A03
+IMEI 1:350916876990014/01
+IMEI 2:354654236990012/01
+
+Tipo:Teclado e Mouse
+Patrimônio:328 - 723
+S/N:2250CE0d27c9 2240lzx5mkn8
+Marca/Modelo:Logitech MK235
+
+ID Ticket:#41197
+Equipamento:Fone
+
+EQUIPAMENTOS DANIFICADOS
+
+Tipo:Mouse
+Patrimônio:
+S/N:
+Marca/Modelo:Multiaser M0300
+
+Tipo:Fone
+Patrimônio:655
+S/N:27405566
+Marca/Modelo:Jabra HSC016

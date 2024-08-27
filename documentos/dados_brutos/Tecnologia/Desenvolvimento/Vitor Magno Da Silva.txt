@@ -1,0 +1,10 @@
+Colaborador: Vitor Magno Da Silva
+Email: vitor.silva@amorsaude.com
+Cargo: Desenvolvedor
+Departamento: Dev
+CPF: 459.273.348-73
+Data de admissão: 4.set.2023
+Data de desligamento:
+Centro de Custo: Dev
+Termo de Entrega de Equipamento:
+Substituição: Aumento de Quadro

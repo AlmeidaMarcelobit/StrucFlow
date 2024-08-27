@@ -1,0 +1,10 @@
+Colaborador: Bruno Yuri Alves De Oliveira
+Email: bruno.oliveira@amorsaude.com
+Cargo: Desenvolvedor Sr
+Departamento: Desenvolvimento
+CPF: 158.353.667-10
+Data de admissão: 11.mar.2024
+Data de desligamento:
+Centro de Custo: 13012 - Desenvolvimento
+Termo de Entrega de Equipamento:
+Substituição: William Koller

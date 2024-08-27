@@ -1,0 +1,29 @@
+Colaborador: Bianca Inacia da Silva
+Email: bianca.inacio@amorsaude.com
+Cargo: Assistente de Operações
+Departamento: Backoffice
+CPF: 480.094.538-03
+Data de admissão:
+Data de desligamento: 19.08.2024
+Centro de Custo:
+Termo de Entrega de Equipamento:
+
+Tipo: Notebook
+Marca/Modelo: Lenovo Ideapad3 15alc6
+S/N: PE0973C9
+Patrimonio: 164
+
+Tipo: Fone
+Marca/Modelo: Jabra HSC015
+S/N: 00226785370W30K
+Patrimonio: 782
+
+Tipo: Monitor
+Marca/Modelo: Dell P2018HC
+S/N: 2CKH2W2
+Patrimonio: 024
+
+Tipo: Celular
+Marca/Modelo: Motorola E13
+S/N: ZF52455HVR
+Patrimonio: 866

@@ -1,0 +1,7 @@
+Colaborador: Pedro Henrique Cruz Ubine
+CPF: 419.484.238-39
+Cargo: Estagiário(a) Dev
+Departamento: Tech
+Centro de Custo: 13012
+Data de Admissão: 20.jun.2023
+Email: pedro.ubine@amorsaude.com

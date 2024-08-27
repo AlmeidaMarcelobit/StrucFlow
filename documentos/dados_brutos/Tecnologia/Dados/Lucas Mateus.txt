@@ -1,0 +1,10 @@
+Colaborador: Lucas Mateus
+Email: lucas.mateus@amorsaude.com
+Cargo: Analista De Dados
+Departamento: Dados
+CPF: 432.126.858-32
+Data de admissão: 11.mai.2023
+Data de desligamento:
+Centro de Custo: 13011
+Termo de Entrega de Equipamento:
+Substituição: Aumento de Quadro

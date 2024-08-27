@@ -1,0 +1,11 @@
+Colaborador: Lucas Rodrigues
+Email: lucas.rodrigues@amorsaude.com
+Cargo: Analista De Negócios
+Departamento: Inteligência de Negócio
+CPF:
+Data de admissão:
+Data de desligamento:
+Centro de Custo: 12010
+Termo de Entrega de Equipamento:
+Substituição:
+

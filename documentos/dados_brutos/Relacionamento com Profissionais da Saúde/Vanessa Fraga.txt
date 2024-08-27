@@ -1,0 +1,5 @@
+Colaborador: Vanessa Fraga
+Email: vanessa.fraga@amorsaude.com
+Cargo: Analista de CS
+Departamento: Relacionamento com Profissionais da Saúde
+Centro de Custo: 12003

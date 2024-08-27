@@ -1,0 +1,9 @@
+Colaborador: Rodrigo Prado Pelicano
+Email: rodrigo.pelicano@amorsaude.com
+Cargo: Consultor De Operações
+Departamento: Regional 1
+CPF: 345.200.218-71
+Data de admissão: 20.06.2023
+Centro de Custo: 12006
+Substituição: Não
+

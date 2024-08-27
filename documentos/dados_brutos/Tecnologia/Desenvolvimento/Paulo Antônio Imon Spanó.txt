@@ -1,0 +1,29 @@
+Colaborador: Paulo Antônio Imon Spanó
+Email: paulo.spano@amorsaude.com
+Cargo: Desenvolvedor
+Departamento: Desenvolvimento
+CPF: 395.033.398-39
+Data de admissão: 03.07.2023
+Data de desligamento: 29.11,2023
+Centro de Custo: 13015 - Desenvolvimento
+Termo de entrega de Equipamento:
+
+Tipo: Teclado e Mouse
+Marca/Modelo: LogitechMK270
+S/N: 2243CE2583F9 - 2241LZX3PAS8
+Patrimonio: 279
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 829
+
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2309ME013N79
+Patrimonio: 838
+
+Tipo: Notebook
+Marca/Modelo: Dell Vostro 15 3510
+S/N: BHQN4T3
+Patrimonio: 254

@@ -1,0 +1,10 @@
+Colaborador: Marcelo Borba Okazaki
+Email: marcelo.okazaki@amorsaude.com
+Cargo: Desenvolvedor Fullstack
+Departamento: Desenvolvimento
+CPF: 452.967.358-89
+Data de admissão: 11.mai.2023
+Data de desligamento:
+Centro de Custo: 13012
+Termo de Entrega de Equipamento:
+Substituição: Aumento de Quadro

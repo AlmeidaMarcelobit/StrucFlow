@@ -1,0 +1,10 @@
+Colaborador: Ed Pasquini
+Email: ed.pasquini@amorsaude.com
+Cargo: Coordenador De Atendimento Ao Cliente
+Departamento: Dir. Operações
+CPF:
+Data de admissão:
+Data de desligamento:
+Centro de Custo: 12000
+Termo de Entrega de Equipamento:
+Substituição:
