@@ -1,4 +1,6 @@
 # Histórico de Updates
+##12.8.0
+    - Criação de pagina observação_style.css para pagina observacao.html
 ##Atualização
     - Apenas arquivamento de dados na pasta dados brutos
     - Renomeado kits_prontos.php para back_kits_prontos.php
