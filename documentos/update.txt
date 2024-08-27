@@ -1,4 +1,11 @@
 # Histórico de Updates
+##12.10.0
+    - Criação das paginas(dp_amorcirurgias, dp_relacionamento_com_client)
+    - Migração e update de dados do back_kits_prontos para front_kits_prontos
+    - Update de dadso brutos (Graziele Ambrosio)
+    - Update de link no header
+    - Alteração de nome da pagina kits_prontos.php para new_kits_prontos.php
+    - Alteração de nome da pagina back_kits_prontos.php para old_kits_prontos.php
 ##12.9.1
     - Ajuste de altura na logo da pagina
 ##12.9.0

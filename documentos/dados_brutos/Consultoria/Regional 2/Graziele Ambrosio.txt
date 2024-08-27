@@ -1,5 +1,42 @@
 Colaborador: Graziele Ambrosio
 Email: graziele.ambrosio@amorsaude.com
 Cargo: Consultora de Operações
-Departamento: Regional 2
-Centro de Custo: 12007
+Departamento: Consultoria
+CPF: 217.069.478-10
+Data de admissão: 13.01.2023
+Centro de Custo: 12007 - Regional 2
+
+Tipo: Notebook Win-10 i5-1135g7 8GB
+Marca/Modelo: Dell Vostro 15 3510
+S/N: 32KLOV3
+Patrimonio: 215
+
+Tipo: Celular
+Marca/Modelo: Samsung Galaxy A03
+S/N: r9xta0ecf7k
+Patrimonio: 661
+IMEI 1: 350916876987754/01
+IMEI 2: 354654236987752/01
+
+Tipo: Fone
+Marca/Modelo: Jabra HSC016
+S/N: 273966069
+Patrimonio: 650
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech MK270
+S/N: 2250CE0D0A29 - 2240LZX5M588
+Patrimonio: 72 - 706
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N: 
+Patrimonio: 704
+
+Tipo: Monitor
+Marca/Modelo: LG-22MP410-B
+S/N: 303AZSP94390
+Patrimonio: 399
+
+
+
