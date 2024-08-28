@@ -1,0 +1,35 @@
+ID Caixa: 118
+Colaborador: Emily Fernandes Lopes
+Email:
+Cargo: Auxiliar de Vendas
+Departamento: Cobrança Plano Odontológico DentalVidas
+CPF: 143.569.466-00
+Data de admissão: 02.09.2024
+Data de desligamento
+Centro de Custo: 73024 - Cobrança
+Termo de Entrega de Equipamento:
+Subituição: Natalia Cunha da Silva
+
+Tipo: Notebook Win-10 i5-1135G7 8GB
+Marca/Modelo: Dell Vostro 15 3510
+S/N: P112F001
+Patrimonio: 322
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech K235
+Teclado S/N:JNZYR0036
+Mouse S/N: 2240LZX5GLW8
+Patrimonio: 372 
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 826
+
+Tipo: Fone
+Marca/Modelo: Jabra HSC 016
+S/N: 0026533565
+Patrimonio: 616
+
+Ticket #71163
+Equipamento: Notebook, Teclado e Mouse, Suporte, Fone

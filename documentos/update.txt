@@ -1,5 +1,9 @@
 # Histórico de Updates
 ##Minify
+    1.0.1
+     - Update de backoffice
+     - Upload de dados no kits prontos
+     - Correção de dados incorretos
     1.0.0
     - Paginas minify (dp_administrativo_laboratório.php, dp_amorcirurgias.php, dp_atendimento_ao_cliente.php, dp_backoffice.php e dp_canais_digitais_relacionamento.php)
 ##12.10.0
