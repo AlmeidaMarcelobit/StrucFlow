@@ -131,6 +131,7 @@
     - remoção de dados brutos dentros do arquivos interno do site
 >>>>>>> 31428d2 (12.11.1)
 ##Minify
+<<<<<<< HEAD
     1.0.4
      -  Correção de versionamento
     1.0.3
@@ -141,13 +142,18 @@
     1.02
         Criada pasta estrutura bibloteca de codigo
         Criado pasta gerador de termos
+=======
+>>>>>>> 8bc7a39 (1.0.1)
     1.0.1
      - Update de backoffice
      - Upload de dados no kits prontos
      - Correção de dados incorretos
+<<<<<<< HEAD
 =======
 ##Minify
 >>>>>>> e61bfd9 (1.0.0)
+=======
+>>>>>>> 8bc7a39 (1.0.1)
     1.0.0
     - Paginas minify (dp_administrativo_laboratório.php, dp_amorcirurgias.php, dp_atendimento_ao_cliente.php, dp_backoffice.php e dp_canais_digitais_relacionamento.php)
 ##12.10.0

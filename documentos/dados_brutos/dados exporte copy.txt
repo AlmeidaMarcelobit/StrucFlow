@@ -1,0 +1,30 @@
+ID Caixa: 117
+Colaborador:
+Email:
+Cargo:
+Departamento:
+CPF:
+Data de admissão:
+Data de desligamento
+Centro de Custo: 12010
+Termo de Entrega de Equipamento:
+Subituição: Gabriela Gergete
+
+Tipo: Celular
+Marca/Modelo: Samsung Galaxy A03
+S/N: r9qt402ft1y
+Patrimonio: 515
+IMEI 1: 351989271793506/01
+IMEI 2: 353297231793501/01
+
+
+Tipo: Teclado e Mouse
+Marca/Modelo: Logitech H390    
+Teclado S/N: 2243CE257D69
+Mouse S/N: 2240LZN1KM88
+Patrimonio: 286
+
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N:
+Patrimonio: 807
