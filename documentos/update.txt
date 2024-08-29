@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Histórico de Updates
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -449,3 +450,6 @@
 - Adição de registro de colaboradores e fotos
 - Correção de links de fotos incorretos
 - Criação de arquivo com histórico de updates
+=======
+DELETADO
+>>>>>>> b6dcd56 (1.02)
