@@ -1,5 +1,7 @@
 # Histórico de Updates
 ##Minify
+    1.0.3
+     - Paginas minify ( dp_consultoria.php, dp_crm.php, dp_finaceiro.php, dp_inteligencia_de_negocio.php, dp_pessoas_e_cultura.php, dp_relacionamento_com_cliente.php, dp_produtos.php, dp_tech.php e dp_telemedicina.php)
     1.0.2
      - Criada pasta estrutura bibloteca de codigo
      -  Criado pasta gerador de termos
