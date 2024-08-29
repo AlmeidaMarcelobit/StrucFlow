@@ -13,7 +13,10 @@
                 <p><strong>CPF:</strong></p>
 ========
                 <p><strong>CPF:</strong>3</p>
+<<<<<<< HEAD
 >>>>>>>> 351a825 (1.0.2):blblioteca de codigo/default page import dates
+=======
+>>>>>>> b6db68e (1.02)
                 <p><strong>Data da admissão:</strong></p>
                 <p><strong>Data da desligamento:</strong></p>
                 <p><strong>Centro de Custo:</strong></p>
