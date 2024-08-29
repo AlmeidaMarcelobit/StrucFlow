@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Arquivos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-bottom: 20px;
+            padding: 10px;
+            font-family: monospace;
+        }
+        button {
+            padding: 10px 15px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #preview {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gerador de Arquivos</h1>
+    <p>Cole a estrutura de dados abaixo:</p>
+    <textarea id="dataInput" placeholder="Cole aqui a estrutura de dados..."></textarea>
+    <button onclick="generateFiles()">Gerar Arquivos</button>
+
+    <div id="preview"></div>
+
+    <script>
+        function generateFiles() {
+            const input = document.getElementById('dataInput').value;
+            const lines = input.split('\\n');
+            const files = [];
+            let currentFile = '';
+            let preview = '';
+
+            lines.forEach(line => {
+                if (line.trim() === '') return;
+
+                if (line.startsWith('Tipo:')) {
+                    if (currentFile !== '') {
+                        files.push(currentFile);
+                        currentFile = '';
+                    }
+                }
+
+                currentFile += line + '\\n';
+                preview += line + '<br>';
+            });
+
+            if (currentFile !== '') {
+                files.push(currentFile);
+            }
+
+            document.getElementById('preview').innerHTML = preview;
+
+            files.forEach((content, index) => {
+                const blob = new Blob([content], { type: 'text/plain' });
+                const link = document.createElement('a');
+                link.href = URL.createObjectURL(blob);
+                link.download = `arquivo_${index + 1}.txt`;
+                link.textContent = `Baixar arquivo ${index + 1}`;
+                link.style.display = 'block';
+                document.getElementById('preview').appendChild(link);
+            });
+
+            const zipButton = document.createElement('button');
+            zipButton.textContent = 'Baixar Todos em ZIP';
+            zipButton.onclick = function() {
+                const zip = new JSZip();
+                files.forEach((content, index) => {
+                    zip.file(`arquivo_${index + 1}.txt`, content);
+                });
+                zip.generateAsync({ type: 'blob' }).then(function(content) {
+                    const zipLink = document.createElement('a');
+                    zipLink.href = URL.createObjectURL(content);
+                    zipLink.download = 'arquivos.zip';
+                    zipLink.click();
+                });
+            };
+            document.getElementById('preview').appendChild(zipButton);
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+</body>
+</html>

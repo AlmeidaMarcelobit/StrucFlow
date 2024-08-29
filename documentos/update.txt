@@ -1,5 +1,8 @@
 # Histórico de Updates
 ##Minify
+    1.0.2
+     - Criada pasta estrutura bibloteca de codigo
+     -  Criado pasta gerador de termos
     1.0.1
      - Update de backoffice
      - Upload de dados no kits prontos
