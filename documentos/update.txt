@@ -132,6 +132,7 @@
 >>>>>>> 31428d2 (12.11.1)
 ##Minify
 <<<<<<< HEAD
+<<<<<<< HEAD
     1.0.4
      -  Correção de versionamento
     1.0.3
@@ -144,6 +145,11 @@
         Criado pasta gerador de termos
 =======
 >>>>>>> 8bc7a39 (1.0.1)
+=======
+    1.0.2
+     - Criada pasta estrutura bibloteca de codigo
+     -  Criado pasta gerador de termos
+>>>>>>> 351a825 (1.0.2)
     1.0.1
      - Update de backoffice
      - Upload de dados no kits prontos
