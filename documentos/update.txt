@@ -1,4 +1,14 @@
 # Histórico de Updates
+<<<<<<< HEAD
+=======
+##12.11.1
+    - Update de dados de colaborador
+    - Remoção de diretorio gerador de termos
+    - Correção de dados na pagina kits prontos
+    - Upload de dados de colaborador na paginas kits prontos
+##12.11.0
+    - remoção de dados brutos dentros do arquivos interno do site
+>>>>>>> 31428d2 (12.11.1)
 ##Minify
     1.0.4
      -  Correção de versionamento
