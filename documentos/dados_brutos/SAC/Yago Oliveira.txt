@@ -1,5 +1,0 @@
-Colaborador: Yago Oliveira
-Email: yago.oliveira@amorsaude.com
-Cargo: Analista CS SAC Jr
-Departamento: SAC
-Centro de Custo: 12002

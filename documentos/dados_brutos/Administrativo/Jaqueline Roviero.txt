@@ -1,8 +1,0 @@
-Colaborador: Jaqueline Roviero
-Email: jaqueline.roviero@amorsaude.com
-Cargo: Analista De Experiência Do Cliente
-Departamento: Administrativo
-CPF:
-Data de admissão:
-Data de desligamento:
-Centro de Custo: 32001

@@ -1,8 +1,0 @@
-Colaborador: Fernanda Radiguieri Espadari
-Email: fernanda.espadari@amorsaude.com
-Cargo: Estagiária
-Departamento: BackOffice
-CPF: 444.709.338-30
-Data de admissão: 08.01.2024
-Data de desligamento:
-Centro de Custo: 12005

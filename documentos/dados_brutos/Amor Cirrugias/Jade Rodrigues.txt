@@ -1,8 +1,0 @@
-Colaborador: Jade Rodrigues
-Email: jade.rodrigues@amorsaude.com
-Cargo:
-Departamento: Amor Cirurgias
-CPF:
-Data de admissão:
-Data de desligamento:
-Centro de Custo: 12006

@@ -1,8 +1,0 @@
-Colaborador: Ana Carolina Rossi
-Email: anacarolina.rossi@amorsaude.com
-Cargo: Analista Comercial
-Departamento: Amor Cirurgias
-CPF:
-Data de admissão:
-Data de desligamento:
-Centro de Custo: 32001

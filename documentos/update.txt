@@ -1,1 +1,296 @@
-DELETADO
+# Histórico de Updates
+##Minify
+    1.0.4
+     -  Correção de versionamento
+    1.0.3
+     - Paginas minify ( dp_consultoria.php, dp_crm.php, dp_finaceiro.php, dp_inteligencia_de_negocio.php, dp_pessoas_e_cultura.php, dp_relacionamento_com_cliente.php, dp_produtos.php, dp_tech.php e dp_telemedicina.php)
+    1.0.2
+     - Criada pasta estrutura bibloteca de codigo
+     -  Criado pasta gerador de termos
+    1.02
+        Criada pasta estrutura bibloteca de codigo
+        Criado pasta gerador de termos
+    1.0.1
+     - Update de backoffice
+     - Upload de dados no kits prontos
+     - Correção de dados incorretos
+    1.0.0
+    - Paginas minify (dp_administrativo_laboratório.php, dp_amorcirurgias.php, dp_atendimento_ao_cliente.php, dp_backoffice.php e dp_canais_digitais_relacionamento.php)
+##12.10.0
+    - Criação das paginas(dp_amorcirurgias, dp_relacionamento_com_client)
+    - Migração e update de dados do back_kits_prontos para front_kits_prontos
+    - Update de dadso brutos (Graziele Ambrosio)
+    - Update de link no header
+    - Alteração de nome da pagina kits_prontos.php para new_kits_prontos.php
+    - Alteração de nome da pagina back_kits_prontos.php para old_kits_prontos.php
+##12.9.1
+    - Ajuste de altura na logo da pagina
+##12.9.0
+    - Alteração da pagina agina observacao.html para agina observacao.php
+##12.8.0
+    - Criação de pagina observação_style.css para pagina observacao.html
+##Atualização
+    - Apenas arquivamento de dados na pasta dados brutos
+    - Renomeado kits_prontos.php para back_kits_prontos.php
+    - Criado front_kits_prontos.php para auditoria do estoque
+##12.7.3
+    - Upload de dados brutos
+##12.7.2
+    - Update de dados e fotos de colaboradores
+##12.7.1
+    - Upload de dados brutos de colaboradores no sistema
+    - Update de informação no footer
+##12.7.0
+    - Desmembramento do menu 'Tecnologia' em submenus
+    - Criado pagina produtos.php
+    - Criado pagina dados.php
+    - Criado link em menu para acesso da pagina (dp_produtos.php, dp_dados.php)
+    - Corrigido title da pagina observação
+    - Upload de dados de colaborador
+##12.6.1
+    - Exclusão da pagina dados.html
+    - Upload de dados de colaborador
+    - Alteração de data de entrada para data de admissão em fichas de colaboradores
+    - Alteração de data de saida para data de desligamento em fichas de colaboradores
+##12.6.0
+    - Update de dados de colaborador
+    - Remoção da pagina dados duplicados
+    - Remoção do link para pagina dados dublicados
+    - Criado pagina observação
+    - Update de dados de colaborador
+    - Corrigido erro nos dados do Artur Ferreira Morais Mello
+##12.5.1
+    - Atualização dos dados de colaborador: transferidos de "dados duplicados" para "dados brutos"
+    - Alteração na pasta de "dados de colaborador" para "dados brutos"
+    - Criação de diretórios dentro de "dados brutos" para as seguintes áreas:
+      - BackOffice
+      - Cirurgias
+      - Dados
+      - Desenvolvimento
+      - Dir_Operações
+      - Louzada
+      - Parcerias
+      - Pessoas e Cultura
+      - Qualidade de Processos
+      - Regional 2
+      - Relacionamento com Cliente
+      - Relacionamento com Profissionais da Saúde
+      - SAC
+      - Suporte
+      - Telemedicina
+   - Paginas Dados duplicados deletados
+##12.5.0
+    - Remoção da pagina dados.html
+    - Remoção da pagina dados de colaborares.txt
+    - Criado diretorio dados colaborador para arquivos .txt para dados de colaborador brutos
+    - Criação de diretorio infraestrutura para armazenamento .txt de dados brutos de equipamentos
+    - Exclusão da diretorio departamento
+    - Alterado nomes de icones
+    - Alteração de nome do arquivo dados de colaboradores importar.txt para dados exporter
+    - Alteração no nome APEX.inc par SkyTeck.inc no footer
+##12.4.2
+    - Update de dados na pagina maquina reserva
+    - Upload de dados de colaborador
+##12.4.1
+    - Upload de dados monitores
+    - Remoção de dados fones
+##12.4.0
+    - Criado pagina de fones
+    - Adicionado link para pagina fones no menu
+    - Colado no footer indicação da versão do site
+    - Update do arquivo principal.css
+##12.3.1
+    - Upload de novo foto de colaborador e dados
+    - Update de daddos de colaborador
+##12.3.0
+    - Fusão da pagina dp_experiecia_do_cliente com a pagina dp_atendimento_ao_cliente.php
+    - Exclusão da pagina experiecia_do_cliente.
+    - Atualizaçãos dos link dos menus e ordem
+##12.2.2
+    - Identação da pagina canais digitas relacionamento, CRM, Experiência do Cliente, Financeiro, Inteligencia de Negocios, Pessoas e Cultura, Telemedicina, Tech.
+    - Remoção da pagina monitores.html
+    - Correção do bugs
+    - Upload de dados de usuario.
+    - Correção das falta da tag h1 nas paginas nescesarias
+##12.2.1
+    - Identação da paginas centro de custo, administrativo laboratorio, atendimento ao cliente e backoffice.
+    - Correção de titulos da pagina backoffice.
+##12.2.0
+    - Criação da pagina maquinas backups
+    - Correção tag na paginas maquinas backups
+    - Adição de link nos menus
+    - Upload de dados e fotos de colaboradores
+##12.1.0
+   - Criação da pagina Administrativo Laboratório.
+   - Update de dados de colaborador
+   - Criação da pagina Consulturia
+   - Transferencia de dados da pagina Operação para Regional 1 e Regional 2
+   - Criação de class sub-menus
+##12.0.0
+  - Renomeação do arquivo all.css para principal.css
+  - Remoção da classe container
+  - Exclusão da <div> com a classe aside e seus elementos filhos
+  - Atualização da estrutura dos menus para o formato dropdown
+  - Ajuste das propriedades CSS do elemento main
+  - Criação das classes CSS necessárias para o menu dropdown
+  - Remoção do padding aplicado ao main
+
+##11.2.8.4
+ - Correção de dados na pagina estoque, Operação, Financeiro, Backoffice.
+ - Atualização no tamanho do menu.
+ - Criação de class de usuarios desativados.
+
+##11.2.8.3
+ - Update de dados
+
+##11.2.8.2
+ - Update de dados de maquinas reserva
+ - Correção de class para maquinas reserva
+
+##11.2.8.1
+ - Criação de branche para tratamentento de dadas duplicatos
+ - Criado link de acesso para pagina dados duplicados.
+ - Deletado pagina ID caixa
+  
+##11.2.8
+ - Correão de informação das maquinas reserva
+
+##Estoque
+    11.2.7.1
+     - Update de dados de colaborador
+
+##11.2.7
+ - Identado o codigo corregatamente
+ - update status de maquina no stock
+
+##11.2.6
+ - Correção da pagina maquina reserva(Apontamento correto para pagina de estilo, correção da link do footer)
+ - update de status de maquinas no stock
+ - adicionado nova maquina reserva 08
+ 
+##11.2.5
+ - Correção de tags quebradas na página de operação.
+ - uplaod de imagens para novos colaboradores que ainda não possuem.
+ - update de dados corrigidos de colaboradores
+ - Upload de dados de novos colaboradores
+ - Correção de fechamento de tag no estoque
+
+##11.2.4
+ - Atualização de dados duplicados
+
+## 11.2.3
+- Correção de falta de fotos em colaboradores
+
+
+## 11.2.2
+ - Correção no title da pagina tech
+ - Correção na fotos da pagina tech
+ - Correção na pagina operação
+ - Adição de dados e fotos de coloboradores
+ - Criação da pagina da dp_telemedicina
+
+## 11.2.1
+- Correção no título da página dp_operaçaão para Operação
+- Correção na estrutura da página (Atendimento ao Cliente, Pessoas e Cultura, Financeiro, CRM)
+- Exclusão da página style.css
+- Correção do link de menu que leva à página de Pessoas e Cultura
+- Página Pessoas e Cultura indentada corretamente
+- Atualização dos updates na página updates
+- Ajuste nas classes img das fotos dos colaboradores necessários
+- Correção de erro na página dp_operação na área Jade Roguies
+- Adição de formatação a todas as tags h2 e h3 para correção de minúsculas e maiúsculas
+- Correção no arquivo update.
+
+## 11.0.2
+- Remoção da pasta "departamentos", com arquivos alocados no diretório principal
+
+## 11.0.1
+- Finalização da página estoque
+
+## 11.0.0
+- Reestruturação das tags nos arquivos .php
+- Modificação no CSS:
+  - Novas classes criadas
+  - Modificação na fonte principal
+  - Modificação de cores
+  - Ajuste de tamanhos
+- Reestruturação da ordem dos arquivos na pasta 'files'
+- Arquivos renomeados
+
+## 10.8.1
+- Remoção de tags quebradas
+- Retirada de dados duplicados e relocação de dados para mitigação
+- Ajuste nos nomes de fotos de colaboradores
+
+## 10.8.0
+- Criação da pasta documentos
+- Movimentação dos arquivos (ID Caixas, Update, Analisar Dados, Anotação, Dados de Colaboradores) para Documentos
+
+## 10.7.0
+- Alteração de menus
+- Adição de dados de colaborador
+
+## 10.6.0
+- Nome da página Consultoria alterada para Operações
+- Adição de registro de colaboradores
+- Adição de novos IDs de caixas
+- Alterado lado do menu
+
+## 10.5.0
+- Criação de página com IDs das caixas
+- Renomear página Kit Prontos para Estoque
+
+## 10.4.0
+- Criação de classe para máquina "in-stock" e "out-of-stock"
+- Alteração do nome da página estoque para Máquina reserva
+- Alteração do nome style_estoque para style_m_reserva
+- Adição de novos kits na página kit prontos
+- Correção nos estilos da página
+- Atualização de titles das páginas do site
+- Criação da página CRM e Tech
+- Criação da página com os registros dos kits prontos para colaboradores
+- Correção nas classes style.css
+- Adição de novos registros de computadores reserva
+- Adição de registro de colaboradores e fotos
+
+## 10.3.1
+- Correção na ordem de registro de notebooks reserva na página estoque
+
+## 10.3.0
+- Adição de novos registros de computadores reserva
+- Indentação da página estoque
+
+## 10.2.0
+- Criação da página de estoque
+- Criação de arquivo CSS para a página de estoque
+- Alterações nos menus
+- Adição do registro de colaborador
+- Criação de pasta ícones
+
+## 10.0.1
+- Correção de fechamento de tags e correção de classes
+- Ajustes e correções no arquivo style.css
+
+## 10.0.0
+- Migração das páginas do site de HTML para PHP
+- Refatoração do código para utilizar semântica correta, substituindo elementos <div> por tags semânticas apropriadas, como <header>, <article>, <section>, <nav>, <aside>, <footer>, entre outras. Isso melhora a acessibilidade e a organização do código, tornando-o mais legível e compreensível para desenvolvedores e máquinas
+- Adição de uma área de observação nos colaboradores para lidar com dados não encontrados ou termos faltantes
+- Implementação de menu dinâmico utilizando PHP include para garantir atualização automática em todas as páginas
+- Implementação de footer dinâmico utilizando PHP include para garantir atualização em massa
+- Adição de página contendo uma lista completa de todos os centros de custo
+- Adição de arquivo CSS para estilização dos centros de custo
+- Refatoração completa da página Atendimento ao Cliente
+- Refatoração completa da página Consultoria
+- Refatoração completa da página Pessoas e Cultura
+- Correção na área de equipamento para incluir IMEI
+- Correção de títulos de páginas
+
+## 9.2.1
+- Correção de fechamento de tag na página consultoria
+
+## 9.2.0
+- Correção de div sem classe em colaborador na página Pessoas e Cultura
+- Criação da página de consultoria
+- Adição de registro de colaboradores e fotos
+- Correção de links de fotos incorretos
+- Criação de arquivo com histórico de updates

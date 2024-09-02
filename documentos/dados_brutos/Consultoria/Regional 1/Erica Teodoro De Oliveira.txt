@@ -1,8 +1,0 @@
-Colaborador: Erica Teodoro De Oliveira
-Email: erica.oliveira@amorsaude.com
-Cargo: Consultor De Operações
-Departamento: Regional 1
-CPF: 369.623.608-00
-Data de admissão: 20.06.2023
-Centro de Custo: Regional 1
-Substituição: Sim

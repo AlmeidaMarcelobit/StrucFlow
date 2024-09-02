@@ -1,8 +1,0 @@
-Colaborador: Carolina Antonino Lopes
-Email: carolina.lopes@amorsaude.com
-Cargo: Assistente Administrativo
-Departamento: Backoffice
-CPF: 079.460.726-86
-Data de admissão: 14.06.2023
-Data de desligamento:
-Centro de Custo: 12005

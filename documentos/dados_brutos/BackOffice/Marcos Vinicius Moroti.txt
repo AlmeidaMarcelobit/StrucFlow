@@ -1,8 +1,0 @@
-Colaborador: Marcos Vinicius Moroti
-Email: marcos.moroti@amorsaude.com
-Cargo: Assistente Administrativo
-Departamento: BackOffice
-CPF: 473.590.478-62
-Data de admissão: 20.06.2023
-Data de desligamento: 22.12.2023
-Centro de Custo: 12005

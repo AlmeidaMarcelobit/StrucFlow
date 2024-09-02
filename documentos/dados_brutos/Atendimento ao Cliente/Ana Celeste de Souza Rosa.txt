@@ -1,8 +1,0 @@
-Colaborador: Ana Celeste de Souza Rosa
-Email:
-Cargo: Assistente de SAC
-Departamento: Atendimento ao Cliente
-CPF: 411.488.328-23
-Data de admissão: 20.05.2024
-Data de desligamento:
-Centro de Custo: 12002 - SAC

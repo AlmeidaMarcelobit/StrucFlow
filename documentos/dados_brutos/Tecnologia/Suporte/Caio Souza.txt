@@ -1,6 +1,0 @@
-Colaborador: Caio Souza
-Cargo: Analista de Suporte Pl
-Departamento: Suporte
-Centro de Custo: 13019
-Email: caio.souza@amorsaude.com
-

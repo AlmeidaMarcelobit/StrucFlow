@@ -1,9 +1,0 @@
-Colaborador:Bianca Naomi de Carvalho
-Email:bianca.carvalho@amorsaude.com
-Cargo:Desenvolvedor PL
-Departamento:Desenvolvimento
-CPF:484.757.418-43
-Data da admissão: 01.04.2024
-Centro de Custo:13012 - Desenvolvimento
-Termo de Entrega do Equipamento:
-Subtituição:Paulo Imon

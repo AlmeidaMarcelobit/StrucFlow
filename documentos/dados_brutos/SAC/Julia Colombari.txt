@@ -1,5 +1,0 @@
-Colaborador: Julia Colombari
-Email: julia.colombari@amorsaude.com
-Cargo: Assistente de CS
-Departamento: SAC
-Centro de Custo: 12002

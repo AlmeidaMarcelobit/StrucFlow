@@ -1,8 +1,0 @@
-Colaborador: William Cezar Koller
-Email: william.koller@amorsaude.com
-Cargo: Desenvolvedor Sr
-Departamento: Desenvolvimento
-CPF: 068.190.919-66
-Data de admissão: 20.06.2023
-Data de desligamento:
-Centro de Custo: 13012

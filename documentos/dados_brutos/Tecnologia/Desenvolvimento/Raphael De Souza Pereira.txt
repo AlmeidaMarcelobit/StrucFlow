@@ -1,9 +1,0 @@
-Colaborador: Raphael De Souza Pereira
-Email: raphael.pereira@amorsaude.com
-Cargo: Desenvolvedor Pl
-Departamento: Desenvolvimento
-CPF: 069.081.765-76
-Data de admissão: 03.07.2023
-Data de desligamento:
-Centro de Custo: 13012
-

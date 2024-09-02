@@ -1,9 +1,0 @@
-Colaborador: Gabriela Cristina Soares
-Email: gabriela.cristina@amorsaude.com
-Cargo: Estagiário(a)
-Departamento: Backoffice
-CPF: 449.273.438-47
-Data de admissão: 20.06.2023
-Data de desligamento:
-Centro de Custo: 12005
-

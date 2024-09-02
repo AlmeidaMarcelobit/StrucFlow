@@ -1,8 +1,0 @@
-Colaborador: Pedro Henrique Romano Caetano
-Email: pedro.caetano@amorsaude.com
-Cargo: Analista De Processos Jr
-Departamento: Backoffice
-CPF: 455.371.238-51
-Data de admissão: 17.07.2023
-Data de desligamento:
-Centro de Custo: 12005

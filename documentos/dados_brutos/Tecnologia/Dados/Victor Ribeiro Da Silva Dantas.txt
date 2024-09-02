@@ -1,9 +1,0 @@
-Colaborador: Victor Ribeiro da Silva Dantas
-Email: victor.dantas@amorsaude.com
-Cargo: Engenheiro de Dados
-Departamento: Dados
-CPF: 060.444.161-43
-Data de admissão: 06.05.2024
-Data de desligamento:
-Centro de Custo: 13011 - Dados
-Subtituição: Gabriel Guilherme

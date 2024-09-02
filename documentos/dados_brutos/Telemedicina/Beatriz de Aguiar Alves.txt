@@ -1,9 +1,0 @@
-Colaborador: Beatriz de Aguiar Alves
-Email: beatriz.alves@amorsaude.com
-Cargo: Assistente de Cadastro
-Departamento: Telemedicina
-CPF: 437.698.308-06
-Data de admissão: 4.12.2022
-Data de desligamento:
-Centro de Custo: 22001
-Termo de Entrega de Equipamento:

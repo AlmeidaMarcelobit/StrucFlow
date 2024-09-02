@@ -1,5 +1,0 @@
-Colaborador: Lucas Saconato
-Cargo: Consultor de Desenvolvimento
-Departamento: Tech
-Centro de Custo: 13012
-Email: lucas.saconato@amorsaude.com

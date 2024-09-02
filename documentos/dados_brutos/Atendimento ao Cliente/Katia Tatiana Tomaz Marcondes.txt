@@ -1,8 +1,0 @@
-Colaborador: Katia Tatiana Tomaz Marcondes
-Email:
-Cargo: Assistente de Atendimento ao Cliente
-Departamento: Atendimento ao Cliente
-CPF: 317.842.138-61
-Data de admissão: 20.05.2024
-Data de desligamento:
-Centro de Custo: 12002 - SAC

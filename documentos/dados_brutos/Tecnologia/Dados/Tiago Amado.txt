@@ -1,5 +1,0 @@
-Colaborador: Tiago Amado
-Cargo: Analista de Dados
-Departamento: Tecnologia - Dados
-Email: tiago.amado@amorsaude.com
-

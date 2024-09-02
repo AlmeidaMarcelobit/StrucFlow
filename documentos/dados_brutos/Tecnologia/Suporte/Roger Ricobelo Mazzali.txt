@@ -1,7 +1,0 @@
-Colaborador: Roger Ricobelo Mazzali
-CPF: 319.054.418-27
-Cargo: Analista de Suporte Pl
-Departamento: Suporte/Tech
-Centro de Custo: 13019
-Data de Admissão: 22.ago.2023
-Email: roger.mazzali@amorsaude.com

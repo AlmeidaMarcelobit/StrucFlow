@@ -1,8 +1,0 @@
-Colaborador: Sophia Vieira Fantini
-Email: sophia.fantini@amorsaude.com
-Cargo: Estagiário
-Departamento: BackOffice
-CPF:
-Data de admissão:
-Data de desligamento:
-Centro de Custo: 12005

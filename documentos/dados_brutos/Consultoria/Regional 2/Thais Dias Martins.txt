@@ -1,9 +1,0 @@
-Colaborador: Thais Dias Martins
-Email: thais.martins@amorsaude.com
-Cargo: Consultor(A) De Operações
-Departamento: Regional 2
-CPF: 184.666.578-78
-Data de admissão: 07.08.2023
-Centro de Custo: 12006
-Substituição: Não
-

@@ -1,8 +1,0 @@
-Colaborador: Emanuelly Dias
-Email: emanuelly.dias@amorsaude.com
-Cargo: Analista De Operações Laboratoriais Jr
-Departamento: Administrativo
-CPF:
-Data de admissão:
-Data de desligamento:
-Centro de Custo: 42001

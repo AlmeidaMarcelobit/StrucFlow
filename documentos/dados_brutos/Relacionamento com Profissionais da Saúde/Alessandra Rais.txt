@@ -1,8 +1,0 @@
-olaborador: Alessandra Rais
-Email: alessandra.rais@amorsaude.com
-Cargo: Analista de Relacionamento com Profissionais da Saúde
-Departamento: Relacionamento com Profissionais da Saúde
-CPF: 323.024.848-19
-Data de admissão: 07.08.2023
-Centro de Custo: 12003
-Substituição: Não
