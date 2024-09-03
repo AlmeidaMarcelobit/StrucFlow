@@ -1,6 +1,14 @@
 # Histórico de Updates
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+##12.11.2
+    - Criado pagina bkp.estoque
+    - Correção nas altura e imagem de colaboradores
+    - Upload de dados de colaborador na pagina dp_atendimento_ao_cliente
+    - Update nos kits prontos
+>>>>>>> 27ca273 (12.11.2)
 ##12.11.1
     - Update de dados de colaborador
     - Remoção de diretorio gerador de termos
