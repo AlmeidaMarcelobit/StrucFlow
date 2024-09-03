@@ -1,8 +1,14 @@
 # Histórico de Updates
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+##12.11.3
+    - Exclusão da pagina bkp.estoque
+    - Correão da pagina observacao
+>>>>>>> 177f6f9 (12.11.3)
 ##12.11.2
     - Criado pagina bkp.estoque
     - Correção nas altura e imagem de colaboradores
