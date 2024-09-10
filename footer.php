@@ -1,6 +1,6 @@
 <footer>
     <p class="reserva">&copy; Reservado AmorSaude</p>
-    <p class="version">12.9.1</p>
+    <p class="version">12.12.0</p>
 </footer>
 <!-- https://www.youtube.com/
 https://www.youtube.com/watch?v=Zs55IQLMwvQ

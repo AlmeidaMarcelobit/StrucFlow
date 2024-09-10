@@ -2,9 +2,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
+=======
+##12.12.0
+    - Alterção nas estilo dos article dos colaboradores
+>>>>>>> ab50fde (12.12.0)
 ##12.11.3
     - Exclusão da pagina bkp.estoque
     - Correão da pagina observacao
