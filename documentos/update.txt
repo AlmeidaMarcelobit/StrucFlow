@@ -3,10 +3,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
 =======
+=======
+##12.12.1
+    - dp_finaceiro: subtituição notebook Murillo Zenine para o da Gabriela Geogerte
+    - new_kits_prontos: colodo ID no kit de subituição da Bruna Emilio
+>>>>>>> 29e227b (12.12.1)
 ##12.12.0
     - Alterção nas estilo dos article dos colaboradores
 >>>>>>> ab50fde (12.12.0)
