@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -20,6 +21,10 @@
 12.13.0
 =======
 =======
+=======
+12.15.1
+    - principal.css: correção de erros paginas
+>>>>>>> bff7e7a (12.15.1)
 12.15.0
     - principal.css: alteração nos layout das paginas
 >>>>>>> ad7d512 (12.15.0)
