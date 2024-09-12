@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -22,6 +23,10 @@
 =======
 =======
 =======
+=======
+12.15.2
+    - home.php: correção nos link de include do header e footer
+>>>>>>> ce62009 (12.15.2)
 12.15.1
     - principal.css: correção de erros paginas
 >>>>>>> bff7e7a (12.15.1)
