@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -18,6 +19,10 @@
 =======
 12.13.0
 =======
+=======
+12.15.0
+    - principal.css: alteração nos layout das paginas
+>>>>>>> ad7d512 (12.15.0)
 12.14.0
     - footer.php: alterado para footer.html
     - header.php: alterado para header.html
