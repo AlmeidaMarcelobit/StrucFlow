@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -24,6 +25,12 @@
 =======
 =======
 =======
+=======
+12.15.3
+    - dp_canais_digitais_relacionamento: correção no codigo include header
+    - dp_consultoria: correção no codigo include header
+    - footer.php: alteção no indicador de versionamento
+>>>>>>> 94f8be5 (12.15.3)
 12.15.2
     - home.php: correção nos link de include do header e footer
 >>>>>>> ce62009 (12.15.2)
