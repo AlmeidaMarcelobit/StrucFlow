@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -28,6 +29,23 @@
 =======
 =======
 =======
+=======
+12.15.5
+    - dp_administrativo_laboratório: correção no link header e footer
+    - dp_amorcirurgias: correção no link header e footer
+    - dp_atendimento_ao_cliente: correção no link header e footer
+    - dp_backoffice: correção no link header e footer
+    - dp_canais_digitais_relacionamento: correção no link header e footer
+    - regional 1 e 2: correção no link header e footer
+    - dp_finaceiro: correção no link header e footer
+    - dp_inteligencia_de_negocio: correção no link header e footer
+    - dp_pessoas_e_cultura: correção no link header e footer
+    - dp_relacionamento_com_cliente: correção no link header e footer
+    - dp_tech_produtos: correção no link header e footer
+    - dp_tech_desenvolvido: correção no link header e footer
+    - dp_tech_suporte: correção no link header e footer
+    - dp_telemedicina: correção no link header e footer
+>>>>>>> a082df3 (12.15.5)
 12.15.4
     - dp_crm: correção no link header e footer
 >>>>>>> a5f181d (12.15.4)
