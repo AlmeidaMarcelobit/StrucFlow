@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -31,6 +32,16 @@
 =======
 =======
 12.15.5
+=======
+##12.15.6
+    - máquinas de backups: correção no link header e adição script include footer
+    - máquinas reserva: correção no link header e footer
+    - monitores: correção no link header e footer
+    - fones: correção no link header e footer
+    - new_kits_prontos: correção no link header e footer
+    - Update: Correção na sematica
+##12.15.5
+>>>>>>> 54f4059 (12.15.6)
     - dp_administrativo_laboratório: correção no link header e footer
     - dp_amorcirurgias: correção no link header e footer
     - dp_atendimento_ao_cliente: correção no link header e footer
@@ -45,6 +56,7 @@
     - dp_tech_desenvolvido: correção no link header e footer
     - dp_tech_suporte: correção no link header e footer
     - dp_telemedicina: correção no link header e footer
+<<<<<<< HEAD
 >>>>>>> a082df3 (12.15.5)
 12.15.4
     - dp_crm: correção no link header e footer
@@ -64,6 +76,21 @@
     - principal.css: alteração nos layout das paginas
 >>>>>>> ad7d512 (12.15.0)
 12.14.0
+=======
+##12.15.4
+    - dp_crm: correção no link header e footer
+##12.15.3
+    - dp_canais_digitais_relacionamento: correção no codigo include header
+    - dp_consultoria: correção no codigo include header
+    - footer.php: alteção no indicador de versionamento
+##12.15.2
+    - home.php: correção nos link de include do header e footer
+##12.15.1
+    - principal.css: correção de erros paginas
+##12.15.0
+    - principal.css: alteração nos layout das paginas
+##12.14.0
+>>>>>>> 54f4059 (12.15.6)
     - footer.php: alterado para footer.html
     - header.php: alterado para header.html
     - dp_tech_suporte.html: alterado para dp_tech_suporte.php
