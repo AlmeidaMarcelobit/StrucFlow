@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignorar configurações do PHPStorm
 .idea/
 
@@ -16,3 +17,14 @@ composer.lock
 
 # Arquivos de ambiente
 .env
+=======
+
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/Saude-Inventario.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+~$stórico de Updates.docx
+>>>>>>> 0e96a17 (12.20.5)

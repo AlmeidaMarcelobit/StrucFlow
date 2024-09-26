@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diferença entre datas</title>
+</head>
+<body>
+<p><strong>Data admissão: </strong><span id="dataAdmissao">05.10.2020</span></p>
+<p><strong>Data desligamento: </strong><span id="dataDesligamento">30.08.2024</span></p>
+<p><strong>Tempo de serviço: </strong><span id="resultado"></span></p>
+
+<script>
+    function calcularTempo(dataInicio, dataFim) {
+        const inicio = new Date(dataInicio.split('.').reverse().join('-')); // Converter formato DD.MM.YYYY para YYYY-MM-DD
+        const fim = new Date(dataFim.split('.').reverse().join('-'));
+
+        let anos = fim.getFullYear() - inicio.getFullYear();
+        let meses = fim.getMonth() - inicio.getMonth();
+        let dias = fim.getDate() - inicio.getDate();
+
+        // Ajusta se os dias forem negativos
+        if (dias < 0) {
+            meses--;
+            dias += new Date(fim.getFullYear(), fim.getMonth(), 0).getDate();
+        }
+
+        // Ajusta se os meses forem negativos
+        if (meses < 0) {
+            anos--;
+            meses += 12;
+        }
+
+        return `${anos} anos, ${meses} meses e ${dias} dias`;
+    }
+
+    const dataAdmissao = document.getElementById("dataAdmissao").textContent;
+    const dataDesligamento = document.getElementById("dataDesligamento").textContent;
+    const resultado = calcularTempo(dataAdmissao, dataDesligamento);
+
+    document.getElementById("resultado").textContent = resultado;
+</script>
+</body>
+</html>

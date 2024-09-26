@@ -1,6 +1,11 @@
+/* FOMATAÇÃO GERAL PARA MARGIN E PADDING */
 *{
     margin: 0;
     padding: 0;
+}
+/* FOMATAÇÃO GERAL PARA TTITULOS E SERIAL */
+.serial, h2, h3 {
+    text-transform: uppercase;
 }
 body {
     margin: 0 auto;
@@ -32,57 +37,15 @@ nav {
 }
 .menu a {
     display: block;
+    color: #e0e0e0;
+    text-decoration: none;
 }
 .menu li {
     position: relative;
 }
-.menu a {
-    color: #e0e0e0;
-    text-decoration: none;
-}
 .menu a,
 header {
     padding: 10px;
-}
-    /* MENU DROP DOW */
-.dropdown:hover .dropdown-content{
-    display: block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background: #333;
-    min-width: 160px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-    z-index: 1;
-}
-.dropdown-content a {
-    color: #fff;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-.dropdown-content a:hover {
-    background-color: #555;
-}
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-.dropdown:hover {
-    background-color: #444;
-}
-.dropdown .dropdown-content .dropdown {
-    position: relative;
-}
-.dropdown .dropdown-content .dropdown-content {
-    top: 0;
-    left: 100%;
-    margin-left: 1px;
-    display: none;
-}
-.dropdown-content .dropdown:hover .dropdown-content {
-    display: block;
 }
  /* CONTEUDO */
 .ativo, .desativados {
@@ -119,10 +82,42 @@ img.foto {
 }
 .equipamentos-info {
     display: flex;
+    gap: 10px;
     flex-wrap: wrap;
 }
+.equipamento{
+    font-size: 0.8em;
+    border: 1px solid #444;
+    flex: 4 4;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 7px 10px 7px 10px;
+}
+.equipamento-danificados{
+    font-size: 0.8em;
+    border: 1.5px solid #969696;
+    background-color: #471212;
+    flex: 4 4;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 7px 10px 7px 10px;
+} 
+.equipamento-not-devolvido{
+    font-size: 0.8em;
+    border: 1.5px solid #969696;
+    background-color: #773c3c;
+    flex: 4 4;
+    box-sizing: border-box;
+    border-radius:6px;
+    padding: 7px 10px 7px 10px;
+}
 .ticket{
+    margin-top: 1%;
+    font-size: 0.8em;
     background-color: #1c1c1c;
+    border: 1px solid #444;
+    padding: 7px 10px 7px 10px;
+    border-radius: 6px;
 }
 /* CSS para rodape do site */
 footer {
@@ -151,39 +146,7 @@ footer .version {
 .colaborador-verificar {
     border: 1px solid #d32f2f;
 }
-.equipamento-not-devolvido, .equipamento {
-    border-radius: 6px;
-    flex: 4 4;
-    box-sizing: border-box;
-}
-.equipamento-not-devolvido{
-    background-color: #773c3c;
-
-}
-.equipamento-danificados {
-    font-size: 14px;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #d32f2f;
-    border-radius: 6px;
-    flex: 1 1 calc(15% - 20px);
-    box-sizing: border-box;
-} 
-.equipamento, .equipamento-not-devolvido,
-.ticket {
-    font-size: 12px;
-    padding: 5px;
-    border: 1px solid #444;
-    margin-top: 5px;
-    margin-left: 1%;
-}
-.serial, h2, h3 {
-    text-transform: uppercase;
-}
-.ticket {
-    border-radius: 5px;
-}
-/* NOTEBOOK RESERVA */
+/* CSS para pagina notebook reserva*/
 .notebooks-info {
     display: flex;
     align-items: center;
