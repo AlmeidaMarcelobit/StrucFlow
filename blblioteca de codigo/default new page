@@ -1,27 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/principal.css">
-    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
-    <title>NOME AQUI</title>
-</head>
-
-<body>
-    <header><img src="icones/logo_amorsaude.png" alt="LOGO AMORSAUDE"></header>
-    <?php include 'header.php'; ?>
-        <main>
-            <header class="ativo">
-                <h1>COLABORADORES ATIVOS</h1>
-            </header>
-            <header class="desativados">
-                <h1>COLABORADORES DESATIVADOS</h1>
-            </header>
-        </main>
-        <?php include'footer.php' ?>
-</body>
-
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" href="css/principal.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet">
+		<meta name="author" content="Marcelo de Araujo Almeida">
+		<title>Titulo Aqui</title>
+	</head>
+	<body>
+		<header><img alt="LOGO AMORSAUDE" src="icones/logo_amorsaude.png"></header>
+		<?php include 'header.html';?>
+		<main></main>
+		<?php include 'footer.html'?>
+	</body>
 </html>
