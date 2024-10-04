@@ -1,0 +1,29 @@
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N:
+Patrimonio: 
+
+Tipo: 
+Marca/Modelo: 
+S/N: 
+Patrimonio: 
+IMEI 1: 
+IMIE 2:
+
+ID Ticket: 
+Equipamento: 
