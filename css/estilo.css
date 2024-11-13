@@ -4,7 +4,8 @@ body {
 
 .main {
     margin: 0 auto;
-    width: 960px;
+    max-width: 1080px;
+    min-width: 640px;
     padding: 0px;
 }
 
@@ -21,7 +22,7 @@ article {
     margin-top: 20px;
 }
 img{
-    width: 191px;
+    max-width: 90%;
     height: 291px;
     border-radius: 7px;
 }
