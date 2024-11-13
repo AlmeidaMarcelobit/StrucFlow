@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../css/style_m_reserva.css">
+    <link rel="stylesheet" href="css/style_m_reserva.css">
     <title>Maquinas Reserva</title>
 </head>
 
@@ -17,7 +17,7 @@ include 'header.php';
     <article class="in-stock">
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong> Reserva-01</p>
@@ -33,7 +33,7 @@ include 'header.php';
     <article>
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong> Reserva - 03</p>
@@ -48,7 +48,7 @@ include 'header.php';
     <article class="off">
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong>Reserva- 04</p>
@@ -63,7 +63,7 @@ include 'header.php';
     <article>
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong>Reserva - 05</p>
@@ -78,7 +78,7 @@ include 'header.php';
     <article class="in-stock">
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong>Reserva- 06</p>
@@ -93,7 +93,7 @@ include 'header.php';
     <article class="in-stock">
         <section class="notebooks-info">
             <div class="img">
-                <img src="../icones/laptop.png" alt="icone laptop">
+                <img src="icones/laptop.png" alt="icone laptop">
             </div>
             <div class="equipamento-details">
                 <p><strong>Nome: </strong>Reserva- 07</p>
