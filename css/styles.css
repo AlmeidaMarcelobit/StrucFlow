@@ -1,0 +1,406 @@
+/*###Global Styles###*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #fff;
+  font-family: "Playwrite DE Grund", cursive;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 0.9em;
+}
+
+/*###Header###*/
+#cabeca {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: #61c1d0;
+  border-bottom: 7px inset #2980b9;
+  padding-right: 20px;
+}
+
+#cabeca img {
+  max-width: 120px;
+  width: 100%;
+}
+
+.menu ul {
+  list-style: none;
+}
+
+.menu li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: azure;
+}
+
+/* Adicionando o efeito hover com a cor #34495E */
+.menu a:hover {
+  color: #34495e;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #61c1d0;
+  min-width: 90px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Efeito hover para os itens do dropdown */
+.dropdown-content a:hover {
+  color: #34495e;
+}
+
+.dropdown .dropdown-content .dropdown {
+  position: relative;
+}
+
+.dropdown .dropdown-content .dropdown-content {
+  top: 0;
+  left: 100%;
+  margin-left: 1px;
+  display: none;
+}
+
+.dropdown .dropbtn .dropdown-content a:hover {
+  color: #34495e;
+}
+
+.dropdown-content .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* ###Search### */
+.menu .search-container {
+  padding: 0px 0px;
+}
+
+.search-container {
+  display: inline-flex;
+  vertical-align: middle;
+  padding: 0px;
+}
+
+.search-container input[type="text"] {
+  padding: 4px 8px;
+  border: 1px solid #1f618d;
+  border-radius: 4px;
+  font-size: 1em;
+  width: 300px;
+}
+
+.search-container button {
+  position: relative;
+  text-align: center;
+  top: -3px;
+  padding: 4px 8px;
+  background-color: #1f618d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: all 0.3s;
+  box-shadow: 0 5px 0 #154360, 0 6px 6px rgba(0, 0, 0, 0.2);
+}
+
+.search-container button:hover {
+  background-color: #154360;
+  box-shadow: 0 5px 0 #0c2c45, 0 6px 6px rgba(0, 0, 0, 0.3);
+}
+
+.search-container button:active {
+  position: relative;
+  top: 3px;
+  box-shadow: none;
+}
+
+.ativo {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 10px;
+  color: azure;
+  background-color: #61c1d0;
+  border-radius: 8px;
+  border: 1px solid #1f618d;
+  padding: 10px;
+}
+
+.desativados {
+  text-align: center;
+  font-size: 10px;
+  color: azure;
+  background-color: #d53e36;
+  border-radius: 8px;
+  border: 1px solid #1f618d;
+  padding: 10px;
+}
+
+/*###Div###*/
+.container {
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.container-article {
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+  gap: 10px;
+}
+
+.container_inventario {
+  width: 50%;
+  margin: 10px auto;
+  display: flex;
+  gap: 10px;
+}
+
+/*###Article###*/
+article {
+  background-color: #f0f8ff;
+  box-sizing: content-box;
+  box-shadow: 2px 3px #ccc;
+  padding: 10px;
+  border: 1px solid #1f618d;
+  border-radius: 8px;
+}
+
+.foto {
+  height: 170px;
+  width: 175px;
+  border-radius: 7px;
+  margin-bottom: 2px;
+}
+
+.colaborador-info {
+  display: flex;
+  align-items: inherit;
+}
+
+.colaborador-details {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 0.9em;
+}
+
+.colaborador-details p {
+  color: #34495e;
+}
+
+.colaborador-details p strong {
+  color: #2980b9;
+}
+
+article.redflag {
+  border: 2px solid #f00;
+}
+
+.redflag {
+  border: 2px solid #f00;
+}
+
+greenflag {
+  border: 2px solid green;
+}
+
+/* ###Section### */
+.equipamentos-info {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 0.9em;
+  color: #34495e;
+}
+
+.equipamento {
+  border: 1.5px solid #444;
+  flex: 4 4;
+  box-sizing: border-box;
+  border-radius: 6px;
+  font-size: 0.9em;
+  padding: 7px 10px;
+}
+
+.equipamento p {
+  color: #34495e;
+}
+
+.equipamento p strong {
+  color: #2980b9;
+}
+
+.equipamento-danificados {
+  margin: 1% 0;
+  flex: 4 4;
+  border: 1.5px solid #444;
+  border-radius: 6px;
+  background-color: #cf3931;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 0.9em;
+  padding: 7px 10px;
+}
+
+.equipamento-not-devolvido {
+  border: 1.5px solid #969696;
+  flex: 4 4;
+  border-radius: 6px;
+  background-color: #cf3931;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 0.9em;
+  padding: 7px 10px;
+}
+
+.ticket {
+  margin-top: 1%;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 0.9em;
+}
+
+.ticket p {
+  color: #34495e;
+}
+
+.ticket p strong {
+  color: #2980b9;
+}
+
+/*###Aside###*/
+aside {
+  display: none;
+  flex: 1;
+  margin-right: 0;
+  margin-top: 10px;
+  background-color: #eee;
+  border: 1px solid #1f618d;
+  border-radius: 8px;
+  box-sizing: content-box;
+  box-shadow: 2px 3px #ccc;
+}
+
+aside header {
+  text-align: center;
+  font-size: 10px;
+  color: azure;
+  background-color: #61c1d0;
+  border-radius: 8px 8px 0px 0px;
+  padding: 5px;
+}
+
+aside h1 {
+  color: azure;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+aside p {
+  padding: 5px;
+  border-bottom: 2px dashed #4f9d9d;
+  color: #4d4d4d;
+  font-size: 0.9em;
+}
+
+p.notok {
+  background-color: #d6eaf8;
+}
+
+/*###Footer###*/
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: #61c1d0;
+  border-top: 7px inset #2980b9;
+  padding-right: 20px;
+}
+
+.reserva {
+  font-size: 0.9em;
+  justify-items: center;
+}
+
+.version {
+  font-size: 0.9em;
+  color: #777;
+}
+
+/* ###Global Styles### */
+.home {
+  margin: 1% auto;
+  width: 50%;
+  height: 100vh;
+}
+
+.monitor {
+  margin-top: 1%;
+}
+
+/*###Notebook###*/
+.notebooks-info {
+  display: flex;
+  align-items: center;
+}
+
+.notebooks-info img {
+  height: 191px;
+  width: 150px;
+}
+
+/* @media (max-width: 600px) and (min-width: 300px) {
+    body{
+        width: 100%;
+    }
+    header{
+        
+    }
+    div.container {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+
+    aside {
+        width: 100%;
+        background: red;
+    }
+} */
+@media screen and (max-width: 435px) {
+  header#cabeca {
+    background-color: #090909;
+  }
+}
