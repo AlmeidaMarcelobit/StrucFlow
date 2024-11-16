@@ -1,0 +1,27 @@
+.raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.code {
+    background-color: #eeeeee;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px #cccccc;
+}
+.titulo{
+    height: 55px;
+    font-size: 10px;
+    color: azure;
+    background-color: #4F9D9D;
+    border-radius: 8px;
+    border: 1px solid #1F618D;
+}
+.container-article{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer{
+}
