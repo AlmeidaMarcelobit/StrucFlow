@@ -164,7 +164,7 @@ body {
   display: flex;
   width: 50%;
   margin: 0 auto;
-  gap: 10px;
+  gap: 5px;
   flex-wrap: wrap;
   margin-bottom: 10px;
   box-sizing: border-box;
@@ -174,7 +174,7 @@ body {
   display: flex;
   flex-direction: column;
   flex: 2;
-  gap: 10px;
+  gap: 5px;
 }
 
 .container_inventario {
@@ -188,8 +188,8 @@ body {
 article {
   background-color: #f0f8ff;
   box-sizing: content-box;
-  box-shadow: 2px 3px #ccc;
-  padding: 10px;
+  box-shadow: 2px 2px #ccc;
+  padding: 5px;
   border: 1px solid #1f618d;
   border-radius: 8px;
 }
@@ -236,7 +236,7 @@ greenflag {
 .equipamentos-info {
   margin-top: 10px;
   display: flex;
-  gap: 10px;
+  gap: 5px;
   flex-wrap: wrap;
   font-size: 0.9em;
   color: #34495e;
@@ -244,11 +244,11 @@ greenflag {
 
 .equipamento {
   border: 1.5px solid #444;
-  flex: 4 4;
+  flex: 1;
   box-sizing: border-box;
   border-radius: 6px;
   font-size: 0.9em;
-  padding: 7px 10px;
+  padding: 5px 7px;
 }
 
 .equipamento p {
@@ -300,7 +300,7 @@ greenflag {
 
 /*###Aside###*/
 aside {
-  display: none;
+  /*  display: none;*/
   flex: 1;
   margin-right: 0;
   margin-top: 10px;
