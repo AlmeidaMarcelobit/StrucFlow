@@ -14,7 +14,7 @@
 
 <body>
   <header id="cabeca">
-    <img src="../static/img/logo.png" alt="LOGO AMORSAUDE">
+    <img src="../assents/logo/logo.png" alt="LOGO AMORSAUDE">
     <?php include '../includes/header.html';?>
   </header>
 
