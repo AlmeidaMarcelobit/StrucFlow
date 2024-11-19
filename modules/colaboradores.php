@@ -10389,51 +10389,7 @@
           </div>
         </section>
       </article>
-      <article>
-        <section class="colaborador-info">
-          <div><img class="foto" src="../static/img/foto_colaboradores/Ana Hermogenes.jpeg" alt="Ana Cláudia Mata de Sousa Hermogenes"></div>
-          <div class="colaborador-details">
-            <p><strong>Colaborador: </strong>Ana Cláudia Mata de Sousa Hermogenes</p>
-            <p><strong>Email: </strong>ana.hermogenes@amorsaude.com</p>
-            <p><strong>Cargo: </strong>Assistente de Retenção</p>
-            <p><strong>Departamento: </strong>Relacionamento com Cliente / Retenção</p>
-            <p><strong>CPF: </strong>313.083.518-01</p>
-            <p><strong>Data da admissão: </strong>06.05.2024</p>
-            <p><strong>Data da desligamento: </strong></p>
-            <p><strong>Centro de Custo: </strong>72023 - Relacionamento com Cliente / Retenção</p>
-          </div>
-        </section>
-        <section class="equipamentos-info">
-          <div class="equipamento">
-            <p><strong>Tipo: </strong>Notebook</p>
-            <p><strong>Patrimônio: </strong>1503</p>
-            <p class="serial"><strong>S/N: </strong>F3Y3F14</p>
-            <p><strong>Marca/Modelo: </strong>Dell Vostro 3520</p>
-          </div>
-          <div class="equipamento">
-            <p><strong>Tipo: </strong>Teclado e Mouse</p>
-            <p><strong>Patrimônio: </strong>203</p>
-            <p class="serial"><strong>S/N: </strong>JNZYR0036</p>
-            <p><strong>Marca/Modelo: </strong>Logitech K235</p>
-          </div>
-          <div class="equipamento">
-            <p><strong>Tipo: </strong>Suporte</p>
-            <p><strong>Patrimônio: </strong>987</p>
-            <p class="serial"><strong>S/N: </strong></p>
-            <p><strong>Marca/Modelo: </strong>Alumínio</p>
-          </div>
-          <div class="equipamento">
-            <p><strong>Tipo: </strong>Headset</p>
-            <p><strong>Patrimônio: </strong>989</p>
-            <p class="serial"><strong>S/N: </strong>2330AY02D1AB</p>
-            <p><strong>Marca/Modelo: </strong>Logitech H390</p>
-          </div>
-        </section>
-        <section class="ticket">
-          <p><strong>ID Ticket: </strong>#30511</p>
-          <p><strong>Equipameto: </strong>Notebook, Teclado e Mouse, Suporte, Headset</p>
-        </section>
-      </article>
+
       <article>
         <section class="colaborador-info">
           <div><img src="../static/img/foto_colaboradores/Angelica Pires.jfif" alt="Foto de Angelica Emanuela dos Santos Pires" class="foto"></div>
