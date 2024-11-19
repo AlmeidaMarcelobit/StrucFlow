@@ -13,10 +13,10 @@
 </head>
 
 <body>
-	<header id="cabeca">
-		<img src="../assents/logo/logo.png" alt="LOGO AMORSAUDE">
-		<?php include '../includes/header.html';?>
-	</header>
+  <header id="cabeca">
+    <img src="../assents/logo/logo.png" alt="LOGO AMORSAUDE">
+    <?php include '../includes/header.html';?>
+  </header>
 
 	<main>
 		<article class="home">
