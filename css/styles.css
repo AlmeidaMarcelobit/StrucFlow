@@ -300,7 +300,7 @@ greenflag {
 
 /*###Aside###*/
 aside {
-  /*  display: none;*/
+  display: none;
   flex: 1;
   margin-right: 0;
   margin-top: 10px;
@@ -366,20 +366,87 @@ footer {
   height: 100vh;
 }
 
-.monitor {
-  margin-top: 1%;
+/*###Notebook###*/
+.estoque-container {
+  margin: 10 auto;
+  display: flex;
+  width: 50%;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
-/*###Notebook###*/
+.maquina-backup {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 5px;
+}
+
+.maquina-reserva {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 5px;
+}
+
 .notebooks-info {
   display: flex;
-  align-items: center;
+  gap: 5px;
 }
 
 .notebooks-info img {
-  height: 191px;
-  width: 150px;
+  height: 120px;
+  width: 100px;
 }
+
+.notebooks-info p strong {
+  color: #3a747c;
+  font-size: 0.7rem
+}
+
+p {
+  color: #3C3C3C;
+  font-size: 0.6rem;
+}
+
+/*Monitor*/
+.monitor-info {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 50%;
+  gap: 5px;
+  box-sizing: border-box;
+}
+
+.monitor {
+  display: flex;
+  flex-direction: row;
+  border: 1.5px solid #444;
+  box-sizing: border-box;
+  border-radius: 6px;
+  font-size: 0.9em;
+  flex: 1;
+  /*
+  align-items: center;
+  align-content: center;
+*/
+}
+
+.monitor-info img {
+  height: 120px;
+  width: 100px;
+}
+
+.monitor-info p strong {
+  color: #3a747c;
+  font-size: 0.7rem;
+}
+
+
 
 /* @media (max-width: 600px) and (min-width: 300px) {
     body{
