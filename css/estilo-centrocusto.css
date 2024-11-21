@@ -1,71 +1,168 @@
-/* Estrutura principal */
-body {
-	margin: 0 auto;
-	font-family: "Playwrite DE Grund", cursive;
-	font-size: 0.85em;
-	background-color: #1c1c1c;
-	color: #ccc;
+/* FOMATAÇÃO GERAL PARA MARGIN E PADDING */
+* {
+    margin: 0;
+    padding: 0;
+  }
+/* FOMATAÇÃO GERAL PARA TTITULOS E SERIAL */
+.serial,
+h2,
+h3 {
+    text-transform: uppercase;
 }
 
-/* Estilo principal */
-main {
-	margin: 50px auto;
-	width: 70%;
-	max-width: 900px;
-	border: 1px solid #333;
-	padding: 40px;
-	background: #2c2c2c;
-	border-radius: 8px;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-}
+  body {
+    margin: 0 auto;
+    width: 55%;
+    min-width: 510px;
+    background-color: #fff;
+    color: #505050;
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 0.8em;
+  }
+  
+  header {
+    background-color: #EDEDEE;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header img {
+    max-width: 1080px;
+    height: 130px;
+  }
+  /* MENU */
+  nav {
+    background-color: #EDEDEE;
+  }
+  .menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
 
-main h2 {
-	background-color: #ff8c00;
-	color: #fff;
-	padding: 10px;
-	border-radius: 8px;
-	margin-top: -50px;
-	text-align: center;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-}
+  .menu a {
+    display: block;
+    color: #505050;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+  }
+  
+  .menu li {
+    position: relative;
+  }
 
-/* Tabela */
-table {
-	width: 100%;
-	border-collapse: collapse;
-	margin-top: 20px;
-	font-size: 14px;
-	background-color: #2c2c2c;
-	color: #f0f0f0;
-	font-size: 0.95em;
+  .menu li a:hover{
+    color: #E51519;
+    text-transform: uppercase;
 }
+  
+  .menu a,
+  header {
+    padding: 10px;
+  }
+  
+  /* MENU DROP DOW */
+  .dropdown:hover .dropdown-content,
+  .menu a {
+    display: block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background: #EDEDEE;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #505050;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
 
-table thead {
-	background-color: #ff8c00;
-	color: #fff;
+  .dropdown .dropdown-content .dropdown {
+    position: relative;
+  }
+  
+  .dropdown .dropdown-content .dropdown-content {
+    top: 0;
+    left: 100%;
+    margin-left: 1px;
+    display: none;
+  }
+  
+  .dropdown-content .dropdown:hover .dropdown-content {
+    display: block;
+  }
+main{
+  background-color:#EDEDEE;
 }
-
-table th,
-table td {
-	padding: 10px;
-	text-align: left;
-	border: 1px solid #444;
+/* Lista */
+h2{
+    margin-left: 10px;
+    text-align: center;
+    font-size: 24px;
 }
-
-table tbody tr:nth-child(odd) {
-	background-color: #3a3a3a;
+table{
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
 }
-
-table tbody tr:hover {
-	background-color: #444444;
+thead {
+    background-color: #333;
+    color: white;
 }
-
-/* Links */
-a {
-	color: #ff8c00;
-	text-decoration: none;
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    color: #fff;
 }
-
-a:hover {
-	text-decoration: underline;
+/* tbody tr:nth-child(even) {
+    background-color: #201b1b;
+} */
+ tr{
+  background: #115964;
+ }
+tbody tr:hover{
+  background: #007C8F;
 }
+/* footer */
+  footer {
+    margin-top: 10px;
+    background-color: #EDEDEE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+  
+  footer .reserva {
+    font-size: 0.9em;
+    text-align: center;
+    justify-items: center;
+  }
+  
+  footer .version {
+    font-size: 0.9em;
+    color: #777;
+  }
