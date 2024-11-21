@@ -1,0 +1,329 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #fff;
+	font-family: "Playwrite DE Grund", cursive;
+	font-size: 0.9em;
+}
+
+/*###Seção: Cabeçalho###*/
+#cabeca {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	background-color: #61c1d0;
+	border-bottom: 7px inset #2980b9;
+	padding-right: 20px;
+}
+
+#cabeca img {
+	max-width: 120px;
+	width: 100%;
+}
+
+.menu li {
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+.menu a {
+	text-decoration: none;
+	color: azure;
+}
+
+/* Adicionando o efeito hover com a cor #34495E */
+.menu a:hover {
+	color: #34495e;
+}
+
+/*###Seção: Busca###*/
+.menu .search-container {
+	padding: 0px 0px;
+}
+
+.search-container {
+	display: inline-flex;
+	vertical-align: middle;
+	padding: 0px;
+}
+
+.search-container input[type="text"] {
+	padding: 4px 8px;
+	border: 1px solid #1f618d;
+	border-radius: 4px;
+	font-size: 1em;
+	width: 300px;
+}
+
+.search-container button {
+	position: relative;
+	text-align: center;
+	top: -3px;
+	padding: 4px 8px;
+	background-color: #1f618d;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 12px;
+	transition: all 0.3s;
+	box-shadow: 0 5px 0 #154360, 0 6px 6px rgba(0, 0, 0, 0.2);
+}
+
+.search-container button:hover {
+	background-color: #154360;
+	box-shadow: 0 5px 0 #0c2c45, 0 6px 6px rgba(0, 0, 0, 0.3);
+}
+
+.search-container button:active {
+	position: relative;
+	top: 3px;
+	box-shadow: none;
+}
+
+/*###Seção: Workpack###*/
+.container {
+	margin: 5px auto;
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	;
+}
+
+.workpack {
+	text-align: center;
+	font-size: 10px;
+	color: azure;
+	background-color: #61c1d0;
+	border-radius: 8px;
+	border: 1px solid #1f618d;
+	padding: 10px;
+}
+
+article {
+	background-color: #f0f8ff;
+	box-sizing: content-box;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+	padding: 5px;
+	border: 1px solid #1f618d;
+	border-radius: 8px;
+}
+
+.colaborador-info {
+	display: flex;
+	align-items: inherit;
+}
+
+.colaborador-details {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 0.9em;
+}
+
+.colaborador-details p {
+	color: #34495e;
+}
+
+.colaborador-details p strong {
+	color: #2980b9;
+}
+
+.equipamentos-info {
+	margin-top: 3px;
+	display: flex;
+	gap: 5px;
+	flex-wrap: wrap;
+	font-size: 0.9em;
+	color: #34495e;
+}
+
+.equipamento {
+	border: 1.5px solid #444;
+	flex: 1;
+	box-sizing: border-box;
+	border-radius: 6px;
+	font-size: 0.9em;
+	padding: 5px 7px;
+}
+
+.equipamento p {
+	color: #34495e;
+}
+
+.equipamento p strong {
+	color: #2980b9;
+}
+
+.equipamento-danificados {
+	margin: 1% 0;
+	flex: 4 4;
+	border: 1.5px solid #444;
+	border-radius: 6px;
+	background-color: #cf3931;
+	box-sizing: border-box;
+	color: #fff;
+	font-size: 0.9em;
+	padding: 7px 10px;
+}
+
+.ticket {
+	margin-top: 1%;
+	border: 1px solid #444;
+	border-radius: 6px;
+	padding: 10px;
+	font-size: 0.9em;
+}
+
+.ticket p {
+	color: #34495e;
+}
+
+.ticket p strong {
+	color: #2980b9;
+}
+
+/*###Seção: Monitor###*/
+.title-monitor {
+	margin: 0px auto 5px auto;
+	width: 50%;
+	text-align: center;
+	font-size: 10px;
+	color: azure;
+	background-color: #61c1d0;
+	border-radius: 8px;
+	border: 1px solid #1f618d;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.monitor-info {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	width: 50%;
+	gap: 5px;
+	box-sizing: border-box;
+}
+
+.monitor-info img {
+	height: 120px;
+	width: 100px;
+}
+
+.monitor {
+	display: flex;
+	flex-direction: row;
+	border: 1.5px solid #444;
+	box-sizing: border-box;
+	border-radius: 6px;
+	font-size: 0.9em;
+	flex: 1;
+}
+
+.monitor-info p strong {
+	color: #3a747c;
+	font-size: 0.7rem;
+}
+
+/*###Seção: Maquinas Reserva & Backup###*/
+
+.title-maquinas {
+	padding: 10px;
+	text-align: center;
+	font-size: 10px;
+	color: azure;
+	background-color: #61c1d0;
+	border-radius: 8px;
+	border: 1px solid #1f618d;
+	box-sizing: border-box;
+}
+
+.estoque-container {
+	margin: 5px auto;
+	display: flex;
+	width: 50%;
+	gap: 5px;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+}
+
+.maquina-backup {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	gap: 5px;
+}
+
+.maquina-reserva {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	gap: 5px;
+}
+
+.notebooks-info {
+	display: flex;
+	gap: 5px;
+}
+
+.notebooks-info img {
+	height: 120px;
+	width: 100px;
+}
+
+.notebooks-info p strong {
+	color: #3a747c;
+	font-size: 0.7rem
+}
+
+p {
+	color: #3C3C3C;
+	font-size: 0.6rem;
+}
+
+.menuancora {
+	position: fixed;
+	left: 0px;
+	top: 35%;
+	background-color: #68cedd;
+	border-radius: 0 8px 8px 0;
+	padding: 3px;
+
+}
+
+.menuancora img {
+	width: 40px;
+	height: 40px;
+}
+
+/*###Seção: Rodapé###*/
+footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	background-color: #61c1d0;
+	border-top: 7px insed #2980b9;
+	padding-right: 20px;
+}
+
+.reserva {
+	font-size: 0.9em;
+	justify-items: center;
+}
+
+.version {
+	font-size: 0.9em;
+	color: #777;
+}
