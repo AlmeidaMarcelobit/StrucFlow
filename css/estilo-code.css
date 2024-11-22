@@ -1,1 +1,38 @@
+body {
+	background: linear-gradient(120deg, #C9CDE4, #A0A4D3);
+	color: #333;
+	font-family: 'Arial', sans-serif;
+	margin: 0;
+	padding: 0;
+}
 
+main {
+	background: #FFFFFF;
+	border-radius: 12px;
+	width: 60%;
+	margin: 1.5rem auto;
+	padding: 1.5rem;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	box-sizing: border-box;
+}
+
+h1 {
+	background: #3742FA;
+	text-align: center;
+	border-radius: 12px;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 1rem;
+	font-size: 1.8rem;
+}
+
+pre {
+	margin: 15px 10px;
+	padding: 10px;
+	background: #F7F9FC;
+	border: 1px solid #E0E0E0;
+	border-radius: 8px;
+	font-family: 'Courier New', monospace;
+	overflow-x: auto;
+	color: #333;
+}
