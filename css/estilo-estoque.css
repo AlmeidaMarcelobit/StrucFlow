@@ -20,12 +20,13 @@ body {
 	align-items: center;
 	text-align: center;
 	background-color: #61c1d0;
-	border-bottom: 7px inset #2980b9;
+	border-bottom: 1px inset #2980b9;
 	padding-right: 20px;
 }
 
 #cabeca img {
-	max-width: 120px;
+	max-width: 60px;
+	max-height: 80px;
 	width: 100%;
 }
 
