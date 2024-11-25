@@ -1,20 +1,69 @@
+/* Estrutura principal */
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f9f9f9;
+	color: #333;
+	margin: 0;
+	padding: 0;
+	line-height: 1.6;
+}
+
+/* Estilo principal */
 main {
 	margin: 50px auto;
-	width: 50%;
-	border: 1px solid #050d9e;
-	padding: 50px;
-	background: #E4E4E4;
+	width: 70%;
+	max-width: 900px;
+	border: 1px solid #ddd;
+	padding: 40px;
+	background: #ffffff;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 main h2 {
-	background-color: #4E9EF7;
-	color: #fff;
-	padding: 5px;
-	border-radius: 12px;
-	margin-top: -70px;
+	background-color: #4caf50;
+	color: #ffffff;
+	padding: 10px;
+	border-radius: 8px;
+	margin-top: -50px;
 	text-align: center;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Tabela */
 table {
-	color: #4E9EF7;
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+table thead {
+	background-color: #4caf50;
+	color: #fff;
+}
+
+table th,
+table td {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid #ddd;
+}
+
+table tbody tr:nth-child(odd) {
+	background-color: #f4f4f4;
+}
+
+table tbody tr:hover {
+	background-color: #eaf5e6;
+}
+
+/* Links */
+a {
+	color: #4caf50;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
