@@ -66,12 +66,12 @@
 				<section class="colaborador-info">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>02</p>
-						<p><strong>Colaborador:</strong> </p>
-						<p><strong>Email:</strong> </p>
+						<p><strong>Colaborador:</strong>Nataly Queiroz da Silva</p>
+						<p><strong>Email:</strong>nataly.silva@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Assistente de CS</p>
 						<p><strong>Departamento:</strong> Atendimento ao Cliente</p>
-						<p><strong>CPF:</strong></p>
-						<p><strong>Data de admissão:</strong></p>
+						<p><strong>CPF:</strong>461.431.618-28</p>
+						<p><strong>Data de admissão:</strong>02.12.2024</p>
 						<p><strong>Data de desligamento:</strong></p>
 						<p><strong>Centro de Custo:</strong> 12002 - SAC</p>
 						<p><strong>Subtituição:</strong>Amanda Dualattka Marcolino</p>
@@ -105,6 +105,10 @@
 						<p class="serial"><strong>S/N:</strong>2316ME02F8G8</p>
 						<p><strong>Patrimonio:</strong>885</p>
 					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket:</strong>#107354</p>
+					<p><strong>Equipamentos:</strong>Notebook, Suporte, Fone, Teclado e Mousenataly.silva@amorsaude.com/p>
 				</section>
 			</article>
 			<article>
