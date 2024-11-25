@@ -20,12 +20,13 @@ body {
 	align-items: center;
 	text-align: center;
 	background-color: #61c1d0;
-	border-bottom: 7px inset #2980b9;
+	border-bottom: 1px inset #2980b9;
 	padding-right: 20px;
 }
 
 #cabeca img {
-	max-width: 120px;
+	max-width: 60px;
+	max-height: 80px;
 	width: 100%;
 }
 
@@ -216,6 +217,11 @@ article {
 
 .colaborador-details p strong {
 	color: #2980b9;
+
+}
+
+p strong {
+	margin-right: 3px;
 }
 
 article.redflag {
@@ -298,7 +304,7 @@ greenflag {
 
 /*###Aside###*/
 aside {
-	/*	display: none;*/
+	display: none;
 	flex: 1;
 	margin-right: 0;
 	margin-top: 10px;
@@ -343,7 +349,7 @@ footer {
 	align-items: center;
 	text-align: center;
 	background-color: #61c1d0;
-	border-top: 7px inset #2980b9;
+	border-top: 1px solid #2980b9;
 	padding-right: 20px;
 }
 
