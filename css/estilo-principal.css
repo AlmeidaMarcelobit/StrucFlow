@@ -138,7 +138,7 @@ body {
 }
 
 .ativo {
-	margin-top: 10px;
+	margin-top: 5px;
 	text-align: center;
 	font-size: 10px;
 	color: azure;
@@ -163,9 +163,8 @@ body {
 	display: flex;
 	width: 50%;
 	margin: 0 auto;
-	gap: 5px;
+	/*	gap: 5px;*/
 	flex-wrap: wrap;
-	margin-bottom: 10px;
 	box-sizing: border-box;
 }
 
@@ -178,7 +177,7 @@ body {
 
 .container_inventario {
 	width: 50%;
-	margin: 10px auto;
+	margin: 5px auto;
 	display: flex;
 	gap: 10px;
 }
@@ -344,6 +343,7 @@ p.notok {
 /*###Footer###*/
 footer {
 	width: 100%;
+	margin-top: 5px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -365,38 +365,39 @@ footer {
 
 /* ###Global Styles### */
 .home {
-	margin: 1% auto;
+	margin: 5px auto;
 	width: 50%;
 	height: 100vh;
 }
 
-/* Mobile Styles */
-@media screen and (max-width: 600px) {
-	body {
-		width: 100%;
-	}
+/*
+ Mobile Styles @media screen and (max-width: 600px) {
+ 	body {
+ 		width: 100%;
+ 	}
 
-	header {
-		display: none;
-	}
+ 	header {
+ 		display: none;
+ 	}
 
-	.container {
-		display: flex;
-		flex-direction: column-reverse;
-		gap: 10px;
-	}
+ 	.container {
+ 		display: flex;
+ 		flex-direction: column-reverse;
+ 		gap: 10px;
+ 	}
 
-	aside {
-		width: 100%;
-		background: red;
-	}
-}
+ 	aside {
+ 		width: 100%;
+ 		background: red;
+ 	}
+ }
 
-@media screen and (max-width: 435px) {
-	header#cabeca {
-		background-color: #090909;
-	}
-}
+ @media screen and (max-width: 435px) {
+ 	header#cabeca {
+ 		background-color: #090909;
+ 	}
+ }
+*/
 
 /* @media (max-width: 600px) and (min-width: 300px) {
     body{
