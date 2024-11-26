@@ -1,33 +1,24 @@
+<?php
+// Defina o tipo de conteúdo corretamente para evitar downloads acidentais
+header('Content-Type: text/html; charset=UTF-8');
+// Impedir caching desnecessário
+header('Cache-Control: no-cache, no-store, must-revalidate');
+header('Pragma: no-cache');
+header('Expires: 0');
+?>
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="../css/principal.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <title>Home</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="refresh" content="1; url=templates/home.php">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Redirecionando...</title>
 </head>
 
 <body>
-    <header>
-        <img src="../icones/logo_amorsaude.png" alt="LOGO AMORSAUDE">
-    </header>
-
-        <?php
-        include 'header.html'
-        ?>
-        <main>
-            <article>
-<p>Este site foi desenvolvido para atender às necessidades de administração de inventário de equipamentos, gestão de dados e termos de responsabilidade. Aqui estão registradas informações detalhadas sobre cada equipamento atribuído a cada funcionário</p>
-            </article>
-        </main>
-
-    <?php
-    include 'footer.html'
-    ?>
+	<p>Você será redirecionado em breve. Se não for redirecionado, <a href="templates/home.php">clique aqui</a>.</p>
 </body>
+
 </html>
