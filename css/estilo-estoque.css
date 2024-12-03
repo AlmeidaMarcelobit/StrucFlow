@@ -1,6 +1,7 @@
 * {
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 html {
@@ -8,20 +9,23 @@ html {
 }
 
 body {
-	background-color: #fff;
+	margin: 0 auto;
 	font-family: "Playwrite DE Grund", cursive;
-	font-size: 0.9em;
+	font-size: 0.85em;
+	background-color: #1c1c1c;
+	color: #ccc;
 }
 
 /*###Seção: Cabeçalho###*/
 #cabeca {
+	width: 100%;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	text-align: center;
-	background-color: #61c1d0;
-	border-bottom: 1px inset #2980b9;
-	padding-right: 20px;
+	background-color: #2a2a2a;
+	border-bottom: 1px inset #f67e00;
+	padding: 10px;
 }
 
 #cabeca img {
@@ -42,7 +46,7 @@ body {
 
 /* Adicionando o efeito hover com a cor #34495E */
 .menu a:hover {
-	color: #34495e;
+	color: #f67e00;
 }
 
 /*###Seção: Busca###*/
@@ -58,7 +62,7 @@ body {
 
 .search-container input[type="text"] {
 	padding: 4px 8px;
-	border: 1px solid #1f618d;
+	border: 1px solid #f67e00;
 	border-radius: 4px;
 	font-size: 1em;
 	width: 300px;
@@ -69,19 +73,19 @@ body {
 	text-align: center;
 	top: -3px;
 	padding: 4px 8px;
-	background-color: #1f618d;
+	background-color: #F66B1A;
 	color: white;
 	border: none;
 	border-radius: 4px;
 	cursor: pointer;
 	font-size: 12px;
 	transition: all 0.3s;
-	box-shadow: 0 5px 0 #154360, 0 6px 6px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 5px 0 #EB5600, 0 6px 6px rgba(0, 0, 0, 0.2);
 }
 
 .search-container button:hover {
-	background-color: #154360;
-	box-shadow: 0 5px 0 #0c2c45, 0 6px 6px rgba(0, 0, 0, 0.3);
+	background-color: #EB5600;
+	box-shadow: 0 5px 0 #C04600, 0 6px 6px rgba(0, 0, 0, 0.3);
 }
 
 .search-container button:active {
@@ -93,7 +97,7 @@ body {
 /*###Seção: Workpack###*/
 .container {
 	margin: 5px auto;
-	width: 50%;
+	width: 75%;
 	display: flex;
 	flex-direction: column;
 	gap: 5px;
@@ -101,67 +105,73 @@ body {
 }
 
 .workpack {
-	text-align: center;
+	margin-top: 5px;
 	font-size: 10px;
-	color: azure;
-	background-color: #61c1d0;
-	border-radius: 8px;
-	border: 1px solid #1f618d;
+	color: #fff;
 	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #EB5600;
+	border-radius: 8px;
 }
 
 article {
-	background-color: #f0f8ff;
-	box-sizing: content-box;
-	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-	padding: 5px;
-	border: 1px solid #1f618d;
 	border-radius: 8px;
+	box-sizing: content-box;
+	background-color: #333333;
+	border: 1px solid #444;
 }
 
 .colaborador-info {
 	display: flex;
 	align-items: inherit;
+	border-radius: 8px box-sizing: border-box;
 }
 
 .colaborador-details {
 	margin-left: 10px;
 	margin-right: 10px;
-	font-size: 0.9em;
 }
 
 .colaborador-details p {
-	color: #34495e;
+	color: #ccc;
+	font-size: 0.85em;
 }
 
 .colaborador-details p strong {
-	color: #2980b9;
+	color: #f67e00;
+	margin-right: 4px;
+	font-size: 0.85em;
 }
 
 .equipamentos-info {
-	margin-top: 3px;
+	padding: 5px;
+	margin-top: 5px;
+	flex-wrap: wrap;
 	display: flex;
 	gap: 5px;
-	flex-wrap: wrap;
-	font-size: 0.9em;
 	color: #34495e;
 }
 
 .equipamento {
-	border: 1.5px solid #444;
 	flex: 1;
+	padding: 5px;
+	border: 1px solid #444;
+	border-radius: 8px;
 	box-sizing: border-box;
-	border-radius: 6px;
-	font-size: 0.9em;
-	padding: 5px 7px;
 }
 
 .equipamento p {
-	color: #34495e;
+	margin: 5px 0;
+	font-size: 0.85em;
+	color: #ccc;
 }
 
 .equipamento p strong {
-	color: #2980b9;
+	color: #f67e00;
+	margin-right: 4px;
+	font-style: italic;
+	font-size: 0.85em;
 }
 
 .equipamento-danificados {
@@ -176,32 +186,48 @@ article {
 	padding: 7px 10px;
 }
 
+.equipamento-outside {
+	margin: 1% 0;
+	flex: 4 4;
+	border: 1.5px solid #444;
+	border-radius: 6px;
+	background-color: #cf3931;
+	box-sizing: border-box;
+	color: #fff;
+	font-size: 0.9em;
+	padding: 7px 10px;
+}
+
 .ticket {
-	margin-top: 1%;
+	margin: 5px;
 	border: 1px solid #444;
 	border-radius: 6px;
 	padding: 10px;
 	font-size: 0.9em;
+	background-color: #333333;
+	justify-content: center;
 }
 
 .ticket p {
-	color: #34495e;
+	margin: 5px 0;
+	font-size: 0.85em;
+	color: #ccc;
 }
 
 .ticket p strong {
-	color: #2980b9;
+	color: #f67e00;
+	margin-right: 4px;
 }
 
 /*###Seção: Monitor###*/
 .title-monitor {
 	margin: 0px auto 5px auto;
-	width: 50%;
+	width: 75%;
 	text-align: center;
 	font-size: 10px;
-	color: azure;
-	background-color: #61c1d0;
+	color: #fff;
+	background-color: #EB5600;
 	border-radius: 8px;
-	border: 1px solid #1f618d;
 	box-sizing: border-box;
 	padding: 10px;
 }
@@ -211,7 +237,7 @@ article {
 	flex-direction: row;
 	flex-wrap: wrap;
 	margin: 0 auto;
-	width: 50%;
+	width: 75%;
 	gap: 5px;
 	box-sizing: border-box;
 }
@@ -228,31 +254,35 @@ article {
 	box-sizing: border-box;
 	border-radius: 6px;
 	font-size: 0.9em;
+	background-color: #333333;
 	flex: 1;
 }
 
+.monitor-info p {
+	color: #ccc;
+}
+
 .monitor-info p strong {
-	color: #3a747c;
-	font-size: 0.7rem;
+	color: #f67e00;
+	margin-right: 4px;
 }
 
 /*###Seção: Maquinas Reserva & Backup###*/
 
 .title-maquinas {
+	font-size: 10px;
+	color: #fff;
 	padding: 10px;
 	text-align: center;
-	font-size: 10px;
-	color: azure;
-	background-color: #61c1d0;
+	text-transform: uppercase;
+	background-color: #EB5600;
 	border-radius: 8px;
-	border: 1px solid #1f618d;
-	box-sizing: border-box;
 }
 
 .estoque-container {
 	margin: 5px auto;
 	display: flex;
-	width: 50%;
+	width: 75%;
 	gap: 5px;
 	flex-wrap: wrap;
 	margin-bottom: 10px;
@@ -276,6 +306,8 @@ article {
 .notebooks-info {
 	display: flex;
 	gap: 5px;
+	background-color: #333333;
+	border-radius: 8px;
 }
 
 .notebooks-info img {
@@ -284,20 +316,21 @@ article {
 }
 
 .notebooks-info p strong {
-	color: #3a747c;
-	font-size: 0.7rem
+	color: #f67e00;
+	margin-right: 4px;
 }
 
 p {
-	color: #3C3C3C;
-	font-size: 0.6rem;
+	margin: 5px 0;
+	font-size: 0.6em;
+	color: #ccc;
 }
 
 .menuancora {
 	position: fixed;
 	left: 0px;
 	top: 35%;
-	background-color: #68cedd;
+	background-color: #333333;
 	border-radius: 0 8px 8px 0;
 	padding: 3px;
 
@@ -309,22 +342,34 @@ p {
 }
 
 /*###Seção: Rodapé###*/
-footer {
+.footer-content {
+	width: 100%;
+	margin: 0 auto;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
-	text-align: center;
-	background-color: #61c1d0;
-	border-top: 7px insed #2980b9;
-	padding-right: 20px;
+	flex-wrap: wrap;
+	background: #333333;
+	padding: 10px;
+	font-size: 0.85em;
 }
 
 .reserva {
-	font-size: 0.9em;
-	justify-items: center;
+	margin: 0;
 }
 
+
 .version {
-	font-size: 0.9em;
-	color: #777;
+	margin: 0;
+
+}
+
+
+
+.greenflag {
+	border: 2px solid #98ff98;
+}
+
+.redflag {
+	border: 2px solid #f00;
 }
