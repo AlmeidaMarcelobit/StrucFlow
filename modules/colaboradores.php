@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="stylesheet" href="../css/estilo-principal.css">
 	<script src="../js/search.js"></script>
-	<link rel="icon" type="image/png" sizes="32x32" href="../assents/logo/favicon-32x32.webp" />
+	<link rel="icon" type="image/png" sizes="32x32" href="../assents/logo/logo-dark.webp" />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 	<link href="https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet" />
@@ -16,21 +16,21 @@
 
 <body>
 	<header id="cabeca">
-		<img alt="LOGO AMORSAUDE" src="../assents/logo/logo.png" />
+		<img alt="LOGO AMORSAUDE" src="../assents/logo/logo-semfundo.png" />
 		<?php include "../includes/header.html"; ?>
 	</header>
 	<main class="container">
 		<div class="container-article">
-			<header class="ativo">
-				<h1>COLABORADORES ATIVOS</h1>
+			<header class="colaboradores-atual">
+				<h1>Colaboradores Atual </h1>
 			</header>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Allan Magrini.jpeg" alt="Foto de Allan Magrini" class="foto">
+					<div><img src="../assents/fotos/foto_colaboradores/Allan%20Magrini.jpg" alt="Foto de Allan Magrini" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Allan Magrini</p>
-						<p><strong>Email:</strong>allan.magrini@amorsaude.com</p>
+						<p><strong>E-mail:</strong>allan.magrini@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Desenvolvedor Plsql</p>
 						<p><strong>Departamento:</strong>Desenvolvimento</p>
 						<p><strong>CPF:</strong>266.169.148-01</p>
@@ -73,11 +73,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Alexy Divino.jpeg" alt="Foto de Alexy Chiodi Divino" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Alexy%20Divino.jpg" alt="Foto de Alexy Chiodi Divino" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Alexy Chiodi Divino</p>
-						<p><strong>Email:</strong>alexy.divino@amorsaude.com</p>
+						<p><strong>E-mail:</strong>alexy.divino@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Gerente de CRM</p>
 						<p><strong>Departamento:</strong>CRM</p>
 						<p><strong>CPF:</strong>402.811.958-89</p>
@@ -117,11 +117,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Ana%20Beatriz%20Melo%20Silveir.jpeg" alt="Foto de Ana Beatriz Melo Silveira" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Ana%20Beatriz%20Melo%20Silveir.jpg" alt="Foto de Ana Beatriz Melo Silveira" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Beatriz Melo Silveira</p>
-						<p><strong>Email:</strong>anabeatriz.silveira@amorsaude.com</p>
+						<p><strong>E-mail:</strong>anabeatriz.silveira@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Estagiário(a) Dev</p>
 						<p><strong>Departamento:</strong>Desenvolvimento</p>
 						<p><strong>CPF:</strong>154.666.279-66</p>
@@ -164,7 +164,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Carolina Delsin de Lima</p>
-						<p><strong>Email:</strong>anacarolina.lima@amorsaude.com</p>
+						<p><strong>E-mail:</strong>anacarolina.lima@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultora de Operações</p>
 						<p><strong>Departamento:</strong>Colsutoria</p>
 						<p><strong>CPF:</strong>420.088.578-67</p>
@@ -211,11 +211,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Ana%20Caroline%20Alves.jpeg" alt="" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Ana%20Caroline%20Alves.jpg" alt="" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Caroline de Rezende Alves</p>
-						<p><strong>Email:</strong>anacaroline.alves@amorsaude.com</p>
+						<p><strong>E-mail:</strong>anacaroline.alves@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultora de Operações</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>115.334.276-66</p>
@@ -259,10 +259,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Rosa.jpeg" alt=" Foto de Ana Celeste de Souza Rosa" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Rosa.jpg" alt=" Foto de Ana Celeste de Souza Rosa" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador: </strong>Ana Celeste de Souza Rosa</p>
-						<p><strong>Email: </strong>ana.rosa@amorsaude.com</p>
+						<p><strong>E-mail: </strong>ana.rosa@amorsaude.com</p>
 						<p><strong>Cargo: </strong>Assistente de SAC</p>
 						<p><strong>Departamento: </strong>Atendimento ao Cliente</p>
 						<p><strong>CPF: </strong>411.488.328-23</p>
@@ -327,15 +327,16 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Almeida.jfif" alt="Foto de Ana Clara Lourenço de Almeida" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Almeida.jpg" alt="Foto de Ana Clara Lourenço de Almeida" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Clara Lourenço de Almeida</p>
-						<p><strong>Email:</strong>ana.almeida@amorsaude.com</p>
-						<p><strong>Cargo:</strong>Jovem Aprendiz</p>
-						<p><strong>Departamento:</strong>Pessoas e Cultura</p>
+						<p><strong>E-mail:</strong>ana.almeida@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Auxiliar de Pessoas & Cultura</p>
+						<p><strong>Departamento:</strong>Remuneração e Benefícios</p>
 						<p><strong>CPF:</strong>483.778.638-39</p>
 						<p><strong>Data da admissão:</strong>08.03.2024</p>
-						<p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
+						<p><strong>Data da promoção:</strong>02.12.2024</p>
+						<p><strong>Centro de Custo:</strong>13007 - Departamento Pessoal</p>
 						<p><strong>Subtituição:</strong>Isabella Biscaro Vieira De Sousa</p>
 					</div>
 				</section>
@@ -377,7 +378,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Claudia Ferreira Nunes</p>
-						<p><strong>Email:</strong>ana.nunes@amorsaude.com</p>
+						<p><strong>E-mail:</strong>ana.nunes@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultor de Operaçoões</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>362.982.368-80</p>
@@ -415,10 +416,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Julia%20Bujardi.jfif" alt="Foto de Letícia Godoy da Silva" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Ana%20Julia%20Bujardi.jpg" alt="Foto de Letícia Godoy da Silva" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Julia Bujardi</p>
-						<p><strong>Email:</strong>ana.bujardi@amorsaude.com</p>
+						<p><strong>E-mail:</strong>ana.bujardi@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista de Administração de Pessoal</p>
 						<p><strong>Departamento:</strong>Administração de Pessoal</p>
 						<p><strong>CPF:</strong>451.239.538-50</p>
@@ -464,10 +465,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img class="foto" src="../assents/fotos/foto_colaboradores/Ana%20Fumagalli.jpeg" alt="foto de Ana Luisa Rezende Machado Fumagalli"></div>
+					<div><img class="foto" src="../assents/fotos/foto_colaboradores/Ana%20Fumagalli.jpg" alt="foto de Ana Luisa Rezende Machado Fumagalli"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Luisa Rezende Machado Fumagalli</p>
-						<p><strong>Email:</strong>analuisa.fumagalli@amorsaude.com</p>
+						<p><strong>E-mail:</strong>analuisa.fumagalli@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Coordenadora de Backoffice</p>
 						<p><strong>Departamento:</strong>Gerencia Operações</p>
 						<p><strong>CPF:</strong>430.792.958-62</p>
@@ -501,7 +502,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Luiz Bernardes Peres Costa</p>
-						<p><strong>Email:</strong>ana.costa@amorsaude.com</p>
+						<p><strong>E-mail:</strong>ana.costa@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente de Cadastro</p>
 						<p><strong>Departamento:</strong>Cadastro</p>
 						<p><strong>CPF:</strong>401.886.978-96</p>
@@ -540,11 +541,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Ana Paula Romualdo.jfif" alt="foto de Ana Paula Romualdo" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Ana%20Paula%20Romualdo.jpg" alt="foto de Ana Paula Romualdo" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Paula Romualdo</p>
-						<p><strong>Email:</strong>anapaula.romualdo@amorsaude.com</p>
+						<p><strong>E-mail:</strong>anapaula.romualdo@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente de Canais Digitais e Relacionamento</p>
 						<p><strong>Departamento:</strong>Telemedicina / Administrativo</p>
 						<p><strong>CPF:</strong>477.406.758-06</p>
@@ -583,11 +584,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Andr%C3%A9%20Medina.jfif" alt="André Medina" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Andr%C3%A9%20Medina.jpg" alt="Foto de Andre Medina" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>André Medina</p>
-						<p><strong>Email:</strong>andre.medina@amorsaude.com</p>
+						<p><strong>E-mail:</strong>andre.medina@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Gerente Regional De Operações</p>
 						<p><strong>Departamento:</strong>Dir. Operaçõe</p>
 						<p><strong>CPF:</strong>270.517.138-09</p>
@@ -641,10 +642,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Andre%20Rigobello.jfif" alt="Foto de André Rigobello Pinto" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Andre%20Rigobello.jpg" alt="Foto de André Rigobello Pinto" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>André Rigobello Pinto</p>
-						<p><strong>Email:</strong>andre.rigobello@amorsaude.com</p>
+						<p><strong>E-mail:</strong>andre.rigobello@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultor de Operações</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>343.695.638-44</p>
@@ -702,7 +703,7 @@
 					<div> <img src="../assents/fotos/foto_colaboradores/Ariane%20Herrera.jpg" alt="Ariane Herrera" class="foto"> </div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ariane Herrera</p>
-						<p><strong>Email:</strong>ariane.herrera@amorsaude.com</p>
+						<p><strong>E-mail:</strong>ariane.herrera@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista Administrativo SR</p>
 						<p><strong>Departamento:</strong>Operações Plano</p>
 						<p><strong>CPF:</strong>395.936.898-42</p>
@@ -737,6 +738,14 @@
 						<p class="serial"><strong>S/N:</strong></p>
 						<p><strong>Patrimonio:</strong></p>
 					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Marca/Modelo:</strong>Moto E22</p>
+						<p class="serial"><strong>S/N:</strong>zf5244c2tj</p>
+						<p><strong>Patrimonio:</strong>1204</p>
+						<p><strong>IMEI 1:</strong>352800824235995</p>
+						<p><strong>IMEI 2:</strong>352800824236001</p>
+					</div>
 				</section>
 			</article>
 			<article>
@@ -744,7 +753,7 @@
 					<div><img class="foto" src="../assents/fotos/foto_colaboradores/SEM%20FOTO.jpg" alt="Foto de Arnaldo Rocha Junior"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Arnaldo Rocha Junior</p>
-						<p><strong>Email:</strong>arnaldo.junior@amorsaude.com</p>
+						<p><strong>E-mail:</strong>arnaldo.junior@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Gerente Contábil</p>
 						<p><strong>Departamento:</strong>Contabilidade</p>
 						<p><strong>CPF:</strong>252.705.628-80</p>
@@ -786,10 +795,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Artur%20Mello.jpeg" alt="Foto de Artur Ferreira Morais Mello" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Artur%20Mello.jpg" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Artur Ferreira Morais Mello</p>
-						<p><strong>Email:</strong>artur.mello@amorsaude.com</p>
+						<p><strong>E-mail:</strong>artur.mello@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultor de Operações</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>397.945.948-90</p>
@@ -849,11 +858,11 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../assents/fotos/foto_colaboradores/Beatriz Alves.jfif" alt="" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Beatriz%20Alves.jpg" alt="" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Beatriz de Aguiar Alves</p>
-						<p><strong>Email:</strong>beatriz.alves@amorsaude.com</p>
+						<p><strong>E-mail:</strong>beatriz.alves@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente de Cadastro</p>
 						<p><strong>Departamento:</strong>Telemedicina</p>
 						<p><strong>CPF:</strong>437.698.308-06</p>
@@ -896,7 +905,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Beatriz Olive Pinho Moreira</p>
-						<p><strong>Email:</strong>beatriz.moreira@amorsaude.com</p>
+						<p><strong>E-mail:</strong>beatriz.moreira@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Estagíaria</p>
 						<p><strong>Departamento:</strong>Pessoas & Cultura</p>
 						<p><strong>CPF:</strong>480.559.938-31</p>
@@ -939,7 +948,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong> Beatriz Santo Chaves</p>
-						<p><strong>Email:</strong> beatriz.chaves@amorsaude.com</p>
+						<p><strong>E-mail:</strong> beatriz.chaves@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Coordenador De Experiência Do Cliente</p>
 						<p><strong>Departamento:</strong> Dir. Operações</p>
 						<p><strong>CPF:</strong> 331.770.148-09</p>
@@ -989,8 +998,8 @@
 						<p><strong>Marca/Modelo:</strong> Nova VOO</p>
 					</div>
 				</section>
-				<h2>EQUIPAMENTOS DANIFICADOS</h2>
-				<section class="equipamentos-danificados">
+				<h2>Equipamentos Comprometidos</h2>
+				<section class="equipamentos-info">
 					<div class="equipamento-danificados">
 						<p><strong>Tipo:</strong> Fone</p>
 						<p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
@@ -1001,10 +1010,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img class="foto" src="../assents/fotos/foto_colaboradores/Beatriz%20Rezende.jpeg" alt="Beatriz Rezende"></div>
+					<div><img class="foto" src="../assents/fotos/foto_colaboradores/Beatriz%20Rezende.jpg" alt="Beatriz Rezende"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong> Beatriz Vaz Rezende</p>
-						<p><strong>Email:</strong>beatriz.rezende@amorsaude.com</p>
+						<p><strong>E-mail:</strong>beatriz.rezende@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Especialista Hubspot</p>
 						<p><strong>Departamento:</strong>CRM</p>
 						<p><strong>CPF:</strong>446.206.208-66</p>
@@ -1041,7 +1050,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Bruna Rosário</p>
-						<p><strong>Email:</strong>bruna.rosario@amorsaude.com</p>
+						<p><strong>E-mail:</strong>bruna.rosario@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Product Owner Jr</p>
 						<p><strong>Departamento:</strong>Produto</p>
 						<p><strong>CPF:</strong>422.466.868-27</p>
@@ -1050,14 +1059,49 @@
 						<p><strong>Centro de Custo:</strong>13013 - Produto</p>
 					</div>
 				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+						<p class="serial"><strong>S/N:</strong>2240ce0b5649 - 2237lzxa0b68</p>
+						<p><strong>Patrimonio:</strong>357</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong>359</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Lenovo v15 82ME</p>
+						<p class="serial"><strong>S/N:</strong>PE0975G4</p>
+						<p><strong>Patrimonio:</strong>194</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2421AY020L09</p>
+						<p><strong>Patrimonio:</strong>1022</p>
+					</div>
+				</section>
+				<h2>Equipamento danificados</h2>
+				<section class="equipamentos-info">
+					<div class="equipamento-danificados">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
+						<p class="serial"><strong>S/N:</strong>273960083</p>
+						<p><strong>Patrimônio:</strong>620</p>
+					</div>
+				</section>
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Caio%20Souza.jpeg" alt="" class="foto">
+					<div><img src="../assents/fotos/foto_colaboradores/Caio%20Souza.jpg" alt="" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Caio Souza</p>
-						<p><strong>Email:</strong>caio.souza@amorsaude.com</p>
+						<p><strong>E-mail:</strong>caio.souza@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista de Suporte Pl</p>
 						<p><strong>Departamento:</strong>Suporte</p>
 						<p><strong>CPF:</strong></p>
@@ -1091,10 +1135,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Caique%20Picolo.jpeg" alt="Foto de Caique Picolo Dal Picolo" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Caique%20Picolo.jpg" alt="Foto de Caique Picolo Dal Picolo" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Caique Picolo Dal Picolo</p>
-						<p><strong>Email:</strong>caique.picolo@amorsaude.com</p>
+						<p><strong>E-mail:</strong>caique.picolo@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista de Implatação Jr</p>
 						<p><strong>Departamento:</strong>CRM</p>
 						<p><strong>CPF:</strong>459.427.748-97</p>
@@ -1123,7 +1167,7 @@
 						<p><strong>Patrimônio:</strong>1534</p>
 					</div>
 				</section>
-				<h3>EQUIPAMENTOS DANIFICADOS</h3>
+				<h3>Equipamentos Comprometidos</h3>
 				<section class="equipamentos-info">
 					<div class="equipamento-danificados">
 						<p><strong>Tipo:</strong>Teclado e Mouse</p>
@@ -1140,7 +1184,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Carla Karolaine Da Costa Silva</p>
-						<p><strong>Email:</strong>Carla.costa@amorsaude.com</p>
+						<p><strong>E-mail:</strong>Carla.costa@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Coordenadora de Operações</p>
 						<p><strong>Departamento:</strong>Operações</p>
 						<p><strong>CPF:</strong>123.694.346-51</p>
@@ -1186,10 +1230,10 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Cau%C3%A3%20Bacileri.jpeg" alt="Foto de Nicholas Esdras Lopes" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Cau%C3%A3%20Bacileri.jpg" alt="Foto de Nicholas Esdras Lopes" class="foto"></div>
 					<div class="colaborador-details">
-						<p><strong>Colaborador:</strong>Cauã Fernado Bacilieri</p>
-						<p><strong>Email:</strong>caua.bacilieri@amorsaude.com</p>
+						<p><strong>Colaborador:</strong>Caua Fernando Bacilieri</p>
+						<p><strong>E-mail:</strong>caua.bacilieri@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Estagiaro</p>
 						<p><strong>Departamento:</strong>BackOffice</p>
 						<p><strong>CPF:</strong>484.911.558-64</p>
@@ -1240,7 +1284,7 @@
 					<div><img src="../assents/fotos/foto_colaboradores/Cinthia%20Viana.jpg" alt="Foto de Cinthia Viana" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Cinthia Viana</p>
-						<p><strong>Email:</strong>cinthia.viana@amorsaude.com</p>
+						<p><strong>E-mail:</strong>cinthia.viana@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista Contábil Sr</p>
 						<p><strong>Departamento:</strong>Contabilidade</p>
 						<p><strong>CPF:</strong>425.270.208-95</p>
@@ -1248,7 +1292,6 @@
 						<p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
 					</div>
 				</section>
-				<h2>DADOS DOS EQUIPAMENTOS</h2>
 				<section class="equipamentos-info">
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
@@ -1289,7 +1332,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong> Daiene Priscila Alexandre</p>
-						<p><strong>Email:</strong>daiene.priscila@amorsaude.com</p>
+						<p><strong>E-mail:</strong>daiene.priscila@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Analista de Administração Pessoal</p>
 						<p><strong>Departamento:</strong>Departamento Pessoal</p>
 						<p><strong>CPF:</strong> 415.939.168-09</p>
@@ -1328,17 +1371,16 @@
 			</article>
 			<article>
 				<section class="colaborador-info">
-					<div><img src="../assents/fotos/foto_colaboradores/Daila%20Santos.jfif" alt="foto de Daila de Souza Silva Santos" class="foto"></div>
+					<div><img src="../assents/fotos/foto_colaboradores/Daila%20Santos.jpg" alt="foto de Daila de Souza Silva Santos" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Daila de Souza Silva Santos</p>
-						<p><strong>Email:</strong>daila.santos@amorsaude.com</p>
+						<p><strong>E-mail:</strong>daila.santos@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente de Canais Digitais e Relacionamento</p>
 						<p><strong>Departamento:</strong>Canais Digitais e Relacionamento</p>
 						<p><strong>CPF:</strong>438.983.168-23</p>
 						<p><strong>Centro de Custo:</strong>22005 - Operação Canais Digitais</p>
 					</div>
 				</section>
-				<h2>DADOS DOS EQUIPAMENTOS</h2>
 				<section class="equipamentos-info">
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook Win-11 i51235U 8GB</p>
@@ -1374,12 +1416,56 @@
 			<article>
 				<section class="colaborador-info">
 					<div>
-						<img src="../foto_colaboradores" alt="" class="foto">
+						<img src="../assents/fotos/foto_colaboradores/Daniel%20Paula.jpg" alt="" class="foto">
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Daniel Oliveira Rosa de Paula</p>
-						<p><strong>Email:</strong></p>
-						<p><strong>Cargo:</strong></p>
+						<p><strong>E-mail:</strong>daniel.paula@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Assistent de Cadastro</p>
+						<p><strong>Departamento:</strong>Dental</p>
+						<p><strong>CPF:</strong>441.608.948-10</p>
+						<p><strong>Data da admissão:</strong></p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>72021 - Cadastro</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+						<p class="serial"><strong>S/N:</strong>8R35KZ3</p>
+						<p><strong>Patrimonio:</strong>488</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>881-000466</p>
+						<p><strong>Patrimonio:</strong>909</p>
+					</div>
+
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech M185K270</p>
+						<p class="serial"><strong>S/N:</strong>2323LZX5TK68 - 2325CE138058</p>
+						<p><strong>Patrimonio:</strong>497</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong>919</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div>
+						<img src="../assents/fotos/_temp_foto/Dayane%20Cristina%20Silva%20dos%20Santos.jpg" alt="" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Dayane Cristina Silva dos Santos</p>
+						<p><strong>E-mail:</strong></p>
+						<p><strong>Cargo:</strong>Assistente de Retenção</p>
 						<p><strong>Departamento:</strong></p>
 						<p><strong>CPF:</strong></p>
 						<p><strong>Data da admissão:</strong></p>
@@ -1389,26 +1475,140 @@
 				</section>
 				<section class="equipamentos-info">
 					<div class="equipamento">
-						<p><strong>Tipo:</strong></p>
-						<p><strong>Marca/Modelo:</strong></p>
+						<p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
+						<p><strong>Marca/Modelo:</strong>Lenovo V15 G3 IAP</p>
+						<p class="serial"><strong>S/N:</strong>PE9014216040-82UM007BR-PE0C1WXT</p>
+						<p><strong>Patrimonio:</strong>1564</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2412AY00NX68</p>
+						<p><strong>Patrimonio:</strong>1143</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+						<p class="serial"><strong>S/N:</strong>2243CE258148 - 2240LZN1KFFX8</p>
+						<p><strong>Patrimonio:</strong>261</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
 						<p class="serial"><strong>S/N:</strong></p>
-						<p><strong>Patrimonio:</strong></p>
+						<p><strong>Patrimonio:</strong>1144</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div>
+						<img src="../assents/fotos/_temp_foto/Deise%20Leite%20Dos%20Santos.jpg" alt="" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Deise Leite</p>
+						<p><strong>E-mail:</strong>deise.leite@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Consultor De Operações Internacional</p>
+						<p><strong>Departamento:</strong>Internacional</p>
+						<p><strong>CPF:</strong>374.036.148-44</p>
+						<p><strong>Data da admissão:</strong></p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>12011 - Internacional</p>
 					</div>
 				</section>
 				<section class="equipamentos-info">
 					<div class="equipamento">
-						<p><strong>Tipo:</strong></p>
-						<p><strong>Marca/Modelo:</strong></p>
-						<p class="serial"><strong>S/N:</strong></p>
-						<p><strong>Patrimonio:</strong></p>
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2330AY032658</p>
+						<p><strong>Patrimonio:</strong>979</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Marca/Modelo:</strong>Galaxy A03</p>
+						<p class="serial"><strong>S/N:</strong>R9yta0c6qem</p>
+						<p><strong>Patrimonio:</strong>685</p>
+						<p><strong>IMEI 1:</strong>351084957560484/01</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div>
+						<img src="../assents/fotos/_temp_foto/Eduardo%20Junior.jpg" alt="" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Eduardo Junior</p>
+						<p><strong>E-mail:</strong>eduardo.junior@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Assistente de Relacionamento com Profissionais da Saúde</p>
+						<p><strong>Departamento:</strong>Relacionamento com Profissionais da Saúde</p>
+						<p><strong>CPF:</strong>453.073.868-00</p>
+						<p><strong>Data da admissão:</strong>19.02.2024</p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>12003 - Relacionamento Profissionais da Saúde</p>
 					</div>
 				</section>
 				<section class="equipamentos-info">
 					<div class="equipamento">
-						<p><strong>Tipo:</strong></p>
-						<p><strong>Marca/Modelo:</strong></p>
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
+						<p class="serial"><strong>S/N:</strong>402AZFM4W259</p>
+						<p><strong>Patrimonio:</strong>1473</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook Win-11 i5-1135G7 8GB</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+						<p class="serial"><strong>S/N:</strong>DG00JZ3</p>
+						<p><strong>Patrimonio:</strong>469</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>K270 - M185</p>
+						<p class="serial"><strong>S/N:</strong>2232CCE1DO278</p>
+						<p><strong>Patrimonio:</strong>484</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
 						<p class="serial"><strong>S/N:</strong></p>
-						<p><strong>Patrimonio:</strong></p>
+						<p><strong>Patrimonio:</strong>939</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p class="serial"><strong>S/N:</strong>2332ME01Z138</p>
+						<p><strong>Patrimonio:</strong>940</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div>
+						<img src="../assents/fotos/foto_colaboradores/Eduardo%20Cheade.jpg" alt="Foto de Eduardo Cheade" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong> Eduardo De Lima Cheade</p>
+						<p><strong>E-mail:</strong> eduardo.cheade@amorsaude.com</p>
+						<p><strong>Cargo:</strong> Diretor Comercial</p>
+						<p><strong>Departamento:</strong> Dir. Operações</p>
+						<p><strong>CPF:</strong>214.689.138-67</p>
+						<p><strong>Data da admissão:</strong></p>
+						<p><strong>Data de desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>32000 - Dir. Operações</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
+						<p class="serial"><strong>S/N:</strong>J1KL0V3</p>
+						<p><strong>Patrimonio:</strong>232</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
+						<p class="serial"><strong>S/N:</strong>00273966148</p>
+						<p><strong>Patrimonio:</strong>679</p>
 					</div>
 				</section>
 			</article>
@@ -1417,18 +1617,16 @@
 
 
 
-
-
-			<!--			#TOP-->
+			<!--			#TOP
 			<header class="desativados">
-				<h1>COLABORADORES DESATIVADOS</h1>
+				<h1>Ex- Colaboradores</h1>
 			</header>
 			<article>
 				<section class="colaborador-info">
 					<div><img src="../assents/fotos/foto_colaboradores/Claudia%20Dias.jpeg" alt="foto de Claudia Regina Vieria Dias" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Claudia Regina Vieria Dias</p>
-						<p><strong>Email:</strong>claudia.dias@amorsaude.com</p>
+						<p><strong>E-mail:</strong>claudia.dias@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente Administrativo</p>
 						<p><strong>Departamento:</strong>Telemedicina</p>
 						<p><strong>CPF:</strong>162.236.378-70</p>
@@ -1442,19 +1640,19 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook</p>
 						<p><strong>Marca/Modelo:</strong>Dell Inspiron 3501</p>
-						<p class="serial"><strong>S/N:</strong>P90F002</p>
+						<p  class="serial"><strong>S/N:</strong>P90F002</p>
 						<p><strong>Patrimonio:</strong>58</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2235ME00Z1G9</p>
+						<p  class="serial"><strong>S/N:</strong>2235ME00Z1G9</p>
 						<p><strong>Patrimonio:</strong>389</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Celular</p>
 						<p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
-						<p class="serial"><strong>S/N:</strong>R9XW20CHLOF</p>
+						<p  class="serial"><strong>S/N:</strong>R9XW20CHLOF</p>
 						<p><strong>Patrimonio:</strong></p>
 						<p><strong>IMEI 1:</strong>358302235393566/01</p>
 						<p><strong>IMEI 2:</strong>359796405393562/01</p>
@@ -1462,19 +1660,19 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong>Dell MK 5221</p>
-						<p class="serial"><strong>S/N:</strong>CN-0NCRCC-LO300=34C-K1H2-A01</p>
+						<p  class="serial"><strong>S/N:</strong>CN-0NCRCC-LO300=34C-K1H2-A01</p>
 						<p><strong>Patrimonio:</strong>430</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Suporte</p>
 						<p><strong>Marca/Modelo:</strong>Aluminio</p>
-						<p class="serial"><strong>S/N:</strong></p>
+						<p  class="serial"><strong>S/N:</strong></p>
 						<p><strong>Patrimonio:</strong>816</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Monitor</p>
 						<p><strong>Marca/Modelo:</strong>LG 22MP410-P</p>
-						<p class="serial"><strong>S/N:</strong>303AZJT96660</p>
+						<p  class="serial"><strong>S/N:</strong>303AZJT96660</p>
 						<p><strong>Patrimonio:</strong>242</p>
 					</div>
 				</section>
@@ -1487,7 +1685,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Alessandra Rais</p>
-						<p><strong>Email:</strong>alessandra.rais@amorsaude.com</p>
+						<p><strong>E-mail:</strong>alessandra.rais@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Analista de Relacionamento com Profissionais da Saúde</p>
 						<p><strong>Departamento:</strong>Relacionamento com Profissionais da Saúde</p>
 						<p><strong>CPF:</strong>323.024.848-19</p>
@@ -1500,7 +1698,7 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2316ME0275M9</p>
+						<p  class="serial"><strong>S/N:</strong>2316ME0275M9</p>
 						<p><strong>Patrimonio:</strong>888</p>
 					</div>
 				</section>
@@ -1512,7 +1710,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Aline Alves Sobral da Silva</p>
-						<p><strong>Email:</strong>aline.sobral@amorsaude.com</p>
+						<p><strong>E-mail:</strong>aline.sobral@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultor de Operações</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>449.168.138-47</p>
@@ -1525,7 +1723,7 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2330AY028C68</p>
+						<p  class="serial"><strong>S/N:</strong>2330AY028C68</p>
 						<p><strong>Patrimonio:</strong>977</p>
 					</div>
 				</section>
@@ -1535,7 +1733,7 @@
 					<div><img src="../assents/fotos/foto_colaboradores/Aline%20Oliveira.jpg" alt="Foto de Aline Camilo de Oliveira" class="foto"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Aline Camilo de Oliveira</p>
-						<p><strong>Email:</strong>aline.oliveira@amorsaude.com</p>
+						<p><strong>E-mail:</strong>aline.oliveira@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Consultor de Operação</p>
 						<p><strong>Departamento:</strong>Consultoria</p>
 						<p><strong>CPF:</strong>445.597.828-30</p>
@@ -1548,25 +1746,25 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook</p>
 						<p><strong>Marca/Modelo:</strong>Lenovo v15 g2</p>
-						<p class="serial"><strong>S/N:</strong>pe09xvkr</p>
+						<p  class="serial"><strong>S/N:</strong>pe09xvkr</p>
 						<p><strong>Patrimonio:</strong>225</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Headset</p>
 						<p><strong>Marca/Modelo:</strong>jabra HSC0016</p>
-						<p class="serial"><strong>S/N:</strong>273963767</p>
+						<p  class="serial"><strong>S/N:</strong>273963767</p>
 						<p><strong>Patrimonio:</strong>670</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong>Logitech K270 - M185</p>
-						<p class="serial"><strong>S/N:</strong>2234CE1821AB</p>
+						<p  class="serial"><strong>S/N:</strong>2234CE1821AB</p>
 						<p><strong>Patrimonio:</strong>339</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Smartphone</p>
 						<p><strong>Marca/Modelo:</strong>Galaxy A03</p>
-						<p class="serial"><strong>S/N:</strong>r9xta0edmwa</p>
+						<p  class="serial"><strong>S/N:</strong>r9xta0edmwa</p>
 						<p><strong>Patrimonio:</strong>668</p>
 						<p><strong>IMEI 1:</strong>350916877000847/01</p>
 						<p><strong>IMEI 2:</strong>354654237000845/01</p>
@@ -1580,7 +1778,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Amanda da Silva Reis</p>
-						<p><strong>Email:</strong>amanda.reis@amorsaude.com</p>
+						<p><strong>E-mail:</strong>amanda.reis@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente De Canais Digitais E Relacionamento</p>
 						<p><strong>Departamento:</strong>Administrativo</p>
 						<p><strong>CPF:</strong>432.458.608-03</p>
@@ -1593,19 +1791,19 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2323GG15JD8</p>
+						<p  class="serial"><strong>S/N:</strong>2323GG15JD8</p>
 						<p><strong>Patrimonio:</strong>934</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Monitor</p>
 						<p><strong>Marca/Modelo:</strong>LG 22MP410</p>
-						<p class="serial"><strong>S/N:</strong>307AZMG9G027</p>
+						<p  class="serial"><strong>S/N:</strong>307AZMG9G027</p>
 						<p><strong>Patrimonio:</strong>442</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook</p>
 						<p><strong>Marca/Modelo:</strong>Dell Inspiron 3501 p90f</p>
-						<p class="serial"><strong>S/N:</strong>2tn05l3</p>
+						<p  class="serial"><strong>S/N:</strong>2tn05l3</p>
 						<p><strong>Patrimonio:</strong>03</p>
 					</div>
 				</section>
@@ -1613,7 +1811,7 @@
 					<div class="equipamento-danificados">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2125me0k05n</p>
+						<p  class="serial"><strong>S/N:</strong>2125me0k05n</p>
 						<p><strong>Patrimonio:</strong>737</p>
 					</div>
 				</section>
@@ -1625,7 +1823,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong> Amanda Dualattka Marcolino</p>
-						<p><strong>Email:</strong> amanda.marcolino@amorsaude.com</p>
+						<p><strong>E-mail:</strong> amanda.marcolino@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Assistente de CS</p>
 						<p><strong>Departamento:</strong> Atendimento ao Cliente</p>
 						<p><strong>CPF:</strong> 435.47.258-67</p>
@@ -1640,26 +1838,26 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong> KM5221W</p>
-						<p class="serial"><strong>S/N:</strong> CN-ONCRCC-LO300-3111-KOU-A01</p>
+						<p  class="serial"><strong>S/N:</strong> CN-ONCRCC-LO300-3111-KOU-A01</p>
 						<p><strong>Teclado Patrimônio:</strong> 321</p>
 						<p><strong>Mouse Patrimônio:</strong> 864</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Notebook</p>
 						<p><strong>Marca/Modelo:</strong> Dell Latitude</p>
-						<p class="serial"><strong>S/N:</strong> 1VZHNY3</p>
+						<p  class="serial"><strong>S/N:</strong> 1VZHNY3</p>
 						<p><strong>Patrimônio:</strong> 313</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Suporte</p>
 						<p><strong>Marca/Modelo:</strong> Aluminio</p>
-						<p class="serial"><strong>S/N:</strong> </p>
+						<p  class="serial"><strong>S/N:</strong> </p>
 						<p><strong>Patrimônio:</strong> 865</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2316ME02F8G8</p>
+						<p  class="serial"><strong>S/N:</strong>2316ME02F8G8</p>
 						<p><strong>Patrimonio:</strong>885</p>
 					</div>
 				</section>
@@ -1670,7 +1868,7 @@
 					</div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Amanda Gazetta Amigo</p>
-						<p><strong>Email:</strong>amanda.gazetta@amorsaude.com</p>
+						<p><strong>E-mail:</strong>amanda.gazetta@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Coordenadora de Operação</p>
 						<p><strong>Departamento:</strong>Regional 2</p>
 						<p><strong>CPF:</strong>418.310.088-74</p>
@@ -1683,31 +1881,31 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook Ideapad3 15alc6</p>
 						<p><strong>Marca/Modelo:</strong>(Não fornecido)</p>
-						<p class="serial"><strong>S/N:</strong>PE09781x</p>
+						<p  class="serial"><strong>S/N:</strong>PE09781x</p>
 						<p><strong>Patrimônio:</strong>166</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Fone</p>
 						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
-						<p class="serial"><strong>S/N:</strong>2315Ay07AC39</p>
+						<p  class="serial"><strong>S/N:</strong>2315Ay07AC39</p>
 						<p><strong>Patrimônio:</strong>876</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Suporte</p>
 						<p><strong>Marca/Modelo:</strong>Aluminio</p>
-						<p class="serial"><strong>S/N:</strong>(Não fornecido)</p>
+						<p  class="serial"><strong>S/N:</strong>(Não fornecido)</p>
 						<p><strong>Patrimônio:</strong>(Não fornecido)</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong>Logitech MK235</p>
-						<p class="serial"><strong>S/N:</strong>2207LZX4F248</p>
+						<p  class="serial"><strong>S/N:</strong>2207LZX4F248</p>
 						<p><strong>Patrimônio:</strong>185 -578</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Celular</p>
 						<p><strong>Marca/Modelo:</strong>Galaxy A03 Core</p>
-						<p class="serial"><strong>S/N</strong>R9QW800QQ6R</p>
+						<p  class="serial"><strong>S/N</strong>R9QW800QQ6R</p>
 						<p><strong>Patrimonio:</strong></p>
 						<p><strong>IMEI 1:</strong>350589197094384</p>
 						<p><strong>IMEI 2:</strong>353306167094386</p>
@@ -1718,13 +1916,13 @@
 					<div class="equipamento-danificados">
 						<p><strong>Tipo:</strong>Adaptador-Rede</p>
 						<p><strong>Marca/Modelo:</strong>Fy-684</p>
-						<p class="serial"><strong>S/N:</strong>(Não fornecido)</p>
+						<p  class="serial"><strong>S/N:</strong>(Não fornecido)</p>
 						<p><strong>Patrimônio:</strong>933</p>
 					</div>
 					<div class="equipamento-danificados">
 						<p><strong>Tipo:</strong>Celular</p>
 						<p><strong>Marca/Modelo:</strong>Galaxy A03</p>
-						<p class="serial"><strong>S/N:</strong>R9qt403wmhp</p>
+						<p  class="serial"><strong>S/N:</strong>R9qt403wmhp</p>
 						<p><strong>Patrimônio:</strong>511</p>
 						<p><strong>IMEI 1:</strong>35198927132251/01</p>
 						<p><strong>IMEI 2:</strong>35327223192257/01</p>
@@ -1741,7 +1939,7 @@
 					<div> <img src="../assents/fotos/foto_colaboradores/SEM%20FOTO.jpg" alt="foto de Ana Carolina Rossi" class="foto" /> </div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong> Ana Carolina Rossi</p>
-						<p><strong>Email:</strong> anacarolina.rossi@amorsaude.com</p>
+						<p><strong>E-mail:</strong> anacarolina.rossi@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Analista Comercial</p>
 						<p><strong>Departamento:</strong> Amor Cirurgias</p>
 						<p><strong>CPF:</strong> 305.254.438-19</p>
@@ -1754,25 +1952,25 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Notebook</p>
 						<p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
-						<p class="serial"><strong>S/N:</strong> G7LYXP3</p>
+						<p  class="serial"><strong>S/N:</strong> G7LYXP3</p>
 						<p><strong>Patrimônio:</strong> 013</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Fone</p>
 						<p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
-						<p class="serial"><strong>S/N:</strong> 273963821</p>
+						<p  class="serial"><strong>S/N:</strong> 273963821</p>
 						<p><strong>Patrimônio:</strong> 682</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Mouse</p>
 						<p><strong>Marca/Modelo:</strong> Multlease MO300</p>
-						<p class="serial"><strong>S/N:</strong> N/A</p>
+						<p  class="serial"><strong>S/N:</strong> N/A</p>
 						<p><strong>Patrimônio:</strong> N/A</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Celular</p>
 						<p><strong>Marca/Modelo:</strong> Samsung A02s</p>
-						<p class="serial"><strong>S/N:</strong> r9qr1082gxh</p>
+						<p  class="serial"><strong>S/N:</strong> r9qr1082gxh</p>
 						<p><strong>Patrimônio:</strong> 718</p>
 						<p><strong>IMEI 1:</strong> 355473601371420/01</p>
 						<p><strong>IMEI 2:</strong> 359454181371424/01</p>
@@ -1788,7 +1986,7 @@
 					<div><img class="foto" src="../assents/fotos/foto_colaboradores/Ana%20Hermogenes.jpeg" alt="Ana Claudia Mata de Sousa Hermogenes"></div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador: </strong>Ana Cláudia Mata de Sousa Hermogenes</p>
-						<p><strong>Email: </strong>ana.hermogenes@amorsaude.com</p>
+						<p><strong>E-mail: </strong>ana.hermogenes@amorsaude.com</p>
 						<p><strong>Cargo: </strong>Assistente de Retenção</p>
 						<p><strong>Departamento: </strong>Relacionamento com Cliente / Retenção</p>
 						<p><strong>CPF: </strong>313.083.518-01</p>
@@ -1801,25 +1999,25 @@
 					<div class="equipamento">
 						<p><strong>Tipo: </strong>Notebook</p>
 						<p><strong>Patrimônio: </strong>1503</p>
-						<p class="serial"><strong>S/N: </strong>F3Y3F14</p>
+						<p  class="serial"><strong>S/N: </strong>F3Y3F14</p>
 						<p><strong>Marca/Modelo: </strong>Dell Vostro 3520</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo: </strong>Teclado e Mouse</p>
 						<p><strong>Patrimônio: </strong>203</p>
-						<p class="serial"><strong>S/N: </strong>JNZYR0036</p>
+						<p  class="serial"><strong>S/N: </strong>JNZYR0036</p>
 						<p><strong>Marca/Modelo: </strong>Logitech K235</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo: </strong>Suporte</p>
 						<p><strong>Patrimônio: </strong>987</p>
-						<p class="serial"><strong>S/N: </strong></p>
+						<p  class="serial"><strong>S/N: </strong></p>
 						<p><strong>Marca/Modelo: </strong>Alumínio</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo: </strong>Headset</p>
 						<p><strong>Patrimônio: </strong>989</p>
-						<p class="serial"><strong>S/N: </strong>2330AY02D1AB</p>
+						<p  class="serial"><strong>S/N: </strong>2330AY02D1AB</p>
 						<p><strong>Marca/Modelo: </strong>Logitech H390</p>
 					</div>
 				</section>
@@ -1833,7 +2031,7 @@
 					<div> <img src="../assents/fotos/foto_colaboradores/SEM%20FOTO.jpg" alt="Foto de Ana Laura Santos" class="foto" /> </div>
 					<div class="colaborador-details">
 						<p><strong>Colaborador:</strong>Ana Laura Ferrari Maila Santos</p>
-						<p><strong>Email:</strong> analaura.santos@amorsaude.com</p>
+						<p><strong>E-mail:</strong> analaura.santos@amorsaude.com</p>
 						<p><strong>Cargo:</strong> Assistente Administrativo</p>
 						<p><strong>Departamento:</strong> Amor Cirurgias</p>
 						<p><strong>CPF:</strong> 451.414.178-08</p>
@@ -1846,19 +2044,19 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Notebook</p>
 						<p><strong>Marca/Modelo:</strong> Lenovo Ideapd3 15alc6</p>
-						<p class="serial"><strong>S/N:</strong> PE097838</p>
+						<p  class="serial"><strong>S/N:</strong> PE097838</p>
 						<p><strong>Patrimônio:</strong> 168</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Fone</p>
 						<p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
-						<p class="serial"><strong>S/N:</strong> 26438595</p>
+						<p  class="serial"><strong>S/N:</strong> 26438595</p>
 						<p><strong>Patrimônio:</strong> 595</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Celular</p>
 						<p><strong>Marca/Modelo:</strong> Galaxy A03</p>
-						<p class="serial"><strong>S/N:</strong> r9xt703hlgw</p>
+						<p  class="serial"><strong>S/N:</strong> r9xt703hlgw</p>
 						<p><strong>Patrimônio:</strong> 585</p>
 						<p><strong>IMEI 1:</strong> 354985989158872/01</p>
 					</div>
@@ -1868,6 +2066,58 @@
 					<p><strong>Equipamentos:</strong> Notebook, Fone, Celular</p>
 				</section>
 			</article>
+						AQUI
+			<article>
+				<section class="colaborador-info">
+					<div>
+						<img src="../foto_colaboradores" alt="" class="foto">
+					</div>
+					<div class="colaboraddor-details">
+						<p><strong>Colaborador:</strong>Aline Sobral</p>
+						<p><strong>E-mail:</strong></p>
+						<p><strong>Cargo:</strong></p>
+						<p><strong>Departamento:</strong></p>
+						<p><strong>CPF:</strong></p>
+						<p><strong>Data da admissão:</strong></p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong></p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook Win-10 i5-1035g1 8GB</p>
+						<p><strong>Marca/Modelo:</strong>Dell Inspiron 3501</p>
+						<p  class="serial"><strong>S/N:</strong>fmjllh3</p>
+						<p><strong>Patrimonio:</strong>015</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p  class="serial"><strong>S/N:</strong>2330AY28C58</p>
+						<p><strong>Patrimonio:</strong>977</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p  class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong></p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong></p>
+						<p><strong>Marca/Modelo:</strong></p>
+						<p  class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong></p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong></p>
+						<p><strong>Marca/Modelo:</strong></p>
+						<p  class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong></p>
+					</div>
+				</section>
+			</article>
+		</div>
+-->
 		</div>
 		<?php include "../includes/aside.html"; ?>
 	</main>

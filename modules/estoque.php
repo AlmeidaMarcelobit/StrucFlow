@@ -3,8 +3,8 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="stylesheet" href="../css/estilo-estoque.css">
 	<link rel="icon" type="image/png" sizes="32x32" href="../assents/logo/favicon-32x32.webp" />
+	<link rel="stylesheet" href="../css/estilo-estoque.css">
 	<script src="../static/js/search.js"></script>
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -16,7 +16,7 @@
 <body>
 	<!-- Cabeçalho -->
 	<header id="cabeca">
-		<img src="../assents/logo/logo.png" alt="LOGO AMORSAUDE">
+		<img src="../assents/logo/logo-semfundo.png" alt="LOGO AMORSAUDE">
 		<?php include '../includes/header.html';?>
 	</header>
 	<main>
@@ -60,6 +60,14 @@
 						<p class="serial"><strong>S/N:</strong>2332ME021N79</p>
 						<p><strong>Patrimonio:</strong>898</p>
 					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Marca/Modelo:</strong>Moto E13</p>
+						<p class="serial"><strong>S/N:</strong>zf5248dnzl</p>
+						<p><strong>Patrimonio:</strong>1246</p>
+						<p><strong>IMEI 1:</strong>354187776540152</p>
+						<p><strong>IMEI 2:</strong>354187776540160</p>
+					</div>
 				</section>
 			</article>
 			<article>
@@ -78,8 +86,6 @@
 					</div>
 				</section>
 				<section class="equipamentos-info">
-					<div>
-					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong> Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong> KM5221W</p>
@@ -106,6 +112,7 @@
 						<p><strong>Patrimonio:</strong>885</p>
 					</div>
 				</section>
+
 				<section class="ticket">
 					<p><strong>ID Ticket:</strong>#107354</p>
 					<p><strong>Equipamentos:</strong>Notebook, Suporte, Fone, Teclado e Mousenataly.silva@amorsaude.com/p>
@@ -823,7 +830,7 @@
 					</div>
 				</section>
 			</article>
-			<article class="redflag">
+			<article id="redflag">
 				<section class="colaborador-info">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>119</p>
@@ -1057,7 +1064,7 @@
 						<p class="serial"><strong>S/N:</strong>2235ME00Z1J9</p>
 						<p><strong>Patrimônio:</strong>1017</p>
 					</div>
-					<div class="equipamento-not-devolvido">
+					<div class="equipamento-outside">
 						<p><strong>Tipo:</strong>Suporte Monitor</p>
 						<p><strong>Marca/Modelo:</strong>Multi Suporte</p>
 						<p class="serial"><strong>S/N:</strong></p>
@@ -1727,7 +1734,141 @@
 				</section>
 			</article>
 			<article>
-				<div>
+				<section class="colaborador-info">
+					<div class="colaborador-details">
+						<p><strong>ID Caixa:</strong>139</p>
+						<p><strong>Colaborador:</strong> </p>
+						<p><strong>Email:</strong></p>
+						<p><strong>Cargo:</strong> Analista de Relacionamento com Profissionais da Saúde</p>
+						<p><strong>Departamento:</strong> Relacionamento com Profissionais da Saúde</p>
+						<p><strong>CPF:</strong> </p>
+						<p><strong>Data de admissão:</strong> </p>
+						<p><strong>Centro de Custo:</strong> </p>
+						<p><strong>Substituição:</strong> Guilherme Neto</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong> Fone</p>
+						<p><strong>Marca/Modelo:</strong> Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong> 2332ME01XKY8</p>
+						<p><strong>Patrimônio:</strong> 911</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong> Suporte</p>
+						<p><strong>Marca/Modelo:</strong> Aluminio</p>
+						<p class="serial"><strong>S/N:</strong> [Informação não fornecida]</p>
+						<p><strong>Patrimônio:</strong> 931</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong> Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong> MK270</p>
+						<p class="serial"><strong>S/N:</strong> 2232CE1D02338</p>
+						<p><strong>Patrimônio:</strong> 455</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong> Notebook Win-11 i5-1135G7 8GB</p>
+						<p><strong>Marca/Modelo:</strong> Dell Vostro 3520</p>
+						<p class="serial"><strong>S/N:</strong> 35GJHZ3</p>
+						<p><strong>Patrimônio:</strong> 448</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div class="colaborador-details">
+						<p><strong>ID Caixa:</strong> 140</p>
+						<p><strong>Colaborador:</strong>Maria Luisa Barros de Lima</p>
+						<p><strong>Email:</strong>maria.lima@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Assistente De Canais Digitais E Relacionamento</p>
+						<p><strong>Departamento:</strong>Administrativo</p>
+						<p><strong>CPF:</strong>456.010.168-01</p>
+						<p><strong>Data da admissão:</strong>02.12.2024</p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>22001 - Consulta Assistida</p>
+						<p><strong>Subtituição:</strong>Amanda da Silva Reis</p>
+
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2323GG15JD8</p>
+						<p><strong>Patrimonio:</strong>934</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG 22MP410</p>
+						<p class="serial"><strong>S/N:</strong>307AZMG9G027</p>
+						<p><strong>Patrimonio:</strong>442</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Dell Inspiron 3501 p90f</p>
+						<p class="serial"><strong>S/N:</strong>2tn05l3</p>
+						<p><strong>Patrimonio:</strong>03</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech K235</p>
+						<p class="serial"><strong>S/N:</strong>jnzr0036</p>
+						<p><strong>Patrimonio:</strong>412</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong>816</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div class="colaborador-details">
+						<p><strong>ID Caixa</strong>141</p>
+						<p><strong>Colaborador:</strong></p>
+						<p><strong>Email:</strong></p>
+						<p><strong>Cargo:</strong>Assistente Suprimentos</p>
+						<p><strong>Departamento:</strong>Financeiro</p>
+						<p><strong>CPF:</strong></p>
+						<p><strong>Data de entrada:</strong></p>
+						<p><strong>Data da desligamento:</strong></p>
+						<p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
+						<p><strong>Subtituição:</strong>Barbara Bidurin</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Patrimônio:</strong>1462</p>
+						<p class="serial"><strong>S/N:</strong>9V9VD14</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Patrimônio:</strong>1233</p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Patrimonio:</strong>1460</p>
+						<p><strong>S/N:</strong></p>
+						<p><strong>Marca/Modelo:</strong>Dell KM5221W</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Patrimonio:</strong>721</p>
+						<p><strong>S/N :</strong>R9XR500MWLZ</p>
+						<p><strong>Marca/Modelo:</strong>Galaxy A10s</p>
+						<p><strong>IMEI 1:</strong>350879696004822</p>
+						<p><strong>IMEI 2:</strong>359753826004823</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>147</p>
 						<p><strong>Colaborador:</strong>Leonardo Tavares de Mello</p>
@@ -1739,7 +1880,8 @@
 						<p><strong>Data da desligamento:</strong></p>
 						<p><strong>Centro de Custo:</strong>13013 - Produto</p>
 					</div>
-				</div>
+				</section>
+
 				<section class="equipamentos-info">
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook</p>
@@ -1767,16 +1909,18 @@
 				</section>
 			</article>
 			<article>
-				<div class="colaborador-details">
-					<p><strong>ID Caixa:</strong>18274</p>
-					<p><strong>Colaborador:</strong>Pedro Nícolas Vierira</p>
-					<p><strong>Email:</strong>pedro.vierira@amorsaude.com</p>
-					<p><strong>Cargo:</strong>Estágio Suporte</p>
-					<p><strong>Departamento:</strong>Suporte</p>
-					<p><strong>CPF:</strong>459.765.178-03</p>
-					<p><strong>Data da admissão:</strong>16.09.2024</p>
-					<p><strong>Centro de Custo:</strong>13019 - Suporte</p>
-				</div>
+				<section class="colaborador-info">
+					<div class="colaborador-details">
+						<p><strong>ID Caixa:</strong>18274</p>
+						<p><strong>Colaborador:</strong>Pedro Nícolas Vierira</p>
+						<p><strong>Email:</strong>pedro.vierira@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Estágio Suporte</p>
+						<p><strong>Departamento:</strong>Suporte</p>
+						<p><strong>CPF:</strong>459.765.178-03</p>
+						<p><strong>Data da admissão:</strong>16.09.2024</p>
+						<p><strong>Centro de Custo:</strong>13019 - Suporte</p>
+					</div>
+				</section>
 				<section class="equipamentos-info">
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
@@ -2556,7 +2700,7 @@
 				<header class="title-maquinas">
 					<h1>MAQUINA RESERVA</h1>
 				</header>
-				<article class="in-stock">
+				<article class="greenflag">
 					<section class="notebooks-info">
 						<div class="img"><img src="../assents/logo/laptop-reserva.png" alt="icone laptop"></div>
 						<div class="equipamento-details">
@@ -2582,7 +2726,7 @@
 						</div>
 					</section>
 				</article>
-				<article>
+				<article class="redflag">
 					<section class="notebooks-info">
 						<div class="img"><img src="../assents/logo/laptop-reserva.png" alt="icone laptop"></div>
 						<div class="equipamento-details">
@@ -2592,6 +2736,7 @@
 							<p><strong>Marca\Modelo:</strong>Dell Inspiron 15 3567</p>
 							<p class="serial"><strong>S/N:</strong>7QMMDQ2</p>
 							<p><strong>Alocado:</strong></p>
+							<p><strong>Observação:</strong>Não esta ligando, mesmo depois de trocar as memorias ram</p>
 						</div>
 					</section>
 				</article>
@@ -2621,7 +2766,7 @@
 						</div>
 					</section>
 				</article>
-				<article class="off">
+				<article class="greenflag">
 					<section class="notebooks-info">
 						<div class="img"><img src="../assents/logo/laptop-reserva.png" alt="icone laptop"></div>
 						<div class="equipamento-details">
@@ -2630,7 +2775,8 @@
 							<p><strong>Patrimonio:</strong>19</p>
 							<p><strong>Marca\Modelo:</strong>Dell inspiron 3584</p>
 							<p class="serial"><strong>S/N:</strong>6F53R23</p>
-							<p><strong>Alocado:</strong>Inativa</p>
+							<p><strong>Alocado:</strong></p>
+							<p><strong>Obeservação:</strong>Funcionando Esta com Win-7</p>
 						</div>
 					</section>
 				</article>
@@ -2647,7 +2793,7 @@
 						</div>
 					</section>
 				</article>
-				<article class="in-stock">
+				<article class="greenflag">
 					<section class="notebooks-info">
 						<div class="img"><img src="../assents/logo/laptop-reserva.png" alt="icone laptop"></div>
 						<div>
@@ -2656,6 +2802,20 @@
 							<p><strong>Patrimônio:</strong>267</p>
 							<p><strong>Marca\ Modelo:</strong>Dell Inspiron 15-3567</p>
 							<p class="serial"><strong>S/N:</strong>15vvfp2</p>
+							<p><strong>Alocados:</strong></p>
+							<p><strong>Observação:</strong>Precisa ativar o windows.</p>
+						</div>
+					</section>
+				</article>
+				<article class="greenflag">
+					<section class="notebooks-info">
+						<div class="img"><img src="../assents/logo/laptop-reserva.png" alt="icone laptop"></div>
+						<div>
+							<p><strong>Nome:</strong>Reserva-09</p>
+							<p><strong>Tipo:</strong>Notebook Win-10 i3-7020u 8GB</p>
+							<p><strong>Patrimônio:</strong>046</p>
+							<p><strong>Marca\ Modelo:</strong>Dell Inspiron 15-3567</p>
+							<p class="serial"><strong>S/N:</strong>65f0r23</p>
 							<p><strong>Alocados:</strong></p>
 						</div>
 					</section>
