@@ -68,6 +68,12 @@
 						<p><strong>IMEI 1:</strong>354187776540152</p>
 						<p><strong>IMEI 2:</strong>354187776540160</p>
 					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
+						<p class="serial"><strong>S/N:</strong>303AZTH94393</p>
+						<p><strong>Patrimonio:</strong>403</p>
+					</div>
 				</section>
 			</article>
 			<article>
@@ -2444,6 +2450,12 @@
 						<p class="serial"><strong>Teclado S/N:</strong>2240CE0B599</p>
 						<p class="serial"><strong>Mouse S/N:</strong>2237LZA0B58</p>
 						<p><strong>Patrimonio:</strong>373</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG-22MP410-B</p>
+						<p class="serial"><strong>S/N</strong>303AZUJ2V814</p>
+						<p><strong>Patrimônio:</strong>243</p>
 					</div>
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Suporte</p>
