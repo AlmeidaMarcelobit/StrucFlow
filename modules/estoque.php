@@ -2571,10 +2571,12 @@
 					<p><strong>Patrimônio:</strong>1501</p>
 				</div>
 			</section>
+			<!--
 			<section class=" monitor reflag">
 				<div class="img">
 					<img src="../assents/logo/monitor.png" alt="icone laptop">
 				</div>
+
 				<div>
 					<p><strong>Tipo:</strong>Monitor</p>
 					<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
@@ -2582,6 +2584,7 @@
 					<p><strong>Patrimonio:</strong>425</p>
 					<p><strong>Observação:</strong>Antiga Caixa 05, com quem esta???</p>
 				</div>
+-->
 			</section>
 		</div>
 		<!-- Seção: Estoque de Máquinas -->
