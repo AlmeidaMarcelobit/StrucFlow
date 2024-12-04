@@ -1439,12 +1439,6 @@
 						<p class="serial"><strong>Mouse S/N:</strong>2240LZN1JRY8</p>
 						<p><strong>Patrimonio:</strong>284</p>
 					</div>
-					<div class="equipamento">
-						<p><strong>Tipo:</strong>Monitor</p>
-						<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-						<p class="serial"><strong>S/N:</strong>303AZTH94393</p>
-						<p><strong>Patrimonio:</strong>403</p>
-					</div>
 				</section>
 			</article>
 			<article>
@@ -2332,30 +2326,6 @@
 			<h1>Monitor</h1>
 		</header>
 		<div class="monitor-info">
-			<section class="monitor">
-				<div class="img">
-					<img src="../assents/logo/monitor.png" alt="icone laptop">
-				</div>
-				<div>
-					<p><strong>ID caixa:</strong>01</p>
-					<p><strong>Centro Custo:</strong>12010 - Inteligencia de negocios</p>
-					<p><strong>Marca/Modelo:</strong>LG-22MP410-B</p>
-					<p class="serial"><strong>S/N</strong>303AZUJ2V814</p>
-					<p><strong>Patrimônio:</strong>243</p>
-				</div>
-			</section>
-			<section class="monitor">
-				<div class="img">
-					<img src="../assents/logo/monitor.png" alt="icone laptop">
-				</div>
-				<div>
-					<p><strong>ID Caixa:</strong>02</p>
-					<p><strong>Centro Custo:</strong>12010 - Inteligência de Negócios</p>
-					<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-					<p class="serial"><strong>S/N:</strong>303AZTH94393</p>
-					<p><strong>Patrimonio:</strong>403</p>
-				</div>
-			</section>
 			<section class="monitor">
 				<div class="img">
 					<img src="../assents/logo/monitor.png" alt="icone laptop">
