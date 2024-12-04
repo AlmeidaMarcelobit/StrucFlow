@@ -19,6 +19,7 @@ composer.lock
 .env
 =======
 
+<<<<<<< HEAD
 .idea/.name
 .idea/encodings.xml
 .idea/misc.xml
@@ -28,3 +29,8 @@ composer.lock
 .idea/workspace.xml
 ~$stórico de Updates.docx
 >>>>>>> 0e96a17 (12.20.5)
+=======
+assents/logo/check.webp
+css/temp.css
+modules/tem_colaboradores-off.php
+>>>>>>> d4f4eee (👷 13.17.1)
