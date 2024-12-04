@@ -1,55 +1,61 @@
+
 # Sistema de Inventário e Gestão de Recursos
 
 ## Sobre o Projeto
-Sistema desenvolvido para gerenciar inventário, recursos e informações de colaboradores em diferentes departamentos da empresa.
+O Sistema de Inventário e Gestão de Recursos é uma aplicação desenvolvida para gerenciar eficientemente o inventário, recursos e informações de colaboradores em diferentes departamentos dentro de uma empresa. Através de uma interface intuitiva e fácil de usar, o sistema visa melhorar a eficiência e a produtividade em todos os níveis da organização.
 
 ## Funcionalidades Principais
-- Gestão de equipamentos e kits
-- Cadastro e gerenciamento de colaboradores
-- Organização por departamentos (Backoffice, Contábil, etc)
-- Sistema de navegação com menus e submenus
-- Estilos unificados e responsivos
+- **Gestão de equipamentos e kits:** Permite o cadastro e kits utilizados pela empresa.
+- **Cadastro e gerenciamento de colaboradores:** Oferece a possibilidade de gerenciar informações de colaboradores, incluindo seus departamentos e funções.
+- **Sistema de navegação com menus e submenus:** Fornece uma navegação fácil e intuitiva, permitindo que os usuários acessem rapidamente as informações necessárias.
+- **Estilos unificados e responsivos:** Garante que a aplicação seja visualmente atraente e funcione corretamente em diferentes dispositivos e tamanhos de tela.
 
-## Tecnologias Utilizadas
-- PHP
-- HTML
-- CSS
+---
 
 ## Estrutura do Projeto
 
-### Páginas Principais
-- `index.php`: Página inicial do sistema
+### Diretórios Principais
+- **`/assets`**: Contém recursos visuais como imagens e arquivos compartilhados.  
+- **`/base`**: Estruturas ou arquivos base utilizados em múltiplos pontos do sistema.  
+- **`/css`**: Arquivos de estilo e formatação.  
+- **`/docs`**: Documentação e arquivos relacionados ao projeto.  
+- **`/includes`**: Componentes reutilizáveis ou configurações comuns para serem incluídos em várias páginas.  
+- **`/js`**: Scripts JavaScript utilizados na aplicação.  
+- **`/logs`**: Registro de logs para auditoria ou depuração do sistema.  
+- **`/modules`**: Módulos específicos de funcionalidade, como controle de kits ou colaboradores.  
+- **`/templates`**: Modelos de páginas e componentes visuais para estruturação do frontend.
 
-### Departamentos
-- `dp_backoffice.php`: Gestão do departamento de backoffice
-- `dp_contabil.php`: Gestão do departamento contábil
-- `dp_financeiro.php`: Gestão do departamento financeiro
+### Arquivos
+- **`.gitignore`**: Arquivo configurado para ignorar arquivos temporários, de log ou outros desnecessários ao repositório.  
+- **`index.html`**: Página inicial, ponto de entrada principal da aplicação.
 
-### Recursos
-- `kits_prontos.php`: Gerenciamento de kits e equipamentos
-- `colaboradores.php`: Cadastro e gestão de colaboradores
+---
 
-### Assets
-- `/css/`: Arquivos de estilo e formatação
-  - `styles.css`: Estilos globais
-  - `menu.css`: Estilos do menu de navegação
-- `/img/`: Imagens e recursos visuais
-  - `logos/`: Logotipos da empresa
-  - `colaboradores/`: Fotos dos colaboradores
+## Tecnologias Utilizadas
+- **HTML**: Para estruturação das páginas.  
+- **CSS**: Para estilização e design responsivo.  
+- **JavaScript**: Para interatividade no frontend.  
+- **PHP**: Linguagem backend para gerenciar e processar dados.  
+
+---
 
 ## Manutenção
-O projeto passa por atualizações constantes para:
-- Correção de bugs
-- Melhorias de interface
-- Otimização de código
-- Adição de novos recursos
+O projeto é constantemente atualizado para:  
+- Corrigir bugs e erros.  
+- Implementar melhorias de interface e usabilidade.  
+- Otimizar o código para melhor performance.  
+- Adicionar novos recursos e funcionalidades.
+
+---
 
 ## Contribuição
-Para contribuir com o projeto:
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature
-3. Faça commit das alterações
-4. Crie um Pull Request
+Para contribuir com o projeto, siga os seguintes passos:  
+1. Faça um **fork** do repositório.  
+2. Crie uma **branch** para sua feature ou correção.  
+3. Realize commit das alterações.  
+4. Envie um **Pull Request** para revisão e integração.
+
+---
 
 ## Licença
-Este projeto está sob a licença [inserir tipo de licença].
+Este projeto está sob a licença **MIT**, permitindo uso, modificação e distribuição livre.
