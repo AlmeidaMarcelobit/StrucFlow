@@ -1787,7 +1787,6 @@
 						<p><strong>Data da desligamento:</strong></p>
 						<p><strong>Centro de Custo:</strong>22001 - Consulta Assistida</p>
 						<p><strong>Subtituição:</strong>Amanda da Silva Reis</p>
-
 					</div>
 				</section>
 				<section class="equipamentos-info">
@@ -2587,6 +2586,19 @@
 					<p><strong>Patrimônio:</strong>1501</p>
 				</div>
 			</section>
+			<section class="monitor">
+				<div class="img">
+					<img src="../assents/logo/monitor.png" alt="icone laptop">
+				</div>
+				<div>
+					<p><strong>ID Caixa:</strong>11</p>
+					<p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+					<p><strong>Marca/Modelo:</strong>LG-22MP410-B</p>
+					<p class="serial"><strong>S/N:</strong>403AZPUJ240</p>
+					<p><strong>Patrimonio:</strong>1475</p>
+				</div>
+			</section>
+
 			<!--
 			<section class=" monitor reflag">
 				<div class="img">
@@ -2600,8 +2612,8 @@
 					<p><strong>Patrimonio:</strong>425</p>
 					<p><strong>Observação:</strong>Antiga Caixa 05, com quem esta???</p>
 				</div>
--->
 			</section>
+-->
 		</div>
 		<!-- Seção: Estoque de Máquinas -->
 		<div class="estoque-container">
