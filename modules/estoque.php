@@ -1775,7 +1775,7 @@
 				</section>
 			</article>
 			<article>
-				<section class="colaborador-info">
+				<section class="colaborador-info redflag">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong> 140</p>
 						<p><strong>Colaborador:</strong>Maria Luisa Barros de Lima</p>
