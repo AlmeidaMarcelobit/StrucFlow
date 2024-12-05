@@ -2559,6 +2559,8 @@
 					<p><strong>Patrimonio:</strong>394</p>
 				</div>
 			</section>
+			<!--
+		Onde esta o monitor da caia 09
 			<section class="monitor">
 				<div class="img">
 					<img src="../assents/logo/monitor.png" alt="icone laptop">
@@ -2571,6 +2573,8 @@
 					<p><strong>Patrimônio:</strong>1472</p>
 				</div>
 			</section>
+-->
+
 			<section class="monitor">
 				<div class="img">
 					<img src="../assents/logo/monitor.png" alt="icone laptop">
