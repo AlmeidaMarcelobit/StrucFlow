@@ -2872,10 +2872,10 @@
 		<aside>
 			<nav class="menuancora">
 				<ul>
-					<li><a href="#workpack"><img src="../assents/logo/workpack.png" alt="#worpack"> </a></li>
-					<li><a href="#monitor"><img src="../assents/logo/monitor.png" alt="#monitor"></a></li>
-					<li><a href="#backup"><img src="../assents/logo/laptop-backup.png" alt=""></a></li>
-					<li><a href="#reserva"><img src="../assents/logo/laptop-reserva.png" alt=""></a></li>
+					<li><a href="#workpack"><img src="../assents/logo/workpack.jpg" alt="#worpack"> </a></li>
+					<li><a href="#monitor"><img src="../assents/logo/monitor.jpg" alt="#monitor"></a></li>
+					<li><a href="#backup"><img src="../assents/logo/laptop-backup.jpg" alt=""></a></li>
+					<li><a href="#reserva"><img src="../assents/logo/laptop-reserva.jpg" alt=""></a></li>
 				</ul>
 			</nav>
 		</aside>
