@@ -1778,10 +1778,10 @@
 				<section class="colaborador-info redflag">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong> 140</p>
-						<p><strong>Colaborador:</strong>Maria Luisa Barros de Lima</p>
+						<p><strong>Colaborador:</strong>Maria Luisa Barros Lima</p>
 						<p><strong>Email:</strong>maria.lima@amorsaude.com</p>
 						<p><strong>Cargo:</strong>Assistente De Canais Digitais E Relacionamento</p>
-						<p><strong>Departamento:</strong>Administrativo</p>
+						<p><strong>Departamento:</strong>Canais Digitais e Relacionamento</p>
 						<p><strong>CPF:</strong>456.010.168-01</p>
 						<p><strong>Data da admissão:</strong>02.12.2024</p>
 						<p><strong>Data da desligamento:</strong></p>
