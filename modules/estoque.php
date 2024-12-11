@@ -1869,6 +1869,52 @@
 			<article>
 				<section class="colaborador-info">
 					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Paulo Gabriel Silva Araújo Gomes</p>
+						<p><strong>Email:</strong>victor.dantas@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Engenheiro de Dados</p>
+						<p><strong>Departamento:</strong>Dados</p>
+						<p><strong>CPF:</strong>020.782.122-45</p>
+						<p><strong>Data de admissão:</strong>16.12.2024</p>
+						<p><strong>Data de desligamento:</strong>N/A</p>
+						<p><strong>Centro de Custo:</strong>13015 - Gerência Dados</p>
+						<p><strong>Substituição:</strong>Victor Ribeiro da Silva Dantas</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Alumínio</p>
+						<p class="serial"><strong>S/N:</strong>N/A</p>
+						<p><strong>Patrimônio:</strong>360</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech K235</p>
+						<p class="serial"><strong>S/N:</strong>JNZYR0036</p>
+						<p><strong>Patrimônio:</strong>202 - 629</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2128ME0EYNA8</p>
+						<p><strong>Patrimônio:</strong>547</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook Win-11 i7-1165G7 16GB</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 3400</p>
+						<p class="serial"><strong>S/N:</strong>3BBTQK3</p>
+						<p><strong>Patrimônio:</strong>65</p>
+					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket:</strong>N/A</p>
+					<p><strong>Equipamentos:</strong>Suporte, Teclado e Mouse, Fone, Notebook Win-11 i7-1165G7 16GB
+					</p>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>147</p>
 						<p><strong>Colaborador:</strong>Leonardo Tavares de Mello</p>
 						<p><strong>Email:</strong>leonardo.mello@amorsaude.com</p>
