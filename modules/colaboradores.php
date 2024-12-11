@@ -3368,7 +3368,9 @@
 					<div class="equipamento">
 						<p><strong>Tipo:</strong>Teclado e Mouse</p>
 						<p><strong>Marca/Modelo:</strong>MK270</p>
-						<p class="serial"><strong>S/N:</strong>224CE257B59<br>2241LZX1ULS8</p>
+						<p class="serial">
+							<stgitrong>S/N:</strong>224CE257B59<br>2241LZX1ULS8
+						</p>
 						<p><strong>Patrimônio:</strong>433</p>
 					</div>
 					<div class="equipamento">
@@ -3395,7 +3397,277 @@
 					<p><strong>Equipamentos:</strong>Teclado e Mouse, Notebook, Headset</p>
 				</section>
 			</article>
-
+			<article>
+				<section class="colaborador-info">
+					<div><img src="../foto_colaboradores/Leticia Silva.jfif" alt="Foto de Letícia Godoy da Silva" class="foto"></div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Letícia Godoy da Silva</p>
+						<p><strong>Email:</strong>leticia.silva@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Analista de Pessoas & Cultura Júnior</p>
+						<p><strong>Departamento:</strong>Pessoas & Cultura</p>
+						<p><strong>CPF:</strong>439.857.398-46</p>
+						<p><strong>Data da admissão:</strong>01.03.2024</p>
+						<p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
+						<p><strong>Subtituição:</strong>Juliana Souza</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Patrimônio:</strong>230</p>
+						<p class="serial"><strong>S/N:</strong>54KL0V3</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Headset</p>
+						<p><strong>Patrimônio:</strong>678</p>
+						<p class="serial"><strong>S/N:</strong>274045806</p>
+						<p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Mouse</p>
+						<p><strong>Patrimônio:</strong></p>
+						<p><strong>Marca/Modelo:</strong>Multilaser MO300</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Smartphone</p>
+						<p><strong>Patrimônio:</strong>674</p>
+						<p class="serial"><strong>S/N:</strong>r9xta0etcqk</p>
+						<p><strong>IMEI 1:</strong>350916876991889/01</p>
+						<p><strong>IMEI 2:</strong>354654236991887/01</p>
+						<p><strong>Marca/Modelo:</strong>Galaxy A03</p>
+					</div>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div> <img src="../static/img/foto_colaboradores/Livia Paula.jpeg" alt="Foto de Livia Marcolino Paula" class="foto" /> </div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador: </strong>Livia Marcolino Paula</p>
+						<p><strong>Email: </strong>livia.paula@amorsaude.com</p>
+						<p><strong>Cargo: </strong>Assistente Administrativo</p>
+						<p><strong>Departamento: </strong>Amorcirurgias</p>
+						<p><strong>CPF: </strong>438.725.158-10</p>
+						<p><strong>Data da Promoção:</strong>23.01.2024</p>
+						<p><strong>Centro de Custo: </strong>32001 - Administrativo</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
+						<p class="serial"><strong>S/N:</strong>43KLOV3</p>
+						<p><strong>Patrimonio:</strong>218</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo: </strong>Fone</p>
+						<p><strong>Marca/Modelo: </strong>Logitech H390</p>
+						<p class="serial"><strong>S/N: </strong>2330A4042098</p>
+						<p><strong>Patrimônio: </strong>971</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo: </strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo: </strong>Logitech MK270</p>
+						<p class="serial"><strong>S/N: </strong>2240CE0B4129</p>
+						<p><strong>Patrimônio: </strong>375</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo: </strong>Suporte</p>
+						<p><strong>Marca/Modelo: </strong>Alumínio</p>
+						<p class="serial"><strong>S/N: </strong></p>
+						<p><strong>Patrimônio: </strong>367</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
+						<p class="serial"><strong>S/N:</strong>303AZXC94258</p>
+						<p><strong>Patrimonio:</strong>392</p>
+					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket: </strong></p>
+					<p><strong>Equipamentos: </strong>Fone, Teclado e Mouse, Suporte</p>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div><img src="../foto_colaboradores/Lucas Mateus.jpeg" alt="Foto de Lucas Mateus" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Lucas Mateus</p>
+						<p><strong>Email:</strong>lucas.mateus@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Analista De Dados</p>
+						<p><strong>Departamento:</strong>Dados</p>
+						<p><strong>CPF:</strong>432.126.858-32</p>
+						<p><strong>Data de admissão:</strong>11.05.2023</p>
+						<p><strong>Data de desligamento:</strong>N/A</p>
+						<p><strong>Centro de Custo:</strong>13011 - Dados</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>Samsung LF24T350FHLMZD</p>
+						<p class="serial"><strong>S/N:</strong>F24T350FH</p>
+						<p><strong>Patrimônio:</strong>1438</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook</p>
+						<p><strong>Marca/Modelo:</strong>Dell Vostro 3510 P112F</p>
+						<p class="serial"><strong>S/N:</strong>5cvgxm3</p>
+						<p><strong>Patrimônio:</strong>63</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2235me00y6v9</p>
+						<p><strong>Patrimônio:</strong>386</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Alumínio</p>
+						<p class="serial"><strong>S/N:</strong>N/A</p>
+						<p><strong>Patrimônio:</strong>814</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+						<p class="serial"><strong>S/N:</strong>2253CEOF16F9 - 2248LZX6NDX8</p>
+						<p><strong>Patrimônio:</strong>236</p>
+					</div>
+				</section>
+				<h2>Equipamento Devolvido</h2>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
+						<p class="serial"><strong>S/N:</strong>R9XW20CHKWM</p>
+						<p><strong>Patrimônio:</strong>N/A</p>
+						<p><strong>IMEI 1:</strong>358302235393525/01</p>
+						<p><strong>IMEI 2:</strong>35976405393521/01</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG-22M410-P</p>
+						<p class="serial"><strong>S/N:</strong>303AZTH2V809</p>
+						<p><strong>Patrimônio:</strong>238</p>
+					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket:</strong>N/A</p>
+					<p><strong>Equipamentos:</strong>Monitor, Notebook, Fone, Suporte, Teclado e Mouse, Celular
+						(Devolvido), Monitor (Devolvido)</p>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div><img src="../static/img/foto_colaboradores/Lucas Pedro Pereira.jpeg" alt="Foto de Lucas Pedro Pereira" class="foto"></div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Lucas Pedro Pereira</p>
+						<p><strong>Email:</strong>lucas.pereira@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Anaslista Financeiro JR</p>
+						<p><strong>Departamento:</strong>Financeiro</p>
+						<p><strong>CPF:</strong>461.067.698-26</p>
+						<p><strong>Data da admissão:</strong>20.05.2024</p>
+						<p><strong>Centro de Custo:</strong>63001 - Financeiro Soluções</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Headset</p>
+						<p><strong>Patrimônio:</strong>1016</p>
+						<p class="serial"><strong>S/N:</strong>2350AY052028</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Patrimônio:</strong>1017</p>
+						<p class="serial"><strong>S/N</strong></p>
+						<p><strong>Marca/Modelo:</strong>Alumínio</p>
+					</div>
+					<div class=redflag>
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Patrimônio:</strong></p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Marca/Modelo:</strong></p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
+						<p><strong>Patrimônio:</strong>1527</p>
+						<p class="serial"><strong>S/N:</strong>PE0CB4VF</p>
+						<p><strong>Marca/Modelo:</strong>Lenovo V15 G3</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fonte</p>
+						<p><strong>Patrimônio:</strong>1018</p>
+						<p class="serial"><strong>S/N:</strong>42P69B8</p>
+						<p><strong>Marca/Modelo:</strong>PA-1650-74</p>
+					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket:</strong>#31744</p>
+					<p><strong>Equipamento:</strong>Headset, Notebook, Monitor, Suporte, Telcado e Mouse</p>
+				</section>
+			</article>
+			<article>
+				<section class="colaborador-info">
+					<div><img src="foto_colaboradores/Lucilene%20Santos%20Matias.jpeg" alt="Sem Foto" class="foto">
+					</div>
+					<div class="colaborador-details">
+						<p><strong>Colaborador:</strong>Lucilene Santos Matias</p>
+						<p><strong>Email:</strong>lucilene.matias@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Consultor de Operações</p>
+						<p><strong>Departamento:</strong>Operações</p>
+						<p><strong>CPF:</strong>219.665.528-74</p>
+						<p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+						<p><strong>Substituição:</strong>Karen Loureiro</p>
+					</div>
+				</section>
+				<section class="equipamentos-info">
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Celular</p>
+						<p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
+						<p class="serial"><strong>S/N:</strong>R9XT700F6NK</p>
+						<p><strong>Patrimonio:</strong>582</p>
+						<p><strong>IMEI 1:</strong>354985988580910/01</p>
+						<p><strong>IMEI 2:</strong>355106278590811/01</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
+						<p><strong>Marca/Modelo:</strong>Lenovo V15 G3</p>
+						<p class="serial"><strong>S/N:</strong>CLBFD14</p>
+						<p><strong>Patrimonio:</strong>1451</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Fone</p>
+						<p><strong>Marca/Modelo:</strong>Logitech H390</p>
+						<p class="serial"><strong>S/N:</strong>2316ME027FK9</p>
+						<p><strong>Patrimonio:</strong>879</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Suporte</p>
+						<p><strong>Marca/Modelo:</strong>Aluminio</p>
+						<p class="serial"><strong>S/N:</strong></p>
+						<p><strong>Patrimonio:</strong>826</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Teclado e Mouse</p>
+						<p><strong>Marca/Modelo:</strong>Dell KM5221W</p>
+						<p class="serial"><strong>S/N:</strong>CN-ONCRCC-L0300-331-KOUH-A01</p>
+						<p><strong>Patrimonio:</strong>325</p>
+					</div>
+					<div class="equipamento">
+						<p><strong>Tipo:</strong>Monitor</p>
+						<p><strong>Marca/Modelo:</strong>LG-22MP410-B</p>
+						<p class="serial"><strong>S/N:</strong>403AZmc6h747</p>
+						<p><strong>Patrimonio:</strong>1478</p>
+					</div>
+				</section>
+				<section class="ticket">
+					<p><strong>ID Ticket:</strong>#39681</p>
+					<p><strong>Equipamentos:</strong>Notebook, Teclado e Mouse, Suporte, Celular, Fone</p>
+				</section>
+			</article>
 		</div>
 		<?php include "../includes/aside.html"; ?>
 	</main>
