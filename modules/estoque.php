@@ -789,15 +789,15 @@
 				<section class="colaborador-info">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>117</p>
-						<p><strong>Colaborador:</strong></p>
-						<p><strong>Email:</strong></p>
-						<p><strong>Cargo:</strong></p>
-						<p><strong>Departamento:</strong></p>
-						<p><strong>CPF:</strong></p>
-						<p><strong>Data da admissão:</strong></p>
+						<p><strong>Colaborador:</strong>Pricila Françoaze Carrile Santana</p>
+						<p><strong>Email:</strong>pricila.carrile@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Especialista Financeiro</p>
+						<p><strong>Departamento:</strong>Financeiro</p>
+						<p><strong>CPF:</strong>300.611.718-24</p>
+						<p><strong>Data da admissão:</strong>06.01.2025</p>
 						<p><strong>Data da desligamento:</strong></p>
-						<p><strong>Centro de Custo:</strong>12010 - Inteligência de Negócios</p>
-						<p><strong>Substituição:</strong>Gabriela Gergete</p>
+						<p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
+						<p><strong>Substituição:</strong>Gabriela Georgete</p>
 					</div>
 				</section>
 				<section class="equipamentos-info">
@@ -1190,12 +1190,12 @@
 				<section class="colaborador-info">
 					<div class="colaborador-details">
 						<p><strong>ID Caixa:</strong>127</p>
-						<p><strong>Colaborador:</strong></p>
-						<p><strong>Email:</strong></p>
-						<p><strong>Cargo:</strong>Analista de Projetos</p>
-						<p><strong>Departamento:</strong>Projetos Processos</p>
-						<p><strong>CPF:</strong></p>
-						<p><strong>Data de admissão:</strong>N/A</p>
+						<p><strong>Colaborador:</strong>Otávio Freitas</p>
+						<p><strong>Email:</strong>otavio.freitas@amorsaude.com</p>
+						<p><strong>Cargo:</strong>Product Owner Junior</p>
+						<p><strong>Departamento:</strong>Projetos e Processos</p>
+						<p><strong>CPF:</strong>431.693.188-10</p>
+						<p><strong>Data de admissão:</strong>06.01.2025</p>
 						<p><strong>Data de desligamento:</strong>N/A</p>
 						<p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
 						<p><strong>Substituição:</strong>Laura Garcia Paschoin</p>
