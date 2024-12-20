@@ -65,18 +65,7 @@
                     <p><strong>ID Ticket:</strong>N/A</p>
                     <p><strong>Equipamentos:</strong>Notebook, Fone, Teclado e Mouse, Suporte</p>
                 </section>
-<!--
-                <section class="atencao-info">
-                    <header>
-                        <h2>⚠️ Informações Importantes</h2>
-                    </header>
-                    <div class="alerta-conteudo">
-                        <p><strong>Motivo do Alerta:</strong> Equipamento em processo de substituição.</p>
-                        <p><strong>Data Prevista:</strong> 25/12/2024</p>
-                        <p><strong>Responsável pela troca:</strong> Departamento de TI</p>
-                    </div>
-                </section>
--->
+
             </article>
             <article>
                 <section class="colaborador-info">
@@ -256,6 +245,14 @@
                         <p><strong>Patrimonio:</strong></p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado do monitor.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -369,6 +366,14 @@
                 <section class="ticket">
                     <p><strong>ID Ticket:</strong>#28137</p>
                     <p><strong>Equipamento:</strong>Teclado e Mouse, Fone, Notebook, Suporte</p>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>Nós temos os dados do suporte, notebook, fone, teclado e mouse, porém somente possuímos o termo de responsabilidade para esses suporte.</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -491,6 +496,14 @@
                 <section class="ticket">
                     <p><strong>ID Ticket:</strong>#32692</p>
                     <p><strong>Equipamentos:</strong>Teclado e Mouse</p>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -725,12 +738,6 @@
                         <p><strong>Patrimonio:</strong>496</p>
                     </div>
                     <div class="equipamento">
-                        <p><strong>Tipo:</strong></p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong></p>
-                    </div>
-                    <div class="equipamento">
                         <p><strong>Tipo:</strong>Celular</p>
                         <p><strong>Marca/Modelo:</strong>Moto E22</p>
                         <p class="serial"><strong>S/N:</strong>zf5244c2tj</p>
@@ -886,6 +893,14 @@
                         <p><strong>Patrimonio:</strong>463</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado e dados para os teclado e mouse.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -956,12 +971,6 @@
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
                     </div>
                     <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Patrimônio:</strong>731</p>
-                        <p><strong>S/N:</strong>N/A</p>
-                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
-                    </div>
-                    <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
                         <p><strong>Teclado Patrimônio:</strong>337</p>
                         <p><strong>Mouse Patrimônio:</strong>338</p>
@@ -1025,6 +1034,14 @@
                         <p><strong>Patrimônio:</strong>458</p>
                         <p class="serial"><strong>S/N:</strong>2316LXX3GEJ8</p>
                         <p><strong>Marca/Modelo:</strong>Vostro 3520</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
                     </div>
                 </section>
             </article>
@@ -1212,7 +1229,7 @@
                 <section class="colaborador-info">
                     <div><img src="../assents/fotos/foto_colaboradores/Cau%C3%A3%20Bacileri.jpg" alt="Foto de Nicholas Esdras Lopes" class="foto"></div>
                     <div class="colaborador-details">
-                        <p><strong>Colaborador:</strong>Caua Fernando Bacilieri</p>
+                        <p><strong>Colaborador:</strong>Cauã Fernando Bacilieri</p>
                         <p><strong>E-mail:</strong>caua.bacilieri@amorsaude.com</p>
                         <p><strong>Cargo:</strong>Estagiaro</p>
                         <p><strong>Departamento:</strong>BackOffice</p>
@@ -1256,6 +1273,14 @@
                 <section class="ticket">
                     <p><strong>ID Ticket:</strong>#48557</p>
                     <p><strong>Equipamentos:</strong>Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado, Monitor</p>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está sem termo de responsabilidade para Monitor</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -1534,6 +1559,15 @@
                         <p><strong>Patrimonio:</strong>1144</p>
                     </div>
                 </section>
+                <h2>Equipamentos Comprometidos</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-comprometidos">
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong>2320CE1626C8 - 2240LZN1KF8</p>
+                        <p><strong>Patrimonio:</strong>1142 - 447</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -1564,6 +1598,14 @@
                         <p><strong>IMEI 1:</strong>351084957560484/01</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas temos os dados e o termo de responsabilidade do celular e fone, não possuindo dados nem termos dos demais equipamentos.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -1582,9 +1624,9 @@
                 <section class="equipamentos-info">
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-                        <p class="serial"><strong>S/N:</strong>402AZFM4W259</p>
-                        <p><strong>Patrimonio:</strong>1473</p>
+                        <p><strong>Marca/Modelo:</strong>Samsung Y45KHX5T601532E</p>
+                        <p class="serial"><strong>S/N:</strong>F24T350FHL</p>
+                        <p><strong>Patrimonio:</strong>192</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Notebook Win-11 i5-1135G7 8GB</p>
@@ -1638,6 +1680,14 @@
                         <p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
                         <p class="serial"><strong>S/N:</strong>00273966148</p>
                         <p><strong>Patrimonio:</strong>679</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
                     </div>
                 </section>
             </article>
@@ -1934,6 +1984,14 @@
                         <p><strong>Centro de Custo:</strong>18006 - Odontologia - Plano</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e e dados dos mesmos.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -2086,6 +2144,14 @@
                         <p><strong>Marca/Modelo:</strong>E1920H</p>
                         <p class="serial"><strong>S/N:</strong>BR0V4FTWTVB001A6805BA03</p>
                         <p><strong>Patrimônio:</strong>128</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O termo de responsabilidade referente ao monitor danificado e ao monitor atual em posse da colaboradora não foi assinado.</p>
                     </div>
                 </section>
             </article>
@@ -2335,6 +2401,14 @@
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
                         <p class="serial"><strong>S/N:</strong>229lzxk31c8</p>
                         <p><strong>Patrimonio:</strong>693</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando equipamentos sem registro detalhado e sem o termo de responsabilidade assinado.</p>
                     </div>
                 </section>
             </article>
@@ -2819,9 +2893,17 @@
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>MK270</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
                         <p class="serial"><strong>S/N:</strong>2232CE1DO248 - 223OLZX3BLE8</p>
-                        <p><strong>Patrimonio:</strong>957</p>
+                        <p><strong>Patrimonio:</strong>480</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado e dados para os notebook e monitor.</p>
                     </div>
                 </section>
             </article>
@@ -2845,6 +2927,14 @@
                         <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
                         <p class="serial"><strong>S/N:</strong>302AZHY7F913</p>
                         <p><strong>Patrimonio:</strong>404</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas possui o termo de responsabilidade assinado para o monitor, não tendo os dados e termo para os demais itens.</p>
                     </div>
                 </section>
             </article>
@@ -2978,6 +3068,14 @@
                         <p><strong>Patrimonio:</strong>396</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas possui o termo de responsabilidade assinado para o monitor, não tendo os dados e termo para os demais itens.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -3019,6 +3117,79 @@
                         <p><strong>Patrimonio:</strong>1028</p>
                         <p><strong>IMEI 1:</strong>358302235393616/01</p>
                         <p><strong>IMEI 2:</strong>3597964053393612/01</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém não possuímos o termo de responsabilidade do teclado e mouse</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Larissa de Freitas</p>
+                        <p><strong>Email:</strong>larissa.freitas@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Analista Administrativo Pleno</p>
+                        <p><strong>Departamento:</strong>Cirurgias</p>
+                        <p><strong>CPF:</strong>470.350.438-37</p>
+                        <p><strong>Data da admissão:</strong></p>
+                        <p><strong>Data da desligamento:</strong></p>
+                        <p><strong>Centro de Custo:</strong>32001 - Cirurgias</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong>2330AY032488</p>
+                        <p><strong>Patrimonio:</strong>970</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook Win-11 i5-1232U 8GB</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+                        <p class="serial"><strong>S/N:</strong>4LBFD14</p>
+                        <p><strong>Patrimonio:</strong>1449</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>930</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong>2334CE2DA878 - 2331LXRRGD8</p>
+                        <p><strong>Patrimonio:</strong>1448</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
+                        <p class="serial"><strong>S/N:</strong>401AZQV62940</p>
+                        <p><strong>Patrimonio:</strong>1465</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong>ZF52489JLP</p>
+                        <p><strong>Patrimonio:</strong>1217</p>
+                        <p><strong>IMEI 1:</strong>359340983517837/15</p>
+                        <p><strong>IMEI 2:</strong>359340983517845/15</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
                     </div>
                 </section>
             </article>
@@ -3126,6 +3297,14 @@
                         <p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando equipamentos sem registro detalhado e sem o termo de responsabilidade assinado.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -3169,6 +3348,16 @@
                         <p><strong>Marca/Modelo:</strong>Aluminio</p>
                     </div>
                 </section>
+
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
+                    </div>
+                </section>
+
             </article>
             <article>
                 <section class="colaborador-info">
@@ -3222,6 +3411,74 @@
                 <section class="ticket">
                     <p><strong>ID Ticket:</strong>N/A</p>
                     <p><strong>Equipamentos:</strong>Notebook, Fone, Teclado e Mouse, Suporte</p>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando outros equipamentos nãoi listados acima, porém somente possui o termo de responsabilidade assinado para os celular.</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div><img src="../static/img/foto_colaboradores/SEM%20FOTO.jpg" alt="foto de Leandro Rodrigues" class="foto"></div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Leandro Rodrigues</p>
+                        <p><strong>Email:</strong>leandro.rodrigues@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Assistente de Treinamentos</p>
+                        <p><strong>Departamento:</strong>BackOffice</p>
+                        <p><strong>CPF:</strong>381.953.408-30</p>
+                        <p><strong>Data de entrada:</strong></p>
+                        <p><strong>Data de saida:</strong></p>
+                        <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
+                        <p><strong>Subtituição:</strong>Bruna Rafaela Emilio</p>
+                    </div>
+                </section>
+                <h2>DADOS DOS EQUIPAMENTOS</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Patrimônio:</strong>1946</p>
+                        <p class="serial"><strong>Teclado S/N:</strong>2243CE258149</p>
+                        <p class="serial"><strong>Mouse S/N:</strong>2344LZXBR628</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Patrimônio:</strong>1168</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Patrimônio:</strong>165</p>
+                        <p class="serial"><strong>S/N:</strong>PE09784e</p>
+                        <p><strong>Marca/Modelo:</strong>Ideapad315alc6</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Patrimônio:</strong>741</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Marca/Modelo:</strong>Motorola E22</p>
+                        <p class="serial"><strong>S/N:</strong>ZF524CGM4K</p>
+                        <p><strong>Patrimonio:</strong>1054</p>
+                        <p><strong>IMEI 1:</strong>352500458552414</p>
+                        <p><strong>IMEI 2:</strong>352500458552422</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém somente possuímos o termo de responsabilidade do celular.</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -3538,6 +3795,14 @@
                     <p><strong>ID Ticket:</strong>#39681</p>
                     <p><strong>Equipamentos:</strong>Notebook, Teclado e Mouse, Suporte, Celular, Fone</p>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas possuímos o termo de responsabilidade do notebook, não tendo os termos nem os dados dos demais equipamentos..</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -3636,6 +3901,14 @@
                         <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para notebook.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -3649,6 +3922,14 @@
                         <p><strong>Data da admissão:</strong>11.05.2023</p>
                         <p><strong>Data da desligamento:</strong></p>
                         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e e dados dos mesmos.</p>
                     </div>
                 </section>
             </article>
@@ -4349,6 +4630,14 @@
                         <p><strong>IMEI 2:</strong>355106278574633/01</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os demais itens, exceto pelo kit de teclado, mouse e monitor.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -4520,10 +4809,6 @@
                         <p><strong>IMEI 2:</strong></p>
                     </div>
                 </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong></p>
-                    <p><strong>Equipamentos:</strong></p>
-                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -4556,6 +4841,14 @@
                         <p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
                         <p class="serial"><strong>S/N:</strong>1Q3MOT3</p>
                         <p><strong>Patrimônio:</strong>265</p>
+                    </div>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando o equipamento monitor, porém ainda não possui o termo de responsabilidade assinado para o mesmo.</p>
                     </div>
                 </section>
             </article>
@@ -4756,6 +5049,14 @@
                 <section class="ticket">
                     <p><strong>ID Ticket:</strong>N/A</p>
                     <p><strong>Equipamentos:</strong>N/A</p>
+                </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando equipamentos sem registro detalhado e sem o termo de responsabilidade assinado.</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -5162,11 +5463,7 @@
                         <p><strong>Patrimonio:</strong>844</p>
                     </div>
                 </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong></p>
-                    <p><strong>Equipamentos:</strong></p>
-                </section>
-                </section>
+
             </article>
             <article>
                 <section class="colaborador-info">
@@ -5211,6 +5508,14 @@
                         <p><strong>Patrimonio: </strong>292</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas possuímos o termo de responsabilidade do teclado e mouse, não tendo os termos para o notebook, fone e celular.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -5243,7 +5548,14 @@
                         <p><strong>Patrimonio:</strong>702</p>
                     </div>
                 </section>
-
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos listados, porém apenas possuímos o termo de responsabilidade do teclado, mouse e suporte, não tendo os termos nem os dados dos demais equipamentos.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -5410,6 +5722,14 @@
                         <p><strong>Centro de Custo:</strong> 13015</p>
                     </div>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e e dados dos mesmos.</p>
+                    </div>
+                </section>
             </article>
             <article>
                 <section class="colaborador-info">
@@ -5571,8 +5891,15 @@
                     <p><strong>ID Ticket:</strong>#30250</p>
                     <p><strong>Equipamento:</strong>Smartphone</p>
                 </section>
+                <section class="atencao-info">
+                    <header>
+                        <h2>⚠️ Informações Importantes</h2>
+                    </header>
+                    <div class="alerta-conteudo">
+                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém somente possuimos o termo de responsabilidade assinado celular e sem dados dos demais.</p>
+                    </div>
+                </section>
             </article>
-
             <article>
                 <section class="colaborador-info">
                     <div><img src="../assents/fotos/foto_colaboradores/Yago%20Mariano.jpg" alt="foto de Yago dos Anjos Mariano" class="foto"></div>
