@@ -2802,56 +2802,6 @@
             </article>
             <article>
                 <section class="colaborador-info">
-                    <div><img src="../assents/fotos/foto_colaboradores/Iris%20Cristina%20Nietto.jfif" alt="foto de Iris Cristina Nietto" class="foto"></div>
-                    <div class="colaborador-details">
-                        <p><strong>Colaborador:</strong>Iris Cristina Nietto</p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Analista Contábil</p>
-                        <p><strong>Departamento:</strong>Contabilidade</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Centro de Custo:</strong>13003 - Contábil</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
-                        <p><strong>Marca/Modelo:</strong>Lenovo V15 G3 IAP</p>
-                        <p class="serial"><strong>S/N:</strong>PE9014223078</p>
-                        <p><strong>Patrimonio:</strong>1546</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong>1230</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2350ay0512a8</p>
-                        <p><strong>Patrimonio:</strong>1241</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech Mk270</p>
-                        <p class="serial"><strong>S/N:</strong>2347CE2704D8</p>
-                        <p><strong>Patrimonio:</strong>1545</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-                        <p class="serial"><strong>S/N:</strong>403AZDB84034</p>
-                        <p><strong>Patrimonio:</strong>1572</p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>#42722</p>
-                    <p><strong>Equipamentos:</strong>Headset, Notebook 8G, Suporte para notebook, Teclado e Mouse,
-                        Monitor.</p>
-                </section>
-            </article>
-            <article>
-                <section class="colaborador-info">
                     <div><img src="../assents/fotos/foto_colaboradores/Iris%20Cristina%20Nietto.jpg" alt="foto de Iris Cristina Nietto" class="foto"></div>
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Iris Cristina Nietto</p>
