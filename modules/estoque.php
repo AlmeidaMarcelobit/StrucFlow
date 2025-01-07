@@ -595,14 +595,14 @@
                 <section class="colaborador-info">
                     <div class="colaborador-details">
                         <p><strong>ID Caixa:</strong>117</p>
-                        <p><strong>Colaborador:</strong>Pricila Françoaze Carrile Santana</p>
-                        <p><strong>Email:</strong>pricila.carrile@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Especialista Financeiro</p>
+                        <p><strong>Colaborador:</strong></p>
+                        <p><strong>Email:</strong></p>
+                        <p><strong>Cargo:</strong></p>
                         <p><strong>Departamento:</strong>Financeiro</p>
-                        <p><strong>CPF:</strong>300.611.718-24</p>
-                        <p><strong>Data da admissão:</strong>06.01.2025</p>
+                        <p><strong>CPF:</strong></p>
+                        <p><strong>Data da admissão:</strong></p>
                         <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
+                        <p><strong>Centro de Custo:</strong></p>
                         <p><strong>Substituição:</strong>Gabriela Georgete</p>
                     </div>
                 </section>
@@ -1540,12 +1540,12 @@
                 <section class="colaborador-info">
                     <div class="colaborador-details">
                         <p><strong>ID Caixa</strong>141</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Assistente Suprimentos</p>
+                        <p><strong>Colaborador:</strong>Pricila Françoaze Carrile Santana</p>
+                        <p><strong>Email:</strong>pricila.carrile@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Especialista Financeiro</p>
                         <p><strong>Departamento:</strong>Financeiro</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Data de entrada:</strong></p>
+                        <p><strong>CPF:</strong>300.611.718-24</p>
+                        <p><strong>Data de entrada:</strong>06.01.2025</p>
                         <p><strong>Data da desligamento:</strong></p>
                         <p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
                         <p><strong>Subtituição:</strong>Barbara Bidurin</p>
@@ -1949,11 +1949,11 @@
                 <section class="colaborador-info">
                     <div class="colaborador-details">
                         <p><strong>ID Caixa:</strong>67485</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Analista de Projetos Sr</p>
+                        <p><strong>Colaborador:</strong>Gabriela Cardoso Martins</p>
+                        <p><strong>Email:</strong>gabriela.cardoso@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Product Owner PL</p>
                         <p><strong>Departamento:</strong>Projetos / Processos</p>
-                        <p><strong>CPF:</strong></p>
+                        <p><strong>CPF:</strong>341.371.458-90</p>
                         <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
                     </div>
                 </section>
@@ -1993,15 +1993,14 @@
                 <section class="colaborador-info">
                     <div class="colaborador-details">
                         <p><strong>ID Caixa:</strong>75014</p>
-                        <p><strong>Colaborador:</strong></p>
+                        <p><strong>Colaborador:</strong>Gabrielly Mendes Simões</p>
                         <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Assistente de Canais Digitais e Relacionamento</p>
+                        <p><strong>Cargo:</strong>Estagiária de Canais Digitais e Relacionamento</p>
                         <p><strong>Departamento:</strong>Telemedicina</p>
-                        <p><strong>CPF:</strong></p>
+                        <p><strong>CPF:</strong>459.695.128-42</p>
                         <p><strong>Substituição:</strong>Lucas Guidetti Rocha</p>
-                        <p><strong>Data da admissão:</strong></p>
+                        <p><strong>Data da admissão:</strong>06.01.2025</p>
                         <p><strong>Centro de Custo:</strong>22001 - Consulta Assistida</p>
-                        <p><strong></strong></p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
