@@ -3002,12 +3002,12 @@
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Janaina Françoza</p>
                         <p><strong>Email:</strong>janaina.francoza@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Consultora de Operações</p>
+                        <p><strong>Cargo:</strong>Analista de Documentações Pl</p>
                         <p><strong>Departamento:</strong>Consultoria</p>
                         <p><strong>CPF:</strong>218.279.938-98</p>
                         <p><strong>Data da admissão:</strong></p>
                         <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>12006 - Reginal 1</p>
+                        <p><strong>Centro de Custo:</strong>12005 - BackOffice</p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
@@ -3548,14 +3548,16 @@
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Leonardo Cotrim Ferreira Pinto de Oliveira Botelho</p>
                         <p><strong>Email:</strong>leonardo.botelho@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Coordenador de Parcerias</p>
-                        <p><strong>Departamento:</strong>Cirurgias</p>
+                        <p><strong>Cargo:</strong>Gerente Tecnico</p>
+                        <p><strong>Departamento:</strong>Gerência Técnica</p>
                         <p><strong>CPF:</strong>129.654.087-11</p>
                         <p><strong>Data de admissão:</strong>19.02.2024</p>
+                        <p><strong>Data de promoção:</strong>13.01.2025</p>
                         <p><strong>Data de desligamento:</strong>N/A</p>
-                        <p><strong>Centro de Custo:</strong>33008 - Parceiros</p>
+                        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
                     </div>
                 </section>
+                <!--                Equipamentos para devolver-->
                 <section class="equipamentos-info">
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Notebook Win.11 i5-1135G7 8GB</p>
@@ -4178,35 +4180,27 @@
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
                         <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>Teclado S/N:</strong>2243ce258478</p>
-                        <p class="serial"><strong>Mouse S/N:</strong>2241lz3pak8</p>
-                        <p><strong>Patrimônio:</strong>275</p>
+                        <p class="serial"><strong>Teclado S/N:</strong>2344LZXBR3R8</p>
+                        <p class="serial"><strong>Mouse S/N:</strong>2347CE267DB8</p>
+                        <p><strong>Patrimônio:</strong>1186 - 1176</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Suporte</p>
                         <p><strong>Marca/Modelo:</strong>Alumínio</p>
                         <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimônio:</strong>815</p>
+                        <p><strong>Patrimônio:</strong>1145</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Marca/Modelo:</strong>ideapad3 15alc6</p>
-                        <p class="serial"><strong>S/N:</strong>pe09781x</p>
-                        <p><strong>Patrimônio:</strong>166</p>
+                        <p><strong>Marca/Modelo:</strong>Lenovo V15 G3 IAP</p>
+                        <p class="serial"><strong>S/N:</strong>PE0CK1FF</p>
+                        <p><strong>Patrimônio:</strong>1568</p>
                     </div>
                     <div class="equipamento">
-                        <p><strong>Tipo:</strong>Headset</p>
+                        <p><strong>Tipo:</strong>Fone</p>
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2235ME00Z1J9</p>
-                        <p><strong>Patrimônio:</strong>1017</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Smartphone</p>
-                        <p><strong>Marca/Modelo:</strong>Galaxy A03 Core</p>
-                        <p class="serial"><strong>S/N:</strong>r9xw3007pcm</p>
-                        <p><strong>IMEI 1:</strong>358302235552506/01</p>
-                        <p><strong>IMEI 2:</strong>359796405555202/01</p>
-                        <p><strong>Patrimônio:</strong>1030</p>
+                        <p class="serial"><strong>S/N:</strong>2412AY00NY48</p>
+                        <p><strong>Patrimônio:</strong>1181</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Suporte Monitor</p>
@@ -8709,6 +8703,83 @@
                         <p><strong>Patrimonio:</strong> 660</p>
                         <p><strong>IMEI 1:</strong> 350916876987606/01</p>
                         <p><strong>IMEI 2:</strong> 354654236987604/01</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Isabella Viera</p>
+                        <p><strong>Email:</strong>isabella.vieira@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Estagiária</p>
+                        <p><strong>Departamento:</strong>Pessoas e Cultura</p>
+                        <p><strong>CPF:</strong>476.994.678-33</p>
+                        <p><strong>Data da admissão:</strong>04.12.2023</p>
+                        <p><strong>Data da desligamento:</strong></p>
+                        <p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Inspiron 15</p>
+                        <p class="serial"><strong>S/N:</strong>DQK4422</p>
+                        <p><strong>Patrimonio:</strong>153</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>732</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech K270 M185</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>492</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong>2232ME0208J8</p>
+                        <p><strong>Patrimonio:</strong>915</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div><img src="../static/img/foto_colaboradores/Isabelle Castilho.jpeg" alt="Foto de Isabelle Carorile Salvadego Castilho" class="foto"></div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Isabelle Carorile Salvadego Castilho</p>
+                        <p><strong>Email:</strong>isabelle.castilho@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Estagiario Financeiro</p>
+                        <p><strong>Departamento:</strong>Financeiro</p>
+                        <p><strong>CPF:</strong>548.330.698-81</p>
+                        <p><strong>Data da admissão:</strong>17.07.2023</p>
+                        <p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>928</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p><strong>S/N:</strong>2309ME013GS9</p>
+                        <p><strong>Patrimonio:</strong>833</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro 15</p>
+                        <p><strong>S/N:</strong>GFQN4T3</p>
+                        <p><strong>Patrimonio:</strong>270</p>
                     </div>
                 </section>
             </article>
