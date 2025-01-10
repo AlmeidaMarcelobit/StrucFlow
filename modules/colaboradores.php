@@ -2270,10 +2270,10 @@
                 </section>
                 <section class="equipamentos-info">
                     <div class="equipamento">
-                        <p><strong>Tipo:</strong></p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong></p>
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>LG - 22MP410-B</p>
+                        <p class="serial"><strong>S/N:</strong>401AZXC5Y114</p>
+                        <p><strong>Patrimonio:</strong>1501</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Notebook</p>
@@ -6372,53 +6372,7 @@
                     </div>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div>
-                        <img src="../assents/fotos/foto_colaboradores/William%20Paulino%20Lima.jpg" alt="Foto de William Paulino Lima" class="foto" />
-                    </div>
-                    <div class="colaborador-details">
-                        <p><strong>Colaborador:</strong>William Paulino Lima</p>
-                        <p><strong>Email:</strong>william.lima@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Gerente de Canais Digitais e Relacionamento</p>
-                        <p><strong>Departamento:</strong>Dir. Operações</p>
-                        <p><strong>CPF:</strong>336.273.218-63</p>
-                        <p><strong>Data de admissão:</strong>N/A</p>
-                        <p><strong>Centro de Custo:</strong>22000 - Dir. Operações</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Patrimônio:</strong>994</p>
-                        <p><strong>S/N:</strong>zl73239kd6</p>
-                        <p><strong>Marca/Modelo:</strong>Moto E13</p>
-                    </div>
-                </section>
-                <h2>Equipamentos Comprometidos</h2>
-                <section class="equipamentos-info">
-                    <div class="equipamento-comprometidos">
-                        <p><strong>Tipo:</strong>Smartphone</p>
-                        <p><strong>Patrimônio:</strong>747</p>
-                        <p><strong>S/N:</strong>R9xt20139dl</p>
-                        <p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
-                        <p><strong>IMEI 1:</strong>354985980029619/01</p>
-                        <p><strong>IMEI 2:</strong>355106270029610/01</p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>#30250</p>
-                    <p><strong>Equipamento:</strong>Smartphone</p>
-                </section>
-                <section class="atencao-info">
-                    <header>
-                        <h2>⚠️ Informações Importantes</h2>
-                    </header>
-                    <div class="alerta-conteudo">
-                        <p><strong>Alerta:</strong>O colaborador está utilizando os equipamentos, porém somente possuimos o termo de responsabilidade assinado celular e sem dados dos demais.</p>
-                    </div>
-                </section>
-            </article>
+
             <article>
                 <section class="colaborador-info">
                     <div><img src="../assents/fotos/foto_colaboradores/Yago%20Mariano.jpg" alt="foto de Yago dos Anjos Mariano" class="foto"></div>
@@ -8751,7 +8705,7 @@
             </article>
             <article>
                 <section class="colaborador-info">
-                    <div><img src="../static/img/foto_colaboradores/Isabelle Castilho.jpeg" alt="Foto de Isabelle Carorile Salvadego Castilho" class="foto"></div>
+                    <div><img src="../assents/fotos/foto_colaboradores/Isabelle%20Castilho.jpg" alt="Foto de Isabelle Carorile Salvadego Castilho" class="foto"></div>
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Isabelle Carorile Salvadego Castilho</p>
                         <p><strong>Email:</strong>isabelle.castilho@amorsaude.com</p>
