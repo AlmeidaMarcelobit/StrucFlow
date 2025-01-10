@@ -2351,6 +2351,84 @@
                         </div>
                     </section>
                 </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 01</p>
+                            <p><strong>Centro de Custo:</strong>12010 - NGD</p>
+                            <p><strong>Tipo:</strong>Notebook Win-10 AMD Ryzen 5 5500U 20GB</p>
+                            <p><strong>Patrimonio:</strong>169</p>
+                            <p><strong>Marca/Modelo:</strong>Lenovo IdeaPad 3-15ALC6</p>
+                            <p class="serial"><strong>S/N:</strong>PE09782E</p>
+                        </div>
+                    </section>
+                </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 02</p>
+                            <p><strong>Centro de Custo:</strong>12000 - Dir. Operações</p>
+                            <p><strong>Tipo:</strong>Notebook Win-10 AMD Ryzen 5 5500U 8GB</p>
+                            <p><strong>Patrimonio:</strong>170</p>
+                            <p><strong>Marca/Modelo:</strong>Lenovo IdeaPad 3-15ALC6</p>
+                            <p class="serial"><strong>S/N:</strong>pe0973cv</p>
+                        </div>
+                    </section>
+                </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 03</p>
+                            <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+                            <p><strong>Tipo:</strong>Notebook Win-10 i5-1135G7 8GB</p>
+                            <p><strong>Patrimonio:</strong>225</p>
+                            <p><strong>Marca/Modelo:</strong>Lenovo IdeaPad 3-15ALC6</p>
+                            <p class="serial"><strong>S/N:</strong>pe09xvkr</p>
+                        </div>
+                    </section>
+                </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 04</p>
+                            <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
+                            <p><strong>Tipo:</strong>Notebook</p>
+                            <p><strong>Patrimonio:</strong>171</p>
+                            <p><strong>Marca/Modelo:</strong>Lenovo IdeaPad 3-15ALC6</p>
+                            <p class="serial"><strong>S/N:</strong>PE09783X</p>
+                        </div>
+                    </section>
+                </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 05</p>
+                            <p><strong>Centro de Custo:</strong>12010 - Inteligência de Negócios</p>
+                            <p><strong>Tipo:</strong>Notebook Win-10 i5-1135G7 8GB</p>
+                            <p><strong>Patrimonio:</strong>436</p>
+                            <p><strong>Marca/Modelo:</strong>Dell Latitude 3420</p>
+                            <p class="serial"><strong>S/N:</strong>JTZHNY3</p>
+                        </div>
+                    </section>
+                </article>
+                <article>
+                    <section class="notebooks-info">
+                        <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
+                        <div class="equipamento-details">
+                            <p><strong>ID:</strong>Maquina 06</p>
+                            <p><strong>Centro de Custo:</strong>12005 - BackOffice</p>
+                            <p><strong>Tipo:</strong>Notebook Win-10 i5-1135g7 8GB</p>
+                            <p><strong>Patrimonio:</strong>233</p>
+                            <p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
+                            <p class="serial"><strong>S/N:</strong>F1KLOV3</p>
+                        </div>
+                    </section>
+                </article>
             </div>
             <!-- Sub-Seção: Máquinas de Reserva -->
             <div class="maquina-reserva" id="reserva">
