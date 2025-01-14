@@ -720,15 +720,15 @@
                 <section class="equipamentos-info">
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2329GG013A98</p>
-                        <p><strong>Patrimonio:</strong>907</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
                         <p class="serial"><strong>S/N:</strong>23296GG013A98</p>
                         <p><strong>Patrimonio:</strong>907</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>910</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
@@ -736,6 +736,12 @@
                         <p class="serial"><strong>Teclado S/N:</strong>2323LZX5KR88</p>
                         <p class="serial"><strong>Mouse S/N:</strong>2325CE1138048</p>
                         <p><strong>Patrimonio:</strong>496</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook Win-11 I5-1135G7 8GB</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+                        <p class="serial"><strong>Mouse</strong>JJHJHZ3</p>
+                        <p><strong>Patrimonio:</strong>498</p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Celular</p>
@@ -3586,6 +3592,12 @@
                         <p><strong>Patrimônio:</strong>445</p>
                     </div>
                     <div class="equipamento">
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>LG-22MP410-B</p>
+                        <p class="serial"><strong>S/N:</strong>401AZKA1B021</p>
+                        <p><strong>Patrimônio:</strong>1466</p>
+                    </div>
+                    <div class="equipamento">
                         <p><strong>Tipo:</strong>Suporte</p>
                         <p><strong>Marca/Modelo:</strong>Alumínio</p>
                         <p class="serial"><strong>S/N:</strong>N/A</p>
@@ -3768,7 +3780,7 @@
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Livia Marcolino Paula</p>
                         <p><strong>Email:</strong>livia.paula@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Assistente Administrativo</p>
+                        <p><strong>Cargo:</strong>Analista de Atendimento ao Cliente JR</p>
                         <p><strong>Departamento:</strong>Amorcirurgias</p>
                         <p><strong>CPF:</strong>438.725.158-10</p>
                         <p><strong>Data da Promoção:</strong>23.01.2024</p>
@@ -3802,9 +3814,9 @@
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-                        <p class="serial"><strong>S/N:</strong>303AZXC94258</p>
-                        <p><strong>Patrimonio:</strong>392</p>
+                        <p><strong>Marca/Modelo:</strong>Dell SE2216H</p>
+                        <p class="serial"><strong>S/N:</strong>BR-0H5MVNV-TVB00-19K1KDI-A12</p>
+                        <p><strong>Patrimonio:</strong>48</p>
                     </div>
                 </section>
                 <section class="ticket">
@@ -10279,6 +10291,10 @@
                         <p><strong>IMEI 1:</strong>350916876991574/01</p>
                         <p><strong>IMEI 2:</strong>354654236991572/01</p>
                     </div>
+                </section>
+                <section class=ticket>
+                    <p><strong>ID Ticket:</strong>31268</p>
+                    <p><strong>Equipamentos:</strong>Adaptador Type-C to RJ45</p>
                 </section>
             </article>
             <article>
