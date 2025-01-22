@@ -2359,6 +2359,91 @@
                     <img src="../assents/logo/monitor.png" alt="icone laptop">
                 </div>
                 <div>
+                    <p><strong>ID Caixa:</strong>12</p>
+                    <p><strong>Centro de Custo:</strong>Sem Centro Custo</p>
+                    <p><strong>Marca/Modelo:</strong>Dell P2018HC</p>
+                    <p class="serial"><strong>S/N:</strong>BR-00CPG1-TVB00-04E-2FIU-A08</p>
+                    <p><strong>Patrimonio:</strong>039</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <p><strong>ID Caixa:</strong>13</p>
+                    <p><strong>Centro de Custo:</strong>Sem Centro Custo</p>
+                    <p><strong>Marca/Modelo:</strong>Dell P2018HC</p>
+                    <p class="serial"><strong>S/N:</strong>BR-00CPG1-TVB00-9CA-1V8U-A08</p>
+                    <p><strong>Patrimonio:</strong>139</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <!--                    Danificado-->
+                    <p><strong>ID Caixa:</strong>14</p>
+                    <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
+                    <p><strong>Marca/Modelo:</strong>Dell E1920HF</p>
+                    <p class="serial"><strong>S/N:</strong>BR-0V4FTW-TVB00-1A6-8O0B-A03</p>
+                    <p><strong>Patrimonio:</strong>033</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <p><strong>ID Caixa:</strong>15</p>
+                    <p><strong>Centro de Custo:</strong>Sem Centro Custo</p>
+                    <p><strong>Marca/Modelo:</strong>Dell E1920HF</p>
+                    <p class="serial"><strong>S/N:</strong>BR-0V4FTW-TVB00-1A6-80QB-A03</p>
+                    <p><strong>Patrimonio:</strong>057</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <p><strong>ID Caixa:</strong>16</p>
+                    <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+                    <p><strong>Marca/Modelo:</strong>Dell E1920HF</p>
+                    <p class="serial"><strong>S/N:</strong>BR-OV4FTW-TVB00-1A6-8P0B-A03</p>
+                    <p><strong>Patrimonio:</strong>070</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <p><strong>ID Caixa:</strong>17</p>
+                    <p><strong>Centro de Custo:</strong>Sem Centro Custo</p>
+                    <p><strong>Marca/Modelo:</strong>Dell E1920HF</p>
+                    <p class="serial"><strong>S/N:</strong>BR-0V4FTW-TVB00-1A6-8P5B-A03</p>
+                    <p><strong>Patrimonio:</strong>004</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
+                    <p><strong>ID Caixa:</strong>18</p>
+                    <p><strong>Centro de Custo:</strong>13013 - Produto</p>
+                    <p><strong>Marca/Modelo:</strong>Dell E1920HF</p>
+                    <p class="serial"><strong>S/N:</strong>BR-0V4FTW-TVB00-1A6-8PRB-A03</p>
+                    <p><strong>Patrimonio:</strong>069</p>
+                </div>
+            </section>
+            <section class="monitor">
+                <div class="img">
+                    <img src="../assents/logo/monitor.png" alt="icone laptop">
+                </div>
+                <div>
                     <p><strong>ID Caixa:</strong>30</p>
                     <p><strong>Centro de Custo:</strong>Sem Centro Custo</p>
                     <p><strong>Marca/Modelo:</strong>LG22MP410-B</p>
@@ -2477,11 +2562,34 @@
             </section>
         </div>
         <!--Fim Seção: Maquina Reserva-->
+        <!--Incio Seção: Equipamentos Danificados-->
+        <header class="title-danificados" id="danificados">
+            <h1>Equipamento Danificados</h1>
+        </header>
+        <div class="container-danificados">
+            <section class="notebooks-info">
+                <div class="img"><img src="../assents/logo/fone.png" alt="icone laptop"></div>
+                <div>
+                    <p><strong>Danificado:</strong>01</p>
+                    <p><strong>Tipo:</strong>Fone</p>
+                    <p><strong>Patrimônio:</strong>812</p>
+                    <p><strong>Marca\ Modelo:</strong>Logitech H390</p>
+                    <p class="serial"><strong>S/N:</strong>S/A</p>
+                </div>
+            </section>
+            <section class="notebooks-info">
+                <div class="img"><img src="../assents/logo/fone.png" alt="icone laptop"></div>
+                <div>
+                    <p><strong>Danificado:</strong>02</p>
+                    <p><strong>Tipo:</strong>Fone</p>
+                    <p><strong>Patrimônio:</strong>895</p>
+                    <p><strong>Marca\ Modelo:</strong>Logitech H390</p>
+                    <p class="serial"><strong>S/N:</strong>23</p>
+                </div>
+            </section>
+        </div>
 
-
-
-
-
+        <!--
         <article>
             <section class=" notebooks-info">
                 <div class="img"><img src="../assents/logo/laptop-backup.png" alt="icone laptop"></div>
@@ -2556,6 +2664,7 @@
             </section>
         </article>
         </div>
+-->
         <aside>
             <nav class="menuancora">
                 <ul>
@@ -2563,6 +2672,7 @@
                     <li><a href="#monitor"><img src="../assents/logo/monitor.png" alt="#monitor"></a></li>
                     <li><a href="#backup"><img src="../assents/logo/laptop-backup.png" alt=""></a></li>
                     <li><a href="#reserva"><img src="../assents/logo/laptop-reserva.png" alt=""></a></li>
+                    <li><a href="#danificados"><img src="../assents/logo/danificados.png" alt=""></a></li>
                 </ul>
             </nav>
         </aside>
