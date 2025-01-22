@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="icon" type="image/png" sizes="32x32" href="../assents/logo/favicon-32x32.webp" />
     <link rel="stylesheet" href="../css/estilo-estoque.css">
-    <script src="../static/js/search.js"></script>
+    <script src="../js/search.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet" />
