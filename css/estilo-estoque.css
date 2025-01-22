@@ -14,6 +14,7 @@ body {
     font-size: 0.85em;
     background-color: #1c1c1c;
     color: #ccc;
+    text-transform: uppercase;
 }
 
 /*###Seção: Cabeçalho###*/
@@ -388,9 +389,6 @@ article {
     width: 100px;
 }
 
-
-
-
 .maquina-reserva {
     display: flex;
     flex-direction: column;
@@ -432,7 +430,30 @@ p {
     height: 40px;
 }
 
+/*###Seção: Equipamentos Danificados###*/
+.title-danificados {
+    margin: 5px auto 5px auto;
+    width: 45%;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+    background-color: #EB5600;
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 10px;
+}
 
+.container-danificados {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 45%;
+    gap: 5px;
+    box-sizing: border-box;
+}
+
+/*###Fim Seção: Equipamentos Danificados###*/
 /*###Seção: Rodapé###*/
 .footer-content {
     width: 100%;
