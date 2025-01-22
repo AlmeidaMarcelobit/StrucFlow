@@ -813,8 +813,8 @@
                 <section class="equipamentos-info">
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Patrimônio:</strong>976</p>
-                        <p class="serial"><strong>S/N:</strong>2330AY031E48</p>
+                        <p><strong>Patrimônio:</strong>1113</p>
+                        <p class="serial"><strong>S/N:</strong>2421AY01PGZ8</p>
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
                     </div>
                     <div class="equipamento">
@@ -850,13 +850,14 @@
                         <p><strong>Marca/Modelo:</strong>K270 - M185</p>
                     </div>
                 </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>#25747</p>
-                    <p><strong>Equipamento:</strong>Fone</p>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>N/A</p>
-                    <p><strong>Equipamento:</strong>Fone, Monitor, Notebook, Suporte, Celular, Teclado e Mouse</p>
+                <h2>Equipamentos Comprometidos</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-comprometidos">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Patrimônio:</strong>976</p>
+                        <p class="serial"><strong>S/N:</strong>2330AY031E48</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                    </div>
                 </section>
             </article>
             <article>
@@ -1019,7 +1020,6 @@
                         <p><strong>CPF:</strong>446.206.208-66</p>
                         <p><strong>Data da admissão:</strong>11.12.2023</p>
                         <p><strong>Centro de Custo:</strong>14003 - CRM</p>
-                        <p><strong>Data da admissão:</strong>11.12.2023</p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
@@ -1149,7 +1149,6 @@
                         <p><strong>CPF:</strong>459.427.748-97</p>
                         <p><strong>Data da admissão:</strong>11.12.2023</p>
                         <p><strong>Centro de Custo:</strong>14003 - CRM</p>
-                        <p><strong>Data da admissão:</strong>11.12.2023</p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
@@ -1596,7 +1595,7 @@
                         <p><strong>CPF:</strong>383.111.148-03</p>
                         <p><strong>Data da admissão:</strong></p>
                         <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong></p>
+                        <p><strong>Centro de Custo:</strong>72023 - Relacionamento com Cliente / Retensão</p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
@@ -3099,6 +3098,87 @@
             </article>
             <article>
                 <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> João Pedro Pereira Ribeiro</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> Desenvolvedor FullStack</p>
+                        <p><strong>Departamento:</strong> Desenvolvimento</p>
+                        <p><strong>CPF:</strong> 081.401.955-29</p>
+                        <p><strong>Data da admissão:</strong> 16/09/2024</p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> #81141</p>
+                    <p><strong>Equipamentos:</strong> Fone, Teclado e Mouse, Notebook, Suporte</p>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Josiane Santos</p>
+                        <p><strong>Email:</strong> josiane.santos@amorsaude.com</p>
+                        <p><strong>Cargo:</strong> Analista De QA</p>
+                        <p><strong>Departamento:</strong> Produto</p>
+                        <p><strong>CPF:</strong> </p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <h2>Termo de Entrega de Equipamento</h2>
+                    <p><strong>Substituição:</strong> Sim</p> <!-- Informação marcada como substituição -->
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
+                    </div>
+                </section>
+            </article>
+
+            <article>
+                <section class="colaborador-info">
                     <div><img src="../assents/fotos/foto_colaboradores/Julcelly%20Henriques.jpg" alt="foto de Julcelly Henriques" class="foto"></div>
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Julcelly Henriques</p>
@@ -3449,12 +3529,6 @@
                         <p><strong>Marca/Modelo:</strong>Lenovo V15 82ME</p>
                         <p class="serial"><strong>S/N:</strong>PE09XVKW</p>
                         <p><strong>Patrimonio:</strong>207</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong></p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Fone</p>
@@ -4269,24 +4343,6 @@
                         <p class="serial"><strong>S/N:</strong>8JQN4T3</p>
                         <p><strong>Patrimonio:</strong>269</p>
                     </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong></p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong></p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong></p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong></p>
-                        <p><strong>IMEI 1:</strong></p>
-                        <p><strong>IMEI 2:</strong></p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong></p>
-                    <p><strong>Equipamentos:</strong></p>
                 </section>
             </article>
             <article>
@@ -4439,8 +4495,8 @@
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Marjorie Caetano Rodrigues</p>
                         <p><strong>Email:</strong>marjorie.rodrigues@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Analista De Processos E Documentações</p>
-                        <p><strong>Departamento:</strong>BackOffice</p>
+                        <p><strong>Cargo:</strong>Product Owner</p>
+                        <p><strong>Departamento:</strong>Produtos</p>
                         <p><strong>CPF:</strong>148.006.727-08</p>
                         <p><strong>Data da admissão:</strong>17.11.2020</p>
                         <p><strong>Data da promoção:</strong>01.11.2024</p>
@@ -4458,9 +4514,10 @@
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Fone</p>
                         <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2332ME021N79</p>
-                        <p><strong>Patrimonio:</strong>898</p>
+                        <p class="serial"><strong>S/N:</strong>2421AY020S28</p>
+                        <p><strong>Patrimonio:</strong>1102</p>
                     </div>
+
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
                         <p><strong>Marca/Modelo:</strong>Dell KB3121WT</p>
@@ -4482,6 +4539,12 @@
                         <p class="serial"><strong>Teclado S/N:</strong>2240ce0b5479</p>
                         <p class="serial"><strong>Mouse S/N:</strong>2237lzxa0b48</p>
                         <p><strong>Patrimonio:</strong>379</p>
+                    </div>
+                    <div class="equipamento-comprometidos">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong>2332ME021N79</p>
+                        <p><strong>Patrimonio:</strong>898</p>
                     </div>
                 </section>
             </article>
@@ -4574,6 +4637,68 @@
                         <p><strong>Tipo:</strong>Suporte</p>
                         <p><strong>Marca/Modelo:</strong>Aluminio</p>
                         <p class="serial"><strong>S/N:</strong></p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../assents/fotos/foto_colaboradores/Sem%20Foto.jpg" alt="foto de Miria Elisiane Cardoso" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Miria Elisiane Cardoso</p>
+                        <p><strong>Email:</strong> miria.cardozo@amorsaude.com</p>
+                        <p><strong>Cargo:</strong> Assistente de CS</p>
+                        <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
+                        <p><strong>CPF:</strong>419.539.578-03 </p>
+                        <p><strong>Data da admissão:</strong> 09.09.2024</p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> 12002 - Sac</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Galaxy A03</p>
+                        <p class="serial"><strong>S/N:</strong> R9xt9071v2z</p>
+                        <p><strong>Patrimonio:</strong> 639</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Lenovo V15 82ME</p>
+                        <p class="serial"><strong>S/N:</strong> PE09xvkk</p>
+                        <p><strong>Patrimonio:</strong> 209</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong> 2232ME0208J8</p>
+                        <p><strong>Patrimonio:</strong> 915</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong> 2234CE182249 - 1130LZN0ZWz8</p>
+                        <p><strong>Patrimonio:</strong> 349 - 350</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Suporte</p>
+                        <p><strong>Marca/Modelo:</strong> Alumínio</p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimonio:</strong> 333</p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> </p>
+                    <p><strong>Equipamentos:</strong> Celular, Notebook, Fone, Teclado e Mouse, Suporte</p>
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-danificados">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
                     </div>
                 </section>
             </article>
@@ -5115,7 +5240,7 @@
                         <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class=equipamento>
-                        <p><strong>Tipo:</strong>T</p>
+                        <p><strong>Tipo:</strong></p>
                         <p><strong>Marca/Modelo:</strong></p>
                         <p class=serial><strong>S/N:</strong></p>
                         <p><strong>Patrimonio:</strong></p>
@@ -5222,6 +5347,47 @@
             <article>
                 <section class="colaborador-info">
                     <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Pedro Castelani</p>
+                        <p><strong>Email:</strong> pedro.castelani@amorsaude.com</p>
+                        <p><strong>Cargo:</strong> Analista De QA</p>
+                        <p><strong>Departamento:</strong> Produto</p>
+                        <p><strong>CPF:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Data da admissão:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Data da desligamento:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Centro de Custo:</strong> 13013</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <h2>Termo de Entrega de Equipamento</h2>
+                    <p><strong>Substituição:</strong> Sim</p> <!-- Informação marcada como substituição -->
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p> <!-- Informações do equipamento não fornecidas -->
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> </p> <!-- Informação ausente -->
+                    <p><strong>Equipamentos:</strong> </p> <!-- Informação ausente -->
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-danificados">
+                        <p><strong>Tipo:</strong></p> <!-- Informação ausente -->
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
+                    </div>
+                </section>
+            </article>
+
+            <article>
+                <section class="colaborador-info">
+                    <div>
                         <img src="../assents/fotos/foto_colaboradores/Sem%20Foto.jpg" alt="foto de Pedro Henrique Cruz Ubine" class="foto">
                     </div>
                     <div class="colaborador-details">
@@ -5249,7 +5415,7 @@
                         <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class="equipamento">
-                        <p><strong>Tipo:</strong>T</p>
+                        <p><strong>Tipo:</strong></p>
                         <p><strong>Marca/Modelo:</strong></p>
                         <p class="serial"><strong>S/N:</strong></p>
                         <p><strong>Patrimonio:</strong></p>
@@ -6328,6 +6494,53 @@
                         <p><strong>CPF:</strong> pj3.271.625/0001-09</p>
                         <p><strong>Data de admissão:</strong> 07.08.2023</p>
                         <p><strong>Centro de Custo:</strong> 13015</p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Visto 15 3510</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>298</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong>2243CE255CC9 - 2241LZX1UDQ8</p>
+                        <p><strong>Patrimonio:</strong>301</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong>819</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>LG 22MP410</p>
+                        <p class="serial"><strong>S/N:</strong>304AZHY70369</p>
+                        <p><strong>Patrimonio:</strong>300</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
+                        <p class="serial"><strong>S/N:</strong>2310ME00YUA9</p>
+                        <p><strong>Patrimonio:</strong>717</p>
+                        <p><strong>IMEI 1:</strong>354985980029693</p>
+                        <p><strong>IMEI 2:</strong>355106280029693</p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong></p>
+                    <p><strong>Equipamentos:</strong></p>
+                </section>
+                <h2>Equipamentos Comprometidos</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-comprometidos">
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
+                        <p><strong>S/N:</strong>265441762</p>
+                        <p><strong>Patrimônio:</strong>598</p>
                     </div>
                 </section>
                 <section class="atencao-info">
@@ -8752,7 +8965,7 @@
             <article>
                 <section class="colaborador-info">
                     <div>
-                        <img src="../foto_colaboradores" alt="" class="foto">
+                        <img src="../assents/fotos/foto_colaboradores/Sem%20Foto.jpg" alt="" class="foto">
                     </div>
                     <div class="colaborador-details">
                         <p><strong>Colaborador:</strong>Isabella Viera</p>
@@ -10059,7 +10272,7 @@
             </article>
             <article>
                 <section class="colaborador-info">
-                    <div><img src="../static/img/foto_colaboradores/Maria Peterli.jfif" alt="Foto de Maria Eduarda da Silva Peterli" class="foto"></div>
+                    <div><img src="../assents/fotos/foto_colaboradores/Maria%20Peterli.jpg" alt="Foto de Maria Eduarda da Silva Peterli" class="foto"></div>
                     <div class="colaborador-details">
                         <p><strong>Colaborador: </strong>Maria Eduarda da Silva Peterli</p>
                         <p><strong>Email: </strong>maria.peterli@amorsaude.com</p>
@@ -10460,7 +10673,7 @@
                         <p><strong>Cargo:</strong>Analista de Tesouraria SR</p>
                         <p><strong>Departamento:</strong></p>
                         <p><strong>CPF:</strong>300.611.718-24</p>
-                        <p><strong>Data da admissão:</strong></p>
+                        <p><strong>Data da admissão:</strong>01.08.2023</p>
                         <p><strong>Data da desligamento:</strong></p>
                         <p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
                     </div>
@@ -10731,11 +10944,11 @@
                         <p><strong>Colaborador:</strong> Rodrigo Prado Pelicano</p>
                         <p><strong>Email:</strong> rodrigo.pelicano@amorsaude.com</p>
                         <p><strong>Cargo:</strong> Consultor de Operações</p>
-                        <p><strong>Departamento:</strong>Consultoria</p> <!-- Informação ausente -->
+                        <p><strong>Departamento:</strong>Consultoria</p>
                         <p><strong>CPF:</strong> 345.200.218-71</p>
-                        <p><strong>Data da admissão:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Data da admissão:</strong> </p>
                         <p><strong>Data da desligamento:</strong> 01.09.2023</p>
-                        <p><strong>Centro de Custo:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Centro de Custo:</strong> </p>
                     </div>
                 </section>
                 <section class="equipamentos-info">
@@ -10753,9 +10966,9 @@
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong> Monitor</p>
-                        <p><strong>Marca/Modelo:</strong> </p> <!-- Informação ausente -->
-                        <p class="serial"><strong>S/N:</strong> </p> <!-- Informação ausente -->
-                        <p><strong>Patrimonio:</strong> </p> <!-- Informação ausente -->
+                        <p><strong>Marca/Modelo:</strong> </p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimonio:</strong> </p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong> Smartphone</p>
@@ -10768,7 +10981,7 @@
                     <div class="equipamento">
                         <p><strong>Tipo:</strong> Suporte</p>
                         <p><strong>Marca/Modelo:</strong> Alumínio</p>
-                        <p class="serial"><strong>S/N:</strong> </p> <!-- Informação ausente -->
+                        <p class="serial"><strong>S/N:</strong> </p>
                         <p><strong>Patrimonio:</strong> 728</p>
                     </div>
                     <div class="equipamento">
@@ -10785,22 +10998,625 @@
                 <h2>Equipamento danificados</h2>
                 <section class="equipamentos-info">
                     <div class="equipamento-danificados">
-                        <p><strong>Tipo:</strong></p> <!-- Informação ausente -->
-                        <p><strong>Marca/Modelo:</strong></p> <!-- Informação ausente -->
-                        <p class="serial"><strong>S/N:</strong></p> <!-- Informação ausente -->
-                        <p><strong>Patrimônio:</strong></p> <!-- Informação ausente -->
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
                     </div>
                 </section>
             </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Roger Almeida</p>
+                        <p><strong>Email:</strong> rogerio.almeida@amorsaude.com</p>
+                        <p><strong>Cargo:</strong> Gerente Financeiro</p>
+                        <p><strong>Departamento:</strong> Financeiro</p>
+                        <p><strong>CPF:</strong> 435.810.868-75</p>
+                        <p><strong>Data de admissão:</strong></p>
+                        <p><strong>Centro de Custo:</strong> 13000 - Dir. Financeira</p>
+                    </div>
+                </section>
 
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Adaptador de Rede</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong> 614</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Moto E22</p>
+                        <p class="serial"><strong>S/N:</strong> UI5HVE5P7T</p>
+                        <p><strong>Patrimônio:</strong> 843</p>
+                        <p><strong>IMEI 1:</strong> 355165984901423</p>
+                        <p><strong>IMEI 2:</strong> 355165984901415</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong></p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong></p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
+                        <p class="serial"><strong>S/N:</strong> 2654439793</p>
+                        <p><strong>Patrimônio:</strong> 600</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook Win-10 Ryzen5-5500u</p>
+                        <p><strong>Marca/Modelo:</strong> Ideapad3 15AL6</p>
+                        <p class="serial"><strong>S/N:</strong> PE09FTTP</p>
+                        <p><strong>Patrimônio:</strong> 189</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class=colaborador-info>
+                    <div><img src="../foto_colaboradores/Sandra Oliveira.jpeg" alt="Foto de Sandra Andreia de Oliveira" class=foto></div>
+                    <div class=colaborador-details>
+                        <p><strong>Colaborador:</strong>Sandra Andreia de Oliveira</p>
+                        <p><strong>Email:</strong>sandra.oliveira@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Gerente de Pessoas</p>
+                        <p><strong>Departamento:</strong>Pessoas e Cultura</p>
+                        <p><strong>Data da desligamento:</strong>20.06.2024</p>
+                        <p><strong>CPF:</strong>175.483.388-80</p>
+                        <p><strong>Centro de Custo:</strong>13021 - Gerência Pessoas e Cultura</p>
+                        <p><strong>Data de Saída:</strong>24.06.2026</p>
+                    </div>
+                </section>
+                <section class=equipamentos-info>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro P11f</p>
+                        <p class=serial><strong>S/N:</strong>JTJYXP3</p>
+                        <p><strong>Patrimonio:</strong>109</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class=serial><strong>S/N:</strong>2316ME02F888</p>
+                        <p><strong>Patrimonio:</strong>892</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>LG222Mp410</p>
+                        <p class=serial><strong>S/N:</strong>3074zafmod555</p>
+                        <p><strong>Patrimonio:</strong>472</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
+                        <p class=serial><strong>S/N:</strong>R9XT2013C3l</p>
+                        <p><strong>Patrimonio:</strong>538</p>
+                        <p><strong>IMEI 1:</strong>354985980030500/01</p>
+                        <p><strong>IMEI 2:</strong>355106270030501/01</p>
+                    </div>
+                </section>
+                <section class=ticket>
+                    <p><strong>ID Ticket:</strong></p>
+                    <p><strong>Equipamentos:</strong>Notebook, Fone, Monitor, Celular</p>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Sara Martins Domingos</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> Consultor de Operações</p>
+                        <p><strong>Departamento:</strong> </p>
+                        <p><strong>CPF:</strong> 464.717.258-92</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong> 2309ME013N89</p>
+                        <p><strong>Patrimonio:</strong> 837</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Suporte</p>
+                        <p><strong>Marca/Modelo:</strong> Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimonio:</strong> 828</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Galaxy A03</p>
+                        <p class="serial"><strong>S/N:</strong> R9QT403e6bx</p>
+                        <p><strong>Patrimonio:</strong> 541</p>
+                        <p><strong>IMEI 1:</strong> 351989271894098/01</p>
+                        <p><strong>IMEI 2:</strong> 353297231894093/01</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong> 2243CE258109 - 2240LZN1KU8</p>
+                        <p><strong>Patrimonio:</strong> 292</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
+                        <p class="serial"><strong>S/N:</strong> JN3MOT3</p>
+                        <p><strong>Patrimonio:</strong> 268</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> LG 22MP410</p>
+                        <p class="serial"><strong>S/N:</strong> 304AZPU6R704</p>
+                        <p><strong>Patrimonio:</strong> 422</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Simone Karina de Araujo Fabres Rodrigues</p>
+                        <p><strong>Email:</strong></p>
+                        <p><strong>Cargo:</strong> Assistente de CS</p>
+                        <p><strong>Departamento:</strong> SAC</p>
+                        <p><strong>CPF:</strong> 326.384.048-70</p>
+                        <p><strong>Data de admissão:</strong></p>
+                        <p><strong>Centro de Custo:</strong></p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech MK270</p>
+                        <p><strong>S/N:</strong> 2234CE1821C9 - 2230LZN0ZN68</p>
+                        <p><strong>Teclado Patrimônio:</strong> 335</p>
+                        <p><strong>Mouse Patrimônio:</strong> 336</p>
+                    </div>
 
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Suporte</p>
+                        <p><strong>Marca/Modelo:</strong> Aluminio</p>
+                        <p><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong> 730</p>
+                    </div>
 
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
+                        <p><strong>S/N:</strong> 5NVMKW3</p>
+                        <p><strong>Patrimônio:</strong> 75</p>
+                    </div>
 
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
+                        <p><strong>S/N:</strong> 275244184</p>
+                        <p><strong>Patrimônio:</strong> 690</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Galaxy A03</p>
+                        <p><strong>S/N:</strong> R9XTAB4EQN</p>
+                        <p><strong>Patrimônio:</strong> 687</p>
+                        <p><strong>IMEI 1:</strong> 352081309333965/01</p>
+                        <p><strong>IMEI 2:</strong> 357299759333963/01</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong>Tatiane Tavaes Zeott</p>
+                        <p><strong>Email:</strong></p>
+                        <p><strong>Cargo:</strong> Assistente de Treinamento</p>
+                        <p><strong>Departamento:</strong></p>
+                        <p><strong>CPF:</strong> 365.396.218-84</p>
+                        <p><strong>Data de admissão:</strong></p>
+                        <p><strong>Centro de Custo:</strong></p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Suporte</p>
+                        <p><strong>Marca/Modelo:</strong> Aluminio</p>
+                        <p><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong> 369</p>
+                    </div>
 
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech Mk235</p>
+                        <p><strong>S/N:</strong> 2240CE0B4E19</p>
+                        <p><strong>Patrimônio:</strong> 377</p>
+                    </div>
 
-
-
-
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
+                        <p><strong>S/N:</strong> 303AZCQ93931</p>
+                        <p><strong>Patrimônio:</strong> 394</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="Foto de Thaina Soares de Jesus" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Thaina Soares de Jesus</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> </p>
+                        <p><strong>Departamento:</strong> </p>
+                        <p><strong>CPF:</strong> 380.231.428-01</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Inspiron 15</p>
+                        <p class="serial"><strong>S/N:</strong> DQK44W2</p>
+                        <p><strong>Patrimonio:</strong> 153</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Jabra HSC015</p>
+                        <p class="serial"><strong>S/N:</strong> 0002313268020917</p>
+                        <p><strong>Patrimonio:</strong> 719</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> Dell P2018HF</p>
+                        <p class="serial"><strong>S/N:</strong> 17GH2W2</p>
+                        <p><strong>Patrimonio:</strong> 154</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="Foto de Thais Cristina Medina Whitehead" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Thais Cristina Medina Whitehead</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> Consultora de Operações</p>
+                        <p><strong>Departamento:</strong> </p>
+                        <p><strong>CPF:</strong> 423.069.398-29</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> LG-22M410</p>
+                        <p class="serial"><strong>S/N:</strong> 304AZCQ6Z283</p>
+                        <p><strong>Patrimonio:</strong> 427</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
+                        <p class="serial"><strong>S/N:</strong> 1P3M0T3</p>
+                        <p><strong>Patrimonio:</strong> 295</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong> 2232ME02UL99</p>
+                        <p><strong>Patrimonio:</strong> 1031</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong> 2243CE2581119 - 2240LZN1KFY8</p>
+                        <p><strong>Patrimonio:</strong> 297</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Motorola E13</p>
+                        <p class="serial"><strong>S/N:</strong> SVN8D86404</p>
+                        <p><strong>Patrimonio:</strong> 844</p>
+                        <p><strong>IMEI 1:</strong> 359340981262659</p>
+                        <p><strong>IMEI 2:</strong> 359340981262667</p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> </p>
+                    <p><strong>Equipamentos:</strong> </p>
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-danificados">
+                        <p><strong>Tipo:</strong> </p>
+                        <p><strong>Marca/Modelo:</strong> </p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimônio:</strong> </p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="Foto de Thais Dias Martins" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Thais Dias Martins</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> Consultor de Operações</p>
+                        <p><strong>Departamento:</strong> Consultoria</p>
+                        <p><strong>CPF:</strong> 184.66.578-78</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> LG 22M410</p>
+                        <p class="serial"><strong>S/N:</strong> 304AZER6R692</p>
+                        <p><strong>Patrimonio:</strong> 426</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech MK270</p>
+                        <p class="serial"><strong>S/N:</strong> 2243CE258119 - 2240LZN1KF8Y</p>
+                        <p><strong>Patrimonio:</strong> 297</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Vostro 15</p>
+                        <p class="serial"><strong>S/N:</strong> 1p3m0t3</p>
+                        <p><strong>Patrimonio:</strong> 3510</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Logitech H390</p>
+                        <p class="serial"><strong>S/N:</strong> 2232ME02UL99</p>
+                        <p><strong>Patrimonio:</strong> 1031</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Motorola E13</p>
+                        <p class="serial"><strong>S/N:</strong> SNV8D86404</p>
+                        <p><strong>Patrimonio:</strong> 844</p>
+                        <p><strong>IMEI 1:</strong> 359340981262659</p>
+                        <p><strong>IMEI 2:</strong> 359340981262667</p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> </p>
+                    <p><strong>Equipamentos:</strong> </p>
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-danificados">
+                        <p><strong>Tipo:</strong> </p>
+                        <p><strong>Marca/Modelo:</strong> </p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimônio:</strong> </p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class=colaborador-info>
+                    <div><img src="../foto_colaboradores/Victor Ribeiro da Silva Dantas.jpeg" alt="Foto de Victor Ribeiro da Silva Dantas" class=foto></div>
+                    <div class=colaborador-details>
+                        <p><strong>Colaborador:</strong>Victor Ribeiro da Silva Dantas</p>
+                        <p><strong>Email:</strong>victor.dantas@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Engenheiro de Dados</p>
+                        <p><strong>Departamento:</strong>Dados</p>
+                        <p><strong>CPF:</strong>060.444.161-43</p>
+                        <p><strong>Data de admissão:</strong>06.05.2024</p>
+                        <p><strong>Data de desligamento:</strong>N/A</p>
+                        <p><strong>Centro de Custo:</strong>13011 - Dados</p>
+                        <p><strong>Substituição:</strong>Gabriel Guilherme</p>
+                    </div>
+                </section>
+                <section class=equipamentos-info>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
+                        <p class=serial><strong>S/N:</strong>N/A</p>
+                        <p><strong>Patrimônio:</strong>360</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech K235</p>
+                        <p class=serial><strong>S/N:</strong>JNZYR0036</p>
+                        <p><strong>Patrimônio:</strong>202 - 629</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class=serial><strong>S/N:</strong>2128ME0EYNA8</p>
+                        <p><strong>Patrimônio:</strong>547</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Notebook Win-11 i7-1165G7 16GB</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3400</p>
+                        <p class=serial><strong>S/N:</strong>3BBTQK3</p>
+                        <p><strong>Patrimônio:</strong>65</p>
+                    </div>
+                </section>
+                <section class=ticket>
+                    <p><strong>ID Ticket:</strong>N/A</p>
+                    <p><strong>Equipamentos:</strong>Suporte, Teclado e Mouse, Fone, Notebook Win-11 i7-1165G7 16GB
+                    </p>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="Foto de Vinicius Matheus Barreto Novaes" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Vinicius Matheus Barreto Novaes</p>
+                        <p><strong>Email:</strong> </p>
+                        <p><strong>Cargo:</strong> Consultor de Operações</p>
+                        <p><strong>Departamento:</strong> Consultoria</p>
+                        <p><strong>CPF:</strong> 425.036.598-02</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Dell Vostro 15 3510</p>
+                        <p class="serial"><strong>S/N:</strong> C3KLOV3</p>
+                        <p><strong>Patrimonio:</strong> 214</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Jabra HSC0016</p>
+                        <p class="serial"><strong>S/N:</strong> 274044668</p>
+                        <p><strong>Patrimonio:</strong> 6649</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Monitor</p>
+                        <p><strong>Marca/Modelo:</strong> LG 22MP410</p>
+                        <p class="serial"><strong>S/N:</strong> 303AZY395250</p>
+                        <p><strong>Patrimonio:</strong> 414</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Celular</p>
+                        <p><strong>Marca/Modelo:</strong> Galaxy A03</p>
+                        <p class="serial"><strong>S/N:</strong> R9XTA0ECERX</p>
+                        <p><strong>Patrimonio:</strong> 660</p>
+                        <p><strong>IMEI 1:</strong> 350916876987606/01</p>
+                        <p><strong>IMEI 2:</strong> 354654236987604/01</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Suporte</p>
+                        <p><strong>Marca/Modelo:</strong> Aluminio</p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimonio:</strong> 818</p>
+                    </div>
+                </section>
+                <section class="ticket">
+                    <p><strong>ID Ticket:</strong> </p>
+                    <p><strong>Equipamentos:</strong> </p>
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class="equipamentos-info">
+                    <div class="equipamento-danificados">
+                        <p><strong>Tipo:</strong> </p>
+                        <p><strong>Marca/Modelo:</strong> </p>
+                        <p class="serial"><strong>S/N:</strong> </p>
+                        <p><strong>Patrimônio:</strong> </p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class="colaborador-info">
+                    <div>
+                        <img src="../foto_colaboradores" alt="Foto de Viviane Fernanda da Silva Murari" class="foto">
+                    </div>
+                    <div class="colaborador-details">
+                        <p><strong>Colaborador:</strong> Viviane Fernanda da Silva Murari</p>
+                        <p><strong>Email:</strong> viviane.murari@amorsaude.com</p>
+                        <p><strong>Cargo:</strong> Consutora de Operações</p>
+                        <p><strong>Departamento:</strong> Operações</p>
+                        <p><strong>CPF:</strong> 369.419.328-64</p>
+                        <p><strong>Data da admissão:</strong> </p>
+                        <p><strong>Data da desligamento:</strong> </p>
+                        <p><strong>Centro de Custo:</strong> </p>
+                    </div>
+                </section>
+                <section class="equipamentos-info">
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Notebook</p>
+                        <p><strong>Marca/Modelo:</strong> Lenovo V15 G2</p>
+                        <p class="serial"><strong>S/N:</strong> PE09EEK9</p>
+                        <p><strong>Patrimonio:</strong> 212</p>
+                    </div>
+                    <div class="equipamento">
+                        <p><strong>Tipo:</strong> Fone</p>
+                        <p><strong>Marca/Modelo:</strong> Jabra HSC016</p>
+                        <p class="serial"><strong>S/N:</strong> 273748566</p>
+                        <p><strong>Patrimonio:</strong> 646</p>
+                    </div>
+                </section>
+            </article>
+            <article>
+                <section class=colaborador-info>
+                    <div><img src="../foto_colaboradores/Wendell Oliveira.jfif" alt="Foto de Wendell Alessandro Candido Oliveira" class=foto></div>
+                    <div class=colaborador-details>
+                        <p><strong>Colaborador:</strong>Wendell Alessandro Candido Oliveira</p>
+                        <p><strong>Email:</strong>wendell.oliveira@amorsaude.com</p>
+                        <p><strong>Cargo:</strong>Analista de Pessoas & Cultura Sênior</p>
+                        <p><strong>Departamento:</strong>Pessoas & Cultura</p>
+                        <p><strong>CPF:</strong>411.412.878-62</p>
+                        <p><strong>Data da admissão:</strong>04.03.2024</p>
+                        <p><strong>Data da desligamento:</strong>01.10.2024</p>
+                        <p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
+                    </div>
+                </section>
+                <section class=equipamentos-info>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Patrimônio:</strong>1446</p>
+                        <p class=serial><strong>S/N:</strong>B832JZ3</p>
+                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Patrimônio:</strong>966</p>
+                        <p class=serial><strong>S/N:</strong>2329AYO1A558</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Patrimônio:</strong>1445</p>
+                        <p class=serial><strong>S/N:</strong>2232CE1CFB58</p>
+                        <p><strong>Marca/Modelo:</strong>MK270</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Patrimônio:</strong>967</p>
+                        <p class=serial><strong>S/N:</strong></p>
+                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Patrimônio:</strong>1517</p>
+                        <p class=serial><strong>S/N:</strong>312AZVN60015</p>
+                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Patrimônio:</strong>968</p>
+                        <p class=serial><strong>S/N:</strong>ZF5248W28G</p>
+                        <p><strong>IMEI 1:</strong>359340983540177/05</p>
+                        <p><strong>IMEI 2:</strong>359340983540185/05</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                    </div>
+                </section>
+                <section class=ticket>
+                    <p><strong>ID Ticket:</strong>#24560</p>
+                    <p><strong>Equipamento:</strong>Celular, Monitor, Suporte, Teclado e Mouse, Fone, Notebook</p>
+                </section>
+            </article>
             <article>
                 <section class="colaborador-info">
                     <div>
@@ -10849,6 +11665,71 @@
                     </div>
                 </section>
             </article>
+            <article>
+                <section class=colaborador-info>
+                    <div><img class=foto src="../static/img/foto_colaboradores/Yasmin Silva.jpeg" alt="Foto do Yasmin Campos da Silva"></div>
+                    <div class=colaborador-details>
+                        <p><strong>Colaborador:</strong>Yasmin Campos da Silva</p>
+                        <p><strong>Departamento:</strong>Backoffice</p>
+                        <p><strong>Cargo:</strong>Assistente de Operações</p>
+                        <p><strong>Data da entranda:</strong>25.03.2022</p>
+                        <p><strong>Data do desligamento:</strong>19.08.2024</p>
+                        <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
+                    </div>
+                </section>
+                <section class=equipamentos-info>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Notebook</p>
+                        <p><strong>Marca/Modelo:</strong>Lenovo IdeaPad 3 15ALC6</p>
+                        <p class=serial><strong>S/N:</strong>PE08znfj</p>
+                        <p><strong>Patrimônio:</strong>105</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                        <p class=serial><strong>S/N:</strong>23298GG15AB8</p>
+                        <p><strong>Patrimônio:</strong>906</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
+                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                        <p class=serial><strong>S/N:</strong>2232CE1C72B8</p>
+                        <p><strong>Patrimônio:</strong>1456</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Suporte</p>
+                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                        <p class=serial><strong>S/N:</strong></p>
+                        <p><strong>Patrimônio:</strong>1151</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Monitor</p>
+                        <p><strong>Marca/Modelo:</strong>Dell P2018H</p>
+                        <p class=serial><strong>S/N:</strong>BR-00CPG1-TVB00-9CA-11Eu-A08</p>
+                        <p><strong>Patrimônio:</strong>002</p>
+                    </div>
+                    <div class=equipamento>
+                        <p><strong>Tipo:</strong>Celular</p>
+                        <p><strong>Marca/Modelo:</strong>Samsung A03</p>
+                        <p class=serial><strong>S/N:</strong>r9qt402fxwy</p>
+                        <p><strong>Patrimônio:</strong>510</p>
+                        <p><strong>IMEI 1:</strong>351989271794777/01</p>
+                        <p><strong>IMEI 2:</strong>353297231794772/01</p>
+                    </div>
+                </section>
+                <h2>Equipamento danificados</h2>
+                <section class=equipamentos-info>
+                    <div class=equipamento-danificados>
+                        <p><strong>Tipo:</strong>Fone</p>
+                        <p><strong>Marca/Modelo:</strong>jabra HSC016</p>
+                        <p class=serial><strong>S/N:</strong>230307953</p>
+                        <p><strong>Patrimônio:</strong>530</p>
+                    </div>
+                </section>
+            </article>
+
+
+
 
         </div> <?php include "../includes/aside.html"; ?>
     </main> <?php include "../includes/footer.html"; ?>
