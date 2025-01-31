@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style-estoque.css">
+    <title>Estoque de Equipamentos</title>
+   </head>
+<body>
+    <div class="container">
+        <h1>Estoque de Equipamentos</h1>
+
+        <!-- Filtros -->
+        <div class="filtros">
+            <input type="text" id="search" placeholder="Pesquisar por tipo ou modelo...">
+            <select id="status-filter">
+                <option value="">Todos</option>
+                <option value="disponivel">Disponível</option>
+                <option value="indisponivel">Indisponível</option>
+            </select>
+            <button onclick="filtrarEquipamentos()">Filtrar</button>
+        </div>
+
+        <!-- Lista de Caixas e Equipamentos -->
+        <div id="lista-caixas">
+            <!-- Caixa 01 -->
+            <div class="caixa-card">
+                <h2>ID Caixa: 01</h2>
+                <div class="equipamento-card">
+                    <h3>Fone Logitech H390</h3>
+                    <p><strong>S/N:</strong> 2332ME01XKY8</p>
+                    <p><strong>Patrimônio:</strong> 911</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Suporte Alumínio</h3>
+                    <p><strong>S/N:</strong> [Informação não fornecida]</p>
+                    <p><strong>Patrimônio:</strong> 931</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Teclado e Mouse MK270</h3>
+                    <p><strong>S/N:</strong> 2232CE1D02338</p>
+                    <p><strong>Patrimônio:</strong> 455</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Notebook Dell Vostro 3520</h3>
+                    <p><strong>S/N:</strong> 35GJHZ3</p>
+                    <p><strong>Patrimônio:</strong> 448</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+            </div>
+
+            <!-- Caixa 02 -->
+            <div class="caixa-card">
+                <h2>ID Caixa: 02</h2>
+                <div class="equipamento-card">
+                    <h3>Notebook Dell Vostro 15 3510</h3>
+                    <p><strong>S/N:</strong> 12KL0V3</p>
+                    <p><strong>Patrimônio:</strong> 231</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Suporte Alumínio</h3>
+                    <p><strong>S/N:</strong> [Informação não fornecida]</p>
+                    <p><strong>Patrimônio:</strong> 806</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Monitor Dell P2018HC</h3>
+                    <p><strong>S/N:</strong> 1232C03</p>
+                    <p><strong>Patrimônio:</strong> 043</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Teclado e Mouse Dell MK5221W</h3>
+                    <p><strong>S/N:</strong> CN-ONCRCC-LO300-331-KOUK-A01</p>
+                    <p><strong>Patrimônio:</strong> 320 - 863</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+                <div class="equipamento-card">
+                    <h3>Fone Logitech H390</h3>
+                    <p><strong>S/N:</strong> 2309ME01AQY9</p>
+                    <p><strong>Patrimônio:</strong> 856</p>
+                    <p><strong>Status:</strong> <span class="status disponivel">Disponível</span></p>
+                </div>
+            </div>
+
+            <!-- Repetir para as outras caixas (03 a 08) -->
+        </div>
+    </div>
+
+    <script>
+        function filtrarEquipamentos() {
+            const search = document.getElementById('search').value.toLowerCase();
+            const statusFilter = document.getElementById('status-filter').value;
+            const equipamentos = document.querySelectorAll('.equipamento-card');
+
+            equipamentos.forEach(equipamento => {
+                const tipo = equipamento.querySelector('h3').textContent.toLowerCase();
+                const status = equipamento.querySelector('.status').classList.contains('disponivel') ? 'disponivel' : 'indisponivel';
+
+                const matchSearch = tipo.includes(search);
+                const matchStatus = statusFilter === '' || status === statusFilter;
+
+                if (matchSearch && matchStatus) {
+                    equipamento.style.display = 'block';
+                } else {
+                    equipamento.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>
+
+Podemos rescrever a pagina
+ Com os seguinte requisitos
+ - As caixa tem que ter busca por numero, patrimonio e centro de custo
+ - Não ocultar as Substituição, Departamento, Centro de Custo
+ Este são os dados:
+
+WorkPack
+ID Caixa:01
+Colaborador:
+Email:
+Cargo: Analista de Relacionamento com Profissionais da Saúde
+Departamento: Relacionamento com Profissionais da Saúde
+CPF:
+Data de admissão:
+Centro de Custo:
+Substituição: Guilherme Neto
+Tipo: Fone
+Marca/Modelo: Logitech H390
+S/N: 2332ME01XKY8
+Patrimônio: 911
+Tipo: Suporte
+Marca/Modelo: Aluminio
+S/N: [Informação não fornecida]
+Patrimônio: 931
+Tipo: Teclado e Mouse
+Marca/Modelo: MK270
+S/N: 2232CE1D02338
+Patrimônio: 455
+Tipo: Notebook Win-11 i5-1135G7 8GB
+Marca/Modelo: Dell Vostro 3520
+S/N: 35GJHZ3
+Patrimônio: 448
+ID Caixa:02
+Colaborador:
+Email:
+Cargo:Analista de Desempenho
+Departamento:Inteligência de Negócio
+CPF:
+Data da admissão:
+Data da desligamento:
+Centro de Custo:12010 - Inteligência de Negócios
+Substituição:Felipe Fernandes
+Tipo:Notebook
+Marca/Modelo:Dell Vostro 15 3510
+S/N:12KL0v3
+Patrimonio:231
+Tipo:Suporte
+Marca/Modelo:Aluminio
+S/N:
+Patrimonio:806
+Tipo:Monitor
+Marca/Modelo:Dell P2018HC
+S/N:1232C03
+Patrimonio:043
+Tipo:Teclado e Mouse
+Marca/Modelo:Dell MK5221W
+S/N:CN-ONCRCC-LO300-331-KOUK-A01
+Patrimonio:320 - 863
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2309Me01AQY9
+Patrimonio:856
+ID Caixa:03
+Colaborador:
+Email:
+Cargo:
+Departamento:
+CPF:
+Data da admissão:
+Data do Desligamento:
+Centro de Custo:12007 - Regional 2
+Subtituição:Amanda Gazetta Amigo
+Tipo:Notebook Ideapad3 15alc6
+Marca/Modelo:(Não fornecido)
+S/N:PE09781x
+Patrimônio:166
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2315Ay07AC39
+Patrimônio:876
+Tipo:Suporte
+Marca/Modelo:Aluminio
+S/N:(Não fornecido)
+Patrimônio:(Não fornecido)
+Tipo:Teclado e Mouse
+Marca/Modelo:Logitech MK235
+S/N:2207LZX4F248
+Patrimônio:185 -578
+Tipo:Celular
+Marca/Modelo:Galaxy A03 Core
+S/NR9QW800QQ6R
+Patrimonio:
+IMEI 1:350589197094384
+IMEI 2:353306167094386
+ID Ticket:(Não fornecido)
+Equipamentos:Notebook, Fone, Suporte, Teclado e Mouse, Celular, Adaptador-Rede
+ID Caixa:04
+Colaborador:
+Email:
+Cargo:Analista de desemprenho
+Departamento:
+CPF:
+Data da admissão:
+Data da desligamento:
+Centro de Custo:12010 - Inteligencia de negocios
+Subtituição:Dione Antonio dos Santos
+Tipo:Notebook Win-11 i7-13650HX 16GB SSD-512GB
+Marca/Modelo:Dell Vostro 153510p
+S/N:j7lyxp3
+Patrimônio:40
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2125me0k0568
+Patrimônio:770
+Tipo:Celular
+Marca/Modelo:Samsung Galaxy A10s
+S/N:r9xr500q4ne
+Patrimônio:771
+IMEI 1:350879696029266/01
+IMEI 2:359753826029267/01
+Tipo:Teclado e Mouse
+Marca/Modelo:Logitech MK279
+S/N:2232CE1C72C8
+Patrimônio:1482
+Tipo:Monitor
+Marca/Modelo:LG 22MP410-B
+S/N:303AZUJ2V814
+Patrimônio:243
+ID Caixa:05
+Colaborador:Consultor 2
+Departamento:Consultoria
+Centro de Custo:12006 - Regional 1
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2316ME02F898
+Patrimonio:888
+Tipo:Teclado e Mouse
+Marca/Modelo:Logitech MK270
+S/N:2345CE4BA568 - 2343LZX861V8
+Patrimonio:1515 - 1005
+Tipo:Suporte
+Marca/Modelo:Aluminio
+S/N:
+Patrimonio:1226
+Tipo:Carregador Motorola
+Marca/Modelo:MC-107
+S/N:SA18D5739
+Patrimonio:1225
+Tipo:Fonte
+Marca/Modelo:PA-1650-74
+S/N:42L575E
+Patrimonio:1227
+Tipo:Notebook Win-11 i5-1235U 8GB
+Marca/Modelo:Lenovo V15 G3
+S/N:PE9014315053
+Patrimonio:1522
+ID Ticket:#33188
+Equipamentos:Fone, Teclado e Mouse, Suporte, Carregador Motorola, Fonte, Notebook Win-11 i5-1235U 8GB, Smatphone
+ID Caixa:06
+Colaborador:
+Email:
+Cargo:Consultor De Operações
+Departamento:Consultoria
+CPF:
+Data da admissão:
+Centro de Custo:12007 - Regional 2
+Termo de Entrega do Equipamento:Termo 01
+Subtituição:Gabriel Carrasco De Carvalho
+Tipo:Teclado e Mouse
+Patrimônio:1436
+S/N:2232CE1C7158 - 2229LZXL7AB8
+Marca/Modelo:K270 - M185
+Tipo:Suporte
+Patrimônio:1152
+S/N:
+Marca/Modelo:Aluminio
+Tipo:Fone
+Patrimônio:715
+S/N:2399829109
+Marca/Modelo:Jabra HSC015
+Tipo:Notebook
+Patrimônio:323
+S/N:4C2A3Z3
+Marca/Modelo:Dell Vostro 15 3510
+Tipo:Celular
+Patrimônio:810
+S/N:R9XW20CHL4K
+Marca/Modelo:Galaxy A03
+IMEI 1:358302235393608/01
+IMEI 2:359796405393604/01
+Foto Felipe Fernades
+ID Caixa:07
+Email:
+Cargo:Analista de Desempenho
+Departamento:Inteligência de Negócio
+CPF:
+Data da admissão:3
+Data da desligamento:
+Centro de Custo:12010 - Inteligência de Negócios
+Termo de Entrega do Equipamento:
+Substituição:Felipe Fernandes
+Tipo:Notebook
+Marca/Modelo:Dell Vostro 15 3510
+S/N:12KL0v3
+Patrimonio:231
+Tipo:Suporte
+Marca/Modelo:Aluminio
+S/N:
+Patrimonio:806
+Tipo:Monitor
+Marca/Modelo:Dell P2018HC
+S/N:1232C03
+Patrimonio:043
+Tipo:Teclado e Mouse
+Marca/Modelo:Dell MK5221W
+S/N:CN-ONCRCC-LO300-331-KOUK-A01
+Patrimonio:320 - 863
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2309Me01AQY9
+Patrimonio:856
+ID Caixa:08
+Cargo:Consultor
+Departamento:Consultoria
+Centro de Custo:12006 - Regional 1
+Tipo:Notebook
+Marca/Modelo:Lenovo V15 G3 IAP
+S/N:PE0C2WY1
+Patrimônio:1562
+Tipo:Fone
+Marca/Modelo:Logitech H390
+S/N:2310ME010LN8
+Patrimônio:848
+Tipo:Suporte
+Marca/Modelo:Aluminio
+Patrimônio:1175
+Tipo:Teclado e Mouse
+Marca/Modelo:Logitech MK270
+S/N:2344LZXBR4H8 - 2347CE267DE8
+Patrimônio:1192 - 1191
+ID Ticket:#62786
+Equipamentos:Notebook, Mouse, Teclado, Headset, Suporte
