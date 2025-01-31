@@ -1,0 +1,114 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f4f4f4;
+     margin: 0;
+     padding: 0;
+     color: #333;
+ }
+
+ .card-box {
+     max-width: 840px;
+     margin: 20px auto;
+     padding: 20px;
+     background-color: #fff;
+     border-radius: 8px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+ h1 {
+     text-align: center;
+     color: #2c3e50;
+ }
+
+ .caixa-card {
+     background-color: #ecf0f1;
+     border-radius: 8px;
+     padding: 15px;
+     margin-bottom: 20px;
+     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+ }
+
+ .caixa-card h2 {
+     margin: 0;
+     color: #34495e;
+ }
+
+ .equipamento-card {
+     background-color: #fff;
+     border-radius: 8px;
+     padding: 10px;
+     margin: 10px 0;
+     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+ }
+
+ .equipamento-card h3 {
+     margin: 0;
+     color: #2c3e50;
+ }
+
+ .equipamento-card p {
+     margin: 5px 0;
+     color: #7f8c8d;
+ }
+
+ .equipamento-card p strong {
+     color: #2c3e50;
+ }
+
+ .equipamento-container {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+ }
+
+ .equipamento-card {
+     flex: 1 1 calc(33.333% - 10px);
+     box-sizing: border-box;
+ }
+
+ .status {
+     display: inline-block;
+     padding: 5px 10px;
+     border-radius: 5px;
+     font-size: 14px;
+     font-weight: bold;
+ }
+
+ .status.disponivel {
+     background-color: #2ecc71;
+     color: #fff;
+ }
+
+ .status.indisponivel {
+     background-color: #e74c3c;
+     color: #fff;
+ }
+
+ .filtros {
+     margin-bottom: 20px;
+     display: flex;
+     gap: 10px;
+     flex-wrap: wrap;
+ }
+
+ .filtros input,
+ .filtros select {
+     padding: 10px;
+     border-radius: 5px;
+     border: 1px solid #bdc3c7;
+     font-size: 14px;
+ }
+
+ .filtros button {
+     padding: 10px 20px;
+     background-color: #3498db;
+     color: #fff;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+     font-size: 14px;
+ }
+
+ .filtros button:hover {
+     background-color: #2980b9;
+ }
