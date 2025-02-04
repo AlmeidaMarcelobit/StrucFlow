@@ -2274,17 +2274,6 @@
                     <p><strong>IMEI 2:</strong> 3593408514628/05</p>
                 </div>
             </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio:</strong> 949</p>
-                <p><strong>Série:</strong> 2332ME01XL68</p>
-                <p><strong>Modelo:</strong> Logitech H390</p>
-            </div>
-            <div class="attention-info">
-                <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta:</strong> Informação relevante aqui</p>
-            </div>
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -2387,7 +2376,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Cau%C3%A3%20Bacileri.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Cau%C3%A3%20Bacileri.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Cauã Fernando Bacilieri Silva</h3>
             <p><strong>Cargo:</strong> Estagiario</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -2397,42 +2386,35 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>🖥️ Equipamento</h4>
+                    <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 1479</p>
                     <p><strong>Série:</strong> 403AZAL6J088</p>
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1548</p>
                     <p><strong>Série:</strong> PE0c4smz</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G3 IAP</p>
                 </div>
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1557</p>
                     <p><strong>Série:</strong> 2347CE26FD8 - 2344LZXBR4P8</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🔩 Suporte</h4>
                     <p><strong>Patrimônio:</strong> 1200</p>
                     <p><strong>Série:</strong></p>
                     <p><strong>Modelo:</strong> Aluminio</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 1199</p>
                     <p><strong>Série:</strong> 2316GGAT09</p>
-                    <p><strong>Modelo:</strong> Logitech</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-            </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Equipamento</h4>
-                <p><strong>Patrimônio:</strong> 1199</p>
-                <p><strong>Série:</strong> 2316GGAT09</p>
-                <p><strong>Modelo:</strong> Logitech</p>
             </div>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
@@ -2446,7 +2428,7 @@
         </div>
 
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Cinthia%20Viana.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Cinthia%20Viana.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Cinthia Cristiane Alexandre Viana</h3>
             <p><strong>Cargo:</strong> Analista Contábil Sr</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
@@ -2456,46 +2438,35 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 975</p>
                     <p><strong>Série:</strong> 2330YA0265F8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1518</p>
                     <p><strong>Série:</strong> 2345ce4ba508</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 142</p>
                     <p><strong>Série:</strong> D714sn3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
                 </div>
                 <div class="device">
-                    <h4>🖥️ Equipamento</h4>
+                    <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 1516</p>
                     <p><strong>Série:</strong> 401AZWS6F009</p>
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🔩 Suporte</h4>
                     <p><strong>Patrimônio:</strong> 1006</p>
                     <p><strong>Série:</strong></p>
                     <p><strong>Modelo:</strong> Aluminio</p>
                 </div>
-            </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Equipamento</h4>
-                <p><strong>Patrimônio:</strong> 975</p>
-                <p><strong>Série:</strong> 2330YA0265F8</p>
-                <p><strong>Modelo:</strong> Logitech H390</p>
-            </div>
-            <div class="attention-info">
-                <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta:</strong> Informação relevante aqui</p>
             </div>
             <div class="devices">
                 <div class="responsibility-link">
@@ -2505,7 +2476,7 @@
         </div>
 
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Claudia%20Ornela.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Claudia%20Ornela.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Claudia Matos Ornela</h3>
             <p><strong>Cargo:</strong> Analista Financeiro Jr</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -2515,7 +2486,7 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>📱 Equipamento</h4>
+                    <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 1030</p>
                     <p><strong>Série:</strong> r9xw3007pcm</p>
                     <p><strong>Modelo:</strong> Galaxy A03 Core</p>
@@ -2566,7 +2537,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Claudia%20Dias.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Claudia%20Dias.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Claudia Regina Vieria Dias</h3>
             <p><strong>Cargo:</strong> Assistente Administrativo</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
@@ -2576,19 +2547,19 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 58</p>
                     <p><strong>Série:</strong> P90F002</p>
                     <p><strong>Modelo:</strong> Dell Inspiron 3501</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 389</p>
                     <p><strong>Série:</strong> 2235ME00Z1G9</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
                 <div class="device">
-                    <h4>📱 Equipamento</h4>
+                    <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong></p>
                     <p><strong>Série:</strong> R9XW20CHLOF</p>
                     <p><strong>Modelo:</strong> Samsung Galaxy A03</p>
@@ -2596,19 +2567,19 @@
                     <p><strong>IMEI 2:</strong> 359796405393562/01</p>
                 </div>
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 430</p>
                     <p><strong>Série:</strong> CN-0NCRCC-LO300=34C-K1H2-A01</p>
                     <p><strong>Modelo:</strong> Dell MK 5221</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🔩 Suporte</h4>
                     <p><strong>Patrimônio:</strong> 816</p>
                     <p><strong>Série:</strong></p>
                     <p><strong>Modelo:</strong> Aluminio</p>
                 </div>
                 <div class="device">
-                    <h4>🖥️ Equipamento</h4>
+                    <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 242</p>
                     <p><strong>Série:</strong> 303AZJT96660</p>
                     <p><strong>Modelo:</strong> LG 22MP410-P</p>
@@ -2622,7 +2593,7 @@
         </div>
 
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Daiene%20Priscila.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daiene Priscila Alexandre</h3>
             <p><strong>Cargo:</strong> Analista de Administração Pessoal</p>
             <p><strong>Departamento:</strong> Departamento Pessoal</p>
@@ -2632,25 +2603,25 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 277</p>
                     <p><strong>Série:</strong> 2243CE258458</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 78</p>
                     <p><strong>Série:</strong> CNVMKW3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 15310</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 696</p>
                     <p><strong>Série:</strong> 275243548</p>
                     <p><strong>Modelo:</strong> Jabra HSC016</p>
                 </div>
                 <div class="device">
-                    <h4>📱 Equipamento</h4>
+                    <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 695</p>
                     <p><strong>Série:</strong> R9XTA0BDT7D</p>
                     <p><strong>Modelo:</strong> Galaxy A03</p>
