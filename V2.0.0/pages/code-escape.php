@@ -57,7 +57,15 @@
     <h2>
         Icone
     </h2>
-    💻📑🎧⚠️📱🔌⌨️🖱️🔩🖥️
+    💻 Notebook<br>
+    📑 Termo Respoponsabildiade<br>
+    🎧 Fone<br>
+    ⚠️ Atenção<br>
+    📱 Celular<br>
+    🔌 Fone<br>
+    ⌨️🖱️ Teclado e Mouse<br>
+    🔩 Suporte<br>
+    🖥️ Monitor<br>
 
     <h2>Codigo Estoque</h2>
     <pre>
