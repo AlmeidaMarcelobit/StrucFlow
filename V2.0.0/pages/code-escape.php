@@ -54,18 +54,92 @@
 
 <body>
     <?php include '../includes/header.php'?>
-    <h2>
-        Icone
-    </h2>
-    💻 Notebook<br>
-    📑 Termo Respoponsabildiade<br>
-    🎧 Fone<br>
-    ⚠️ Atenção<br>
-    📱 Celular<br>
-    🔌 Fone<br>
-    ⌨️🖱️ Teclado e Mouse<br>
-    🔩 Suporte<br>
-    🖥️ Monitor<br>
+
+    <pre>
+    &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;&quot; alt=&quot;Foto do Colaborador&quot; class=&quot;profile-pic&quot;&gt;
+        &lt;h3&gt;👤 Nome do Colaborador&lt;&#x2F;h3&gt;
+        &lt;p&gt;&lt;strong&gt;Cargo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;Departamento:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;E-mail:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;CPF:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;Centro de Custo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;Data de Admissão:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;strong&gt;Data de Demissão:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        &lt;p&gt;&lt;span class=&quot;status ativo&quot;&gt;Status:&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+        &lt;div class=&quot;devices&quot;&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;💻 Notebook&lt;&#x2F;h4&gt;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;⌨️🖱️Teclado e Mouse&lt;&#x2F;h4&gt;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;🎧 Fone&lt;&#x2F;h4&gt;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;🔩 Suporte&lt;&#x2F;h4&gt;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;🖥️ Monitor&lt;&#x2F;h4&gt;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+            &lt;div class=&quot;device&quot;&gt;
+                &lt;h4&gt;📱 Celular&lt;&#x2F;h4&gt;;
+                &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;IMEI 1:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+                &lt;p&gt;&lt;strong&gt;IMEI 2:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            &lt;&#x2F;div&gt;
+        &lt;&#x2F;div&gt;
+        &lt;h2&gt;Equipamentos Comprometidos&lt;&#x2F;h2&gt;
+        &lt;div class=&quot;device&quot;&gt;
+            &lt;h4&gt;🎧 Equipamento&lt;&#x2F;h4&gt;
+            &lt;p&gt;&lt;strong&gt;Patrimônio:&lt;&#x2F;strong&gt; Código&lt;&#x2F;p&gt;
+            &lt;p&gt;&lt;strong&gt;Série:&lt;&#x2F;strong&gt; Série&lt;&#x2F;p&gt;
+            &lt;p&gt;&lt;strong&gt;Modelo:&lt;&#x2F;strong&gt; Modelo&lt;&#x2F;p&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div class=&quot;attention-info&quot;&gt;
+            &lt;h2&gt;⚠️ Informações Importantes&lt;&#x2F;h2&gt;
+            &lt;p&gt;&lt;strong&gt;Alerta:&lt;&#x2F;strong&gt; Informação relevante aqui&lt;&#x2F;p&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div class=&quot;devices&quot;&gt;
+            &lt;div class=&quot;responsibility-link&quot;&gt;
+                &lt;h4&gt;&lt;a href=&quot;&quot;&gt;📑 Termo de Responsabilidade&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+            &lt;&#x2F;div&gt;
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;div&gt;
+    </pre>
+
+
+
+
+    <pre>
+    &lt;h4&gt;⌨️🖱️Teclado e Mouse&lt;/h4&gt;
+    &lt;h4&gt;💻 Notebook&lt;/h4&gt;
+    &lt;h4&gt;📑 Termo Respoponsabildiade&lt;/h4&gt;
+    &lt;h4&gt;🎧 Fone&lt;/h4&gt;
+    &lt;h4&gt;⚠️ Atenção&lt;/h4&gt;
+    &lt;h4&gt;📱 Celular&lt;/h4&gt;
+    &lt;h4&gt;🔌 Fone&lt;/h4&gt;
+    &lt;h4&gt;🔩 Suporte&lt;/h4&gt;
+    &lt;h4&gt;🖥️ Monitor&lt;/h4&gt;
+    </pre>
 
     <h2>Codigo Estoque</h2>
     <pre>
@@ -110,44 +184,7 @@
         </pre>
     <h2>Codigo Colaboradores</h2>
 
-    <pre>
-    &lt;div class=&quot;card&quot;&gt;
-    &lt;img src=&quot;&quot; alt=&quot;Foto do Colaborador&quot; class=&quot;profile-pic&quot;&gt;
-    &lt;h3&gt;👤 Nome do Colaborador&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Cargo:&lt;/strong&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Departamento:&lt;/strong&gt; &lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; &lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;CPF:&lt;/strong&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Centro de Custo:&lt;/strong&gt; &lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Data de Admiss&atilde;o:&lt;/strong&gt; &lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Data de Demiss&atilde;o:&lt;/strong&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;span class=&quot;status ativo&quot;&gt;Status:&lt;/span&gt;&lt;/p&gt;
-    &lt;div class=&quot;devices&quot;&gt;
-    &lt;div class=&quot;device&quot;&gt;
-    &lt;h4&gt;💻 Equipamento&lt;/h4&gt;
-    &lt;p&gt;&lt;strong&gt;Patrim&ocirc;nio:&lt;/strong&gt; C&oacute;digo&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;S&eacute;rie:&lt;/strong&gt; &lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Modelo:&lt;/strong&gt; Modelo&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2&gt;Equipamentos Comprometidos&lt;/h2&gt;
-    &lt;div class=&quot;device&quot;&gt;
-    &lt;h4&gt;🎧 Equipamento&lt;/h4&gt;
-    &lt;p&gt;&lt;strong&gt;Patrim&ocirc;nio:&lt;/strong&gt; C&oacute;digo&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;S&eacute;rie:&lt;/strong&gt; S&eacute;rie&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Modelo:&lt;/strong&gt; Modelo&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;attention-info&quot;&gt;
-    &lt;h2&gt;⚠️ Informa&ccedil;&otilde;es Importantes&lt;/h2&gt;
-    &lt;p&gt;&lt;strong&gt;Alerta:&lt;/strong&gt; Informa&ccedil;&atilde;o relevante aqui&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;devices&quot;&gt;
-    &lt;div class=&quot;responsibility-link&quot;&gt;
-    &lt;h4&gt;&lt;a href=&quot;&quot;&gt;📑 Termo de Responsabilidade&lt;/a&gt;&lt;/h4&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    </pre>
+
 
 
 </body>
