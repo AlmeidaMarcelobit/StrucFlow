@@ -90,8 +90,8 @@ header nav a:hover {
 }
 
 .profile-pic {
-    width: 250px;
-    height: 250px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     object-fit: cover;
     position: absolute;
