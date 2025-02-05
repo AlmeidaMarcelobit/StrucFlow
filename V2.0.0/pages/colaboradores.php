@@ -663,7 +663,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="../assets/fotos/Ana Julia Bujardi.png" alt="Foto de Ana Julia Bujardi" class="profile-pic">
             <h3>👤 Ana Julia Bujardi</h3>
@@ -723,7 +722,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="../assets/fotos/Sem Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
             <h3>👤 Ana Laura Ferrari Maila Santos</h3>
@@ -764,7 +762,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="../assets/fotos/Ana Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli" class="profile-pic">
             <h3>👤 Ana Luisa Fumagalli</h3>
@@ -803,7 +800,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="../assets/fotos/Ana Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
             <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
@@ -856,7 +852,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="../assets/fotos/Ana Paula Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
             <h3>👤 Ana Paula Romualdo</h3>
@@ -2637,7 +2632,7 @@
         </div>
 
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Daila%20Santos.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daila de Souza Silva Santos</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
             <p><strong>Departamento:</strong> Canais Digitais e Relacionamento</p>
@@ -2647,25 +2642,25 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1540</p>
                     <p><strong>Série:</strong> peoc3lr2</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G3 IAP</p>
                 </div>
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1537</p>
                     <p><strong>Série:</strong> 2347ce268048</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🔩 Suporte</h4>
                     <p><strong>Patrimônio:</strong> 1239</p>
                     <p><strong>Série:</strong></p>
                     <p><strong>Modelo:</strong> Alumínioo</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 1240</p>
                     <p><strong>Série:</strong> 2316gg00asm8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
@@ -2679,7 +2674,7 @@
         </div>
 
         <div class="card">
-            <img src="../assents/fotos/foto_colaboradores/Daniel%20Paula.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../assets/fotos/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daniel Oliveira Rosa de Paula</h3>
             <p><strong>Cargo:</strong> Assistente de Cadastro</p>
             <p><strong>Departamento:</strong> Dental</p>
@@ -2689,25 +2684,25 @@
             <p><span class="status ativo">Status:</span></p>
             <div class="devices">
                 <div class="device">
-                    <h4>💻 Equipamento</h4>
+                    <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 488</p>
                     <p><strong>Série:</strong> 8R35KZ3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 909</p>
                     <p><strong>Série:</strong> 881-000466</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
                 <div class="device">
-                    <h4>⌨️ Equipamento</h4>
+                    <h4>⌨️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 497</p>
                     <p><strong>Série:</strong> 2323LZX5TK68 - 2325CE138058</p>
                     <p><strong>Modelo:</strong> Logitech M185K270</p>
                 </div>
                 <div class="device">
-                    <h4>🎧 Equipamento</h4>
+                    <h4>🔩 Suporte</h4>
                     <p><strong>Patrimônio:</strong> 919</p>
                     <p><strong>Série:</strong></p>
                     <p><strong>Modelo:</strong> Aluminio</p>
@@ -2719,7 +2714,1135 @@
                 </div>
             </div>
         </div>
+        <div class="card">
+            <img src="../assets/fotos/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Dariane Romerio</h3>
+            <p><strong>Cargo:</strong> Assistente de CS</p>
+            <p><strong>Departamento:</strong> SAC</p>
+            <p><strong>E-mail:</strong> dariane.romerio@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 208</p>
+                    <p><strong>Série:</strong> PE09XVKX</p>
+                    <p><strong>Modelo:</strong> Lenovo V15 82ME</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 637</p>
+                    <p><strong>Série:</strong> 273961635</p>
+                    <p><strong>Modelo:</strong> Jabra HSC016</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 640</p>
+                    <p><strong>Série:</strong> R9XT9089maw</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                </div>
+                <div class="device">
+                    <h4>🖱️ Teclado e Mouse</h4>
+                    <p><strong>Teclado Patrimônio:</strong> 345</p>
+                    <p><strong>Mouse Patrimônio:</strong> 346</p>
+                    <p><strong>Teclado Série:</strong> 2234CE182229</p>
+                    <p><strong>Mouse Série:</strong> 2230LZN0ZN98</p>
+                    <p><strong>Modelo:</strong> Logitech MK270</p>
+                </div>
+                <div class="device">
+                    <h4>🖇️ Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 331</p>
+                    <p><strong>Modelo:</strong> Aluminio</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="../assets/fotos/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Davi Ribeiro da Silva</h3>
+            <p><strong>Email:</strong>davi.ribeiro@amorsaude.com</p>
+            <p><strong>Cargo:</strong>Analista de dados</p>
+            <p><strong>Departamento:</strong>Dados</p>
+            <p><strong>CPF:</strong>417.150.938-60</p>
+            <p><strong>Data da admissão:</strong></p>
+            <p><strong>Data da desligamento:</strong>28.09.2023</p>
+            <p><strong>Centro de Custo:</strong>13011 - Dados</p>
+            <div class="devices">
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
+                    <p class="serial"><strong>S/N:</strong>R9XW20CHSQD</p>
+                    <p><strong>Patrimonio:</strong>812</p>
+                    <p><strong>IMEI 1:</strong>358302235395785/01</p>
+                    <p><strong>IMEI 2:</strong>358302235395785/01</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Marca/Modelo:</strong>Lenovo Thinkpad e14 Gen3</p>
+                    <p class="serial"><strong>S/N:</strong>PE9012117034</p>
+                    <p><strong>Patrimonio:</strong>064</p>
+                </div>
+                <div class="device">
+                    <h4>🔌 Fone</h4>
+                    <p><strong>Marca/Modelo:</strong>Logitech H390</p>
+                    <p class="serial"><strong>S/N:</strong>2128ME0eyna8</p>
+                    <p><strong>Patrimonio:</strong>547</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Marca/Modelo:</strong>Samsung F24T350FHL</p>
+                    <p class="serial"><strong>S/N:</strong>Y4SKHX5T601009L</p>
+                    <p><strong>Patrimonio:</strong>499</p>
+                </div>
+                <div class="device">
+                    <h4> 🔩 Suporte</h4>
+                    <p><strong>Marca/Modelo:</strong>Aluminio</p>
+                    <p class="serial"><strong>S/N:</strong></p>
+                    <p><strong>Patrimonio:</strong></p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️Teclado e Mouse</h4>
+                    <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
+                    <p class="serial"><strong>S/N:</strong>2148LZX4U4L8</p>
+                    <p><strong>Patrimonio:</strong>630 - 203</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Marca/Modelo:</strong>Samsung LG K9</p>
+                <p class="serial"><strong>S/N:</strong>905bshc727425</p>
+                <p><strong>Patrimonio:</strong>742</p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Davi Simoes dos Santos</h3>
+            <p><strong>Cargo:</strong>Consultor de Operações</p>
+            <p><strong>Departamento:</strong>Consultoria</p>
+            <p><strong>E-mail:</strong>davi.simoes@amorsaude.com</p>
+            <p><strong>CPF:</strong>456.589.498-07</p>
+            <p><strong>Centro de Custo:</strong> </p>
+            <p><strong>Data de Admissão:</strong> </p>
+            <p><strong>Data de Demissão:</strong></p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 047</p>
+                    <p><strong>Série:</strong>PE08JFNR</p>
+                    <p><strong>Modelo:</strong>Lenovo Thinkpad E14 Gen3</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 562</p>
+                    <p><strong>Série:</strong>00027313312020917</p>
+                    <p><strong>Modelo:</strong>Jabra HSC015</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 048</p>
+                    <p><strong>Série:</strong>G01PG83</p>
+                    <p><strong>Modelo:</strong>Dell Se2216H</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>;
+                    <p><strong>Patrimônio:</strong> 800</p>
+                    <p><strong>Série:</strong>RX8R90HDJSV</p>
+                    <p><strong>Modelo:</strong>Samsung galaxy A02</p>
+                    <p><strong>IMEI 1:</strong>35437310711843/01</p>
+                    <p><strong>IMEI 2:</strong>354578130711846/06</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Dayane Cristina Silva dos Santos</h3>
+            <p><strong>Cargo:</strong>Assistente de Retenção</p>
+            <p><strong>Departamento:</strong>Relacionamento com Cliente</p>
+            <p><strong>E-mail:</strong>dayane.santos@amorsaude.com</p>
+            <p><strong>CPF:</strong>383.111.148-03</p>
+            <p><strong>Centro de Custo:</strong>72023 - Relacionamento com Cliente / Retensão</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 1564</p>
+                    <p><strong>Série:</strong>PE9014216040-82UM007BR-PE0C1WXT</p>
+                    <p><strong>Modelo:</strong>Lenovo V15 G3 IAP</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 261</p>
+                    <p><strong>Série:</strong>2243CE258148 - 2240LZN1KFFX8</p>
+                    <p><strong>Modelo:</strong>Logitech MK270</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 1143</p>
+                    <p><strong>Série:</strong>2412AY00NX68</p>
+                    <p><strong>Modelo:</strong>Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 1144</p>
+                    <p><strong>Série:</strong></p>
+                    <p><strong>Modelo:</strong>Aluminio</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>⌨️🖱️Teclado e Mouse</h4>
+                <p><strong>Patrimônio:</strong> 1142 - 447</p>
+                <p><strong>Série:</strong> 2320CE1626C8 - 2240LZN1KF8</p>
+                <p><strong>Modelo:</strong> Logitech MK270</p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="../assets/fotos/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Deise Leite</h3>
+            <p><strong>Cargo:</strong>Consultor De Operações Internacional</p>
+            <p><strong>Departamento:</strong>Internacional</p>
+            <p><strong>E-mail:</strong>deise.leite@amorsaude.com</p>
+            <p><strong>CPF:</strong>374.036.148-44</p>
+            <p><strong>Centro de Custo:</strong>12011 - Internacional</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 979</p>
+                    <p><strong>Série:</strong>2330AY032658</p>
+                    <p><strong>Modelo:</strong>Logitech H390</p>
+                </div>
+
+                <div class="device">
+                    <h4>📱 Celular</h4>;
+                    <p><strong>Patrimônio:</strong> 685</p>
+                    <p><strong>Série:</strong>R9yta0c6qem</p>
+                    <p><strong>Modelo:</strong>Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong>351084957560484/01</p>
+                </div>
+            </div>
+            <div class="attention-info">
+                <h2>⚠️ Informações Importantes</h2>
+                <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém apenas temos os dados e o termo de responsabilidade do celular e fone, não possuindo dados nem termos dos demais equipamentos.</p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Diego Alberto Rodrigues Blandino</h3>
+            <p><strong>Cargo:</strong> Gerente De Suporte</p>
+            <p><strong>Departamento:</strong> Gerência Suporte</p>
+            <p><strong>E-mail:</strong> diego.blandino@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 13015 - Gerência Dados</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 167</p>
+                    <p><strong>Série:</strong> PE09782G</p>
+                    <p><strong>Modelo:</strong> Ideapad3 15ALC6</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 697</p>
+                    <p><strong>Série:</strong> 275340856</p>
+                    <p><strong>Modelo:</strong> Jabra HSCC016</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 564</p>
+                    <p><strong>Série:</strong> R9XT7020B3Z</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 3549859881384/01</p>
+                    <p><strong>IMEI 2:</strong> 355106278871385/01</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 354</p>
+                    <p><strong>Série:</strong> 302AZDB7874</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Dione Antonio dos Santos</h3>
+            <p><strong>Cargo:</strong> Analista de desempenho</p>
+            <p><strong>Departamento:</strong> Inteligência de negócios</p>
+            <p><strong>E-mail:</strong> dione.santos@amorsaude.com</p>
+            <p><strong>CPF:</strong> 470.351.168-18</p>
+            <p><strong>Centro de Custo:</strong> 12010 - Inteligência de negócios</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Equipamento</h4>
+                    <p><strong>Patrimônio:</strong> 40</p>
+                    <p><strong>Série:</strong> j7lyxp3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 153510p</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Equipamento</h4>
+                    <p><strong>Patrimônio:</strong> 770</p>
+                    <p><strong>Série:</strong> 2125me0k0568</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Equipamento</h4>
+                    <p><strong>Patrimônio:</strong> 771</p>
+                    <p><strong>Série:</strong> r9xr500q4ne</p>
+                    <p><strong>Modelo:</strong> Samsung Galaxy A10s</p>
+                    <p><strong>IMEI 1:</strong> 350879696029266/01</p>
+                    <p><strong>IMEI 2:</strong> 359753826029267/01</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️ Equipamento</h4>
+                    <p><strong>Patrimônio:</strong> 1482</p>
+                    <p><strong>Série:</strong> 2232CE1C72C8</p>
+                    <p><strong>Modelo:</strong> Logitech MK279</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Equipamento</h4>
+                    <p><strong>Patrimônio:</strong> 243</p>
+                    <p><strong>Série:</strong> 303AZUJ2V814</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📝 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Donato Cesar da Costa e Silva</h3>
+            <p><strong>Cargo:</strong> Gerente de Customer Sucess</p>
+            <p><strong>E-mail:</strong> donato.silva@amorsaude.com</p>
+            <p><strong>CPF:</strong> 021.989.578-33</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 063</p>
+                    <p><strong>Série:</strong> 5CVGXM3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15 3510 p112f</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 750</p>
+                    <p><strong>Série:</strong> 2125ME0JYP</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🖇️ Suporte</h4>
+                    <p><strong>Modelo:</strong> ORMRME</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 717</p>
+                    <p><strong>Série:</strong> R9XT20139</p>
+                    <p><strong>Modelo:</strong> Samsung Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 354985980029692/01</p>
+                    <p><strong>IMEI 2:</strong> 355106270029693/01</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Ed Carlos Pasquini</h3>
+            <p><strong>Cargo:</strong> Coordenador De Atendimento Ao Cliente</p>
+            <p><strong>Departamento:</strong> Dir. Operações</p>
+            <p><strong>E-mail:</strong> ed.pasquini@amorsaude.com</p>
+            <p><strong>CPF:</strong> 337.390.908-20</p>
+            <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 170</p>
+                    <p><strong>Série:</strong> Pe0973CV</p>
+                    <p><strong>Modelo:</strong> Ideapad 3 15alc6</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 534</p>
+                    <p><strong>Série:</strong> 263293286</p>
+                    <p><strong>Modelo:</strong> Jabra HSC016</p>
+                </div>
+                <div class="device">
+                    <h4>🌐 Adaptador de Rede</h4>
+                    <p><strong>Patrimônio:</strong> 558</p>
+                    <p><strong>Série:</strong> 2100403922834</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 514</p>
+                    <p><strong>Série:</strong> R9QT402H52A</p>
+                    <p><strong>Modelo:</strong> Samsung A03</p>
+                    <p><strong>IMEI 1:</strong> 3519892711808031/01</p>
+                    <p><strong>IMEI 2:</strong> 353297231808036/01</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Edson Ortolan Junior</h3>
+            <p><strong>Cargo:</strong> Assistente de Operações</p>
+            <p><strong>Departamento:</strong> Consultoria</p>
+            <p><strong>E-mail:</strong> junior.ortolan@amorsaude.com</p>
+            <p><strong>CPF:</strong> 407.815.828-57</p>
+            <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 491</p>
+                    <p><strong>Série:</strong> 2320CE162688 (Teclado)</p>
+                    <p><strong>Série:</strong> 2316LZX3G0E8 (Mouse)</p>
+                    <p><strong>Modelo:</strong> Logitech MK270</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 745</p>
+                    <p><strong>Série:</strong> rq8rb09shfx</p>
+                    <p><strong>Modelo:</strong> Samsung Galaxy A02</p>
+                    <p><strong>IMEI 1:</strong> 350844817061325/01</p>
+                    <p><strong>IMEI 2:</strong> 356067157061325/01</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 183</p>
+                    <p><strong>Série:</strong> 7tn05l3</p>
+                    <p><strong>Modelo:</strong> Dell Inspiron 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 014</p>
+                    <p><strong>Série:</strong> h2x5463</p>
+                    <p><strong>Modelo:</strong> Dell p2018hc</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="devices">
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 789</p>
+                    <p><strong>Série:</strong> 2128me0ey</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 973</p>
+                    <p><strong>Série:</strong> 233AAy031BAB</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Eduardo Junior</h3>
+            <p><strong>Cargo:</strong> Assistente de Relacionamento com Profissionais da Saúde</p>
+            <p><strong>Departamento:</strong> Relacionamento com Profissionais da Saúde</p>
+            <p><strong>E-mail:</strong> eduardo.junior@amorsaude.com</p>
+            <p><strong>CPF:</strong> 453.073.868-00</p>
+            <p><strong>Centro de Custo:</strong> 12003 - Relacionamento Profissionais da Saúde</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 192</p>
+                    <p><strong>Série:</strong> F24T350FHL</p>
+                    <p><strong>Modelo:</strong> Samsung Y45KHX5T601532E</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 469</p>
+                    <p><strong>Série:</strong> DG00JZ3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 3520</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 484</p>
+                    <p><strong>Série:</strong> 2232CCE1DO278</p>
+                    <p><strong>Modelo:</strong> K270 - M185</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 939</p>
+                    <p><strong>Série:</strong> </p>
+                    <p><strong>Modelo:</strong> Aluminio</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 940</p>
+                    <p><strong>Série:</strong> 2332ME01Z138</p>
+                    <p><strong>Modelo:</strong> Aluminio</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Eduardo De Lima Cheade</h3>
+            <p><strong>Cargo:</strong> Diretor Comercial</p>
+            <p><strong>Departamento:</strong> Dir. Operações</p>
+            <p><strong>E-mail:</strong> eduardo.cheade@amorsaude.com</p>
+            <p><strong>CPF:</strong> 214.689.138-67</p>
+            <p><strong>Centro de Custo:</strong> 32000 - Dir. Operações</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 232</p>
+                    <p><strong>Série:</strong> J1KL0V3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 679</p>
+                    <p><strong>Série:</strong> 00273966148</p>
+                    <p><strong>Modelo:</strong> Jabra HSC016</p>
+                </div>
+            </div>
+            <div class="attention-info">
+                <h2>⚠️ Informações Importantes</h2>
+                <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Eduardo Santos</h3>
+            <p><strong>Cargo:</strong> Analista De Desempenho Pl</p>
+            <p><strong>Departamento:</strong> Inteligência de Negócio</p>
+            <p><strong>E-mail:</strong> eduardo.santos@amorsaude.com</p>
+            <p><strong>CPF:</strong> 427.837.598-02</p>
+            <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 401</p>
+                    <p><strong>Série:</strong> 303AZCQ8K059</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Eduardo Miskulin Jardao</h3>
+            <p><strong>Cargo:</strong> Product Owner Pl</p>
+            <p><strong>Departamento:</strong> Produto</p>
+            <p><strong>E-mail:</strong> eduardo.jardao@amorsaude.com</p>
+            <p><strong>CPF:</strong> 434.023.328-50</p>
+            <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
+            <p><strong>Data de Admissão:</strong> 05.02.2024</p>
+            <p><strong>Data de Desligamento:</strong> 04.10.2024</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 1184</p>
+                    <p><strong>Série:</strong> VN-ORMH97-LXN00-411-06XV-A01</p>
+                    <p><strong>Modelo:</strong> Dell WH1022</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 079</p>
+                    <p><strong>Série:</strong> PE08jfp1</p>
+                    <p><strong>Modelo:</strong> Lenovo Thinkpad E14 Gen3</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 069</p>
+                    <p><strong>Série:</strong> 6816d83</p>
+                    <p><strong>Modelo:</strong> Dell E1920HF</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Elisabete Marques da Silva</h3>
+            <p><strong>Cargo:</strong> Coordenadora de Pessoas & Cultura</p>
+            <p><strong>Departamento:</strong> Pessoas e Cultura</p>
+            <p><strong>E-mail:</strong> elisabete.silva@amorsaude.com</p>
+            <p><strong>CPF:</strong> 153.653.358-05</p>
+            <p><strong>Centro de Custo:</strong> 13021 - Gerência Pessoas e Cultura</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 1439</p>
+                    <p><strong>Série:</strong> JB32J3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 3520</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 732</p>
+                    <p><strong>Série:</strong> Não disponível</p>
+                    <p><strong>Modelo:</strong> Aluminio</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 1444</p>
+                    <p><strong>Série:</strong> 312AZER60052</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 955</p>
+                    <p><strong>Série:</strong> 2329GG15JMB</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 695</p>
+                    <p><strong>Série:</strong> R9XTA0BDT7D</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 352081309398711/01</p>
+                    <p><strong>IMEI 2:</strong> 357299759398719/01</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 1440</p>
+                    <p><strong>Série:</strong> 2232CE1C7298</p>
+                    <p><strong>Modelo:</strong> Logitech MK270</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Elton Severo</h3>
+            <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
+            <p><strong>Departamento:</strong> Telemedicina</p>
+            <p><strong>E-mail:</strong> elton.severo@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 22005 - Operação canais digitais</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 1551</p>
+                    <p><strong>Série:</strong> PE0C4EE0</p>
+                    <p><strong>Modelo:</strong> Lenovo V15 G3 IAO</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 1550</p>
+                    <p><strong>Série:</strong> 2347ce270458</p>
+                    <p><strong>Modelo:</strong> Logitech MK270</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 1244</p>
+                    <p><strong>Série:</strong> 2316gg00asz8</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 1329</p>
+                    <p><strong>Série:</strong> Não disponível</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 1569</p>
+                    <p><strong>Série:</strong> 402azth6r033</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Emanuela Feteira Santos</h3>
+            <p><strong>Cargo:</strong> Especialista Hubspot</p>
+            <p><strong>Departamento:</strong> CRM</p>
+            <p><strong>E-mail:</strong> emanuela.santos@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 14003 - CRM</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 77</p>
+                    <p><strong>Série:</strong> 4NVVKW3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 388</p>
+                    <p><strong>Série:</strong> 2235ME OOy619</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> Não disponível</p>
+                    <p><strong>Série:</strong> R9XW3007nka</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 3583022335554944/01</p>
+                    <p><strong>IMEI 2:</strong> 359796405554940/01</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Emerson Luiz Queiroz</h3>
+            <p><strong>Cargo:</strong> Consultor de Operações</p>
+            <p><strong>Departamento:</strong> Consultoria</p>
+            <p><strong>E-mail:</strong> emerson.queiroz@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 12007 - Regional</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 1435</p>
+                    <p><strong>Série:</strong> 312AZTH60025</p>
+                    <p><strong>Modelo:</strong> LG - 22MP410</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 152 - 701</p>
+                    <p><strong>Série:</strong> 2240LZX5MK98</p>
+                    <p><strong>Modelo:</strong> MK235</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 729</p>
+                    <p><strong>Série:</strong> Não disponível</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 047</p>
+                    <p><strong>Série:</strong> PE08JFNR</p>
+                    <p><strong>Modelo:</strong> Lenovo Thinkpad E14 Gen 3</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 800</p>
+                    <p><strong>Série:</strong> RX8R90HDJSV</p>
+                    <p><strong>Modelo:</strong> Galaxy A02</p>
+                    <p><strong>IMEI 1:</strong> 354397310711843</p>
+                    <p><strong>IMEI 2:</strong> 354578130711846</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Erica Pereira de Almeida</h3>
+            <p><strong>Cargo:</strong> Assistente Financeiro</p>
+            <p><strong>Departamento:</strong> Financeiro</p>
+            <p><strong>E-mail:</strong> erica.almeida@amorsaude.com</p>
+            <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 928</p>
+                    <p><strong>Série:</strong> Não disponível</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 833</p>
+                    <p><strong>Série:</strong> 2309ME013GS9</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 270</p>
+                    <p><strong>Série:</strong> GFQN4T3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15</p>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Erica Teodoro de Oliveira da Silva</h3>
+            <p><strong>Cargo:</strong> Analista de Suporte Pleno</p>
+            <p><strong>Departamento:</strong> Suporte</p>
+            <p><strong>E-mail:</strong> erica.silva@amorsaude.com</p>
+            <p><strong>CPF:</strong> 369.623.608-00</p>
+            <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 214</p>
+                    <p><strong>Série:</strong> C3KLV03</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 897</p>
+                    <p><strong>Série:</strong> 2329GG0159W9</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> n/e</p>
+                    <p><strong>Série:</strong> n/e</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 252</p>
+                    <p><strong>Série:</strong> 2232CE1CC278</p>
+                    <p><strong>Modelo:</strong> Logitech MK270</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 660</p>
+                    <p><strong>Série:</strong> n/e</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 350916876987606/01</p>
+                    <p><strong>IMEI 2:</strong> 354654236987604/01</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>🎧 Equipamento</h4>
+                <p><strong>Patrimônio:</strong> 792</p>
+                <p><strong>Série:</strong> 2399829109</p>
+                <p><strong>Modelo:</strong> Jabra HSC 01015</p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Fabio Manoel Goncalves D'Avilla</h3>
+            <p><strong>Cargo:</strong> Desenvolvedor Fullstack Pl</p>
+            <p><strong>Departamento:</strong> Desenvolvimento</p>
+            <p><strong>E-mail:</strong> fabio.davilla@amorsaude.com</p>
+            <p><strong>CPF:</strong> 464.572.868-79</p>
+            <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 440</p>
+                    <p><strong>Série:</strong> BVZHNY3</p>
+                    <p><strong>Modelo:</strong> Latitude 3420</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Fabiola Todesco Quiles</h3>
+            <p><strong>Cargo:</strong> Gerente Adm. Plano Odontológico</p>
+            <p><strong>Departamento:</strong> Odontologia</p>
+            <p><strong>E-mail:</strong> fabiola.quiles@amorsaude.com</p>
+            <p><strong>CPF:</strong> 310.755.438-35</p>
+            <p><strong>Centro de Custo:</strong> 18006 - Odontologia - Plano</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
+            </div>
+            <div class="attention-info">
+                <h2>⚠️ Informações Importantes</h2>
+                <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e dados dos mesmos.</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Fabricio Baastista Florentino</h3>
+            <p><strong>Cargo:</strong> Consultor De Operações</p>
+            <p><strong>Departamento:</strong> Consultoria</p>
+            <p><strong>E-mail:</strong> fabricio.florentino@amorsaude.com</p>
+            <p><strong>CPF:</strong> 311.682.658-78</p>
+            <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 845</p>
+                    <p><strong>Série:</strong> UJ5VC3Q4B</p>
+                    <p><strong>Modelo:</strong> Motorola E13</p>
+                    <p><strong>IMEI 1:</strong> 359340981289595</p>
+                    <p><strong>IMEI 2:</strong> 359340981289603</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 832</p>
+                    <p><strong>Série:</strong> 2309ME01ANu9</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 817</p>
+                    <p><strong>Série:</strong> N/A</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 424</p>
+                    <p><strong>Série:</strong> 304AZNK6R719</p>
+                    <p><strong>Modelo:</strong> LG 22MP410</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 290</p>
+                    <p><strong>Série:</strong> 2243CE2580E9 - 2240LZ1KEV8</p>
+                    <p><strong>Modelo:</strong> Logitech Mk270</p>
+                </div>
+            </div>
+            <div class="responsibility-link">
+                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Felipe Lemes Fernandes</h3>
+            <p><strong>Cargo:</strong> Analista de Desempenho</p>
+            <p><strong>Departamento:</strong> Inteligência de Negócio</p>
+            <p><strong>E-mail:</strong> felipe.fernandes@amorsaude.com</p>
+            <p><strong>CPF:</strong> 410.057.008-26</p>
+            <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 231</p>
+                    <p><strong>Série:</strong> 12KL0v3</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 806</p>
+                    <p><strong>Série:</strong> N/A</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 043</p>
+                    <p><strong>Série:</strong> 1232C03</p>
+                    <p><strong>Modelo:</strong> Dell P2018HC</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 320 - 863</p>
+                    <p><strong>Série:</strong> CN-ONCRCC-LO300-331-KOUK-A01</p>
+                    <p><strong>Modelo:</strong> Dell MK5221W</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 856</p>
+                    <p><strong>Série:</strong> 2309Me01AQY9</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+            </div>
+            <div class="responsibility-link">
+                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Fernanda Beatriz Silva Barbosa</h3>
+            <p><strong>Cargo:</strong> Consultora Operações</p>
+            <p><strong>Departamento:</strong> Consultoria</p>
+            <p><strong>E-mail:</strong> fernanda.barbosa@amorsaude.com</p>
+            <p><strong>CPF:</strong> 120.426.446-50</p>
+            <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 228</p>
+                    <p><strong>Série:</strong> B3KL0V3</p>
+                    <p><strong>Modelo:</strong> Vostro 15 3510</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 676</p>
+                    <p><strong>Série:</strong> 273963701</p>
+                    <p><strong>Modelo:</strong> Jabra HSC016</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 71 - 705</p>
+                    <p><strong>Série:</strong> 2250CE0D2769 - 2240LZX5K8u8</p>
+                    <p><strong>Modelo:</strong> Logitech Mk235</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Patrimônio:</strong> 703</p>
+                    <p><strong>Série:</strong> N/A</p>
+                    <p><strong>Modelo:</strong> Alumínio</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> N/A</p>
+                    <p><strong>Série:</strong> R9XTA0EFW1K</p>
+                    <p><strong>Modelo:</strong> Galaxy A03</p>
+                    <p><strong>IMEI 1:</strong> 350916877024987/01</p>
+                    <p><strong>IMEI 2:</strong> 354654237024985/01</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 398</p>
+                    <p><strong>Série:</strong> 303AZSP96550</p>
+                    <p><strong>Modelo:</strong> LG 22MP410-B</p>
+                </div>
+            </div>
+            <div class="responsibility-link">
+                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <h3>👤 Fernanda Radiguieri Espadari</h3>
+            <p><strong>Cargo:</strong> Estagiária</p>
+            <p><strong>Departamento:</strong> BackOffice</p>
+            <p><strong>E-mail:</strong> fernanda.espadari@amorsaude.com</p>
+            <p><strong>CPF:</strong> 444.709.338-30</p>
+            <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
+            <p><span class="status ativo">Status:</span></p>
+            <div class="devices">
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Patrimônio:</strong> 450</p>
+                    <p><strong>Série:</strong> 1SZZHZE</p>
+                    <p><strong>Modelo:</strong> Dell Vostro 3520</p>
+                </div>
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio:</strong> 922</p>
+                    <p><strong>Série:</strong> 2332ME01XKZ8</p>
+                    <p><strong>Modelo:</strong> Logitech H390</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️ Teclado e Mouse</h4>
+                    <p><strong>Patrimônio:</strong> 457</p>
+                    <p><strong>Série:</strong> 2230LZX1R9W8</p>
+                    <p><strong>Modelo:</strong> Logitech K270 - M185</p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 390</p>
+                    <p><strong>Série:</strong> 303AZQU96524</p>
+                    <p><strong>Modelo:</strong> LG-22MP410-P</p>
+                </div>
+            </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>🖥️ Monitor</h4>
+                <p><strong>Patrimônio:</strong> 128</p>
+                <p><strong>Série:</strong> BR0V4FTWTVB001A6805BA03</p>
+                <p><strong>Modelo:</strong> E1920H</p>
+            </div>
+            <div class="responsibility-link">
+                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+
+
+
+
+
     </div>
+    <!--DiV FINAL-->
+    <?php include '../includes/footer.php' ?>
+
 </body>
 
 </html>
