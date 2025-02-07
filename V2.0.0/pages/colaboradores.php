@@ -4635,10 +4635,7 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-            <div class="attention-info">
-                <h2>⚠️ Equipamentos Comprometidos</h2>
-                <p><strong>Alerta:</strong> Equipamento(s) comprometido(s): Suporte, Monitor, Notebook, Fone, Teclado e Mouse.</p>
-            </div>
+
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -4775,10 +4772,6 @@
                     <p><strong>Série:</strong> 403AZDB84034</p>
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
-            </div>
-            <div class="attention-info">
-                <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta:</strong> Equipamento(s) comprometido(s): Monitor, Fone.</p>
             </div>
             <div class="devices">
                 <div class="responsibility-link">
