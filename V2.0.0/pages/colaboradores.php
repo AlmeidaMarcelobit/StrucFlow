@@ -14,7 +14,7 @@
     <?php include '../includes/header.php'?>
     <h2 style="text-align:center;margin-top:10px">📋 Inventário de Colaboradores</h2>
     <div class="container">
-        <div class="card"><img src="../assets/imagem/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <div class="card"><img src="../imagem/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
             <h3>👤 Alessandra Rais</h3>
             <p><strong>Cargo:</strong>Analista de Relacionamento com Profissionais da Saúde</p>
             <p><strong>Departamento:</strong>Relacionamento com Profissionais da Saúde</p>
@@ -22,7 +22,7 @@
             <p><strong>CPF:</strong>323.024.848-19</p>
             <p><strong>Centro de Custo:</strong></p>
             <p><strong>Centro de Custo</strong>12003 - Relacionamento Profissionais da Saúde</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -43,14 +43,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
+        <div class="card"><img src="../imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
             <h3>👤 Alexy Chiodi Divino</h3>
             <p><strong>Cargo:</strong>Gerente de CRM</p>
             <p><strong>Departamento:</strong>CRM</p>
             <p><strong>E-mail:</strong>alexy.divino@amorsaude.com</p>
             <p><strong>CPF:</strong>402.811.958-89</p>
             <p><strong>Centro de Custo</strong>14008 - Gerência de CRM</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -79,14 +79,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva" class="profile-pic">
+        <div class="card"><img src="../imagem/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva" class="profile-pic">
             <h3>👤 Aline Alves Sobral Da Silva</h3>
             <p><strong>Cargo:</strong>Consultor de Operações</p>
             <p><strong>Departamento:</strong>Louzada</p>
             <p><strong>E-mail:</strong>aline.silva@amorsaude.com</p>
             <p><strong>CPF:</strong>449.168.138-47</p>
             <p><strong>Centro de Custo</strong>18004 - Laboratório Louzada </p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -101,14 +101,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira" class="profile-pic">
+        <div class="card"><img src="../imagem/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira" class="profile-pic">
             <h3>👤 Aline Camilo de Oliveira</h3>
             <p><strong>Cargo:</strong>Consultor de Operação</p>
             <p><strong>Departamento:</strong>Consultoria</p>
             <p><strong>E-mail:</strong>aline.oliveira@amorsaude.com</p>
             <p><strong>CPF:</strong>445.597.828-30</p>
             <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -155,14 +155,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <div class="card"><img src="../imagem/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
             <h3>👤 Allan Magrini</h3>
             <p><strong>Cargo:</strong>Desenvolvedor Plsql</p>
             <p><strong>Departamento:</strong>Desenvolvimento</p>
             <p><strong>E-mail:</strong>allan.magrini@amorsaude.com</p>
             <p><strong>CPF:</strong>266.169.148-0</p>
             <p><strong>Centro de Custo</strong>13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status: Ativado</span></p>
+            <p><span class="status Online">Status: Ativado</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -195,14 +195,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
+        <div class="card"><img src="../imagem/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
             <h3>👤 Amanda da Silva Reis</h3>
             <p><strong>Cargo:</strong>Assistente De Canais Digitais E Relacionamento</p>
-            <p><strong>Departamento:</strong>Administrativo</p>
+            <p><strong>Departamento:</strong>AdministrOnline</p>
             <p><strong>E-mail:</strong>amanda.reis@amorsaude.com</p>
             <p><strong>CPF:</strong>432.458.608-03</p>
             <p><strong>Centro de Custo:</strong>22001 - Consulta Assistida</p>
-            <p><span class="status desativado">Status: Desativo</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -235,14 +235,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino" class="profile-pic">
+        <div class="card"><img src="../imagem/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino" class="profile-pic">
             <h3>👤 Amanda Dualattka Marcolino</h3>
             <p><strong>Cargo:</strong>Assistente de CS</p>
             <p><strong>Departamento:</strong>Atendimento ao Cliente</p>
             <p><strong>E-mail:</strong>amanda.marcolino@amorsaude.com</p>
             <p><strong>CPF:</strong>435.47.258-67</p>
             <p><strong>Centro de Custo:</strong>12002 - SAC</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -275,14 +275,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
+        <div class="card"><img src="../imagem/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
             <h3>👤 Amanda Gazetta Amigo</h3>
             <p><strong>Cargo:</strong>Coordenadora de Operação</p>
             <p><strong>Departamento:</strong>Regional 2</p>
             <p><strong>E-mail:</strong>amanda.gazetta@amorsaude.com</p>
             <p><strong>CPF:</strong>418.310.088-74</p>
             <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -336,14 +336,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/imagem/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira" class="profile-pic">
+        <div class="card"><img src="../imagem/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira" class="profile-pic">
             <h3>👤 Ana Beatriz Melo Silveira</h3>
             <p><strong>Cargo:</strong>Estagiário(a) Dev</p>
             <p><strong>Departamento:</strong>Desenvolvimento</p>
             <p><strong>E-mail:</strong>anabeatriz.silveira@amorsaude.com</p>
             <p><strong>CPF:</strong>154.666.279-66</p>
             <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -372,14 +372,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Ana%20Carolina%20Lima.png" alt="Foto de Ana Carolina Delsin de Lima" class="profile-pic">
+        <div class="card"><img src="../imagem/Ana%20Carolina%20Lima.png" alt="Foto de Ana Carolina Delsin de Lima" class="profile-pic">
             <h3>👤 Ana Carolina Delsin de Lima</h3>
             <p><strong>Cargo:</strong>Consultora de Operações</p>
             <p><strong>Departamento:</strong>Consultoria</p>
             <p><strong>E-mail:</strong>anacarolina.lima@amorsaude.com</p>
             <p><strong>CPF:</strong>420.088.578-67</p>
             <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -419,14 +419,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
+        <div class="card"><img src="../imagem/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
             <h3>👤 Ana Carolina Rossi</h3>
             <p><strong>Cargo:</strong>Analista Comercial</p>
             <p><strong>Departamento:</strong>Amor Cirurgias</p>
             <p><strong>E-mail:</strong>anacarolina.rossi@amorsaude.com</p>
             <p><strong>CPF:</strong>305.254.438-19</p>
-            <p><strong>Centro de Custo:</strong>32001 - Administrativo</p>
-            <p><span class="status desativado">Status: Desativada</span></p>
+            <p><strong>Centro de Custo:</strong>32001 - AdministrOnline</p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -461,14 +461,14 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves" class="profile-pic">
+        <div class="card"><img src="../imagem/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves" class="profile-pic">
             <h3>👤 Ana Caroline de Rezende Alves</h3>
             <p><strong>Cargo:</strong>Consultora de Operações</p>
             <p><strong>Departamento:</strong>Consultoria</p>
             <p><strong>E-mail:</strong>anacaroline.alves@amorsaude.com</p>
             <p><strong>CPF:</strong>115.334.276-66</p>
             <p><strong>Centro de Custo:</strong>12001 - Regional 1</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -488,7 +488,6 @@
                     <p><strong>Série:</strong>2232CE1CFB78 - 2230LZX1R9E8</p>
                     <p><strong>Modelo:</strong>Logitech K270 - M185</p>
                 </div>
-
                 <div class="device">
                     <h4>📌 Suporte</h4>
                     <p><strong>Patrimônio:</strong>927</p>
@@ -507,7 +506,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida" class="profile-pic">
+            <img src="../imagem/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida" class="profile-pic">
             <h3>Ana Clara Lourenco de Almeida</h3>
             <p><strong>Cargo:</strong> Auxiliar de Pessoas & Cultura</p>
             <p><strong>Departamento:</strong> Remuneração e Benefícios</p>
@@ -515,30 +514,26 @@
             <p><strong>CPF:</strong> 483.778.638-39</p>
             <p><strong>Centro de Custo:</strong> 13007 - Departamento Pessoal</p>
             <p><strong>Substituição:</strong> Isabella Biscaro Vieira De Sousa</p>
-            <p><span class="status ativo">Status: Ativo</span></p> <!-- Altere para "desativado" se necessário -->
+            <p><span class="status Online">Status: Online</span></p> <!-- Altere para "Offline" se necessário -->
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 2369</p>
                     <p><strong>Série:</strong> PE0CMYMG</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G3 IAP</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1464</p>
                     <p><strong>Série:</strong> 2334CE2DE758</p>
                     <p><strong>Modelo:</strong> MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 978</p>
                     <p><strong>Série:</strong> 2330AYO43088</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 984</p>
@@ -546,54 +541,45 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
                 </div>
             </div>
-
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
+            <img src="../imagem/Ana Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
             <h3>👤 Ana Claudia Ferreira Nunes</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> ana.nunes@amorsaude.com</p>
             <p><strong>CPF:</strong> 362.982.368-80</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><strong>Data de Admissão:</strong> 21 de novembro de 2023</p>
-            <p><strong>Data de Demissão:</strong> (Não informada)</p>
-            <p><span class="status ativo">Status: Ativado</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 007</p>
                     <p><strong>Série:</strong> DMJLLH3</p>
                     <p><strong>Modelo:</strong> Dell Inspiron 3501</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 252</p>
                     <p><strong>Série:</strong> 2232CE1CC278</p>
                     <p><strong>Modelo:</strong> Logitech K270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 252</p>
                     <p><strong>Série:</strong> 2232CE1CC278</p>
                 </div>
-
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 453</p>
                     <p><strong>Série:</strong> 307AZNK97767</p>
                     <p><strong>Modelo:</strong> LG 22MP410</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 905</p>
@@ -609,43 +595,38 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes" class="profile-pic">
+            <img src="../imagem/Ana Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes" class="profile-pic">
             <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
             <p><strong>Cargo:</strong> Assistente de Retenção</p>
             <p><strong>Departamento:</strong> Relacionamento com Cliente / Retenção</p>
             <p><strong>E-mail:</strong> ana.hermogenes@amorsaude.com</p>
             <p><strong>CPF:</strong> 313.083.518-01</p>
             <p><strong>Centro de Custo:</strong> 72023 - Relacionamento com Cliente / Retenção</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1503</p>
                     <p><strong>Série:</strong> F3Y3F14</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 203</p>
                     <p><strong>Série:</strong> JNZYR0036</p>
                     <p><strong>Modelo:</strong> Logitech K235</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 203</p>
                     <p><strong>Série:</strong> JNZYR0036</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 989</p>
                     <p><strong>Série:</strong> 2330AY02D1AB</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 987</p>
@@ -661,50 +642,44 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Julia Bujardi.png" alt="Foto de Ana Julia Bujardi" class="profile-pic">
+            <img src="../imagem/Ana Julia Bujardi.png" alt="Foto de Ana Julia Bujardi" class="profile-pic">
             <h3>👤 Ana Julia Bujardi</h3>
             <p><strong>Cargo:</strong> Analista de Administração de Pessoal</p>
             <p><strong>Departamento:</strong> Administração de Pessoal</p>
             <p><strong>E-mail:</strong> ana.bujardi@amorsaude.com</p>
             <p><strong>CPF:</strong> 451.239.538-50</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1454</p>
                     <p><strong>Série:</strong> 8V9VD14</p>
                     <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 972</p>
                     <p><strong>Série:</strong> 2330AY031F68</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1453</p>
                     <p><strong>Série:</strong> 2334CE2DA8B8</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1453</p>
                     <p><strong>Série:</strong> 2331LXRRGP8</p>
                 </div>
-
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 354</p>
                     <p><strong>Série:</strong> 302AZDB7F874</p>
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 958</p>
@@ -720,30 +695,27 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Sem Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
+            <img src="../imagem/Sem Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
             <h3>👤 Ana Laura Ferrari Maila Santos</h3>
-            <p><strong>Cargo:</strong> Assistente Administrativo</p>
+            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> Amor Cirurgias</p>
             <p><strong>E-mail:</strong> analaura.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 451.414.178-08</p>
-            <p><strong>Centro de Custo:</strong> 32001 - Administrativo</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><strong>Centro de Custo:</strong> 32001 - AdministrOnline</p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 168</p>
                     <p><strong>Série:</strong> PE097838</p>
                     <p><strong>Modelo:</strong> Lenovo Ideapd3 15alc6</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 595</p>
                     <p><strong>Série:</strong> 26438595</p>
                     <p><strong>Modelo:</strong> Jabra HSC016</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 585</p>
@@ -760,30 +732,27 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli" class="profile-pic">
+            <img src="../imagem/Ana Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli" class="profile-pic">
             <h3>👤 Ana Luisa Fumagalli</h3>
             <p><strong>Cargo:</strong> Coordenadora de Backoffice</p>
             <p><strong>Departamento:</strong> Gerencia Operações</p>
             <p><strong>E-mail:</strong> analuisa.fumagalli@amorsaude.com</p>
             <p><strong>CPF:</strong> 430.792.958-62</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 257</p>
                     <p><strong>Série:</strong> CNZ64R3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1553</p>
                     <p><strong>Série:</strong> 2347CE268028</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1553</p>
@@ -798,43 +767,38 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
+            <img src="../imagem/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
             <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
             <p><strong>Cargo:</strong> Assistente de Cadastro</p>
             <p><strong>Departamento:</strong> Cadastro</p>
             <p><strong>E-mail:</strong> ana.costa@amorsaude.com</p>
             <p><strong>CPF:</strong> 401.886.978-96</p>
             <p><strong>Centro de Custo:</strong> 72021 - Cadastro</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 487</p>
                     <p><strong>Série:</strong> CJHJHZ3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 327</p>
                     <p><strong>Série:</strong> 2240LZX5J3C8</p>
                     <p><strong>Modelo:</strong> Logitech K235</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 708</p>
                     <p><strong>Série:</strong> 2250CE0D2709</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 908</p>
                     <p><strong>Série:</strong> 2332ME0207P8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 918</p>
@@ -850,44 +814,39 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Ana Paula Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
+            <img src="../imagem/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
             <h3>👤 Ana Paula Romualdo</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
-            <p><strong>Departamento:</strong> Telemedicina / Administrativo</p>
+            <p><strong>Departamento:</strong> Telemedicina / AdministrOnline</p>
             <p><strong>E-mail:</strong> anapaula.romualdo@amorsaude.com</p>
             <p><strong>CPF:</strong> 477.406.758-06</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 310</p>
                     <p><strong>Série:</strong> CVZHNY3</p>
                     <p><strong>Modelo:</strong> Dell Latitude 3420</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 884</p>
                     <p><strong>Série:</strong> 2316ME026F9</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 883</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 309</p>
                     <p><strong>Série:</strong> SPC2113001145</p>
                     <p><strong>Modelo:</strong> Philips C501</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 309</p>
@@ -901,32 +860,28 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/André Medina.png" alt="Foto de Andre Medina" class="profile-pic">
+            <img src="../imagem/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
             <h3>👤 Andre Luiz Medina De Andrade</h3>
             <p><strong>Cargo:</strong> Gerente Regional De Operações</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
             <p><strong>E-mail:</strong> andre.medina@amorsaude.com</p>
             <p><strong>CPF:</strong> 270.517.138-09</p>
             <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 210</p>
                     <p><strong>Série:</strong> PE09XVKV</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G2</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 643</p>
                     <p><strong>Série:</strong> 273749472</p>
                     <p><strong>Modelo:</strong> Jabra HSC016</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 592</p>
@@ -935,27 +890,23 @@
                     <p><strong>IMEI 1:</strong> 35498588534719/01</p>
                     <p><strong>IMEI 2:</strong> 355106278534710/01</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 162</p>
                     <p><strong>Série:</strong> 2250CE0D2799</p>
                     <p><strong>Modelo:</strong> Logitech MK235</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 699</p>
                     <p><strong>Série:</strong> 2240LZX5N118</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 700</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>🔌 Adaptador USB-C</h4>
                     <p><strong>Patrimônio:</strong> 965</p>
@@ -970,25 +921,22 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Andre Rigobello.png" alt="Foto de André Rigobello Pinto" class="profile-pic">
+            <img src="../imagem/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto" class="profile-pic">
             <h3>👤 André Rigobello Pinto</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> andre.rigobello@amorsaude.com</p>
             <p><strong>CPF:</strong> 343.695.638-44</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 1434</p>
                     <p><strong>Série:</strong> 31AZDB60146</p>
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 986</p>
@@ -997,35 +945,30 @@
                     <p><strong>IMEI 1:</strong> 355569154458892</p>
                     <p><strong>IMEI 2:</strong> 355569154458900</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 982</p>
                     <p><strong>Série:</strong> F5DY014</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 963</p>
                     <p><strong>Série:</strong> 2330AY31E18</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1471</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1020</p>
                     <p><strong>Série:</strong> 2232CE1C7118</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1020</p>
@@ -1039,32 +982,28 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Andreia Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
+            <img src="../imagem/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
             <h3>👤 Andreia Lopes</h3>
             <p><strong>Cargo:</strong> Coordenadora Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> andreia.lopes@amorsaude.com</p>
             <p><strong>CPF:</strong> 416.398.198-60</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 206</p>
                     <p><strong>Série:</strong> PE09EEK5</p>
                     <p><strong>Modelo:</strong> Lenovo V15 82ME</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 632</p>
                     <p><strong>Série:</strong> 00254425932</p>
                     <p><strong>Modelo:</strong> Jabra HSC016</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 631</p>
@@ -1081,52 +1020,45 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Angelica Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires" class="profile-pic">
+            <img src="../imagem/Angelica%20Pires.png"="Foto de Angelica Emanuela dos Santos Pires" class="profile-pic">
             <h3>👤 Angelica Emanuela dos Santos Pires</h3>
             <p><strong>Cargo:</strong> Assistente de CS</p>
             <p><strong>Departamento:</strong> SAC</p>
             <p><strong>E-mail:</strong> angelica.pires@amorsaude.com</p>
             <p><strong>CPF:</strong> 351.200.428-80</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 639</p>
                     <p><strong>Série:</strong> R9XT9071V2Z</p>
                     <p><strong>Modelo:</strong> Galaxy A03</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 209</p>
                     <p><strong>Série:</strong> PE09XVKK</p>
                     <p><strong>Modelo:</strong> Lenovo V15 82ME</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 915</p>
                     <p><strong>Série:</strong> 2232ME0208J8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 349</p>
                     <p><strong>Série:</strong> 2234CE182249</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 350</p>
                     <p><strong>Série:</strong> 130LZN0ZWZ8</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 333</p>
@@ -1148,52 +1080,45 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Ariane Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
+            <img src="../imagem/Ariane Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
             <h3>👤 Ariane Alves Herrera</h3>
-            <p><strong>Cargo:</strong> Analista Administrativo SR</p>
+            <p><strong>Cargo:</strong> Analista AdministrOnline SR</p>
             <p><strong>Departamento:</strong> Operações Plano</p>
             <p><strong>E-mail:</strong> ariane.herrera@amorsaude.com</p>
             <p><strong>CPF:</strong> 395.936.898-42</p>
             <p><strong>Centro de Custo:</strong> 72024 - Operações Plano</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 907</p>
                     <p><strong>Série:</strong> 23296GG013A98</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 910</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 496</p>
                     <p><strong>Série:</strong> 2323LZX5KR88</p>
                     <p><strong>Modelo:</strong> Logitech M185 MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 496</p>
                     <p><strong>Série:</strong> 2325CE1138048</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 498</p>
                     <p><strong>Série:</strong> JJHJHZ3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 1204</p>
@@ -1211,44 +1136,39 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Sem Foto.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
+            <img src="../imagem/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
             <h3>👤 Arnaldo Rocha Junior</h3>
             <p><strong>Cargo:</strong> Gerente Contábil</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
             <p><strong>E-mail:</strong> arnaldo.junior@amorsaude.com</p>
             <p><strong>CPF:</strong> 252.705.628-80</p>
             <p><strong>Centro de Custo:</strong> 13003 - Contábil</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1544</p>
                     <p><strong>Série:</strong> PE0C4SLQ</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G3 IAP</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 1242</p>
                     <p><strong>Série:</strong> 2316GG00ASR8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1243</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1543</p>
                     <p><strong>Série:</strong> 2347CE268008</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1543</p>
@@ -1262,46 +1182,40 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Artur Mello.png" alt="Foto de Artur Ferreira Morais Mello" class="profile-pic">
+            <img src="../imagem/Artur Mello.png" alt="Foto de Artur Ferreira Morais Mello" class="profile-pic">
             <h3>👤 Artur Ferreira Morais Mello</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> artur.mello@amorsaude.com</p>
             <p><strong>CPF:</strong> 397.945.948-90</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 1113</p>
                     <p><strong>Série:</strong> 2421AY01PGZ8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 452</p>
                     <p><strong>Série:</strong> 308AZXC8A218</p>
                     <p><strong>Modelo:</strong> LG 22MP410</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 381</p>
                     <p><strong>Série:</strong> HRFQXW3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 828</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 1031</p>
@@ -1310,14 +1224,12 @@
                     <p><strong>IMEI 1:</strong> 359340981262667</p>
                     <p><strong>IMEI 2:</strong> 359340981262659</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 460</p>
                     <p><strong>Série:</strong> 2232CE1C7278</p>
                     <p><strong>Modelo:</strong> K270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 460</p>
@@ -1325,7 +1237,6 @@
                     <p><strong>Modelo:</strong> M185</p>
                 </div>
             </div>
-
             <h2>Equipamentos Comprometidos</h2>
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1340,32 +1251,28 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Sem Foto.png" alt="Foto de Barbara Carvalho" class="profile-pic">
+            <img src="../imagem/Sem Foto.png" alt="Foto de Barbara Carvalho" class="profile-pic">
             <h3>👤 Barbara Carvalho</h3>
             <p><strong>Cargo:</strong> Analista de Processos e Qualidade</p>
             <p><strong>Departamento:</strong> Customer Success</p>
             <p><strong>E-mail:</strong> barbara.carvalho@amorsaude.com</p>
             <p><strong>CPF:</strong> 399.157.218-46</p>
             <p><strong>Centro de Custo:</strong> 12001 - Customer Success</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 77</p>
                     <p><strong>Série:</strong> 4NVMKW3</p>
                     <p><strong>Modelo:</strong> Dell Vostro 153510</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 692</p>
                     <p><strong>Série:</strong> 275336253</p>
                     <p><strong>Modelo:</strong> Jabra HSC016</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 694</p>
@@ -1383,43 +1290,38 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Barbara Bidurin.png" alt="Foto de Barbara Bidurin" class="profile-pic">
+            <img src="../imagem/Barbara Bidurin.png" alt="Foto de Barbara Bidurin" class="profile-pic">
             <h3>👤 Barbara Bidurin</h3>
             <p><strong>Cargo:</strong> Assistente Suprimentos</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> barbara.bidurin@amorsaude.com</p>
             <p><strong>CPF:</strong> 364.431.038-66</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1462</p>
                     <p><strong>Série:</strong> 9V9VD14</p>
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 1233</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1460</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Dell KM5221W</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 1460</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 721</p>
@@ -1436,39 +1338,34 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Beatriz Alves.png" alt="Foto de Beatriz de Aguiar Alves" class="profile-pic">
+            <img src="../imagem/Beatriz Alves.png" alt="Foto de Beatriz de Aguiar Alves" class="profile-pic">
             <h3>👤 Beatriz de Aguiar Alves</h3>
             <p><strong>Cargo:</strong> Assistente de Cadastro</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
             <p><strong>E-mail:</strong> beatriz.alves@amorsaude.com</p>
             <p><strong>CPF:</strong> 437.698.308-06</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 920</p>
                     <p><strong>Série:</strong> 2316ME02F8B8</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 58</p>
                     <p><strong>Série:</strong> P90F002</p>
                     <p><strong>Modelo:</strong> Dell Inspiron 15</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 365</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
                     <p><strong>Patrimônio:</strong> 463</p>
@@ -1478,7 +1375,6 @@
             </div>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
-
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado e dados para os teclado e mouse.</p>
             </div>
             <div class="devices">
@@ -1488,45 +1384,39 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Beatriz Moreira.png" alt="Foto de Beatriz Olive Pinho Moreira" class="profile-pic">
+            <img src="../imagem/Beatriz Moreira.png" alt="Foto de Beatriz Olive Pinho Moreira" class="profile-pic">
             <h3>👤 Beatriz Olive Pinho Moreira</h3>
             <p><strong>Cargo:</strong> Estagiária</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
             <p><strong>E-mail:</strong> beatriz.moreira@amorsaude.com</p>
             <p><strong>CPF:</strong> 480.559.938-31</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 38</p>
                     <p><strong>Série:</strong> 2HQJS63</p>
                     <p><strong>Modelo:</strong> Dell Inspiron 15 3510</p>
                 </div>
-
                 <div class="device">
                     <h4>🔩 Suporte de Alumínio para Notebook</h4>
                     <p><strong>Patrimônio:</strong> 857</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 516</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Dell</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 858</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 877</p>
@@ -1541,45 +1431,39 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Beatriz Chaves.png" alt="Foto de Beatriz Santo Chaves" class="profile-pic">
+            <img src="../imagem/Beatriz%20Chaves.png" alt="Foto de Beatriz Santo Chaves" class="profile-pic">
             <h3>👤 Beatriz Santo Chaves</h3>
             <p><strong>Cargo:</strong> Coordenador De Experiência Do Cliente</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
             <p><strong>E-mail:</strong> beatriz.chaves@amorsaude.com</p>
             <p><strong>CPF:</strong> 331.770.148-09</p>
             <p><strong>Centro de Custo:</strong> 12004 - Experiência do Cliente</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 188</p>
                     <p><strong>Série:</strong> PE09FTTM</p>
                     <p><strong>Modelo:</strong> Lenovo IdeaPad 3-15ALC6</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 1007</p>
                     <p><strong>Série:</strong> 2350AY05D59</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 337</p>
                     <p><strong>Série:</strong> 2234CE182199</p>
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 338</p>
                     <p><strong>Série:</strong> 2230LZNOZNU8</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>
                     <p><strong>Patrimônio:</strong> 588</p>
@@ -1588,7 +1472,6 @@
                     <p><strong>IMEI 1:</strong> 354985898154293/01</p>
                     <p><strong>IMEI 2:</strong> 355106279154294/01</p>
                 </div>
-
                 <div class="device">
                     <h4>🔌 Adaptador de Rede</h4>
                     <p><strong>Patrimônio:</strong> 611</p>
@@ -1597,8 +1480,6 @@
                 </div>
             </div>
             <h2>Equipamentos Comprometidos</h2>
-
-
             <div class="device">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio:</strong> 598</p>
@@ -1612,39 +1493,34 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Beatriz Rezende.png" alt="Foto de Beatriz Vaz Rezende" class="profile-pic">
+            <img src="../imagem/Beatriz%20Rezende.png" alt="Foto de Beatriz Vaz Rezende" class="profile-pic">
             <h3>👤 Beatriz Vaz Rezende</h3>
             <p><strong>Cargo:</strong> Especialista Hubspot</p>
             <p><strong>Departamento:</strong> CRM</p>
             <p><strong>E-mail:</strong> beatriz.rezende@amorsaude.com</p>
             <p><strong>CPF:</strong> 446.206.208-66</p>
             <p><strong>Centro de Custo:</strong> 14003 - CRM</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 446</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> Logitech K270</p>
                 </div>
-
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
                     <p><strong>Patrimônio:</strong> 446</p>
                     <p><strong>Série:</strong> (Não informado)</p>
                     <p><strong>Modelo:</strong> M185</p>
                 </div>
-
                 <div class="device">
                     <h4>🎧 Fone</h4>
                     <p><strong>Patrimônio:</strong> 913</p>
                     <p><strong>Série:</strong> 2329GG15AAB</p>
                     <p><strong>Modelo:</strong> Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 458</p>
@@ -1654,7 +1530,6 @@
             </div>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
-
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
             </div>
             <div class="devices">
@@ -1664,25 +1539,22 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Erica%20Teodoro%20de%20Oliveira%20da%20Silva.png" alt="Foto de Erica Teodoro de Oliveira da Silva" class="profile-pic">
+            <img src="../imagem/Erica%20Teodoro%20de%20Oliveira%20da%20Silva.png" alt="Foto de Erica Teodoro de Oliveira da Silva" class="profile-pic">
             <h3>👤 Erica Teodoro de Oliveira da Silva</h3>
             <p><strong>Cargo:</strong> Analista de Suporte Pleno</p>
             <p><strong>Departamento:</strong> Suporte</p>
             <p><strong>E-mail:</strong> erica.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 369.623.608-00</p>
             <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
-
                 <div class="device">
                     <h4>💻 Notebook</h4>
                     <p><strong>Patrimônio:</strong> 214</p>
                     <p><strong>Série:</strong> PE9014B21134</p>
                     <p><strong>Modelo:</strong> Lenovo V15 G3 AIP</p>
                 </div>
-
                 <div class="device">
                     <h4>⌨️ Teclado</h4>
                     <p><strong>Patrimônio:</strong> 1489</p>
@@ -1717,14 +1589,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bianca Duzzi.png" alt="Foto de Bianca Festucci Duzzi" class="profile-pic">
+            <img src="../imagem/Bianca%20Duzzi.png" alt="Foto de Bianca Festucci Duzzi" class="profile-pic">
             <h3>👤 Bianca Festucci Duzzi</h3>
             <p><strong>Cargo:</strong> Analista Treinamento Jr</p>
             <p><strong>Departamento:</strong> Pessoas E Cultura</p>
             <p><strong>E-mail:</strong> bianca.duzzi@amorsaude.com</p>
             <p><strong>CPF:</strong> 484.879.158-84</p>
             <p><strong>Centro de Custo:</strong> 13006</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -1760,14 +1632,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bianca%20In%C3%A1cio.png" alt="Foto de Bianca Inacia da Silva" class="profile-pic">
+            <img src="../imagem/Bianca%20In%C3%A1cio.png" alt="Foto de Bianca Inacia da Silva" class="profile-pic">
             <h3>👤 Bianca Inacia da Silva</h3>
             <p><strong>Cargo:</strong> Assistente de Operações</p>
             <p><strong>Departamento:</strong> Backoffice</p>
             <p><strong>E-mail:</strong> bianca.inacio@amorsaude.com</p>
             <p><strong>CPF:</strong> 480.094.538-03</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -1813,14 +1685,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Sem%20Foto.png" alt="Foto de Brian Cardoso Ferreira" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto de Brian Cardoso Ferreira" class="profile-pic">
             <h3>👤 Brian Cardoso Ferreira</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> brian.ferreira@amorsaude.com</p>
             <p><strong>CPF:</strong> 409.024.568-06</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -1856,14 +1728,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bruna%20Ros%C3%A1rio.png" alt="Foto de Bruna Rosário" class="profile-pic">
+            <img src="../imagem/Bruna%20Ros%C3%A1rio.png" alt="Foto de Bruna Rosário" class="profile-pic">
             <h3>👤 Bruna de Freitas Rosário</h3>
             <p><strong>Cargo:</strong> Product Owner Jr</p>
             <p><strong>Departamento:</strong> Produto</p>
             <p><strong>E-mail:</strong> bruna.rosario@amorsaude.com</p>
             <p><strong>CPF:</strong> 422.466.868-27</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️ Teclado e Mouse</h4>
@@ -1904,14 +1776,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bruna%20Emilio.png" alt="Foto de Bruna Rafaela Emilio" class="profile-pic">
+            <img src="../imagem/Bruna%20Emilio.png" alt="Foto de Bruna Rafaela Emilio" class="profile-pic">
             <h3>👤 Bruna Rafaela Emilio</h3>
             <p><strong>Cargo:</strong> Consultoria de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> bruna.emilio@amorsaude.com</p>
             <p><strong>CPF:</strong> 416.119.918-03</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️ Teclado e Mouse</h4>
@@ -1952,7 +1824,6 @@
                     <p><strong>Modelo:</strong> Generic</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -1960,14 +1831,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bruno%20Dias.png" alt="Foto de Bruno Dias" class="profile-pic">
+            <img src="../imagem/Bruno%20Dias.png" alt="Foto de Bruno Dias" class="profile-pic">
             <h3>👤 Bruno de Moraes Dias</h3>
             <p><strong>Cargo:</strong> Analista de Projetos Sr</p>
             <p><strong>Departamento:</strong> Projetos / Processos</p>
             <p><strong>E-mail:</strong> bruno.dias@amorsaude.com</p>
             <p><strong>CPF:</strong> 345.319.798-42</p>
             <p><strong>Centro de Custo:</strong> 13004</p>
-            <p><span class="status desativado">Status: Desativado</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖇️ Suporte</h4>
@@ -2001,14 +1872,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Bruno%20Martins.png" alt="Foto de Bruno Martins" class="profile-pic">
+            <img src="../imagem/Bruno%20Martins.png" alt="Foto de Bruno Martins" class="profile-pic">
             <h3>👤 Bruno Guimarães Martins</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
-            <p><strong>Departamento:</strong></p>
-            <p><strong>E-mail:</strong></p>
+            <p><strong>Departamento:</strong>Operações </p>
+            <p><strong>E-mail:</strong>bruno.martins@amorsaude.com</p>
             <p><strong>CPF:</strong> 114.035.416-71</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status inativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2038,14 +1909,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Caio%20Souza.png" alt="Foto de Caio Souza" class="profile-pic">
+            <img src="../imagem/Caio%20Souza.png" alt="Foto de Caio Souza" class="profile-pic">
             <h3>👤 Caio Souza</h3>
             <p><strong>Cargo:</strong> Analista de Suporte Pl</p>
             <p><strong>Departamento:</strong> Suporte</p>
             <p><strong>E-mail:</strong> caio.souza@amorsaude.com</p>
-            <p><strong>CPF:</strong></p>
+            <p><strong>CPF:</strong>458.924.938-30</p>
             <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2075,15 +1946,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Caique%20Picolo.png" alt="Foto de Caique Picolo Dal Picolo" class="profile-pic">
+            <img src="../imagem/Caique%20Picolo.png" alt="Foto de Caique Picolo Dal Picolo" class="profile-pic">
             <h3>👤 Caique Picolo Dal Picolo</h3>
             <p><strong>Cargo:</strong> Analista de Implantação Jr</p>
             <p><strong>Departamento:</strong> CRM</p>
             <p><strong>E-mail:</strong> caique.picolo@amorsaude.com</p>
             <p><strong>CPF:</strong> 459.427.748-97</p>
             <p><strong>Centro de Custo:</strong> 14003 - CRM</p>
-            <p><span class="status ativo">Status:</span></p>
-
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -2104,7 +1974,6 @@
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
             </div>
-
             <h2>Equipamentos Comprometidos</h2>
             <div class="device">
                 <h4> ⌨️🖱️Teclado e Mouse</h4>
@@ -2112,7 +1981,6 @@
                 <p><strong>Série:</strong> 2316LZX3GEH8</p>
                 <p><strong>Modelo:</strong> Logitech K270 - M185</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -2120,15 +1988,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Camila%20Farias.png" alt="Foto de Camila Bagatini Manco Farias" class="profile-pic">
+            <img src="../imagem/Camila%20Farias.png" alt="Foto de Camila Bagatini Manco Farias" class="profile-pic">
             <h3>👤 Camila Bagatini Manco Farias</h3>
             <p><strong>Cargo:</strong> Consultora de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
-            <p><strong>E-mail:</strong></p>
+            <p><strong>E-mail:</strong>camila.farias@amorsaude.com</p>
             <p><strong>CPF:</strong> 218.379.668-50</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status inativo">Status:</span></p>
-
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2161,7 +2028,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -2169,15 +2035,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Sem%20Foto.png" alt="Foto de Camila Cruz Alves de Sousa" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto de Camila Cruz Alves de Sousa" class="profile-pic">
             <h3>👤 Camila Cruz Alves de Sousa</h3>
             <p><strong>Cargo:</strong> Consultoria de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong></p>
             <p><strong>CPF:</strong> 402.292.918-99</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status inativo">Status:</span></p>
-
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2210,12 +2075,10 @@
                     <p><strong>Modelo:</strong> LG 22MP410</p>
                 </div>
             </div>
-
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> Informação relevante aqui</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -2223,14 +2086,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Carla%20Costa.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Carla%20Costa.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Carla Karolaine Da Costa Silvestre Silva</h3>
             <p><strong>Cargo:</strong> Coordenadora de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
-            <p><strong>E-mail:</strong> Carla.costa@amorsaude.com</p>
+            <p><strong>E-mail:</strong> carla.costa@amorsaude.com</p>
             <p><strong>CPF:</strong> 123.694.346-51</p>
             <p><strong>Centro de Custo:</strong> 18005 - Odontologia</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2271,16 +2134,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Carolina%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Carolina%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Carolina Antonino Lopes</h3>
             <p><strong>Cargo:</strong> Assistente Treinamento</p>
             <p><strong>Departamento:</strong> Backoffice</p>
             <p><strong>E-mail:</strong> carolina.lopes@amorsaude.com</p>
             <p><strong>CPF:</strong> 079.460.726-86</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -2313,16 +2175,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Caroline%20Prata%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Caroline%20Prata%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Caroline Prata Lima</h3>
             <p><strong>Cargo:</strong> Assistente de Treinamentos</p>
             <p><strong>Departamento:</strong> Treinamentos</p>
             <p><strong>E-mail:</strong> caroline.lima@amorsaude.com</p>
             <p><strong>CPF:</strong> 083.293.926-94</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -2367,14 +2228,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Cau%C3%A3%20Bacileri.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Cau%C3%A3%20Bacileri.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Cauã Fernando Bacilieri Silva</h3>
             <p><strong>Cargo:</strong> Estagiario</p>
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>E-mail:</strong> caua.bacilieri@amorsaude.com</p>
             <p><strong>CPF:</strong> 484.911.558-64</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -2417,16 +2278,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Cinthia%20Viana.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Cinthia%20Viana.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Cinthia Cristiane Alexandre Viana</h3>
             <p><strong>Cargo:</strong> Analista Contábil Sr</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
             <p><strong>E-mail:</strong> cinthia.viana@amorsaude.com</p>
             <p><strong>CPF:</strong> 425.270.208-95</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -2465,16 +2325,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Claudia%20Ornela.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Claudia%20Ornela.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Claudia Matos Ornela</h3>
             <p><strong>Cargo:</strong> Analista Financeiro Jr</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> claudia.ornela@amorsaude.com</p>
             <p><strong>CPF:</strong> 104.448.606-65</p>
             <p><strong>Centro de Custo:</strong> 63001 - Financeiro Soluções</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -2528,14 +2387,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Claudia%20Dias.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Claudia%20Dias.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Claudia Regina Vieria Dias</h3>
-            <p><strong>Cargo:</strong> Assistente Administrativo</p>
+            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
             <p><strong>E-mail:</strong> claudia.dias@amorsaude.com</p>
             <p><strong>CPF:</strong> 162.236.378-70</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2582,16 +2441,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daiene Priscila Alexandre</h3>
             <p><strong>Cargo:</strong> Analista de Administração Pessoal</p>
             <p><strong>Departamento:</strong> Departamento Pessoal</p>
             <p><strong>E-mail:</strong> daiene.priscila@amorsaude.com</p>
             <p><strong>CPF:</strong> 415.939.168-09</p>
             <p><strong>Centro de Custo:</strong> 13007 - Departamento Pessoal</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -2626,16 +2484,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daila de Souza Silva Santos</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
             <p><strong>Departamento:</strong> Canais Digitais e Relacionamento</p>
             <p><strong>E-mail:</strong> daila.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 438.983.168-23</p>
             <p><strong>Centro de Custo:</strong> 22005 - Operação Canais Digitais</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2668,16 +2525,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="../assets/fotos/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Daniel Oliveira Rosa de Paula</h3>
             <p><strong>Cargo:</strong> Assistente de Cadastro</p>
             <p><strong>Departamento:</strong> Dental</p>
             <p><strong>E-mail:</strong> daniel.paula@amorsaude.com</p>
             <p><strong>CPF:</strong> 441.608.948-10</p>
             <p><strong>Centro de Custo:</strong> 72021 - Cadastro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2711,13 +2567,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Dariane Romerio</h3>
             <p><strong>Cargo:</strong> Assistente de CS</p>
             <p><strong>Departamento:</strong> SAC</p>
             <p><strong>E-mail:</strong> dariane.romerio@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2758,15 +2614,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Davi Ribeiro da Silva</h3>
             <p><strong>Email:</strong>davi.ribeiro@amorsaude.com</p>
             <p><strong>Cargo:</strong>Analista de dados</p>
             <p><strong>Departamento:</strong>Dados</p>
             <p><strong>CPF:</strong>417.150.938-60</p>
-            <p><strong>Data da admissão:</strong></p>
-            <p><strong>Data da desligamento:</strong>28.09.2023</p>
             <p><strong>Centro de Custo:</strong>13011 - Dados</p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -2821,16 +2676,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Davi Simoes dos Santos</h3>
             <p><strong>Cargo:</strong>Consultor de Operações</p>
             <p><strong>Departamento:</strong>Consultoria</p>
             <p><strong>E-mail:</strong>davi.simoes@amorsaude.com</p>
             <p><strong>CPF:</strong>456.589.498-07</p>
-            <p><strong>Centro de Custo:</strong> </p>
-            <p><strong>Data de Admissão:</strong> </p>
-            <p><strong>Data de Demissão:</strong></p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><strong>Centro de Custo:</strong>12007 - Regional 2 </p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2866,14 +2719,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Dayane%20Cristina%20Silva%20dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Dayane Cristina Silva dos Santos</h3>
             <p><strong>Cargo:</strong>Assistente de Retenção</p>
             <p><strong>Departamento:</strong>Relacionamento com Cliente</p>
             <p><strong>E-mail:</strong>dayane.santos@amorsaude.com</p>
             <p><strong>CPF:</strong>383.111.148-03</p>
             <p><strong>Centro de Custo:</strong>72023 - Relacionamento com Cliente / Retensão</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2914,14 +2767,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="../assets/fotos/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Deise Leite</h3>
             <p><strong>Cargo:</strong>Consultor De Operações Internacional</p>
             <p><strong>Departamento:</strong>Internacional</p>
             <p><strong>E-mail:</strong>deise.leite@amorsaude.com</p>
             <p><strong>CPF:</strong>374.036.148-44</p>
             <p><strong>Centro de Custo:</strong>12011 - Internacional</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -2929,7 +2782,6 @@
                     <p><strong>Série:</strong>2330AY032658</p>
                     <p><strong>Modelo:</strong>Logitech H390</p>
                 </div>
-
                 <div class="device">
                     <h4>📱 Celular</h4>;
                     <p><strong>Patrimônio:</strong> 685</p>
@@ -2949,13 +2801,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Diego Alberto Rodrigues Blandino</h3>
             <p><strong>Cargo:</strong> Gerente De Suporte</p>
             <p><strong>Departamento:</strong> Gerência Suporte</p>
             <p><strong>E-mail:</strong> diego.blandino@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 13015 - Gerência Dados</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -2991,14 +2843,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Dione%20Antonio%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Dione Antonio dos Santos</h3>
             <p><strong>Cargo:</strong> Analista de desempenho</p>
             <p><strong>Departamento:</strong> Inteligência de negócios</p>
             <p><strong>E-mail:</strong> dione.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 470.351.168-18</p>
             <p><strong>Centro de Custo:</strong> 12010 - Inteligência de negócios</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Equipamento</h4>
@@ -3040,12 +2892,12 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Donato Cesar da Costa e Silva</h3>
             <p><strong>Cargo:</strong> Gerente de Customer Sucess</p>
             <p><strong>E-mail:</strong> donato.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 021.989.578-33</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3079,14 +2931,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Ed%20Pasquini.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Ed Carlos Pasquini</h3>
             <p><strong>Cargo:</strong> Coordenador De Atendimento Ao Cliente</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
             <p><strong>E-mail:</strong> ed.pasquini@amorsaude.com</p>
             <p><strong>CPF:</strong> 337.390.908-20</p>
             <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3120,16 +2972,15 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Edson Ortolan Junior</h3>
             <p><strong>Cargo:</strong> Assistente de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> junior.ortolan@amorsaude.com</p>
             <p><strong>CPF:</strong> 407.815.828-57</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -3181,14 +3032,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Eduardo%20Junior.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Eduardo Junior</h3>
             <p><strong>Cargo:</strong> Assistente de Relacionamento com Profissionais da Saúde</p>
             <p><strong>Departamento:</strong> Relacionamento com Profissionais da Saúde</p>
             <p><strong>E-mail:</strong> eduardo.junior@amorsaude.com</p>
             <p><strong>CPF:</strong> 453.073.868-00</p>
             <p><strong>Centro de Custo:</strong> 12003 - Relacionamento Profissionais da Saúde</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -3228,14 +3079,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Eduardo%20Cheade.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Eduardo De Lima Cheade</h3>
             <p><strong>Cargo:</strong> Diretor Comercial</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
             <p><strong>E-mail:</strong> eduardo.cheade@amorsaude.com</p>
             <p><strong>CPF:</strong> 214.689.138-67</p>
             <p><strong>Centro de Custo:</strong> 32000 - Dir. Operações</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3261,14 +3112,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Eduardo%20Santos-1.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Eduardo Santos</h3>
             <p><strong>Cargo:</strong> Analista De Desempenho Pl</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
             <p><strong>E-mail:</strong> eduardo.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 427.837.598-02</p>
             <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -3284,16 +3135,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Eduardo%20Miskulin.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Eduardo Miskulin Jardao</h3>
             <p><strong>Cargo:</strong> Product Owner Pl</p>
             <p><strong>Departamento:</strong> Produto</p>
             <p><strong>E-mail:</strong> eduardo.jardao@amorsaude.com</p>
             <p><strong>CPF:</strong> 434.023.328-50</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <p><strong>Data de Admissão:</strong> 05.02.2024</p>
-            <p><strong>Data de Desligamento:</strong> 04.10.2024</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -3321,14 +3170,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Elisabete%20Marques%20da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Elisabete Marques da Silva</h3>
             <p><strong>Cargo:</strong> Coordenadora de Pessoas & Cultura</p>
             <p><strong>Departamento:</strong> Pessoas e Cultura</p>
             <p><strong>E-mail:</strong> elisabete.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 153.653.358-05</p>
             <p><strong>Centro de Custo:</strong> 13021 - Gerência Pessoas e Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3376,13 +3225,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Elton%20Severo.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Elton Severo</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
             <p><strong>E-mail:</strong> elton.severo@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 22005 - Operação canais digitais</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: OInline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3422,13 +3271,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Emanuela%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Emanuela Feteira Santos</h3>
             <p><strong>Cargo:</strong> Especialista Hubspot</p>
             <p><strong>Departamento:</strong> CRM</p>
             <p><strong>E-mail:</strong> emanuela.santos@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 14003 - CRM</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3458,13 +3307,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Emerson%20Queiroz.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Emerson Luiz Queiroz</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> emerson.queiroz@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -3506,13 +3355,13 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Erica%20Pereira%20de%20Almeida.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Erica Pereira de Almeida</h3>
             <p><strong>Cargo:</strong> Assistente Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> erica.almeida@amorsaude.com</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -3540,14 +3389,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Erica%20Teodoro%20de%20Oliveira%20da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Erica Teodoro de Oliveira da Silva</h3>
             <p><strong>Cargo:</strong> Analista de Suporte Pleno</p>
             <p><strong>Departamento:</strong> Suporte</p>
             <p><strong>E-mail:</strong> erica.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 369.623.608-00</p>
             <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3596,14 +3445,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fabio%20Manoel%20Goncalves%20D'avilla.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fabio Manoel Goncalves D'Avilla</h3>
             <p><strong>Cargo:</strong> Desenvolvedor Fullstack Pl</p>
             <p><strong>Departamento:</strong> Desenvolvimento</p>
             <p><strong>E-mail:</strong> fabio.davilla@amorsaude.com</p>
             <p><strong>CPF:</strong> 464.572.868-79</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3620,14 +3469,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fabiola%20Quiles.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fabiola Todesco Quiles</h3>
             <p><strong>Cargo:</strong> Gerente Adm. Plano Odontológico</p>
             <p><strong>Departamento:</strong> Odontologia</p>
             <p><strong>E-mail:</strong> fabiola.quiles@amorsaude.com</p>
             <p><strong>CPF:</strong> 310.755.438-35</p>
             <p><strong>Centro de Custo:</strong> 18006 - Odontologia - Plano</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e dados dos mesmos.</p>
@@ -3639,14 +3488,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fabricio%20Florentino.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fabricio Baastista Florentino</h3>
             <p><strong>Cargo:</strong> Consultor De Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> fabricio.florentino@amorsaude.com</p>
             <p><strong>CPF:</strong> 311.682.658-78</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -3688,14 +3537,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Felipe%20Fernandes.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Felipe Lemes Fernandes</h3>
             <p><strong>Cargo:</strong> Analista de Desempenho</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
             <p><strong>E-mail:</strong> felipe.fernandes@amorsaude.com</p>
             <p><strong>CPF:</strong> 410.057.008-26</p>
             <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3735,14 +3584,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fernanda%20Barbosa.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fernanda Beatriz Silva Barbosa</h3>
             <p><strong>Cargo:</strong> Consultora Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> fernanda.barbosa@amorsaude.com</p>
             <p><strong>CPF:</strong> 120.426.446-50</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3790,14 +3639,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fernanda%20Espadari.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fernanda Radiguieri Espadari</h3>
             <p><strong>Cargo:</strong> Estagiária</p>
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>E-mail:</strong> fernanda.espadari@amorsaude.com</p>
             <p><strong>CPF:</strong> 444.709.338-30</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3842,14 +3691,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fernando%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Fernando Vinicius Silva</h3>
             <p><strong>Cargo:</strong> Consultor(A) De Operações</p>
             <p><strong>Departamento:</strong> Regional 2</p>
             <p><strong>E-mail:</strong> fernando.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 373.868.358-50</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -3884,7 +3733,6 @@
                     <p><strong>IMEI 2:</strong> 355106270030501/01</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -3892,14 +3740,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Fabricio%20Freitas.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Francisco Fabricio De Lima Freitas</h3>
             <p><strong>Cargo:</strong> Gerente Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> fabricio.freitas@amorsaude.com</p>
             <p><strong>CPF:</strong> 582.444.093-04</p>
             <p><strong>Centro de Custo:</strong> 13000 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -3939,61 +3787,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
-            <h3>👤 Francisco Fabricio De Lima Freitas</h3>
-            <p><strong>Cargo:</strong> Gerente Financeiro</p>
-            <p><strong>Departamento:</strong> Financeiro</p>
-            <p><strong>E-mail:</strong> fabricio.freitas@amorsaude.com</p>
-            <p><strong>CPF:</strong> 582.444.093-04</p>
-            <p><strong>Centro de Custo:</strong> 13000 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
-            <div class="devices">
-                <div class="device">
-                    <h4>⌨️🖱️ Teclado e Mouse</h4>
-                    <p><strong>Patrimônio:</strong> 1525</p>
-                    <p><strong>Série:</strong> 2232ce1d0218</p>
-                    <p><strong>Modelo:</strong> Logitech MK270</p>
-                </div>
-                <div class="device">
-                    <h4>📱 Celular</h4>
-                    <p><strong>Patrimônio:</strong> 843</p>
-                    <p><strong>Série:</strong> UI5HVE5P7T</p>
-                    <p><strong>Modelo:</strong> Moto E22</p>
-                </div>
-                <div class="device">
-                    <h4>🎧 Headset</h4>
-                    <p><strong>Patrimônio:</strong> 600</p>
-                    <p><strong>Série:</strong> 2654439793</p>
-                    <p><strong>Modelo:</strong> Jabra HSC016</p>
-                </div>
-                <div class="device">
-                    <h4>💻 Notebook</h4>
-                    <p><strong>Patrimônio:</strong> 189</p>
-                    <p><strong>Série:</strong> PE09FTTP</p>
-                    <p><strong>Modelo:</strong> Ideapad3 15AL6</p>
-                </div>
-                <div class="device">
-                    <h4>🖥️ Monitor</h4>
-                    <p><strong>Patrimônio:</strong> 1015</p>
-                    <p><strong>Série:</strong> N/A</p>
-                    <p><strong>Modelo:</strong> Alumínio</p>
-                </div>
-            </div>
-            <div class="devices">
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriel Borges Silverio</h3>
             <p><strong>Cargo:</strong> Consultor de Operação</p>
             <p><strong>Departamento:</strong> Consultoria</p>
-            <p><strong>E-mail:</strong> </p>
+            <p><strong>E-mail:</strong>gabriel.borges@amorsaude.com</p>
             <p><strong>CPF:</strong> 417.371.938-84</p>
             <p><strong>Centro de Custo:</strong> </p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4035,14 +3836,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriel%20Cardinali.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriel Cardinali</h3>
             <p><strong>Cargo:</strong> Coordenador De Pesquisa E Desenvolvimento</p>
             <p><strong>Departamento:</strong> Dir. Financeira</p>
             <p><strong>E-mail:</strong> gabriel.cardinali@amorsaude.com</p>
             <p><strong>CPF:</strong> 393.549.008-95</p>
             <p><strong>Centro de Custo:</strong> 13000 - Dir. Financeira</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -4084,7 +3885,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriel%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriel Carrasco De Carvalho</h3>
             <p><strong>Cargo:</strong> Consultor De Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -4092,7 +3893,7 @@
             <p><strong>CPF:</strong> 445.240.258-55</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
             <p><strong>Substituição:</strong> Tharinne Pedreschi</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -4134,14 +3935,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriel%20Guilherme.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriel Guilherme</h3>
             <p><strong>Cargo:</strong> Analista de Dados</p>
             <p><strong>Departamento:</strong> Dados</p>
             <p><strong>E-mail:</strong> gabriel.guilherme@amorsaude.com</p>
             <p><strong>CPF:</strong> 370.430.828-54</p>
             <p><strong>Centro de Custo:</strong> 13011 - Suporte</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -4175,14 +3976,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriel Renan Gregorato Santos</h3>
             <p><strong>Cargo:</strong> Desenvolvedor Jr</p>
             <p><strong>Departamento:</strong> 04.08.2023</p>
             <p><strong>E-mail:</strong> gabriel.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 431.775.058-96</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
             </div>
             <div class="devices">
@@ -4192,14 +3993,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriela%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriela Bouchabki Martins</h3>
             <p><strong>Cargo:</strong> Product Owner</p>
             <p><strong>Departamento:</strong> Produtos</p>
             <p><strong>E-mail:</strong> gabriela.martins@amorsaude.com</p>
             <p><strong>CPF:</strong> 346.189.228-93</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4227,14 +4028,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriela%20Fritz.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriela Fritz</h3>
             <p><strong>Cargo:</strong> Analista de Experiência do Cliente</p>
             <p><strong>Departamento:</strong> Experiência do Cliente</p>
             <p><strong>E-mail:</strong> gabriela.fritz@amorsaude.com</p>
             <p><strong>CPF:</strong> 446.392.818-46</p>
             <p><strong>Centro de Custo:</strong> 12004 - Experiência do Cliente</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4282,14 +4083,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriela%20Cristina.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriela Cristina Soares</h3>
             <p><strong>Cargo:</strong> Assistente de Operações</p>
             <p><strong>Departamento:</strong> Backoffice</p>
             <p><strong>E-mail:</strong> gabriela.cristina@amorsaude.com</p>
             <p><strong>CPF:</strong> 449.273.438-47</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4337,14 +4138,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriela%20Georgete.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriela Georgete da Cruz</h3>
             <p><strong>Cargo:</strong> Analista Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
             <p><strong>E-mail:</strong> gabriela.georgete@amorsaude.com</p>
             <p><strong>CPF:</strong> 483.921.198-98</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -4386,14 +4187,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gabriele%20Marin%20Soare.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gabriele Marin Soare</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> gabriele.marin@amorsaude.com</p>
             <p><strong>CPF:</strong> 453.937.658-60</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -4435,14 +4236,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Gisele Brochetto</h3>
             <p><strong>Cargo:</strong> Coordenador De Relacionamento Com Prestadores De Saúde</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
             <p><strong>E-mail:</strong> gisele.brochetto@amorsaude.com</p>
             <p><strong>CPF:</strong> 368.565.628-70</p>
             <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖱️ Mouse</h4>
@@ -4462,14 +4263,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Graziele Giacon Ambrosio</h3>
             <p><strong>Cargo:</strong> Consultora de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> graziele.ambrosio@amorsaude.com</p>
             <p><strong>CPF:</strong> 217.069.478-10</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4517,14 +4318,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Guilherme Neto</h3>
             <p><strong>Cargo:</strong> Analista de Relacionamento com Profissionais da Saúde</p>
             <p><strong>Departamento:</strong> Relacionamento com Profissionais da Saúde</p>
             <p><strong>E-mail:</strong> guilherme.neto@amorsaude.com</p>
             <p><strong>CPF:</strong> 459.817.408-09</p>
             <p><strong>Centro de Custo:</strong> 12003 - Relacionamento Profissionais da Saúde</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -4558,14 +4359,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Guilherme Correa</h3>
             <p><strong>Cargo:</strong> Analista de Negócio</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
             <p><strong>E-mail:</strong> guilherme.correa@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 12010</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4599,14 +4400,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Heitor%20De%20Paiva%20Boccato.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Heitor De Paiva Boccato</h3>
             <p><strong>Cargo:</strong> Analista de Desempenho Jr</p>
             <p><strong>Departamento:</strong> Inteligência de Negócios</p>
             <p><strong>E-mail:</strong> heitor.boccato@amorsaude.com</p>
             <p><strong>CPF:</strong> 470.351.168-18</p>
             <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -4646,14 +4447,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Helena%20Bugliani.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Helena Silva Bugliani</h3>
             <p><strong>Cargo:</strong> Analista de Documentações</p>
             <p><strong>Departamento:</strong> Backoffice</p>
             <p><strong>E-mail:</strong> helena.bugliani@amorsaude.com</p>
             <p><strong>CPF:</strong> 422.795.258-10</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4701,14 +4502,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Henrique Camargo de Cacerda Chaves</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> [Não fornecido]</p>
             <p><strong>CPF:</strong> 375.361.228-61</p>
             <p><strong>Centro de Custo:</strong> [Não fornecido]</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4744,14 +4545,14 @@
             </div>
         </div>
         <div class="card">
-            <img src="foto_de_Iago_Rodrigues_Perim.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Iago%20Perin.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Iago Rodrigues Perin</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>E-mail:</strong> iago.perin@amorsaude.com</p>
             <p><strong>CPF:</strong> 424.968.278-14</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4801,7 +4602,7 @@
             <p><strong>CPF:</strong> 267.609.978-75</p>
             <p><strong>Data da Admissão:</strong> 04.03.2024</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -4853,7 +4654,7 @@
             <p><strong>CPF:</strong> 429.072.528-79</p>
             <p><strong>Data da Admissão:</strong> [Não fornecida]</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4901,7 +4702,7 @@
             <p><strong>CPF:</strong> 400.518.438-38</p>
             <p><strong>Data da Admissão:</strong> 07.10.2024</p>
             <p><strong>Centro de Custo:</strong> 72023 - Relacionamento com Cliente / Retenção</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4942,7 +4743,7 @@
             <p><strong>E-mail:</strong> iris.nietto@amorsaude.com</p>
             <p><strong>CPF:</strong> 375.074.298-73</p>
             <p><strong>Centro de Custo:</strong> 13003 - Contábil</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -4993,7 +4794,7 @@
             <p><strong>E-mail:</strong> isabela.sousa@amorsaude.com</p>
             <p><strong>CPF:</strong> 478.374.828-40</p>
             <p><strong>Centro de Custo:</strong> </p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -5037,7 +4838,7 @@
             <p><strong>E-mail:</strong> isabela.borin@amorsaude.com</p>
             <p><strong>CPF:</strong> 461.394.038-98</p>
             <p><strong>Centro de Custo:</strong> </p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5080,7 +4881,7 @@
             <p><strong>E-mail:</strong> isabella.vieira@amorsaude.com</p>
             <p><strong>CPF:</strong> 476.994.678-33</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5121,7 +4922,7 @@
             <p><strong>E-mail:</strong> isabelle.castilho@amorsaude.com</p>
             <p><strong>CPF:</strong> 548.330.698-81</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -5156,7 +4957,7 @@
             <p><strong>E-mail:</strong> isadora.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 527.864.628-43</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -5205,7 +5006,7 @@
             <p><strong>CPF:</strong> 435.810.868-75</p>
             <p><strong>Centro de Custo:</strong> 33009 - Coordenação Clientes</p>
             <p><strong>Promoção:</strong> 01.07.2024</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5260,7 +5061,7 @@
             <p><strong>E-mail:</strong> janaina.francoza@amorsaude.com</p>
             <p><strong>CPF:</strong> 218.279.938-98</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5312,11 +5113,11 @@
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Jaqueline Roviero</h3>
             <p><strong>Cargo:</strong> Analista De Experiência Do Cliente</p>
-            <p><strong>Departamento:</strong> Administrativo</p>
+            <p><strong>Departamento:</strong> AdministrOnline</p>
             <p><strong>E-mail:</strong> jaqueline.roviero@amorsaude.com</p>
             <p><strong>CPF:</strong> 345.888.738-57</p>
-            <p><strong>Centro de Custo:</strong> 32001 - Administrativo</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><strong>Centro de Custo:</strong> 32001 - AdministrOnline</p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -5349,7 +5150,7 @@
             <p><strong>E-mail:</strong> (não fornecido)</p>
             <p><strong>CPF:</strong> 081.401.955-29</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <!-- Equipamentos a serem adicionados -->
             </div>
@@ -5367,7 +5168,7 @@
             <p><strong>E-mail:</strong> joaopedro.silvestre@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 12010</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5410,7 +5211,7 @@
             <p><strong>E-mail:</strong> </p>
             <p><strong>CPF:</strong> 361.772.308-06</p>
             <p><strong>Centro de Custo:</strong> </p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5453,7 +5254,7 @@
             <p><strong>E-mail:</strong> jordy.neves@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 12010</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5482,7 +5283,7 @@
             <p><strong>E-mail:</strong> josiane.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <!-- Nenhum dispositivo foi fornecido ainda -->
             </div>
@@ -5501,7 +5302,7 @@
             <p><strong>E-mail:</strong> julcelly.henriques@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 13004</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -5528,7 +5329,7 @@
             <p><strong>E-mail:</strong> julia.colombari@amorsaude.com</p>
             <p><strong>CPF:</strong> 497.615.898-54</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5585,7 +5386,7 @@
             <p><strong>CPF:</strong> 439.325.638-75</p>
             <p><strong>Centro de Custo:</strong> 12002 - Sac</p>
             <p><strong>Substituição:</strong> Dariane da Silva Romerio</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -5645,7 +5446,7 @@
             <p><strong>CPF:</strong> 293.701.128-47</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
             <p><strong>Data de Admissão:</strong> 06.06.2022</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -5687,7 +5488,7 @@
             <p><strong>CPF:</strong> 407.054.928-50</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
             <p><strong>Data de Desligamento:</strong> 19.01.2024</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5724,7 +5525,7 @@
             <p><strong>E-mail:</strong> karen.ramos@amorsaude.com</p>
             <p><strong>CPF:</strong> 405.22.938-08</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -5750,7 +5551,7 @@
             <p><strong>Departamento:</strong> Consultoria</p>
             <p><strong>CPF:</strong> 387.565.348-33</p>
             <p><strong>Centro de Custo:</strong></p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5797,7 +5598,7 @@
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
             <p><strong>CPF:</strong> 317.842.138-61</p>
             <p><strong>Centro de Custo:</strong> 12002 - Sac</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Headset</h4>
@@ -5851,7 +5652,7 @@
             <p><strong>Departamento:</strong> Pessoas E Cultura</p>
             <p><strong>CPF:</strong> 433.684.318-03</p>
             <p><strong>Centro de Custo:</strong> 13006</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5891,7 +5692,7 @@
             <p><strong>Departamento:</strong> Contabilidade</p>
             <p><strong>CPF:</strong> 339.643.328-95</p>
             <p><strong>Centro de Custo:</strong> 13003 - Contábil</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -5937,7 +5738,7 @@
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>CPF:</strong> 403.473.789-00</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -6004,7 +5805,7 @@
             <p><strong>Departamento:</strong> Departamento Pessoal</p>
             <p><strong>CPF:</strong> 485.231.268-05</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoa e Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6057,11 +5858,11 @@
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Larissa Izabela de Freitas</h3>
-            <p><strong>Cargo:</strong> Analista Administrativo Pleno</p>
+            <p><strong>Cargo:</strong> Analista AdministrOnline Pleno</p>
             <p><strong>Departamento:</strong> Cirurgias</p>
             <p><strong>CPF:</strong> 470.350.438-37</p>
             <p><strong>Centro de Custo:</strong> 32001 - Cirurgias</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -6114,7 +5915,7 @@
             <p><strong>Departamento:</strong> Produto</p>
             <p><strong>CPF:</strong> 386.596.578-45</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6150,7 +5951,7 @@
             <p><strong>E-mail:</strong> laura.ribeiro@amorsaude.com</p>
             <p><strong>CPF:</strong></p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando equipamentos sem registro detalhado e sem o termo de responsabilidade assinado.</p>
@@ -6169,7 +5970,7 @@
             <p><strong>E-mail:</strong> laura.paschoin@amorsaude.com</p>
             <p><strong>CPF:</strong> 432.486.208-70</p>
             <p><strong>Centro de Custo:</strong> 13004 - Projetos / Processos</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6211,7 +6012,6 @@
                     <p><strong>IMEI 2:</strong> 355106278580317/01</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6226,7 +6026,7 @@
             <p><strong>E-mail:</strong> laurielesantos@amorsaude.com</p>
             <p><strong>CPF:</strong> 457.240.988-90</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -6262,7 +6062,6 @@
                     <p><strong>IMEI 2:</strong> 359753826004823</p>
                 </div>
             </div>
-
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para os mesmos.</p>
@@ -6281,7 +6080,7 @@
             <p><strong>E-mail:</strong> leandro.hernandes@amorsaude.com</p>
             <p><strong>CPF:</strong> 251.829.328-04</p>
             <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -6317,7 +6116,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <!-- Se houver equipamentos comprometidos, esta seção será gerada. Caso contrário, será omitida. -->
             <div class="devices">
                 <div class="responsibility-link">
@@ -6333,7 +6131,7 @@
             <p><strong>E-mail:</strong> leandro.rodrigues@amorsaude.com</p>
             <p><strong>CPF:</strong> 381.953.408-30</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -6369,13 +6167,11 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <!-- Se houver equipamentos comprometidos, esta seção será gerada. Caso contrário, será omitida. -->
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém somente possuímos o termo de responsabilidade do celular.</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6390,7 +6186,7 @@
             <p><strong>E-mail:</strong> leandro.montenegro@amorsaude.com</p>
             <p><strong>CPF:</strong> 385.498.628-94</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6431,9 +6227,7 @@
                     <p><strong>IMEI 2:</strong> 359796405393182/01</p>
                 </div>
             </div>
-
             <!-- Não foi gerada a seção de Informações Importantes, pois não há alerta fornecido para este colaborador -->
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6448,7 +6242,7 @@
             <p><strong>E-mail:</strong> leonardo.botelho@amorsaude.com</p>
             <p><strong>CPF:</strong> 129.654.087-11</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6489,13 +6283,11 @@
                     <p><strong>IMEI 2:</strong> 355106279754690/01</p>
                 </div>
             </div>
-
             <!-- A seção de Informações Importantes foi gerada com o alerta sobre equipamentos não listados -->
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando outros equipamentos não listados acima, porém somente possui o termo de responsabilidade assinado para o celular.</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6505,12 +6297,12 @@
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lethicia Eliane Souza Martins</h3>
-            <p><strong>Cargo:</strong> Assistente Administrativo</p>
+            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>E-mail:</strong> lethicia.martins@amorsaude.com</p>
             <p><strong>CPF:</strong> 480.185.558-00</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -6537,7 +6329,6 @@
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6552,7 +6343,7 @@
             <p><strong>E-mail:</strong> leticia.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 439.857.398-46</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoas & Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6580,7 +6371,6 @@
                     <p><strong>IMEI 2:</strong> 354654236991887/01</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6595,7 +6385,7 @@
             <p><strong>E-mail:</strong> leticia.osone@amorsaude.com</p>
             <p><strong>CPF:</strong> 362.189.578-70</p>
             <p><strong>Centro de Custo:</strong> 12004 - Experiência do Cliente</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -6628,7 +6418,6 @@
                     <p><strong>Modelo:</strong> Logitech MK235</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6642,8 +6431,8 @@
             <p><strong>Departamento:</strong> Amorcirurgias</p>
             <p><strong>E-mail:</strong> livia.paula@amorsaude.com</p>
             <p><strong>CPF:</strong> 438.725.158-10</p>
-            <p><strong>Centro de Custo:</strong> 32001 - Administrativo</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><strong>Centro de Custo:</strong> 32001 - AdministrOnline</p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6676,7 +6465,6 @@
                     <p><strong>Modelo:</strong> Dell SE2216H</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6691,7 +6479,7 @@
             <p><strong>E-mail:</strong> lorraine.moreno@amorsaude.com</p>
             <p><strong>CPF:</strong> 373.515.648-76</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6724,7 +6512,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6739,7 +6526,7 @@
             <p><strong>E-mail:</strong> luana.maciel@amorsaude.com</p>
             <p><strong>CPF:</strong> 319.532.598-55</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6768,7 +6555,6 @@
                     <p><strong>IMEI 2:</strong>35975382609143/01</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6783,7 +6569,7 @@
             <p><strong>E-mail:</strong> lucas.colbacho@amorsaude.com</p>
             <p><strong>CPF:</strong> 369.193.928-79</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -6824,7 +6610,6 @@
                     <p><strong>Modelo:</strong> MK270 - M185</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6839,7 +6624,7 @@
             <p><strong>E-mail:</strong> lucas.rocha@amorsaude.com</p>
             <p><strong>CPF:</strong> 460.375.988-60</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -6872,7 +6657,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6887,7 +6671,7 @@
             <p><strong>E-mail:</strong> lucas.mateus@amorsaude.com</p>
             <p><strong>CPF:</strong> 432.126.858-32</p>
             <p><strong>Centro de Custo:</strong> 13011 - Dados</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
@@ -6951,7 +6735,7 @@
             <p><strong>E-mail:</strong> lucas.pereira@amorsaude.com</p>
             <p><strong>CPF:</strong> 461.067.698-26</p>
             <p><strong>Centro de Custo:</strong> 63001 - Financeiro Soluções</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Headset</h4>
@@ -6984,7 +6768,6 @@
                     <p><strong>Modelo:</strong> PA-1650-74</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -6999,7 +6782,7 @@
             <p><strong>E-mail:</strong> lucas.rodrigues@amorsaude.com</p>
             <p><strong>CPF:</strong> 312.280.518-95</p>
             <p><strong>Centro de Custo:</strong> 12010 - Inteligência de Negócios</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7033,7 +6816,6 @@
                     <p><strong>Modelo:</strong> LG 22MP410-B</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7048,7 +6830,7 @@
             <p><strong>E-mail:</strong> lucilene.matias@amorsaude.com</p>
             <p><strong>CPF:</strong> 219.665.528-74</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -7089,7 +6871,6 @@
                     <p><strong>Modelo:</strong> LG-22MP410-B</p>
                 </div>
             </div>
-
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém apenas possuímos o termo de responsabilidade do notebook, não tendo os termos nem os dados dos demais equipamentos.</p>
@@ -7105,7 +6886,7 @@
             <p><strong>E-mail:</strong> lucimara.zampollo@amorsaude.com</p>
             <p><strong>CPF:</strong> 305.937.958-06</p>
             <p><strong>Centro de Custo:</strong> 13008 - Recepção</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -7140,7 +6921,6 @@
                     <p><strong>IMEI 2:</strong> 35976053925831/01</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7155,7 +6935,7 @@
             <p><strong>E-mail:</strong> luiz.assumpcao@amorsaude.com</p>
             <p><strong>CPF:</strong> 060.764.766-30</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7190,7 +6970,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7205,7 +6984,7 @@
             <p><strong>E-mail:</strong> luylla.magalhaes@amorsaude.com</p>
             <p><strong>CPF:</strong> 123.135.016-47</p>
             <p><strong>Centro de Custo:</strong> 18005 - Odontologia</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -7240,7 +7019,6 @@
                     <p><strong>IMEI 2:</strong> 359340983514362/05</p>
                 </div>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7255,7 +7033,7 @@
             <p><strong>E-mail:</strong> maicon.facirolli@amorsaude.com</p>
             <p><strong>CPF:</strong> 355.750.548-02</p>
             <p><strong>Centro de Custo:</strong> 12017 - Gerência Operações</p>
-            <p><span class="status inativo">Status: Desligado em 16.08.2024</span></p>
+            <p><span class="status inOnline">Status: Desligado em 16.08.2024</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7296,7 +7074,6 @@
                     <p><strong>Modelo:</strong> Waster Digital/WD10spzx</p>
                 </div>
             </div>
-
             <h2>Equipamentos Comprometidos</h2>
             <div class="device">
                 <h4>💻 Notebook Antigo</h4>
@@ -7304,7 +7081,6 @@
                 <p><strong>Série:</strong> 2125me0jypn8</p>
                 <p><strong>Modelo:</strong> Idealpad 15ALC6 0 (Win-10 Ryzen 5-5500U 12GB)</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7319,7 +7095,7 @@
             <p><strong>E-mail:</strong> malinda.oliveira@amorsaude.com</p>
             <p><strong>CPF:</strong> 306.257.108-00</p>
             <p><strong>Centro de Custo:</strong> 12002 - Sac</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7349,12 +7125,10 @@
                     <p><strong>Modelo:</strong> Logitech MK270</p>
                 </div>
             </div>
-
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui o termo de responsabilidade assinado para notebook.</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7369,7 +7143,7 @@
             <p><strong>E-mail:</strong> marcela.diab@amorsaude.com</p>
             <p><strong>CPF:</strong> 368.325.148-40</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7403,7 +7177,6 @@
                     <p><strong>Modelo:</strong> Alumínio</p>
                 </div>
             </div>
-
             <h2>Equipamentos Comprometidos</h2>
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -7411,7 +7184,6 @@
                 <p><strong>Série:</strong> 265441762</p>
                 <p><strong>Modelo:</strong> Jabra HSC016</p>
             </div>
-
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -7426,7 +7198,7 @@
             <p><strong>E-mail:</strong> marcelo.martins@amorsaude.com</p>
             <p><strong>CPF:</strong> 306.745.018-37</p>
             <p><strong>Centro de Custo:</strong> 13019</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7466,7 +7238,7 @@
             <p><strong>E-mail:</strong> marcelo.okazaki@amorsaude.com</p>
             <p><strong>CPF:</strong> 452.967.358-89</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><span class="status ativo">Status: Ativo</span></p>
+            <p><span class="status Online">Status: Online</span></p>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos, porém ainda não possui o termo de responsabilidade assinado e dados dos mesmos.</p>
@@ -7485,7 +7257,7 @@
             <p><strong>E-mail:</strong> marcos.bizarri@amorsaude.com</p>
             <p><strong>CPF:</strong> 412.562.488-78</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7532,7 +7304,7 @@
             <p><strong>E-mail:</strong> marcos.corusse@amorsaude.com</p>
             <p><strong>CPF:</strong> 403.238.458-43</p>
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7568,7 +7340,7 @@
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcos Vinicius Moroti</h3>
-            <p><strong>Cargo:</strong> Assistente Administrativo</p>
+            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>E-mail:</strong> marcos.moroti@amorsaude.com</p>
             <p><strong>CPF:</strong> 473.590.478-62</p>
@@ -7611,7 +7383,7 @@
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcos Vinicius Moroti</h3>
-            <p><strong>Cargo:</strong> Assistente Administrativo</p>
+            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> BackOffice</p>
             <p><strong>E-mail:</strong> marcos.moroti@amorsaude.com</p>
             <p><strong>CPF:</strong> 473.590.478-62</p>
@@ -7659,7 +7431,7 @@
             <p><strong>E-mail:</strong> maria.medeiros@amorsaude.com</p>
             <p><strong>CPF:</strong> 115.150.016-01</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7704,7 +7476,7 @@
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
             <p><strong>Data de Admissão:</strong> 20.06.2022</p>
             <p><strong>Data de Desligamento:</strong> 03.09.2024</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7742,7 +7514,7 @@
             <p><strong>CPF:</strong> 456.010.168-01</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
             <p><strong>Data de Admissão:</strong> 02.12.2024</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -7789,7 +7561,7 @@
             <p><strong>CPF:</strong> 366.240.078-26</p>
             <p><strong>Centro de Custo:</strong> 22001 - Consulta Assistida</p>
             <p><strong>Data de Admissão:</strong> 02.10.2023</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -7843,7 +7615,7 @@
             <p><strong>Centro de Custo:</strong> 13013 - Produto</p>
             <p><strong>Data de Admissão:</strong> 17.11.2020</p>
             <p><strong>Data da Promoção:</strong> 01.11.2024</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7897,7 +7669,7 @@
             <p><strong>E-mail:</strong> mateus.nistarda@amorsaude.com</p>
             <p><strong>CPF:</strong> 395.947.118-17</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7940,7 +7712,7 @@
             <p><strong>E-mail:</strong> mathiele.matos@amorsaude.com</p>
             <p><strong>CPF:</strong> 008.422.160-73</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -7989,7 +7761,7 @@
             <p><strong>E-mail:</strong> miria.cardozo@amorsaude.com</p>
             <p><strong>CPF:</strong> 419.539.578-03</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -8036,7 +7808,7 @@
             <p><strong>E-mail:</strong> monica.soares@amorsaude.com</p>
             <p><strong>CPF:</strong> 305.937.958-06</p>
             <p><strong>Centro de Custo:</strong> 13000 - Dir. Financ</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -8085,7 +7857,7 @@
             <p><strong>E-mail:</strong> murillo.zanine@amorsaude.com</p>
             <p><strong>CPF:</strong> 448.038.248-86</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8132,7 +7904,7 @@
             <p><strong>E-mail:</strong> murilo.borba@amorsaude.com</p>
             <p><strong>CPF:</strong> 443.463.578-65</p>
             <p><strong>Centro de Custo:</strong> 13011 - Dados</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -8173,7 +7945,7 @@
             <p><strong>E-mail:</strong> murilo.tinazzo@amorsaude.com</p>
             <p><strong>CPF:</strong> 334.823.378-02</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8228,7 +8000,7 @@
             <p><strong>E-mail:</strong> natalia.zimmermann@amorsaude.com</p>
             <p><strong>CPF:</strong> 142.180.767-07</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 2</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8263,7 +8035,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Natanael Zavanela</h3>
@@ -8272,7 +8043,7 @@
             <p><strong>E-mail:</strong> natanael.zavanela@amorsaude.com</p>
             <p><strong>CPF:</strong> 330.324458-84</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regiona 2</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🔌 Adaptador de Rede</h4>
@@ -8322,7 +8093,7 @@
             <p><strong>CPF:</strong> 462.083.518-80</p>
             <p><strong>Centro de Custo:</strong> 12005</p>
             <p><strong>Substituição:</strong> Letícia Godoy da Silva</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8371,7 +8142,7 @@
             <p><strong>E-mail:</strong> nicolas.tassinari@amorsaude.com</p>
             <p><strong>CPF:</strong> 450.326.278-52</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -8424,7 +8195,7 @@
             <p><strong>E-mail:</strong> nicole.souza@amorsaude.com</p>
             <p><strong>CPF:</strong> 464.476.338.19</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -8473,7 +8244,7 @@
             <p><strong>E-mail:</strong> pamela.crispin@amorsaude.com</p>
             <p><strong>CPF:</strong> 418.479.688-56</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -8522,7 +8293,7 @@
             <p><strong>E-mail:</strong></p>
             <p><strong>CPF:</strong> 364.688.988-89</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8571,7 +8342,7 @@
             <p><strong>E-mail:</strong> paula.tagliacolli@amorsaude.com</p>
             <p><strong>CPF:</strong></p>
             <p><strong>Centro de Custo:</strong> 13006</p>
-            <span class="status ativo">Status: Ativo</span>
+            <span class="status Online">Status: Online</span>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -8620,7 +8391,7 @@
             <p><strong>E-mail:</strong> paulo.spano@amorsaude.com</p>
             <p><strong>CPF:</strong> 395.033.398-39</p>
             <p><strong>Centro de Custo:</strong> 13015 - Desenvolvimento</p>
-            <span class="status inativo">Status: Inativo</span>
+            <span class="status inOnline">Status: InOnline</span>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -8988,7 +8759,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Rafael Rodrigues Cordeiro Gomes</h3>
@@ -9044,7 +8814,7 @@
             <p><strong>E-mail:</strong> rafaela.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 325.839.138.67</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9087,7 +8857,7 @@
             <p><strong>E-mail:</strong> rafaela.domenici@amorsaude.com</p>
             <p><strong>CPF:</strong> 407.827.468-45</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9136,7 +8906,7 @@
             <p><strong>E-mail:</strong> raissa.lima@amorsaude.com</p>
             <p><strong>CPF:</strong> 374.117.888-80</p>
             <p><strong>Centro de Custo:</strong> 72023 - Relacionamento com Cliente / Retenção</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9177,7 +8947,7 @@
             <p><strong>E-mail:</strong> renan.freire@amorsaude.com</p>
             <p><strong>CPF:</strong> 439.638.938-85</p>
             <p><strong>Centro de Custo:</strong> 12005 - Backoffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9226,7 +8996,7 @@
             <p><strong>E-mail:</strong> renata.gomes@amorsaude.com</p>
             <p><strong>CPF:</strong> 282 846 148-39</p>
             <p><strong>Centro de Custo:</strong> 13001 - Financeiro</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -9273,7 +9043,7 @@
             <p><strong>E-mail:</strong> renata.merlo@amorsaude.com</p>
             <p><strong>CPF:</strong> 443.414.268-26</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9308,7 +9078,7 @@
             <p><strong>E-mail:</strong> ricardo.perdigao@amorsaude.com</p>
             <p><strong>CPF:</strong> 352.074.958-01</p>
             <p><strong>Centro de Custo:</strong> 12019 - Gerência Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9351,7 +9121,7 @@
             <p><strong>E-mail:</strong> rodrigo.pelicano@amorsaude.com</p>
             <p><strong>CPF:</strong> 345.200.218-71</p>
             <p><strong>Centro de Custo:</strong></p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9400,7 +9170,7 @@
             <p><strong>E-mail:</strong> roger.mazzali@amorsaude.com</p>
             <p><strong>CPF:</strong> 319.054.418-27</p>
             <p><strong>Centro de Custo:</strong> 13019</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>📱 Celular</h4>
@@ -9425,7 +9195,7 @@
             <p><strong>E-mail:</strong> rogerio.almeida@amorsaude.com</p>
             <p><strong>CPF:</strong> 435.810.868-75</p>
             <p><strong>Centro de Custo:</strong> 13000 - Dir. Financeira</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🔌 Adaptador de Rede</h4>
@@ -9468,7 +9238,7 @@
             <p><strong>E-mail:</strong> rosemeire.soares@amorsaude.com</p>
             <p><strong>CPF:</strong> 167.232.588-94</p>
             <p><strong>Centro de Custo:</strong> 13008 - Recepção</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️Teclado e Mouse</h4>
@@ -9509,7 +9279,7 @@
             <p><strong>E-mail:</strong> rubem.diniz@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 13019</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⚠️ Informações Importantes</h4>
@@ -9530,7 +9300,7 @@
             <p><strong>E-mail:</strong> rubia.albuquerque@amorsaude.com</p>
             <p><strong>CPF:</strong> 301.676.228-55</p>
             <p><strong>Centro de Custo:</strong> 12000 - Dir. Operações</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -9577,7 +9347,7 @@
             <p><strong>E-mail:</strong> sairah.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 096.801.206-00</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9645,7 +9415,7 @@
             <p><strong>E-mail:</strong> sandra.oliveira@amorsaude.com</p>
             <p><strong>CPF:</strong> 175.483.388-80</p>
             <p><strong>Centro de Custo:</strong> 13021 - Gerência Pessoas e Cultura</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9688,7 +9458,7 @@
             <p><strong>E-mail:</strong> </p>
             <p><strong>CPF:</strong> 464.717.258-92</p>
             <p><strong>Centro de Custo:</strong></p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -9743,7 +9513,7 @@
             <p><strong>E-mail:</strong></p>
             <p><strong>CPF:</strong> 326.384.048-70</p>
             <p><strong>Centro de Custo:</strong></p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -9792,7 +9562,7 @@
             <p><strong>E-mail:</strong> sophia.fantini@amorsaude.com</p>
             <p><strong>CPF:</strong> 398.365.638-22</p>
             <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9832,8 +9602,8 @@
             <p><strong>Departamento:</strong> Amor Cirurgias</p>
             <p><strong>E-mail:</strong> suellen.tavares@amorsaude.com</p>
             <p><strong>CPF:</strong> 343.634.398-66</p>
-            <p><strong>Centro de Custo:</strong> 32001 - Administrativo</p>
-            <p><span class="status ativo">Status:</span></p>
+            <p><strong>Centro de Custo:</strong> 32001 - AdministrOnline</p>
+            <p><span class="status Online">Status:</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9887,7 +9657,7 @@
             <p><strong>E-mail:</strong> tamara.saturno@amorsaude.com</p>
             <p><strong>CPF:</strong> 368.245.228-13</p>
             <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9928,7 +9698,7 @@
             <p><strong>E-mail:</strong> tatiane.luz@amorsaude.com</p>
             <p><strong>CPF:</strong> 346.405.008-40</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -9976,7 +9746,7 @@
             <p><strong>E-mail:</strong> Não informado</p>
             <p><strong>CPF:</strong> 365.396.218-84</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -10011,7 +9781,7 @@
             <p><strong>E-mail:</strong> Não informado</p>
             <p><strong>CPF:</strong> 380.231.428-01</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10046,7 +9816,7 @@
             <p><strong>E-mail:</strong> Não informado</p>
             <p><strong>CPF:</strong> 423.069.398-29</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10095,7 +9865,7 @@
             <p><strong>E-mail:</strong> Não informado</p>
             <p><strong>CPF:</strong> 184.66.578-78</p>
             <p><strong>Centro de Custo:</strong> Não informado</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10144,7 +9914,7 @@
             <p><strong>E-mail:</strong> thiago.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 436.577.728-98</p>
             <p><strong>Centro de Custo:</strong> 13019 - Suporte</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10185,7 +9955,7 @@
             <p><strong>E-mail:</strong> vanessa.posca@amorsaude.com</p>
             <p><strong>CPF:</strong> 219.607.248-60</p>
             <p><strong>Centro de Custo:</strong> 12019 - Gerência Regional 2</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10226,7 +9996,7 @@
             <p><strong>E-mail:</strong> vanessa.matos@amorsaude.com</p>
             <p><strong>CPF:</strong> 478.525.748-23</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10273,7 +10043,7 @@
             <p><strong>E-mail:</strong> [não fornecido]</p>
             <p><strong>CPF:</strong> 017.671.550-93</p>
             <p><strong>Centro de Custo:</strong> 12003 - Relacionamento Profissionais da Saúde</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -10306,7 +10076,7 @@
             <p><strong>E-mail:</strong> victor.souza@amorsaude.com</p>
             <p><strong>CPF:</strong> 037.234.715-01</p>
             <p><strong>Centro de Custo:</strong> 14002 - Endomarketing</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10343,7 +10113,7 @@
             <p><strong>E-mail:</strong> victor.hugo@amorsaude.com</p>
             <p><strong>CPF:</strong> 478.319.538-25</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10392,7 +10162,7 @@
             <p><strong>E-mail:</strong> victor.lima@amorsaude.com</p>
             <p><strong>CPF:</strong> 397.234.398-16</p>
             <p><strong>Centro de Custo:</strong> 14003 - CRM</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10442,7 +10212,7 @@
             <p><strong>E-mail:</strong> victor.dantas@amorsaude.com</p>
             <p><strong>CPF:</strong> 060.444.161-43</p>
             <p><strong>Centro de Custo:</strong> 13011 - Dados</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>🔩 Suporte</h4>
@@ -10484,7 +10254,7 @@
             <p><strong>E-mail:</strong> vinicius.massullo@amorsaude.com</p>
             <p><strong>CPF:</strong> pj3.271.625/0001-09</p>
             <p><strong>Centro de Custo:</strong> 13015</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10544,7 +10314,7 @@
             <p><strong>E-mail:</strong> N/A</p>
             <p><strong>CPF:</strong> 425.036.598-02</p>
             <p><strong>Centro de Custo:</strong> N/A</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10593,7 +10363,7 @@
             <p><strong>E-mail:</strong> vitor.magno@amorsaude.com</p>
             <p><strong>CPF:</strong> 459.273.348-73</p>
             <p><strong>Centro de Custo:</strong> 13012 - Desenvolvimento</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10634,7 +10404,7 @@
             <p><strong>E-mail:</strong> viviane.carvalho@amorsaude.com</p>
             <p><strong>CPF:</strong> 339.344.308-99</p>
             <p><strong>Centro de Custo:</strong> 12007 - Regional 2</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10675,7 +10445,7 @@
             <p><strong>E-mail:</strong> viviane.murari@amorsaude.com</p>
             <p><strong>CPF:</strong> 369.419.328-64</p>
             <p><strong>Centro de Custo:</strong> N/A</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10699,12 +10469,12 @@
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Walkiria Oliveira Silva</h3>
-            <p><strong>Cargo:</strong> Analista Administrativo PL</p>
+            <p><strong>Cargo:</strong> Analista AdministrOnline PL</p>
             <p><strong>Departamento:</strong> Operações Plano</p>
             <p><strong>E-mail:</strong> walkiria.silva@amorsaude.com</p>
             <p><strong>CPF:</strong> 067.368.296-07</p>
             <p><strong>Centro de Custo:</strong> 72024 - Operações Plano</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>🎧 Fone</h4>
@@ -10837,7 +10607,7 @@
             <p><strong>E-mail:</strong> yago.mariano@amorsaude.com</p>
             <p><strong>CPF:</strong> 120.120.005-42</p>
             <p><strong>Centro de Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <p><strong>Data de Admissão:</strong> 03.06.2023</p>
             <div class="devices">
                 <div class="device">
@@ -10899,7 +10669,7 @@
             <p><strong>E-mail:</strong> yago.oliveira@amorsaude.com</p>
             <p><strong>CPF:</strong> 380.127.808-52</p>
             <p><strong>Centro de Custo:</strong> 12002 - SAC</p>
-            <p><strong>Status:</strong> Ativo</p>
+            <p><strong>Status:</strong> Online</p>
             <div class="devices">
                 <div class="device">
                     <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -11009,7 +10779,6 @@
         <!--DiV FINAL-->
     </div>
     <?php include '../includes/footer.php' ?>
-
 </body>
 
 </html>
