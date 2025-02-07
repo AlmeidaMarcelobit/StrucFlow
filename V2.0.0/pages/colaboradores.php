@@ -14,7 +14,7 @@
     <?php include '../includes/header.php'?>
     <h2 style="text-align:center;margin-top:10px">📋 Inventário de Colaboradores</h2>
     <div class="container">
-        <div class="card"><img src="../assets/fotos/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
             <h3>👤 Alessandra Rais</h3>
             <p><strong>Cargo:</strong>Analista de Relacionamento com Profissionais da Saúde</p>
             <p><strong>Departamento:</strong>Relacionamento com Profissionais da Saúde</p>
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
             <h3>👤 Alexy Chiodi Divino</h3>
             <p><strong>Cargo:</strong>Gerente de CRM</p>
             <p><strong>Departamento:</strong>CRM</p>
@@ -80,7 +80,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva" class="profile-pic">
             <h3>👤 Aline Alves Sobral Da Silva</h3>
             <p><strong>Cargo:</strong>Consultor de Operações</p>
             <p><strong>Departamento:</strong></p>
@@ -105,7 +105,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira" class="profile-pic">
             <h3>👤 Aline Camilo de Oliveira</h3>
             <p><strong>Cargo:</strong>Consultor de Operação</p>
             <p><strong>Departamento:</strong>Consultoria</p>
@@ -159,7 +159,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
             <h3>👤 Allan Magrini</h3>
             <p><strong>Cargo:</strong>Desenvolvedor Plsql</p>
             <p><strong>Departamento:</strong>Desenvolvimento</p>
@@ -199,7 +199,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
             <h3>👤 Amanda da Silva Reis</h3>
             <p><strong>Cargo:</strong>Assistente De Canais Digitais E Relacionamento</p>
             <p><strong>Departamento:</strong>Administrativo</p>
@@ -239,7 +239,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino" class="profile-pic">
             <h3>👤 Amanda Dualattka Marcolino</h3>
             <p><strong>Cargo:</strong>Assistente de CS</p>
             <p><strong>Departamento:</strong>Atendimento ao Cliente</p>
@@ -279,7 +279,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
             <h3>👤 Amanda Gazetta Amigo</h3>
             <p><strong>Cargo:</strong>Coordenadora de Operação</p>
             <p><strong>Departamento:</strong>Regional 2</p>
@@ -340,7 +340,7 @@
                 </div>
             </div>
         </div>
-        <div class="card"><img src="../assets/fotos/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira" class="profile-pic">
+        <div class="card"><img src="../assets/imagem/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira" class="profile-pic">
             <h3>👤 Ana Beatriz Melo Silveira</h3>
             <p><strong>Cargo:</strong>Estagiário(a) Dev</p>
             <p><strong>Departamento:</strong>Desenvolvimento</p>
