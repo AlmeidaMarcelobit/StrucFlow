@@ -4594,7 +4594,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="foto_de_Iara_Cristina_Moraes_Ribeiro.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Iara%20Ribeiro.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Iara Cristina Moraes Ribeiro</h3>
             <p><strong>Cargo:</strong> Analista de Pessoas & Cultura Júnior</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -4643,7 +4643,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="foto_de_Igor_Hentique_de_Baggis.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Igor Hentique de Baggis</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -4691,7 +4691,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="foto_de_Indiara_Miria_da_Rocha_Siqueira.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Indiara%20Miria%20da%20Rocha%20Siqueira.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Indiara Miria da Rocha Siqueira</h3>
             <p><strong>Cargo:</strong> Assistente de Retenção</p>
             <p><strong>Departamento:</strong> Relacionamento com Cliente</p>
@@ -4733,7 +4733,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="foto_de_Iris_Cristina_Nietto.jpg" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Iris%20Cristina%20Nietto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Iris Cristina Nietto</h3>
             <p><strong>Cargo:</strong> Analista Contábil</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
@@ -4780,7 +4780,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Isabella%20Santana.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Isabela Cristina De Sousa Ponce Santana</h3>
             <p><strong>Cargo:</strong> Consultora De Operações</p>
             <p><strong>Departamento:</strong> Migração</p>
@@ -4824,7 +4824,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Isabela Hanna Borin</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
@@ -4867,7 +4867,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Isabella Viera</h3>
             <p><strong>Cargo:</strong> Estagiária</p>
             <p><strong>Departamento:</strong> Pessoas e Cultura</p>
@@ -4908,7 +4908,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Isabelle%20Castilho.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Isabelle Carorile Salvadego Castilho</h3>
             <p><strong>Cargo:</strong> Estagiário Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -4943,7 +4943,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Isadora%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Isadora Solbaro Dos Santos</h3>
             <p><strong>Cargo:</strong> Estagiário(a)</p>
             <p><strong>Departamento:</strong> Backoffice</p>
@@ -4991,7 +4991,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Jade%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Jade Rodrigues</h3>
             <p><strong>Cargo:</strong> Analista</p>
             <p><strong>Departamento:</strong> Amorcirurgias</p>
@@ -5047,7 +5047,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Janaima%20Fram%C3%A7oza.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Janaina Françoza</h3>
             <p><strong>Cargo:</strong> Analista de Documentações Pl</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -5103,7 +5103,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Jaqueline%20Roviero.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Jaqueline Roviero</h3>
             <p><strong>Cargo:</strong> Analista De Experiência Do Cliente</p>
             <p><strong>Departamento:</strong> AdministrOnline</p>
@@ -5136,7 +5136,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 João Pedro Pereira Ribeiro</h3>
             <p><strong>Cargo:</strong> Desenvolvedor FullStack</p>
             <p><strong>Departamento:</strong> Desenvolvimento</p>
