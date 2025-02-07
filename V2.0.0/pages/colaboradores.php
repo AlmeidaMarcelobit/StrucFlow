@@ -85,10 +85,6 @@
             <p><strong>Departamento:</strong>Louzada</p>
             <p><strong>E-mail:</strong>aline.silva@amorsaude.com</p>
             <p><strong>CPF:</strong>449.168.138-47</p>
-            <p><strong>Centro de Custo:</strong></p>
-            <p><strong>Data de Admissão:</strong></p>
-            <p><strong>Data de Demissão:</strong></p>
-            <p><strong>Centro de Custo</strong></p>
             <p><strong>Centro de Custo</strong>18004 - Laboratório Louzada </p>
             <p><span class="status desativado">Status: Desativado</span></p>
             <div class="devices">
