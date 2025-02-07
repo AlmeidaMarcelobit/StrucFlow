@@ -49,7 +49,6 @@
             <p><strong>Departamento:</strong>CRM</p>
             <p><strong>E-mail:</strong>alexy.divino@amorsaude.com</p>
             <p><strong>CPF:</strong>402.811.958-89</p>
-            <p><strong>Centro de Custo:</strong></p>
             <p><strong>Centro de Custo</strong>14008 - Gerência de CRM</p>
             <p><span class="status ativo">Status: Ativo</span></p>
             <div class="devices">
@@ -83,13 +82,14 @@
         <div class="card"><img src="../assets/imagem/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva" class="profile-pic">
             <h3>👤 Aline Alves Sobral Da Silva</h3>
             <p><strong>Cargo:</strong>Consultor de Operações</p>
-            <p><strong>Departamento:</strong></p>
-            <p><strong>E-mail:</strong></p>
+            <p><strong>Departamento:</strong>Louzada</p>
+            <p><strong>E-mail:</strong>aline.silva@amorsaude.com</p>
             <p><strong>CPF:</strong>449.168.138-47</p>
             <p><strong>Centro de Custo:</strong></p>
             <p><strong>Data de Admissão:</strong></p>
             <p><strong>Data de Demissão:</strong></p>
             <p><strong>Centro de Custo</strong></p>
+            <p><strong>Centro de Custo</strong>18004 - Laboratório Louzada </p>
             <p><span class="status desativado">Status: Desativado</span></p>
             <div class="devices">
                 <div class="device">
