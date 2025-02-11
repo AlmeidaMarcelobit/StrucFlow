@@ -7663,7 +7663,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Mathiele%20Matos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Mathiele Machado de Matos</h3>
             <p><strong>Cargo:</strong> Consultoria de Operações</p>
             <p><strong>Departamento:</strong> Não informado</p>
@@ -7712,7 +7712,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Miria Elisiane Cardoso</h3>
             <p><strong>Cargo:</strong> Assistente de CS</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -7759,7 +7759,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Monica%20Gon%C3%A7alves%20Soares.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Monica Gonçalves Soares</h3>
             <p><strong>Cargo:</strong> Recepcionista</p>
             <p><strong>Departamento:</strong> Financeiro</p>
