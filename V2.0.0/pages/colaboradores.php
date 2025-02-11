@@ -6878,8 +6878,6 @@
                 <p><strong>Alerta:</strong> O colaborador está utilizando os equipamentos listados, porém apenas possuímos o termo de responsabilidade do notebook, não tendo os termos nem os dados dos demais equipamentos.</p>
             </div>
         </div>
-        <div>
-        </div>
         <div class="card">
             <img src="../imagem/Lucimara%20Silva%20Zampollo.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucimara Silva Zampollo</h3>
@@ -7382,51 +7380,8 @@
                 </div>
             </div>
         </div>
+        <!--        Remover Licença     -->
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
-            <h3>👤 Marcos Vinicius Moroti</h3>
-            <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
-            <p><strong>Departamento:</strong> BackOffice</p>
-            <p><strong>E-mail:</strong> marcos.moroti@amorsaude.com</p>
-            <p><strong>CPF:</strong> 473.590.478-62</p>
-            <p><strong>Centro de Custo:</strong> 12005 - BackOffice</p>
-            <span class="status desligado">Status: Desligado</span>
-            <div class="devices">
-                <div class="device">
-                    <h4>💻 Notebook</h4>
-                    <p><strong>Patrimônio:</strong> 248</p>
-                    <p><strong>Série:</strong> 9JLQXWE</p>
-                    <p><strong>Modelo:</strong> Dell Vostro 15 3510</p>
-                </div>
-                <div class="device">
-                    <h4>⌨️🖱️ Teclado e Mouse</h4>
-                    <p><strong>Patrimônio:</strong> 433</p>
-                    <p><strong>Série:</strong> 224CE257B59 (Teclado), 2241lzc1uls8 (Mouse)</p>
-                    <p><strong>Modelo:</strong> Logitech MK270</p>
-                </div>
-                <div class="device">
-                    <h4>🎧 Fone</h4>
-                    <p><strong>Patrimônio:</strong> 1019</p>
-                    <p><strong>Série:</strong> 2224MECKSFu9</p>
-                    <p><strong>Modelo:</strong> Logitech H390</p>
-                </div>
-                <div class="device">
-                    <h4>📱 Celular</h4>
-                    <p><strong>Patrimônio:</strong> 1020</p>
-                    <p><strong>Série:</strong> R9XW20ChSXZ</p>
-                    <p><strong>Modelo:</strong> Galaxy A03 Core</p>
-                    <p><strong>IMEI 1:</strong> 358302235395843/01</p>
-                    <p><strong>IMEI 2:</strong> 35976405395843/01</p>
-                </div>
-            </div>
-            <div class="devices">
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
             <img src="../imagem/Maria%20Medieros.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Maria Caroline Dantas De Medeiros</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
