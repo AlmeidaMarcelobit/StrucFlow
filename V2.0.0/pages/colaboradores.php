@@ -5589,6 +5589,7 @@
             <h3>👤 Katia Tatiana Tomaz Marcondes</h3>
             <p><strong>Cargo:</strong> Assistente de Atendimento ao Cliente</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
+            <p><strong>E-mail:</strong>katia.marcondes@amorsaude.com</p>
             <p><strong>CPF:</strong> 317.842.138-61</p>
             <p><strong>Centro de Custo:</strong> 12002 - Sac</p>
             <p><span class="status Online">Status:</span></p>
@@ -5683,6 +5684,7 @@
             <h3>👤 Lais Toledo Mendes da Silva</h3>
             <p><strong>Cargo:</strong> Assistente Contábil</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
+            <p><strong>E-mail:</strong>kessya.rosolini@amorsaude.com</p>
             <p><strong>CPF:</strong> 339.643.328-95</p>
             <p><strong>Centro de Custo:</strong> 13003 - Contábil</p>
             <p><span class="status Online">Status:</span></p>
@@ -5796,6 +5798,7 @@
             <h3>👤 Larissa Gabrielle Rosseto Dos Santos</h3>
             <p><strong>Cargo:</strong> Estagiário(a)</p>
             <p><strong>Departamento:</strong> Departamento Pessoal</p>
+            <p><strong>E-mail:</strong>larissa.santos@amorsaude.com</p>
             <p><strong>CPF:</strong> 485.231.268-05</p>
             <p><strong>Centro de Custo:</strong> 13006 - Pessoa e Cultura</p>
             <p><span class="status Online">Status:</span></p>
@@ -6668,6 +6671,12 @@
             <div class="devices">
                 <div class="device">
                     <h4>🖥️ Monitor</h4>
+                    <p><strong>Patrimônio:</strong> 1572</p>
+                    <p><strong>Série:</strong> 403AZDB84034 </p>
+                    <p><strong>Modelo:</strong> LG 22MP10-B </p>
+                </div>
+                <div class="device">
+                    <h4>🖥️ Monitor(Criar Termo de Devolução)</h4>
                     <p><strong>Patrimônio:</strong> 1438</p>
                     <p><strong>Série:</strong> F24T350FH</p>
                     <p><strong>Modelo:</strong> Samsung LF24T350FHLMZD</p>
