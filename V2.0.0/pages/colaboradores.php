@@ -5161,7 +5161,7 @@
             <p><strong>E-mail:</strong> joaopedro.silvestre@amorsaude.com</p>
             <p><strong>CPF:</strong> N/A</p>
             <p><strong>Centro de Custo:</strong> 12010</p>
-            <p><span class="status Online">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -5204,7 +5204,7 @@
             <p><strong>E-mail:</strong> </p>
             <p><strong>CPF:</strong> 361.772.308-06</p>
             <p><strong>Centro de Custo:</strong> </p>
-            <p><span class="status Online">Status:</span></p>
+            <p><span class="status Offline">Status: Offline</span></p>
             <div class="devices">
                 <div class="device">
                     <h4>💻 Notebook</h4>
