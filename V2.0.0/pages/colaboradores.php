@@ -5154,7 +5154,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 João Pedro Silvestre</h3>
             <p><strong>Cargo:</strong> Analista de Desempenho</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -5197,7 +5197,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Jonatas Henrique Esreves Mian</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -5240,7 +5240,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Jordy Neves</h3>
             <p><strong>Cargo:</strong> Analista De Desempenho</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -5269,7 +5269,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Josiane%20Santos.jpeg" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Josiane Santos</h3>
             <p><strong>Cargo:</strong> Analista De QA</p>
             <p><strong>Departamento:</strong> Produto</p>
@@ -5288,7 +5288,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Julcelly%20Henriques.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Julcelly Henriques</h3>
             <p><strong>Cargo:</strong> Analista De Pesquisa Jr</p>
             <p><strong>Departamento:</strong> Projetos</p>
@@ -5315,7 +5315,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Julia%20Colombari.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Julia Colombari</h3>
             <p><strong>Cargo:</strong> Assistente de CS</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -5371,7 +5371,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Julia%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Julia Carolia da Silva</h3>
             <p><strong>Cargo:</strong> Assistente de Atendimento ao Cliente</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -5431,7 +5431,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Juliana%20De%20Oliveira%20Silv%C3%A9rio.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Juliana de Oliveira Silvério</h3>
             <p><strong>Cargo:</strong> Consultor de Operação</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -5473,7 +5473,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Juliana%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Juliana Paula da Silva Souza</h3>
             <p><strong>Cargo:</strong> Analista de Pessoas e Cultura</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -5511,7 +5511,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Karen%20Ramos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Karen Ramos</h3>
             <p><strong>Cargo:</strong> Analista De Treinamentos</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -5538,7 +5538,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Karen%20Loureiro.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Karen Loureiro</h3>
             <p><strong>Cargo:</strong> Consultora de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -5585,7 +5585,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Katia Tatiana Tomaz Marcondes</h3>
             <p><strong>Cargo:</strong> Assistente de Atendimento ao Cliente</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -5639,7 +5639,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/K%C3%A9ssya%20Rosolini.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Kessya De Lima Rosolini</h3>
             <p><strong>Cargo:</strong> Coordenador(A) De Pessoas E Cultura</p>
             <p><strong>Departamento:</strong> Pessoas E Cultura</p>
@@ -5679,7 +5679,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lais%20Toledo.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lais Toledo Mendes da Silva</h3>
             <p><strong>Cargo:</strong> Assistente Contábil</p>
             <p><strong>Departamento:</strong> Contabilidade</p>
@@ -5725,7 +5725,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Larissa%20Branco%20Ribeiro.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Larissa Branco Ribeiro</h3>
             <p><strong>Cargo:</strong> Assistente de Operações</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -5792,7 +5792,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Larrisa%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Larissa Gabrielle Rosseto Dos Santos</h3>
             <p><strong>Cargo:</strong> Estagiário(a)</p>
             <p><strong>Departamento:</strong> Departamento Pessoal</p>
@@ -5849,7 +5849,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Larissa%20Izabela%20De%20Freitas.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Larissa Izabela de Freitas</h3>
             <p><strong>Cargo:</strong> Analista AdministrOnline Pleno</p>
             <p><strong>Departamento:</strong> Cirurgias</p>
@@ -5902,7 +5902,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Larissa%20Mattozo.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Larissa Magiolo Mattozo</h3>
             <p><strong>Cargo:</strong> Product Owner Jr</p>
             <p><strong>Departamento:</strong> Produto</p>
@@ -5937,7 +5937,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Laura%20Ribeiro.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Laura Barros Ribeiro</h3>
             <p><strong>Cargo:</strong> Analista De Pessoas E Cultura</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -5956,7 +5956,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Laura%20Paschoin.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Laura Garcia Paschoin</h3>
             <p><strong>Cargo:</strong> Analista de Projetos</p>
             <p><strong>Departamento:</strong> Projetos Processos</p>
@@ -6012,7 +6012,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lauriele%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lauriele Santiago dos Santos</h3>
             <p><strong>Cargo:</strong> Assistente Financeiro</p>
             <p><strong>Departamento:</strong> Analista de Financeiro</p>
@@ -6066,7 +6066,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leandro%20Hernandes.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Leandro Alves Hernandes</h3>
             <p><strong>Cargo:</strong> Gerente Regional De Operações</p>
             <p><strong>Departamento:</strong> Dir. Operações</p>
@@ -6117,7 +6117,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leandro%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Leandro Rodrigues Santos</h3>
             <p><strong>Cargo:</strong> Assistente de Treinamentos</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -6172,7 +6172,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leandro%20Montenegro.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Leandro Tosta Montenegro</h3>
             <p><strong>Cargo:</strong> Analista de Pessoas & Cultura Júnior</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -6228,7 +6228,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leonardo%20Botelho.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Leonardo Cotrim Ferreira Pinto de Oliveira Botelho</h3>
             <p><strong>Cargo:</strong> Gerente Técnico</p>
             <p><strong>Departamento:</strong> Gerência Técnica</p>
@@ -6288,7 +6288,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lethicia%20Eliane%20Souza%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lethicia Eliane Souza Martins</h3>
             <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -6329,7 +6329,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leticia%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Letícia Godoy da Silva</h3>
             <p><strong>Cargo:</strong> Analista de Pessoas & Cultura Júnior</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -6371,7 +6371,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Leticia%20Osone.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Leticia Yumi Osone</h3>
             <p><strong>Cargo:</strong> Analista De Experiência Do Cliente</p>
             <p><strong>Departamento:</strong> Qualidade Processo</p>
@@ -6418,7 +6418,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Livia%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Livia Marcolino Paula</h3>
             <p><strong>Cargo:</strong> Analista de Atendimento ao Cliente JR</p>
             <p><strong>Departamento:</strong> Amorcirurgias</p>
@@ -6465,7 +6465,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lorraine%20Moreno.jpeg" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lorraine Moreno Machado</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamentos</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
@@ -6512,7 +6512,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Luana%20Maciel.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Luana Tauani Maciel Alves</h3>
             <p><strong>Cargo:</strong> Analista - Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -6555,7 +6555,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucas%20Colbacho.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucas Colbacho</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -6610,7 +6610,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucas Guidetti Rocha</h3>
             <p><strong>Cargo:</strong> Assistente de Canais Digitais e Relacionamento</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
@@ -6657,7 +6657,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucas%20Mateus.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucas Mateus</h3>
             <p><strong>Cargo:</strong> Analista De Dados</p>
             <p><strong>Departamento:</strong> Dados</p>
@@ -6721,7 +6721,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucas%20Pedro%20Pereira.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucas Pedro Pereira</h3>
             <p><strong>Cargo:</strong> Analista Financeiro JR</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -6768,7 +6768,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucas%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucas Rodrigues Alcassa</h3>
             <p><strong>Cargo:</strong> Analista de Negócios</p>
             <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -6816,7 +6816,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucilene%20Santos%20Matias.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucilene Santos Matias</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
@@ -6872,7 +6872,7 @@
         <div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Lucimara%20Silva%20Zampollo.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Lucimara Silva Zampollo</h3>
             <p><strong>Cargo:</strong> Recepcionista</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -6921,7 +6921,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Luiz Assumpção</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
@@ -6970,7 +6970,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Luylla%20Magalhaes.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Luylla Louise Magalhães</h3>
             <p><strong>Cargo:</strong> Coordenadora de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
@@ -7019,7 +7019,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Maicon%20Leone%20Alves%20Facirolli.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Maicon Leone Alves Facirolli</h3>
             <p><strong>Cargo:</strong> Coordenador de Inteligência de Negócios</p>
             <p><strong>Departamento:</strong> Gerência Operações</p>
@@ -7081,7 +7081,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Malinda%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Malinda Gonçalves de Oliveira</h3>
             <p><strong>Cargo:</strong> Coordenadora de Atendimento ao Cliente</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -7129,7 +7129,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcela Diab Luiz</h3>
             <p><strong>Cargo:</strong> Coordenador de Operações</p>
             <p><strong>Departamento:</strong> Operações</p>
@@ -7184,7 +7184,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marcelo%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcelo Alexandre Barbosa Martins</h3>
             <p><strong>Cargo:</strong> Analista de Suporte Jr</p>
             <p><strong>Departamento:</strong> Suporte</p>
@@ -7224,7 +7224,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcelo Borba Okazaki</h3>
             <p><strong>Cargo:</strong> Desenvolvedor Fullstack</p>
             <p><strong>Departamento:</strong> Desenvolvimento</p>
@@ -7243,7 +7243,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marco%20Bizarri.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marco Aurélio Bizarri</h3>
             <p><strong>Cargo:</strong> Analista De Contas A Pagar Pl</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -7290,7 +7290,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marcos%20Corusse.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcos Henrique Corusse</h3>
             <p><strong>Cargo:</strong> Product Owner</p>
             <p><strong>Departamento:</strong> Produto</p>
@@ -7331,7 +7331,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marcos%20Vinicius%20Moroti.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marcos Vinicius Moroti</h3>
             <p><strong>Cargo:</strong> Assistente AdministrOnline</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -7418,6 +7418,7 @@
         </div>
         <div class="card">
             <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Maria%20Medieros.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Maria Caroline Dantas De Medeiros</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -7460,7 +7461,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Maria%20Peterli.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Maria Eduarda da Silva Peterli</h3>
             <p><strong>Cargo:</strong> Assistente de CS</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -7499,7 +7500,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Maria%20Luisa%20Barros%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Maria Luisa Barros Lima</h3>
             <p><strong>Cargo:</strong> Assistente De Canais Digitais E Relacionamento</p>
             <p><strong>Departamento:</strong> Canais Digitais e Relacionamento</p>
@@ -7546,7 +7547,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marianne%20Lesur%20Goncalves.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marianne Lesur Goncalves</h3>
             <p><strong>Cargo:</strong> Coordenadora de Qualidade de Telemedicina</p>
             <p><strong>Departamento:</strong> Telemedicina</p>
@@ -7599,7 +7600,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Marjorie%20Caetano%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Marjorie Caetano Rodrigues</h3>
             <p><strong>Cargo:</strong> Product Owner</p>
             <p><strong>Departamento:</strong> Produtos</p>
@@ -7655,7 +7656,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Mateus Rodrigues Nistarda</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
