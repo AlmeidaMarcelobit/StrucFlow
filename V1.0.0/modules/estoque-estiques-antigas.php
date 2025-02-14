@@ -248,67 +248,7 @@
                     <p><strong>Equipamentos:</strong>Notebook, Mouse, Teclado, Headset, Suporte</p>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>127</p>
-                        <p><strong>Colaborador:</strong>Otávio Freitas</p>
-                        <p><strong>Email:</strong>otavio.freitas@amorsaude.com</p>
-                        <p><strong>Cargo:</strong>Product Owner Junior</p>
-                        <p><strong>Departamento:</strong>Projetos e Processos</p>
-                        <p><strong>CPF:</strong>431.693.188-10</p>
-                        <p><strong>Data de admissão:</strong>06.01.2025</p>
-                        <p><strong>Data de desligamento:</strong>N/A</p>
-                        <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
-                        <p><strong>Substituição:</strong>Laura Garcia Paschoin</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>S/N Teclado:</strong>2253CE0F1789</p>
-                        <p class="serial"><strong>S/N Mouse:</strong>2248LZX6ND08</p>
-                        <p><strong>Patrimônio:</strong>237</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
-                        <p class="serial"><strong>S/N:</strong>N/A</p>
-                        <p><strong>Patrimônio:</strong>803</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-                        <p class="serial"><strong>S/N:</strong>303AZPU94384</p>
-                        <p><strong>Patrimônio:</strong>397</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Marca/Modelo:</strong>Lenovo Ideapad3 15alc6</p>
-                        <p class="serial"><strong>S/N:</strong>pe09ftjn</p>
-                        <p><strong>Patrimônio:</strong>190</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
-                        <p class="serial"><strong>S/N:</strong>265441361</p>
-                        <p><strong>Patrimônio:</strong>601</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Marca/Modelo:</strong>Galaxy A03</p>
-                        <p class="serial"><strong>S/N:</strong>R9XT700F4VR</p>
-                        <p><strong>Patrimônio:</strong>591</p>
-                        <p><strong>IMEI 1:</strong>354985988590316/01</p>
-                        <p><strong>IMEI 2:</strong>355106278580317/01</p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>N/A</p>
-                    <p><strong>Equipamentos:</strong>Teclado e Mouse, Suporte, Monitor, Notebook, Fone, Celular</p>
-                </section>
-            </article>
+
             <article>
                 <section class="colaborador-info">
                     <div class="colaborador-details">
