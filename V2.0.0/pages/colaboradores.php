@@ -7808,7 +7808,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Murillo%20Zanine.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Murillo Flavio Zanine</h3>
             <p><strong>Cargo:</strong> Analista Financeiro</p>
             <p><strong>Departamento:</strong> Financeiro</p>
@@ -7855,7 +7855,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Murilo%20Borba.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Murilo Samuel Borba</h3>
             <p><strong>Cargo:</strong> Analista de Dados Jr.</p>
             <p><strong>Departamento:</strong> Dados</p>
@@ -7896,7 +7896,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Murilo%20Venturoso.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Murilo Venturoso Tinazzo</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> 12006 - Regional 1</p>
@@ -7951,7 +7951,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Natalia Duarte Zimmermann</h3>
             <p><strong>Cargo:</strong> Coordenadora de Operações</p>
             <p><strong>Departamento:</strong> Consultorria</p>
@@ -7994,7 +7994,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Natanel%20Zavanela.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Natanael Zavanela</h3>
             <p><strong>Cargo:</strong> Consultor De Operações</p>
             <p><strong>Departamento:</strong> Regional 1</p>
@@ -8043,7 +8043,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Nicholas%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Nicholas Esdras Lopes dos Santos</h3>
             <p><strong>Cargo:</strong> Assistente de BackOffice</p>
             <p><strong>Departamento:</strong> BackOffice - Treinamentos</p>
@@ -8093,7 +8093,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Nicolas%20Tassinari.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Nicolas Francisco Eloy Tassinari</h3>
             <p><strong>Cargo:</strong> Analista De Processos</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -8146,7 +8146,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Nicole%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Nicole Souza Cimento</h3>
             <p><strong>Cargo:</strong> Consultor de Operações</p>
             <p><strong>Departamento:</strong> Consultoria</p>
@@ -8195,7 +8195,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Otavio Honrorio de Freitas</h3>
             <p><strong>Cargo:</strong>Product Owner Junior</p>
             <p><strong>Departamento:</strong>Projetos e Processos</p>
@@ -8243,7 +8243,7 @@
         </div>
 
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Pamela%20Cristina%20Sene%20Sousa%20Crispin.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Pamela Cristina Sene Souza Crispin</h3>
             <p><strong>Cargo:</strong> Assistente de Atendimento ao Cliente</p>
             <p><strong>Departamento:</strong> Atendimento ao Cliente</p>
@@ -8292,7 +8292,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Pamela%20Felix%20Divino.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Pamela Felix Divino</h3>
             <p><strong>Cargo:</strong> Analista De Processos E Documentações</p>
             <p><strong>Departamento:</strong> BackOffice</p>
@@ -8341,7 +8341,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Paula%20Tagliacolli.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Paula Aparecida Tagliacolli</h3>
             <p><strong>Cargo:</strong> Analista De Pessoas E Cultura</p>
             <p><strong>Departamento:</strong> Pessoas & Cultura</p>
@@ -8390,7 +8390,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Paulo Antônio Imon Spanó</h3>
             <p><strong>Cargo:</strong> Desenvolvedor</p>
             <p><strong>Departamento:</strong> Desenvolvimento</p>
@@ -8431,7 +8431,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="" alt="Foto do Colaborador" class="profile-pic">
+            <img src="../imagem/Pau" alt="Foto do Colaborador" class="profile-pic">
             <h3>👤 Paulo Joneas Goncalves Rick</h3>
             <p><strong>Cargo:</strong> Product Owner</p>
             <p><strong>Departamento:</strong> Não especificado</p>
@@ -10496,11 +10496,11 @@
                 </div>
                 <div class="device">
                     <h4>📱 Celular</h4>
-                    <p><strong>Patrimônio:</strong> 794</p>
-                    <p><strong>Série:</strong> RX9R90HDAAR</p>
-                    <p><strong>Modelo:</strong> Galaxy A02</p>
-                    <p><strong>IMEI 1:</strong> 354397310709045</p>
-                    <p><strong>IMEI 2:</strong> 354578130709048</p>
+                    <p><strong>Patrimônio:</strong> 810</p>
+                    <p><strong>Série:</strong> R9XW20CHL4K</p>
+                    <p><strong>Modelo:</strong> Galaxy A03 Core</p>
+                    <p><strong>IMEI 1:</strong> 358302235393608</p>
+                    <p><strong>IMEI 2:</strong> 359796405393604</p>
                 </div>
                 <div class="device">
                     <h4>💻 Notebook</h4>
@@ -10509,6 +10509,18 @@
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
             </div>
+        <h2>Equipamentos Comprometidos</h2>
+                        <div class="devices">
+                        <div class="device">
+                            <h4>📱 Celular</h4>
+                            <p><strong>Patrimônio:</strong> 794</p>
+                            <p><strong>Série:</strong> RX9R90HDAAR</p>
+                            <p><strong>Modelo:</strong> Galaxy A02</p>
+                            <p><strong>IMEI 1:</strong> 354397310709045</p>
+                            <p><strong>IMEI 2:</strong> 354578130709048</p>
+                        </div>
+                    </div>
+
             <div class="devices">
                 <div class="responsibility-link">
                     <h4><a href="">📑 Termo de Responsabilidade</a></h4>
