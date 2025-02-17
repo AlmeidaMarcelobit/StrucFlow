@@ -746,60 +746,7 @@
                     <p><strong>Equipamentos:</strong>Headset, Notebook 8G, Memória extra Notebook</p>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>04</p>
-                        <p><strong>ID Caixa Atinga:</strong>105</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Consultor de Operações</p>
-                        <p><strong>Departamento:</strong>Consultoria</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Data da admissão:</strong></p>
-                        <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>S/N:</strong>2243CE258429 - 2241LZX3P288</p>
-                        <p><strong>Patrimônio:</strong>282</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook Win-10 i5-1135G7 8GB</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Vostro 15 3510</p>
-                        <p class="serial"><strong>S/N:</strong>2P3MOT3</p>
-                        <p><strong>Patrimônio:</strong>271</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Logitehc H390</p>
-                        <p class="serial"><strong>S/N:</strong>2309ME017VY8</p>
-                        <p><strong>Patrimônio:</strong>835</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Marca/Modelo:</strong>Motorola E13</p>
-                        <p class="serial"><strong>S/N:</strong>UJ5MVC3MT8</p>
-                        <p><strong>Patrimônio:</strong>846</p>
-                        <p><strong>IMEI 1:</strong>35934098125427</p>
-                        <p><strong>IMEI 2:</strong>359340981254284</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
-                        <p class="serial"><strong>S/N:</strong>(Não fornecido)</p>
-                        <p><strong>Patrimônio:</strong>1245</p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>(Não fornecido)</p>
-                    <p><strong>Equipamentos:</strong>Teclado e Mouse, Notebook, Fone, Celular, Suporte</p>
-                </section>
-            </article>
+
             <article>
                 <section class="colaborador-info">
                     <div class="colaborador-details">
