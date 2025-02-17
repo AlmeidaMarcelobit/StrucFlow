@@ -18,7 +18,7 @@
             <div class="menu-dropdown">
                 <a href="#">Estoques</a>
                 <div class="dropdown-content">
-                    <a href="#kits">Kits</a>
+                    <a href="pages/kits.html">Kits</a>
                     <a href="#monitor">Monitor</a>
                     <a href="#computadores">Computadores</a>
                     <a href="#celulares">Celulares</a>
