@@ -1293,51 +1293,7 @@
                     </div>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>136;</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Assistente de Operações</p>
-                        <p><strong>Departamento:</strong>Consultoria</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Data da admissão:</strong></p>
-                        <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-                        <p><strong>Subituição:</strong>Edson Ortolan Junior</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Jabra HSC06</p>
-                        <p class="serial"><strong>Teclado S/N:</strong>4999823109</p>
-                        <p class="serial"><strong>Mouse S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong>670</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Marca/Modelo:</strong>Samssung Galaxy A02</p>
-                        <p class="serial"><strong>S/N:</strong>rq8rb09shfx</p>
-                        <p><strong>Patrimonio:</strong>745</p>
-                        <p><strong>IMEI 1:</strong>350844817061325/01</p>
-                        <p><strong>IMEI 2:</strong>356067157061325/01</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Inspiron 3510</p>
-                        <p class="serial"><strong>S/N:</strong>7tn05l3</p>
-                        <p><strong>Patrimonio:</strong>183</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Marca/Modelo:</strong>Dell p2018hc</p>
-                        <p class="serial"><strong>S/N:</strong>h2x5463</p>
-                        <p><strong>Patrimonio:</strong>014</p>
-                    </div>
-                </section>
-            </article>
+
             <article>
                 <section class="colaborador-info">
                     <div class="colaborador-details">
@@ -1755,47 +1711,7 @@
                     <p><strong>Equipamentos:</strong>Smartphone, Notebook, Teclado e Mouse, ,Suporte e Fone</p>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>75321</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Cargo:</strong></p>
-                        <p><strong>Departamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>72023 - Relacionamento com Cliente / Retenção</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook Win-11 i5-1235U 8GB</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
-                        <p class="serial"><strong>S/N:</strong>H3Y3F14</p>
-                        <p><strong>Patrimonio:</strong>1504</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>S/N:</strong>2345CE4BA558</p>
-                        <p><strong>Patrimonio:</strong>1505</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Marca/Modelo:</strong>Aluminio</p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Patrimonio:</strong>890</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Headset</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2350AY053558</p>
-                        <p><strong>Patrimonio:</strong>991</p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>#30511</p>
-                    <p><strong>Equipamentos:</strong>Notebook Win-11 i5-1235U 8GB, Teclado e Mouse, Suporte, Headset</p>
-                </section>
-            </article>
+
         </div>
         <header class="header-maquinas-estiquetas">
             <h1>MAQUINA ESTIQUETAS</h1>
