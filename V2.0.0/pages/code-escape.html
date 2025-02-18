@@ -4,58 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <title>Escape Code</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
-
-        .card-box,
-        .card {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 20px;
-        }
-
-        .equipamento-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-        }
-
-        .equipamento-card {
-            background: #e3e3e3;
-            padding: 15px;
-            border-radius: 8px;
-            flex: 1 1 200px;
-        }
-
-        .attention-info {
-            background: #ffcccb;
-            padding: 15px;
-            border-radius: 8px;
-        }
-
-        .devices {
-            margin-top: 20px;
-        }
-
-        .device {
-            background: #e3e3e3;
-            padding: 15px;
-            border-radius: 8px;
-        }
-
-    </style>
+    <link rel="stylesheet" href="../assets/css/code_escape.css">
 </head>
 
 <body>
-    <?php include '../includes/header.php'?>
+<header>
+    <nav>
+        <a href="../pages/colaboradores.php">Colaboradores</a>
+        <div class="menu-dropdown">
+            <a href="#">Estoques</a>
+            <div class="dropdown-content">
+                <a href="../pages/kits.php">Kits</a>
+                <a href="monitor.html">Monitor</a>
+                <a href="#computadores">Computadores</a>
+                <a href="#celulares">Celulares</a>
+                <a href="#fones">Fones</a>
+                <a href="#danificados">Danificados</a>
+            </div>
+        </div>
+        <a href="#centro-custo">Centro de Custo</a>
+        <a href="#status-sistemas">Status - Sistemas</a>
+    </nav>
+</header>
 
-    <pre>
+<pre>
     &lt;div class=&quot;card&quot;&gt;
         &lt;img src=&quot;&quot; alt=&quot;Foto do Colaborador&quot; class=&quot;profile-pic&quot;&gt;
         &lt;h3&gt;👤 Nome do Colaborador&lt;&#x2F;h3&gt;
@@ -127,9 +99,7 @@
     </pre>
 
 
-
-
-    <pre>
+<pre>
     &lt;h4&gt;⌨️🖱️Teclado e Mouse&lt;/h4&gt;
     &lt;h4&gt;💻 Notebook&lt;/h4&gt;
     &lt;h4&gt;📑 Termo Respoponsabildiade&lt;/h4&gt;
@@ -141,8 +111,8 @@
     &lt;h4&gt;🖥️ Monitor&lt;/h4&gt;
     </pre>
 
-    <h2>Codigo Estoque</h2>
-    <pre>
+<h2>Codigo Estoque</h2>
+<pre>
      &lt;div class=&quot;card-box&quot;&gt;
             &lt;h2&gt;📦ID Caixa:&lt;/h2&gt;
             &lt;p&gt;&lt;strong&gt;Substitui&ccedil;&atilde;o:&lt;/strong&gt;&lt;/p&gt;
@@ -182,9 +152,7 @@
             &lt;p&gt;&lt;strong&gt;Alerta:&lt;/strong&gt;&lt;/p&gt;
         &lt;/div&gt;
         </pre>
-    <h2>Codigo Colaboradores</h2>
-
-
+<h2>Codigo Colaboradores</h2>
 
 
 </body>
