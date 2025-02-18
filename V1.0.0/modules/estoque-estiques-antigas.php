@@ -1086,66 +1086,7 @@
                     <p><strong>Equipamentos:</strong>Notebook, Fone, Celular, Teclado e Mouse, Suporte</p>
                 </section>
             </article>
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>129</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Analista de Pessoas & Cultura Sênior</p>
-                        <p><strong>Departamento:</strong>Pessoas & Cultura</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Data da admissão:</strong></p>
-                        <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>13006 - Pessoas & Cultura</p>
-                        <p><strong>Substituição:</strong>Wendell Alessandro Candido Oliveira</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Patrimônio:</strong>1446</p>
-                        <p class="serial"><strong>S/N:</strong>B832JZ3</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Vostro 3520</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Patrimônio:</strong>966</p>
-                        <p class="serial"><strong>S/N:</strong>2329AYO1A558</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Patrimônio:</strong>1445</p>
-                        <p class="serial"><strong>S/N:</strong>2232CE1CFB58</p>
-                        <p><strong>Marca/Modelo:</strong>MK270</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Patrimônio:</strong>967</p>
-                        <p class="serial"><strong>S/N:</strong></p>
-                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Monitor</p>
-                        <p><strong>Patrimônio:</strong>1517</p>
-                        <p class="serial"><strong>S/N:</strong>312AZVN60015</p>
-                        <p><strong>Marca/Modelo:</strong>LG 22MP410-B</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Patrimônio:</strong>968</p>
-                        <p class="serial"><strong>S/N:</strong>ZF5248W28G</p>
-                        <p><strong>IMEI 1:</strong>359340983540177/05</p>
-                        <p><strong>IMEI 2:</strong>359340983540185/05</p>
-                        <p><strong>Marca/Modelo:</strong></p>
-                    </div>
-                </section>
-                <section class="ticket">
-                    <p><strong>ID Ticket:</strong>#24560</p>
-                    <p><strong>Equipamento:</strong>Celular, Monitor, Suporte, Teclado e Mouse, Fone, Notebook</p>
-                </section>
-            </article>
+            
             <article>
                 <section class="colaborador-info">
                     <div class="colaborador-details">
@@ -1195,7 +1136,7 @@
                         <p><strong>ID Caixa:</strong>135</p>
                         <p><strong>Colaborador:</strong></p>
                         <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Consultor(A) De Operações</p>
+                        <p><strong>Cargo:</strong></p>
                         <p><strong>Departamento:</strong>Regional 2</p>
                         <p><strong>CPF:</strong></p>
                         <p><strong>Data da admissão:</strong></p>
@@ -1207,91 +1148,34 @@
                 <section class="equipamentos-info">
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Vostro 153510</p>
-                        <p class="serial"><strong>S/N:</strong>FT2FWY3</p>
-                        <p><strong>Patrimonio:</strong>330</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Jabra HSC016</p>
-                        <p class="serial"><strong>S/N:</strong>2753362553</p>
-                        <p><strong>Patrimonio:</strong>692</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>S/N:</strong></p>
+                        <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Suporte</p>
-                        <p><strong>Marca/Modelo:</strong>Alumínio</p>
+                        <p><strong>Marca/Modelo:</strong></p>
                         <p class="serial"><strong>S/N:</strong>N/A</p>
-                        <p><strong>Patrimonio:</strong>891</p>
+                        <p><strong>Patrimonio:</strong></p>
                     </div>
                     <div class="equipamento">
                         <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>Teclado S/N:</strong>2306CE122759</p>
-                        <p class="serial"><strong>Mouse S/N:</strong>2305LZXNXV8</p>
+                        <p><strong>Marca/Modelo:</strong></p>
+                        <p class="serial"><strong>Teclado S/N:</strong></p>
+                        <p class="serial"><strong>Mouse S/N:</strong></p>
                         <p><strong>Patrimonio:</strong>408</p>
                     </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Marca/Modelo:</strong>Samsung Galaxy A03</p>
-                        <p class="serial"><strong>S/N:</strong>R(XT2013C3L</p>
-                        <p><strong>IMEI 1:</strong>35485980030500/01</p>
-                        <p><strong>IMEI 2:</strong>355106270030501/01</p>
-                        <p><strong>Patrimonio:</strong>538</p>
-                    </div>
+
                 </section>
             </article>
 
-            <article>
-                <section class="colaborador-info">
-                    <div class="colaborador-details">
-                        <p><strong>ID Caixa:</strong>137</p>
-                        <p><strong>Colaborador:</strong></p>
-                        <p><strong>Email:</strong></p>
-                        <p><strong>Cargo:</strong>Consultor De Operações</p>
-                        <p><strong>Departamento:</strong>Regional 1</p>
-                        <p><strong>CPF:</strong></p>
-                        <p><strong>Data da admissão:</strong></p>
-                        <p><strong>Data da desligamento:</strong></p>
-                        <p><strong>Centro de Custo:</strong>12007 - Regiona 2</p>
-                        <p><strong>Subtituição:</strong>Natanael Zavanela</p>
-                    </div>
-                </section>
-                <section class="equipamentos-info">
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Adaptador de Rede</p>
-                        <p><strong>Marca/Modelo:</strong>UE300C</p>
-                        <p class="serial"><strong>S/N:</strong>223B92011087</p>
-                        <p><strong>Patrimonio:</strong>1216</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Fone</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech H390</p>
-                        <p class="serial"><strong>S/N:</strong>2320AY099929</p>
-                        <p><strong>Patrimonio:</strong>889</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Notebook</p>
-                        <p><strong>Marca/Modelo:</strong>Dell Ideapad3 15alc6 Ryzen5-5500u Win-10 8Gb 256GB</p>
-                        <p class="serial"><strong>S/N:</strong>pe097838</p>
-                        <p><strong>Patrimonio:</strong>168</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Teclado e Mouse</p>
-                        <p><strong>Marca/Modelo:</strong>Logitech MK270</p>
-                        <p class="serial"><strong>Teclado S/N:</strong>2232CE1C7128</p>
-                        <p class="serial"><strong>Mouse S/N:</strong>2229LZK3028</p>
-                        <p><strong>Patrimonio:</strong>1498</p>
-                    </div>
-                    <div class="equipamento">
-                        <p><strong>Tipo:</strong>Celular</p>
-                        <p><strong>Marca/Modelo:</strong>Samsung A03</p>
-                        <p class="serial"><strong>S/N:</strong>r9xta0ecssv</p>
-                        <p><strong>Patrimonio:</strong>739</p>
-                        <p><strong>IMEI 1:</strong>350916876991574/01</p>
-                        <p><strong>IMEI 2:</strong>354654236991572/01</p>
-                    </div>
-                </section>
-            </article>
+
             <article>
                 <section class="colaborador-info">
                     <div class="colaborador-details">
