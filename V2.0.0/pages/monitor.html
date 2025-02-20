@@ -7,27 +7,33 @@
     <title>Inventário de Monitores</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/monitor.css">
+    <link rel="icon" href="../favicon/favicon-16x16.png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../scripts/menudrop.js" defer></script>
 </head>
 
 <body>
-<header>
-    <nav>
-        <a href="colaboradores.html">Colaboradores</a>
-        <div class="menu-dropdown">
-            <a href="#">Estoques</a>
-            <div class="dropdown-content">
-                <a href="kits.html">Kits</a>
-                <a href="monitor.html">Monitor</a>
-                <a href="#computadores">Computadores</a>
-                <a href="#celulares">Celulares</a>
-                <a href="fone.html">Fones</a>
-                <a href="#danificados">Danificados</a>
-            </div>
-        </div>
-        <a href="#centro-custo">Centro de Custo</a>
-        <a href="#status-sistemas">Status - Sistemas</a>
-    </nav>
-</header>
+
+    <header>
+        <nav class="nav" aria-label="Main navigation">
+            <ul>
+                <li><a href="../pages/colaboradores.html">Colaboradores</a></li>
+                <li><a href="#">Centro de Custo</a></li>
+                <li><a href="#">Status - Sistema</a></li>
+                <li class="drop" aria-haspopup="true" aria-expanded="false">
+                    <a href="#">Estoque ▾</a>
+                    <ul class="dropdown" aria-label="Submenu">
+                        <li><a href="../pages/kits.html">KIts</a></li>
+                        <li><a href="../pages/monitor.html">Monitor</a></li>
+                        <li><a href="../pages/fone.html"/>Fone</a></li>
+                        <li><a href="#">Celular</a></li>
+                        <li><a href="#">Computadores</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
 
 <h1 style="text-align:center; margin-top: 10px">💻 Inventário de Monitores</h1>
 <div class="container">
