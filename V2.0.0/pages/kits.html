@@ -5,27 +5,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/kits.css">
-    <link rel="stylesheet" href="../css/colaborador.css">
+    <link rel="icon" href="../favicon/favicon-16x16.png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../scripts/menudrop.js" defer></script>
     <title>Caixa Computadores</title>
 </head>
 
 <body>
 <header>
-    <nav>
-        <a href="colaboradores.html">Colaboradores</a>
-        <div class="menu-dropdown">
-            <a href="#">Estoques</a>
-            <div class="dropdown-content">
-                <a href="../pages/kits.php">Kits</a>
-                <a href="monitor.html">Monitor</a>
-                <a href="#computadores">Computadores</a>
-                <a href="#celulares">Celulares</a>
-                <a href="../pages/fone.html">Fones</a>
-                <a href="#danificados">Danificados</a>
-            </div>
-        </div>
-        <a href="#centro-custo">Centro de Custo</a>
-        <a href="#status-sistemas">Status - Sistemas</a>
+    <nav class="nav" aria-label="Main navigation">
+        <ul>
+            <li><a href="../pages/colaboradores.html">Colaboradores</a></li>
+            <li><a href="#">Centro de Custo</a></li>
+            <li><a href="#">Status - Sistema</a></li>
+            <li class="drop" aria-haspopup="true" aria-expanded="false">
+                <a href="#">Estoque ▾</a>
+                <ul class="dropdown" aria-label="Submenu">
+                    <li><a href="../pages/kits.html">KIts</a></li>
+                    <li><a href="../pages/monitor.html">Monitor</a></li>
+                    <li><a href="../pages/fone.html"/>Fone</a></li>
+                    <li><a href="#">Celular</a></li>
+                    <li><a href="#">Computadores</a></li>
+                </ul>
+            </li>
+        </ul>
     </nav>
 </header>
 <h1>Estoque de Equipamentos</h1>
