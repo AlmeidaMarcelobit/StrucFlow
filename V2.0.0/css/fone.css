@@ -72,15 +72,28 @@ nav ul li ul.dropdown li a:hover {
     color: #111;
 }
 
+.devices {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Colunas com largura mínima de 250px */
+    gap: 20px;
+    padding: 10px;
+    max-width: 700px;
+    width: 85%; /* Largura máxima do container */
+    margin: 0 auto; /* Centraliza o container */
 }
 
 .device {
     background-color: #f8f9fa;
     border: 2px solid #007BFF;
     border-radius: 10px;
-    padding: 10px;
-    width: 300px;
+    padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.device:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 h3 {
@@ -91,7 +104,18 @@ footer {
     background-color: #007BFF;
     color: #fff;
     padding: 10px;
-    position: absolute;
-    bottom: 0;
+    position: relative;
     width: 100%;
+    margin-top: 20px;
+}
+
+.back-to-top {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.back-to-top:hover {
+    text-decoration: underline;
 }
