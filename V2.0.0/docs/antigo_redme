@@ -1,0 +1,60 @@
+# Sistema de InventÃ¡rio e GestÃ£o de Recursos
+
+## Sobre o Projeto
+O Sistema de InventÃ¡rio e GestÃ£o de Recursos Ã© uma aplicaÃ§Ã£o desenvolvida para gerenciar eficientemente o inventÃ¡rio, recursos e informaÃ§Ãµes de colaboradores em diferentes departamentos dentro de uma empresa. AtravÃ©s de uma interface intuitiva e fÃ¡cil de usar, o sistema visa melhorar a eficiÃªncia e a produtividade em todos os nÃ­veis da organizaÃ§Ã£o.
+
+## Funcionalidades Principais
+- **GestÃ£o de equipamentos e kits:** Permite o cadastro e kits utilizados pela empresa.
+- **Cadastro e gerenciamento de colaboradores:** Oferece a possibilidade de gerenciar informaÃ§Ãµes de colaboradores, incluindo seus departamentos e funÃ§Ãµes.
+- **Sistema de navegaÃ§Ã£o com menus e submenus:** Fornece uma navegaÃ§Ã£o fÃ¡cil e intuitiva, permitindo que os usuÃ¡rios acessem rapidamente as informaÃ§Ãµes necessÃ¡rias.
+- **Estilos unificados e responsivos:** Garante que a aplicaÃ§Ã£o seja visualmente atraente e funcione corretamente em diferentes dispositivos e tamanhos de tela.
+
+---
+
+## Estrutura do Projeto
+
+### DiretÃ³rios Principais
+- **`/assets`**: ContÃ©m recursos visuais como imagens e arquivos compartilhados.  
+- **`/base`**: Estruturas ou arquivos base utilizados em mÃºltiplos pontos do sistema.  
+- **`/css`**: Arquivos de estilo e formataÃ§Ã£o.  
+- **`/docs`**: DocumentaÃ§Ã£o e arquivos relacionados ao projeto.  
+- **`/includes`**: Componentes reutilizÃ¡veis ou configuraÃ§Ãµes comuns para serem incluÃ­dos em vÃ¡rias pÃ¡ginas.  
+- **`/js`**: Scripts JavaScript utilizados na aplicaÃ§Ã£o.  
+- **`/logs`**: Registro de logs para auditoria ou depuraÃ§Ã£o do sistema.  
+- **`/modules`**: MÃ³dulos especÃ­ficos de funcionalidade, como controle de kits ou colaboradores.  
+- **`/templates`**: Modelos de pÃ¡ginas e componentes visuais para estruturaÃ§Ã£o do frontend.
+
+### Arquivos
+- **`.gitignore`**: Arquivo configurado para ignorar arquivos temporÃ¡rios, de log ou outros desnecessÃ¡rios ao repositÃ³rio.  
+- **`index.html`**: PÃ¡gina inicial, ponto de entrada principal da aplicaÃ§Ã£o.
+
+---
+
+## Tecnologias Utilizadas
+- **HTML**: Para estruturaÃ§Ã£o das pÃ¡ginas.  
+- **CSS**: Para estilizaÃ§Ã£o e design responsivo.  
+- **JavaScript**: Para interatividade no frontend.  
+- **PHP**: Linguagem backend para gerenciar e processar dados.  
+
+---
+
+## ManutenÃ§Ã£o
+O projeto Ã© constantemente atualizado para:  
+- Corrigir bugs e erros.  
+- Implementar melhorias de interface e usabilidade.  
+- Otimizar o cÃ³digo para melhor performance.  
+- Adicionar novos recursos e funcionalidades.
+
+---
+
+## ContribuiÃ§Ã£o
+Para contribuir com o projeto, siga os seguintes passos:  
+1. FaÃ§a um **fork** do repositÃ³rio.  
+2. Crie uma **branch** para sua feature ou correÃ§Ã£o.  
+3. Realize commit das alteraÃ§Ãµes.  
+4. Envie um **Pull Request** para revisÃ£o e integraÃ§Ã£o.
+
+---
+
+## LicenÃ§a
+Este projeto estÃ¡ sob a licenÃ§a **MIT**, permitindo uso, modificaÃ§Ã£o e distribuiÃ§Ã£o livre.
