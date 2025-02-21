@@ -7,11 +7,8 @@ body {
 }
 
 header {
-    background-color: #007bff;
-    color: #fff;
     width: 100%;
-    padding: 10px 0;
-    text-align: center;
+    background: #008FEA;
 }
 
 nav {
@@ -69,13 +66,9 @@ nav ul li ul.dropdown li a {
     background: white;
 }
 
-.card-box {
-    max-width: 840px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+nav ul li ul.dropdown li a:hover {
+    background: #eee;
+    color: #111;
 }
 
 h1 {
@@ -83,12 +76,13 @@ h1 {
     color: #2c3e50;
 }
 
-.caixa-card {
-    background-color: #ecf0f1;
+.card-box {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
     border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .caixa-card h2 {
