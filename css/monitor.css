@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9
+    background-color: #f4f4f9;
     color: #333;
 }
 
@@ -118,11 +118,14 @@ h1 {
 
 /* Estilo dos cartões */
 .card {
-    background-color: #fff;
-    border: 1px solid #0066cc;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 9pt;
+    background: #fff;
+    padding: 7px 15px;
+    gap: 15px;
+    border: 1px solid #003c7e;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
     transition: transform 0.3s ease;
 }
 
@@ -148,14 +151,9 @@ h1 {
 /* Estilo do rodapé */
 footer {
     margin-top: 10px;
-    background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 10px 0px;
     width: 100%;
-    bottom: 0;
-}
-
-footer p {
-    margin: 0;
+    background: #008FEA;
 }
