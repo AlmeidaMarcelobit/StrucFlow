@@ -86,14 +86,10 @@ nav ul li ul.dropdown li a:hover {
 
 /* Footer */
 footer {
-    /*margin-top: 10px;*/
-    /*background-color: #333;*/
-    /*color: #fff;*/
+    margin-top: 10px;
+    color: #fff;
     text-align: center;
     padding: 10px 0px;
     width: 100%;
     background: #008FEA;
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
 }
