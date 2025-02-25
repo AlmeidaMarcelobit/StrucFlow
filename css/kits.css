@@ -135,10 +135,9 @@ h1 {
 
 footer {
     margin-top: 10px;
-    background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 10px 0px;
     width: 100%;
-    bottom: 0;
+    background: #008FEA;
 }
