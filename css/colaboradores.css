@@ -134,6 +134,7 @@ nav ul li ul.dropdown li a:hover {
     width: 100%;
     margin: 20px auto;
     text-align: left;
+    font-size: 14px;
 }
 
 .responsibility-link a {
