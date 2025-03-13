@@ -15,27 +15,7 @@
 </head>
 
 <body>
-<header>
-    <nav class="nav" aria-label="Main navigation">
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="colaboradores.html">Colaboradores</a></li>
-            <li><a href="#">Centro de Custo</a></li>
-            <li><a href="monitoramento-park.html">Monitoramento</a></li>
-            <li><a href="#">HTML Escape</a></li>
-            <li class="drop" aria-haspopup="true" aria-expanded="false">
-                <a href="#">Estoque ▾</a>
-                <ul class="dropdown" aria-label="Submenu">
-                    <li><a href="fone.html">Fones</a></li>
-                    <li><a href="kits.html">Kits</a></li>
-                    <li><a href="monitor.html">Monitor</a></li>
-                    <li><a href="notebook.html">Notebooks</a></li>
-                    <li><a href="suporte.html">Suporte</a></li>
-                </ul>
-            </li>
-        </ul>
-    </nav>
-</header>
+    <?php include '../includes/header.php';  ?>
     <h2 style="text-align:center;margin-top:10px">📋 Inventário de Colaboradores</h2>
     <div class="container">
         <div class="card"><img src="../imagem/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
@@ -1790,7 +1770,8 @@
                 <div class="device">
                     <h4>🖱️Mouse</h4>
                     <p><strong>Patrimônio:</strong>1110</p>
-                    <p><strong>Série:</strong>4491A-MS3121W<p>
+                    <p><strong>Série:</strong>4491A-MS3121W
+                    <p>
                     <p><strong>Modelo:</strong>Dell MS3121WT</p>
                 </div>
                 <div class="device">
@@ -4222,7 +4203,7 @@
                 <div class="device">
                     <h4>⌨️🖱️Teclado e Mouse</h4>
                     <p><strong>Patrimônio:</strong>2017</p>
-                    <p><strong>Teclado  Série:</strong>2347CE267FF8</p>
+                    <p><strong>Teclado Série:</strong>2347CE267FF8</p>
                     <p><strong>Mouse Série:</strong>2344LZXBR4Q8</p>
                     <p><strong>Modelo:</strong>Logitech H390</p>
                 </div>
@@ -11346,17 +11327,17 @@
                     <p><strong>Modelo:</strong> Dell Vostro 3520</p>
                 </div>
             </div>
-        <h2>Equipamentos Comprometidos</h2>
-                        <div class="devices">
-                        <div class="device">
-                            <h4>📱 Celular</h4>
-                            <p><strong>Patrimônio:</strong> 794</p>
-                            <p><strong>Série:</strong> RX9R90HDAAR</p>
-                            <p><strong>Modelo:</strong> Galaxy A02</p>
-                            <p><strong>IMEI 1:</strong> 354397310709045</p>
-                            <p><strong>IMEI 2:</strong> 354578130709048</p>
-                        </div>
-                    </div>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="devices">
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio:</strong> 794</p>
+                    <p><strong>Série:</strong> RX9R90HDAAR</p>
+                    <p><strong>Modelo:</strong> Galaxy A02</p>
+                    <p><strong>IMEI 1:</strong> 354397310709045</p>
+                    <p><strong>IMEI 2:</strong> 354578130709048</p>
+                </div>
+            </div>
 
             <div class="devices">
                 <div class="responsibility-link">
@@ -11633,9 +11614,9 @@
         </div>
         <!--DiV FINAL-->
     </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+    <footer>
+        <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
+    </footer>
 
 </body>
 
