@@ -90,6 +90,10 @@ h1 {
     color: #34495e;
 }
 
+.caixa-red{
+   border: 1px solid #66187c;
+}
+
 .equipamento-card {
     background-color: #fff;
     border-radius: 8px;
