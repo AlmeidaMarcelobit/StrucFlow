@@ -7,35 +7,14 @@
     <meta name="author" content="Marcelo de Araujo Almeida">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/monitoramento-park.css">
+    <link rel="stylesheet" href="../css/code-escape.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
 </head>
 
 <body>
-    <header>
-        <nav class="nav" aria-label="Main navigation">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="colaboradores.html">Colaboradores</a></li>
-                <li><a href="#">Centro de Custo</a></li>
-                <li><a href="monitoramento-park.html">Monitoramento</a></li>
-                <li><a href="#">HTML Escape</a></li>
-                <li class="drop" aria-haspopup="true" aria-expanded="false">
-                    <a href="#">Estoque ▾</a>
-                    <ul class="dropdown" aria-label="Submenu">
-                        <li><a href="fone.html">Fones</a></li>
-                        <li><a href="kits.html">Kits</a></li>
-                        <li><a href="monitor.html">Monitor</a></li>
-                        <li><a href="notebook.html">Notebooks</a></li>
-                        <li><a href="suporte.html">Suporte</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </nav>
-    </header>
-
+    <?php include '../includes/header.php';  ?>
     <div class="container">
         <div class="box-collaborator">
             <h2>Codigo Colaboradores</h2>
