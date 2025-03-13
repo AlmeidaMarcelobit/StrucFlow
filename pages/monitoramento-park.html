@@ -4,17 +4,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assents/logo/logo-dark.webp">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-16x16.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/monitor.css">
+    <link rel="stylesheet" href="../css/menu-drop.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../scripts/menudrop.js" defer></script>
     <meta name="author" content="Marcelo de Araujo Almeida">
-    <link rel="stylesheet" href="../css/status_sistema.css">
     <title>Lista de Usuários AmorSaúde</title>
 </head>
 
 <body>
-    <header id="cabeca"><img alt="LOGO AMORSAUDE" src="../assents/logo/logo-semfundo.png"> <?php include "../includes/header.html"; ?> </header>
+<header>
+    <nav class="nav" aria-label="Main navigation">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="colaboradores.html">Colaboradores</a></li>
+            <li><a href="#">Centro de Custo</a></li>
+            <li><a href="monitoramento-park.html">Monitoramento</a></li>
+            <li><a href="#">HTML Escape</a></li>
+            <li class="drop" aria-haspopup="true" aria-expanded="false">
+                <a href="#">Estoque ▾</a>
+                <ul class="dropdown" aria-label="Submenu">
+                    <li><a href="estoque/fone.html">Fones</a></li>
+                    <li><a href="estoque/kits.html">Kits</a></li>
+                    <li><a href="estoque/monitor.html">Monitor</a></li>
+                    <li><a href="estoque/notebook.html">Notebooks</a></li>
+                    <li><a href="estoque/suporte.html">Suporte</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+</header>
     <div class="container">
         <div class="header">
             Lista de Usuários AmorSaúde
