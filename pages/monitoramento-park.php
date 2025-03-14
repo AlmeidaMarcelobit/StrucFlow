@@ -17,7 +17,7 @@
 <body>
     <?php include '../includes/header.php';  ?>
     <div class="container">
-        <div class="header">
+        <div class="title">
             Lista de Usuários AmorSaúde
         </div>
         <div class="row header-row">
@@ -48,8 +48,10 @@
             <div class="cell">Alexy Divino</div>
             <div class="cell"></div <div class="cell">
         </div>
-        <div class="cell"></div>
-    </div>
+
+
+
+
     <div class="row">
         <div class="cell">Allan Magrini</div>
         <div class="cell"></div>
