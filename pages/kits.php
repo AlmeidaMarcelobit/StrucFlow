@@ -831,14 +831,26 @@
                 <p><strong>S/N:</strong>2nvMkw3</p>
                 <p><strong>Patrimônio:</strong>076</p>
             </div>
+<!--            <div class="equipamento-card">-->
+<!--                <h3>📱 Celular</h3>-->
+<!--                <p><strong>Modelo:</strong>Galaxy A03</p>-->
+<!--                <p><strong>S/N:</strong>r9xta0bdt8e</p>-->
+<!--                <p><strong>Patrimônio:</strong>539</p>-->
+<!--                <p><strong>IMEI 1:</strong>352081309398729/01</p>-->
+<!--                <p><strong>IMEI 2:</strong>357299759398727/01</p>-->
+<!--            </div>-->
             <div class="equipamento-card">
-                <h3>📱 Celular</h3>
-                <p><strong>Modelo:</strong>Galaxy A03</p>
-                <p><strong>S/N:</strong>r9xta0bdt8e</p>
-                <p><strong>Patrimônio:</strong>539</p>
-                <p><strong>IMEI 1:</strong>352081309398729/01</p>
-                <p><strong>IMEI 2:</strong>357299759398727/01</p>
+                <h3>🎧Teclado</h3>
+                <p><strong>Modelo:</strong>Logitech MK270</p>
+                <p><strong>S/N:</strong>2239CE14CE08</p>
+                <p><strong>Patrimônio:</strong>2011</p>
+            </div>         <div class="equipamento-card">
+                <h3>🎧Mouse</h3>
+                <p><strong>Modelo:</strong>Logitech M185</p>
+                <p><strong>S/N:</strong>2237LZN0JS78</p>
+                <p><strong>Patrimônio:</strong>1249</p>
             </div>
+
             <div class="equipamento-card">
                 <h3>🎧Fone</h3>
                 <p><strong>Modelo:</strong>Jabra HSC016</p>
