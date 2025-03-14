@@ -90,6 +90,24 @@
             <p><strong>S/N:</strong></p>
             <p><strong>Patrimônio:</strong>766</p>
         </div>
+        <div class="device">
+            <h3>📦ID Caixa: 38</h3>
+            <p><strong>Modelo:</strong>Logitech H390</p>
+            <p><strong>S/N:</strong>2331AY02D848</p>
+            <p><strong>Patrimônio:</strong>1020</p>
+        </div>
+        <div class="device">
+            <h3>📦ID Caixa: 39</h3>
+            <p><strong>Modelo:</strong>Logitech H390</p>
+            <p><strong>S/N:</strong>2316gg00ass8</p>
+            <p><strong>Patrimônio:</strong>1020</p>
+        </div>
+        <div class="device">
+            <h3>📦ID Caixa: 39</h3>
+            <p><strong>Modelo:</strong>Logitech H390</p>
+            <p><strong>S/N:</strong></p>
+            <p><strong>Patrimônio:</strong>780</p>
+        </div>
     </div>
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
