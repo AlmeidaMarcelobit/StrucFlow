@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignorar configurações do PHPStorm
 .idea/
 
@@ -38,3 +39,6 @@ modules/tem_colaboradores-off.php
 =======
 modules/Todos EX-Companheiros.html
 >>>>>>> 09e2112 (📦 17.17.1)
+=======
+.idea/workspace.xml
+>>>>>>> 7b15e47 (🔧 20.35.2)
