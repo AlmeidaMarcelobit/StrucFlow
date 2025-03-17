@@ -34,6 +34,7 @@
             <p><strong>Modelo:</strong>Dell Vostro 15 3510</p>
             <p><strong>Serie:</strong>H7LYXP3</p>
             <p><strong>Patrimonio:</strong>025</p>
+            <p><strong>Alocado:</strong>Alexy Divino</p>
         </div>
         <div class="item-device">
             <h3>💻Maquina 05</h3>
