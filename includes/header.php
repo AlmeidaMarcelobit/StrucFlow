@@ -10,7 +10,7 @@
                 <ul class="dropdown" aria-label="Submenu">
                     <li><a href="../pages/celular.php">Celular</a></li>
                     <li><a href="../pages/fone.php">Fones</a></li>
-                    <li><a href="../pages//kits.php">Kits</a></li>
+                    <li><a href="../pages/kits.php">Kits</a></li>
                     <li><a href="../pages/monitor.php">Monitor</a></li>
                     <li><a href="../pages/notebook.php">Notebooks</a></li>
                     <li><a href="../pages/suporte.php">Suporte</a></li>
