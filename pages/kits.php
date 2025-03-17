@@ -989,14 +989,33 @@
 
     <div class="card-box">
         <!--    <img src="" alt="Foto do Colaborador" class="profile-pic">-->
+        <h2>📦ID Caixa: </h2>
         <h3>👤 Driéle Corsi Claro</h3>
         <p><strong>Cargo:</strong>Assistente de Documentação (Gestão de Rede)</p>
         <p><strong>Departamento:</strong>Gestão de Rede</p>
         <p><strong>E-mail:</strong>driele.corsi@amorsaude.com</p>
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong>12006 - Gestão de Rede</p>
-        <p><span class="status ativo">Status:</span>
-        </p>
+        <div class="equipamento-container">
+            <div class="equipamento-card">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio:</strong>223</p>
+                <p><strong>Série:</strong>4JWXXT3</p>
+                <p><strong>Modelo:</strong>Dell Vostro 15 3510</p>
+            </div>
+            <div class="equipamento-card">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>1087</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+            <div class="equipamento-card">
+                <h4>🎧 Equipamento</h4>
+                <p><strong>Patrimônio:</strong> 1077
+                <p><strong>Série:</strong> 24233AYE00NG8 <\p>
+                <p><strong>Modelo:</strong> Logitech H390</p>
+            </div>
+        </div>
     </div>
 
 
