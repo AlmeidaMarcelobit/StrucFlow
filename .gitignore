@@ -29,6 +29,7 @@ composer.lock
 .idea/vcs.xml
 .idea/workspace.xml
 <<<<<<< HEAD
+<<<<<<< HEAD
 ~$stórico de Updates.docx
 >>>>>>> 0e96a17 (12.20.5)
 =======
@@ -44,5 +45,13 @@ modules/Todos EX-Companheiros.html
 .idea/workspace.xml
 >>>>>>> 7b15e47 (🔧 20.35.2)
 =======
+=======
+~$stórico de Updates.docx
+regional_1.php
+rebase_opencommit.bat
+.idea/workspace.xml
+.idea/saudetracker_alpha-v1.iml
+.idea/workspace.xml
+>>>>>>> 26e61ba (🗑️ Remove arquivos e diretórios obsoletos)
 /.idea
 >>>>>>> 6c5497d (🔧 20.35.8)
