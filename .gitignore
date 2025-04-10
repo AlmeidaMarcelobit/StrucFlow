@@ -1,0 +1,18 @@
+# Ignorar configurações do PHPStorm
+.idea/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.swp
+*~
+
+# Ignorar pastas de dependências
+vendor/
+node_modules/
+
+# Composer
+composer.lock
+
+# Arquivos de ambiente
+.env
