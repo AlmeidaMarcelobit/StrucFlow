@@ -1,6 +1,6 @@
 <?php
 $letra = isset($_GET['letra']) ? strtoupper($_GET['letra']) : 'A';  // Se não passar, exibe a letra A
-$arquivo = "colaboradores_{$letra}.json";
+$arquivo = "data/colaboradores_{$letra}.json";
 
 // Verifica se o arquivo existe, se não, exibe uma mensagem
 if (!file_exists($arquivo)) {
