@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Marcelo",
+        "cargo": "Asdad",
+        "departamento": "as",
+        "email": "daasd@dasdasd.com",
+        "cpf": "adad",
+        "centro_custo": "adsadd",
+        "status": "Offline",
+        "notebook": {
+            "patrimonio": "dasd",
+            "serie": "das55554d",
+            "modelo": "dad"
+        },
+        "fone": {
+            "patrimonio": "adsas",
+            "serie": "dasdasd",
+            "modelo": "adasd"
+        },
+        "termo": "http:\/\/localhost:63342\/htdocs\/StrucFlow\/adicionar_colaborador.php?_ijt=g7pjkmsl60gdrpfl22tv41gm2o&_ij_reload=RELOAD_ON_SAVE"
+    },
+    {
+        "nome": "Solange",
+        "cargo": "Teste 2",
+        "departamento": "Teste 2",
+        "email": "criptonio30@gmail.com",
+        "cpf": "45739776864",
+        "centro_custo": "130001 - Marcelo",
+        "status": "Online",
+        "notebook": {
+            "patrimonio": "0912",
+            "serie": "0231",
+            "modelo": "dad"
+        },
+        "fone": {
+            "patrimonio": "09123",
+            "serie": "0139231",
+            "modelo": "Logitech"
+        },
+        "termo": "http:\/\/localhsost:63342\/htdocs\/StrucFlow\/adicionar_colaborador.php?_ijt=g7pjkmsl60gdrpfl22tv41gm2o&_ij_reload=RELOAD_ON_SAVE"
+    }
+]
