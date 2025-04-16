@@ -4,7 +4,7 @@ $letra_inicial = strtoupper(substr($nome, 0, 1));  // Obtém a primeira letra do
 
 // Verifica se a letra inicial está entre A e Z
 if (preg_match("/^[A-Z]$/", $letra_inicial)) {
-    $arquivo = "colaboradores_{$letra_inicial}.json";
+    $arquivo = "data/colaboradores_{$letra_inicial}.json";
 } else {
     echo "Nome inválido ou fora do padrão. Apenas letras A-Z são permitidas.";
     exit;
