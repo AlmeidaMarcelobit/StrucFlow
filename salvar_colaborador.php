@@ -1,39 +1,73 @@
 <?php
 $arquivo = 'colaboradores.json';
 
-// Se o arquivo ainda não existe, cria um array vazio
 if (!file_exists($arquivo)) {
     file_put_contents($arquivo, json_encode([]));
 }
 
-// Lê os dados já existentes
 $dados = json_decode(file_get_contents($arquivo), true);
 
-// Novo colaborador vindo do formulário
+function campo($nome) {
+    return isset($_POST[$nome]) ? trim($_POST[$nome]) : '';
+}
+
 $novo = [
-    'nome' => $_POST['nome'],
-    'cargo' => $_POST['cargo'],
-    'departamento' => $_POST['departamento'],
-    'email' => $_POST['email'],
-    'cpf' => $_POST['cpf'],
-    'centro_custo' => $_POST['centro_custo'],
-    'status' => $_POST['status'],
+    'nome' => campo('nome'),
+    'cargo' => campo('cargo'),
+    'departamento' => campo('departamento'),
+    'email' => campo('email'),
+    'cpf' => campo('cpf'),
+    'centro_custo' => campo('centro_custo'),
+    'status' => campo('status'),
+
     'notebook' => [
-        'patrimonio' => $_POST['notebook_patrimonio'],
-        'serie' => $_POST['notebook_serie'],
-        'modelo' => $_POST['notebook_modelo']
+        'patrimonio' => campo('notebook_patrimonio'),
+        'serie' => campo('notebook_serie'),
+        'modelo' => campo('notebook_modelo')
+    ],
+    'teclado_mouse' => [
+        'patrimonio' => campo('teclado_mouse_patrimonio'),
+        'serie' => campo('teclado_mouse_serie'),
+        'modelo' => campo('teclado_mouse_modelo')
     ],
     'fone' => [
-        'patrimonio' => $_POST['fone_patrimonio'],
-        'serie' => $_POST['fone_serie'],
-        'modelo' => $_POST['fone_modelo']
+        'patrimonio' => campo('fone_patrimonio'),
+        'serie' => campo('fone_serie'),
+        'modelo' => campo('fone_modelo')
     ],
-    'termo' => $_POST['termo_responsabilidade']
+    'suporte' => [
+        'patrimonio' => campo('suporte_patrimonio'),
+        'serie' => campo('suporte_serie'),
+        'modelo' => campo('suporte_modelo')
+    ],
+    'monitor' => [
+        'patrimonio' => campo('monitor_patrimonio'),
+        'serie' => campo('monitor_serie'),
+        'modelo' => campo('monitor_modelo')
+    ],
+    'adaptador' => [
+        'patrimonio' => campo('adaptador_patrimonio'),
+        'serie' => campo('adaptador_serie'),
+        'modelo' => campo('adaptador_modelo')
+    ],
+    'equipamento' => [
+        'patrimonio' => campo('equipamento_patrimonio'),
+        'serie' => campo('equipamento_serie'),
+        'modelo' => campo('equipamento_modelo')
+    ],
+    'celular' => [
+        'patrimonio' => campo('celular_patrimonio'),
+        'serie' => campo('celular_serie'),
+        'modelo' => campo('celular_modelo'),
+        'imei1' => campo('celular_imei1'),
+        'imei2' => campo('celular_imei2')
+    ],
+    'alerta' => campo('alerta'),
+    'termo' => campo('termo')
 ];
 
-// Adiciona ao array e salva de novo no arquivo
 $dados[] = $novo;
 file_put_contents($arquivo, json_encode($dados, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-echo "✅ Colaborador salvo! <a href='secao-a.php'>Voltar à lista</a>";
+echo "✅ Colaborador salvo com sucesso! <a href='secao-a.php'>Ver lista</a>";
 ?>
