@@ -1,5 +1,14 @@
 <?php
-$arquivo = 'colaboradores.json';
+$nome = isset($_POST['nome']) ? $_POST['nome'] : '';
+$letra_inicial = strtoupper(substr($nome, 0, 1));  // Obtém a primeira letra do nome (A, B, C, etc.)
+
+// Verifica se a letra inicial está entre A e Z
+if (preg_match("/^[A-Z]$/", $letra_inicial)) {
+    $arquivo = "colaboradores_{$letra_inicial}.json";
+} else {
+    echo "Nome inválido ou fora do padrão. Apenas letras A-Z são permitidas.";
+    exit;
+}
 
 if (!file_exists($arquivo)) {
     file_put_contents($arquivo, json_encode([]));
@@ -19,7 +28,6 @@ $novo = [
     'cpf' => campo('cpf'),
     'centro_custo' => campo('centro_custo'),
     'status' => campo('status'),
-
     'notebook' => [
         'patrimonio' => campo('notebook_patrimonio'),
         'serie' => campo('notebook_serie'),
@@ -69,5 +77,5 @@ $novo = [
 $dados[] = $novo;
 file_put_contents($arquivo, json_encode($dados, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-echo "✅ Colaborador salvo com sucesso! <a href='secao-a.php'>Ver lista</a>";
+echo "✅ Colaborador salvo com sucesso! <a href='secao-a.php?letra={$letra_inicial}'>Ver lista de colaboradores</a>";
 ?>
