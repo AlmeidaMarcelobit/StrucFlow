@@ -1,0 +1,55 @@
+[
+    {
+        "nome": "Marcelo",
+        "cargo": "Gestor",
+        "departamento": "Agende Camp",
+        "email": "criptonio30@gmail.com",
+        "cpf": "457.397.768-64",
+        "centro_custo": "13001 - Dados",
+        "status": "Offline",
+        "notebook": {
+            "patrimonio": "0912",
+            "serie": "0231",
+            "modelo": "Dell Vostro"
+        },
+        "teclado_mouse": {
+            "patrimonio": "",
+            "serie": "",
+            "modelo": ""
+        },
+        "fone": {
+            "patrimonio": "",
+            "serie": "",
+            "modelo": ""
+        },
+        "suporte": {
+            "patrimonio": "31321",
+            "serie": "313113",
+            "modelo": "1313"
+        },
+        "monitor": {
+            "patrimonio": "AAAA",
+            "serie": "AAAA",
+            "modelo": "AAA"
+        },
+        "adaptador": {
+            "patrimonio": "",
+            "serie": "",
+            "modelo": ""
+        },
+        "equipamento": {
+            "patrimonio": "",
+            "serie": "",
+            "modelo": ""
+        },
+        "celular": {
+            "patrimonio": "",
+            "serie": "",
+            "modelo": "",
+            "imei1": "",
+            "imei2": ""
+        },
+        "alerta": "ADasdsadsa",
+        "termo": "https:\/\/accounts.google.com\/info\/sessionexpired?TL=ADBLaQAMlNBv2Yr_dEKh0Rr5brMxGantmBB5UpsJtO48jS3Vm-miTdDAb2AYstdQ&access_type=offline&as=S-753453673%3A1744827288265721&checkConnection=youtube%3A132&checkedDomains=youtube&client_id=205977709770-3d0am349pfuhpv45soo1qt5o6h7cbofk.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAM3zUXUR5uR7oi5GN1dQcgNanHsl_D7dvOkWhFxYhBvaYInpD-HpzHzksPIqDYC_n6FSHtleWsArXTmigeWOby8L4r_vxPK4olgHBRDro4BtkDbqSGgjcFB-7slbfV5Cqf0ATetuP7P0SYKsTQKh_e_1em6qUCoenLfVIb0g2CTdK2Bihgwu9D7GtH45VoHJcpneTGC_E5dJ17FJiEN9NiLTejmYLthRF4gkYWJNJDd_VJw-vnFZj-OyviUNy-2GD93rhDOvHfGzDcwDmYtP4K3M0nxYLPwDyzTo7mG-jRcOIVoTpVPkN-5lnaDm9hRu_BJxj6ikRUuvMlUoBzi7YB3IEDDWSkieNO1fb0g4zAeYB4FfsBIlWFHh4Bik0By6REtrrj81OUtCjHkXVCgWSC9Su6tlxNCXPXTmQRNC1F_h-umVVGNMYS3hSI1XOGDRPpbjSh-iRPMPGGAmyZHLDWzL9nT1g%26flowName%3DGeneralOAuthFlow%26as%3DS-753453673%253A1744827288265721%26client_id%3D205977709770-3d0am349pfuhpv45soo1qt5o6h7cbofk.apps."
+    }
+]
